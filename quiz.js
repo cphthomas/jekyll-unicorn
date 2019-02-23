@@ -275,7 +275,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">Did you like the quiz? Share your results with your friends, so they can give it a shot!</div>')
+    .html('<div id = "social-text">Kunne du lide quizzen? Del resultater med dine venner, så de kan forsøge sig!</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -288,7 +288,7 @@ var $indicators = $('<ol>')
 
   $("<button>")
     .attr('class', 'quiz-button btn')
-    .text("Try again?")
+    .text("Prøv igen?")
     .click(function() {
       state.correct = 0;
       $quiz.carousel(0);

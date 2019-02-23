@@ -353,7 +353,7 @@ function tweet(state, opts) {
 }
 
 function facebook(state, opts) {
-  return "https://www.facebook.com/sharer/sharer.php?u=";
+  return "https://www.facebook.com/sharer/sharer.php?u=" + "https://sad-hodgkin-b08e12.netlify.com/";
 }
 
 

@@ -23,6 +23,7 @@
         "index": 0
       },
       "image": "unicorn.jpg",
+      "image_credit": "Fra nettet",
       "number": 2,
       "prompt": "Unicorns are real?"
     },
@@ -36,6 +37,7 @@
         "index": 1
       },
       "image": "img/img2.jpg",
+      "image_credit": "Fra nettet",
       "number": 3,
       "prompt": "What shade of white is this unicorn?"
     },

@@ -82,10 +82,10 @@ var $indicators = $('<ol>')
 
   $("<button>")
     .attr('class', 'quiz-button btn')
-    .text("Start quiz!")
+    .text("Take the quiz!")
     .click(function() {
-      $quiz.carousel('næste');
-      $indicators.addClass('vis');
+      $quiz.carousel('next');
+      $indicators.addClass('show');
 
     $(".active .quiz-button.btn").each(function(){
       console.log(this.getBoundingClientRect())

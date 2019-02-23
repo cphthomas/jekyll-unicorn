@@ -2,13 +2,27 @@
   "questions": [
     {
       "answers": [
-        "True"
+        "True",
+        "Zombie"
       ],
       "correct": {
         "index": 0
       },
+      "image": "unicorn.jpg",
       "number": 2,
       "prompt": "Unicorns are real?"
+    },
+    {
+      "answers": [
+        "Marshmallow",
+        "Moon Zombie",
+        "Egg shell"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 3,
+      "prompt": "What shade of white is this unicorn?"
     },
     {
       "answers": [
@@ -20,7 +34,7 @@
         "index": 1,
         "text": "// this image will appear along with"
       },
-      "number": 3,
+      "number": 4,
       "prompt": "What shade of white is this unicorn?"
     }
   ],

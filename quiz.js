@@ -273,19 +273,6 @@ var $indicators = $('<ol>')
     .attr("class", "quiz-answers")
     .appendTo($results_slide);
 
-  var $social = $("<div>")
-    .attr('class', 'results-social')
-    .html('<div id = "social-text">Kunne du lide quizzen? Del resultater med dine venner, så de kan forsøge sig!</div>')
-    .appendTo($results_slide);
-
-  var $twitter_link = $('<a>')
-    .html('<span class="social social-twitter follow-tw"></span>')
-    .appendTo($social);
-
-  var $facebook_link = $('<a>')
-    .html('<span class="social social-facebook follow-fb"></span>')
-    .appendTo($social);
-
   $("<button>")
     .attr('class', 'quiz-button btn')
     .text("Prøv igen?")
@@ -313,22 +300,22 @@ function resultsText(state) {
 
   switch (true) {
     case (ratio === 1):
-      text = "Wow&mdash;perfect score!";
+      text = "Wow&mdash;perfect score du hedder herefter hjernen!";
       break;
     case (ratio > 0.9):
-      text = "Awesome job, you got most of them right.";
+      text = "Fantastisk klaret, du fik næsten alle rigtige.";
       break;
     case (ratio > 0.60):
-      text = "Pretty good, we'll say that's a pass.";
+      text = "Rimeligt godt, vi siger det er bestået.";
       break;
     case (ratio > 0.5):
       text = "Well, at least you got half of them right&hellip;";
       break;
     case (ratio < 0.5 && ratio !== 0):
-      text = "Looks like this was a tough one, better luck next time.";
+      text = "Den var hård, bedre held næste gang.";
       break;
     case (ratio === 0):
-      text = "Yikes, none correct. Well, maybe it was rigged?";
+      text = "Uha, ingen korrekte. Prøv igen";
       break;
   }
   return text;

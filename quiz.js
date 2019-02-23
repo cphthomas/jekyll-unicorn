@@ -342,7 +342,7 @@ function tweet(state, opts) {
     "I got " + state.correct +
     " out of " + state.total +
     " on @taxpolicycenter’s \"" + opts.title +
-    "\" quiz. Test your knowledge here: " + opts.url
+    "\" quiz. Test din viden: " + opts.url
   );
 
   return (

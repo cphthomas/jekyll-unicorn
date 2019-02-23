@@ -201,7 +201,7 @@ var $indicators = $('<ol>')
       }
 
       if (last_question) {
-        opts.confirmButtonText = "See your results";
+        opts.confirmButtonText = "Se dine resultater";
       }
 
       // bind click event to answer button,
@@ -219,9 +219,9 @@ var $indicators = $('<ol>')
           if (last_question) {
             $results_title.html(resultsText(state));
             $results_ratio.text(
-              "You got " +
+              "Du besvarede " +
               Math.round(100*(state.correct/state.total)) +
-              "% of the questions correct!"
+              "% af spørgmålene korrekt!"
             );
             $twitter_link.attr('href', tweet(state, quiz_opts));
             $facebook_link.attr('href', facebook(state, quiz_opts));

@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Zombie",
+        "Centaur",
+        "Unicorn",
+        "Mermaid"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Skulle v\u00e6re feedback er det statig med???"
+      },
+      "number": 1,
+      "prompt": "Det virker super duper DEploy rettet Which of the \u00e5\u00e6\u00f8 \u00e5\u00e6\u00f8 following is the most real Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its b?"
+    },
+    {
+      "answers": [
+        "True",
+        "Zombie"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Skulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
+      },
+      "number": 2,
+      "prompt": "The Zombie is a mythical creature. Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its body to a horse, with the head of a deer, the feet of an elephant, the tail of a boar, a deep, bellowing voice, and a single black horn, two cubits in length, standing out in the middle of its forehead.\"?"
+    },
+    {
+      "answers": [
+        "The Zombie is a mythical creature. Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its body to a horse, with the head of a deer, the feet of an elephant, the tail of a boar, a deep, bellowing voice, and a single black horn, two cubits in length, standing out in the middle of its forehead.\"",
+        "Moon Zombie",
+        "Egg shell"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Skulle v\u00e6re feedback Skulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
+      },
+      "number": 3,
+      "prompt": "What shade of white is this unicorn Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its b?"
+    },
+    {
+      "answers": [
+        "Marshmallow",
+        "Moon Zombie",
+        "Egg shell"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Skulle v\u00e6re feedback"
+      },
+      "image": "img/img10.jpg",
+      "number": 4,
+      "prompt": "What shade of white is this unicorn?"
+    }
+  ],
+  "title": "Nu kan vi bare skrive l\u00f8s og comitte Deploy Forst\u00e5r du jura kapitel 1?",
+  "url": null
+}

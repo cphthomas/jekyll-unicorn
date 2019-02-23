@@ -12,7 +12,7 @@
         "text": "// this is a reponse text paragraph"
       },
       "number": 1,
-      "prompt": "Which of the following is the most real?"
+      "prompt": "Which of the \u00e5\u00e6\u00f8 \u00e5\u00e6\u00f8 following is the most real?"
     },
     {
       "answers": [
@@ -35,6 +35,7 @@
       "correct": {
         "index": 1
       },
+      "image": "img/img2.jpg",
       "number": 3,
       "prompt": "What shade of white is this unicorn?"
     },
@@ -48,6 +49,7 @@
         "index": 1,
         "text": "// this image will appear along with"
       },
+      "image": "img/img10.jpg",
       "number": 4,
       "prompt": "What shade of white is this unicorn?"
     }

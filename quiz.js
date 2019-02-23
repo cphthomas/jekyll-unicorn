@@ -345,16 +345,16 @@ function tweet(state, opts) {
     "\" quiz. Test your knowledge here: " + opts.url
   );
 
-  // return (
-  //   "http://twitter.com/intent/tweet?text=" +
-  //   encodeURIComponent(body)
-  // );
+  return (
+    "http://twitter.com/intent/tweet?text=" +
+    encodeURIComponent(body)
+  );
 
 }
 
-// function facebook(state, opts) {
-//   return "https://www.facebook.com/sharer/sharer.php?u=" + opts.url;
-// }
+function facebook(state, opts) {
+  return "https://www.facebook.com/sharer/sharer.php?u=" + opts.url;
+}
 
 
 })(jQuery);

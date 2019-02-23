@@ -5,11 +5,11 @@
         "33 percent",
         "25 percent",
         "10 percent",
-        "Trump has proposed eliminating the individual income tax"
+        "Trump har foresl\u00e5et eliminating the individual income tax"
       ],
       "correct": {
         "index": 0,
-        "text": "<a target=\"_blank\" href = \"http://www.taxpolicycenter.org/taxvox/we-are-learning-less-about-trumps-tax-plan-not-more\">Trump&#8217;s tax plan</a> would collapse the current seven brackets, which range from 10 percent to 39.6 percent, into three brackets: 12, 25, and 33 percent. Trump would use the same tax brackets as outlined in <a target=\"_blank\" href = \"http://www.taxpolicycenter.org/taxvox/ryan-proposes-big-tax-cuts-business-and-investors-moves-towards-cash-flow-tax\">Speaker Ryan and the House Republican&#8217;s tax proposal</a>."
+        "text": "<a target=\"_blank\" href = \"https://www.tepedu.dk\">Trump&#8217;s tax plan</a> would collapse the current seven brackets, which range from 10 percent to 39.6 percent, into three brackets: 12, 25, and 33 percent. Trump would use the same tax brackets as outlined in <a target=\"_blank\" href = \"https://www.tepedu.dk\" >Speaker Ryan and the House Republican&#8217;s tax proposal</a>."
       },
       "image": "img/img1.jpg",
       "number": 1,

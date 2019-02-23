@@ -185,10 +185,10 @@ var $indicators = $('<ol>')
         });
       } else {
         opts = $.extend(opts, {
-          title: "Drat",
+          title: "Æv",
           text: (
-            "Nope, not quite right!<br/><br/>" +
-            "The correct answer was \"" +
+            "Det er desværre ikke rigtigt!<br/><br/>" +
+            "Det korrekte svar er \"" +
             question.answers[question.correct.index] + "\"." + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +

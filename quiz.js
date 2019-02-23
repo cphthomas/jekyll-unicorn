@@ -278,13 +278,13 @@ var $indicators = $('<ol>')
     .html('<div id = "social-text">Kunne du lide quizzen? Del resultater med dine venner, så de kan forsøge sig!</div>')
     .appendTo($results_slide);
 
-  // var $twitter_link = $('<a>')
-  //   .html('<span class="social social-twitter follow-tw"></span>')
-  //   .appendTo($social);
+  var $twitter_link = $('<a>')
+    .html('<span class="social social-twitter follow-tw"></span>')
+    .appendTo($social);
 
-  // var $facebook_link = $('<a>')
-  //   .html('<span class="social social-facebook follow-fb"></span>')
-  //   .appendTo($social);
+  var $facebook_link = $('<a>')
+    .html('<span class="social social-facebook follow-fb"></span>')
+    .appendTo($social);
 
   $("<button>")
     .attr('class', 'quiz-button btn')

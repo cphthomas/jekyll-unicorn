@@ -2,29 +2,29 @@
   "questions": [
     {
       "answers": [
-        "Zombie",
-        "Centaur",
-        "Unicorn",
-        "Mermaid"
+        "Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet",
+        "Ofte findes",
+        "Ofte findes der ingen lovgivning,",
+        "Ofte findes der ingen lovgivning,"
       ],
       "correct": {
         "index": 2,
-        "text": "Skulle v\u00e6re feedback er det statig med???"
+        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. f\u00f8lgende domme:"
       },
       "number": 1,
-      "prompt": "Det virker super duper DEploy rettet Which of the \u00e5\u00e6\u00f8 \u00e5\u00e6\u00f8 following is the most real Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its b?"
+      "prompt": "Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
     },
     {
       "answers": [
-        "True",
-        "Zombie"
+        "Sandt",
+        "Falsk"
       ],
       "correct": {
         "index": 0,
-        "text": "Skulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
+        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tliulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
       },
       "number": 2,
-      "prompt": "The Zombie is a mythical creature. Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its body to a horse, with the head of a deer, the feet of an elephant, the tail of a boar, a deep, bellowing voice, and a single black horn, two cubits in length, standing out in the middle of its forehead.\"?"
+      "prompt": "TOfte findes der ingen lovgivning?"
     },
     {
       "answers": [
@@ -54,6 +54,6 @@
       "prompt": "What shade of white is this unicorn?"
     }
   ],
-  "title": "Nu kan vi bare skrive l\u00f8s og comitte Deploy Forst\u00e5r du jura kapitel 1?",
+  "title": "Ofte findes der ingen lovgivning?",
   "url": null
 }

@@ -26,7 +26,6 @@
   Skulle være feedback Skulle være feedbackSkulle være feedbackSkulle være feedbackSkulle være feedbackSkulle være feedbackSkulle være feedback
 
 (image) img/img2.jpg
-(image_credit) Fra nettet
 
 4) What shade of white is this unicorn?
   - Marshmallow
@@ -38,7 +37,7 @@ Skulle være feedback
 
   // this image will appear along with
   // the question prompt
-  (image) unicorn.jpg
+  (image) <img style="width:100%;" src="img/img9.jpg" alt="wig" >
 
 
   test feedback???

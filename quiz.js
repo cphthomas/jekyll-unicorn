@@ -273,6 +273,19 @@ var $indicators = $('<ol>')
     .attr("class", "quiz-answers")
     .appendTo($results_slide);
 
+  // var $social = $("<div>")
+  //   .attr('class', 'results-social')
+  //   .html('<div id = "social-text">Kunne du lide quizzen? Del resultater med dine venner, så de kan forsøge sig!</div>')
+  //   .appendTo($results_slide);
+
+  // var $twitter_link = $('<a>')
+  //   .html('<span class="social social-twitter follow-tw"></span>')
+  //   .appendTo($social);
+
+  // var $facebook_link = $('<a>')
+  //   .html('<span class="social social-facebook follow-fb"></span>')
+  //   .appendTo($social);
+
   $("<button>")
     .attr('class', 'quiz-button btn')
     .text("Prøv igen?")
@@ -332,16 +345,16 @@ function tweet(state, opts) {
     "\" quiz. Test your knowledge here: " + opts.url
   );
 
-  return (
-    "http://twitter.com/intent/tweet?text=" +
-    encodeURIComponent(body)
-  );
+  // return (
+  //   "http://twitter.com/intent/tweet?text=" +
+  //   encodeURIComponent(body)
+  // );
 
 }
 
-function facebook(state, opts) {
-  return "https://www.facebook.com/sharer/sharer.php?u=" + opts.url;
-}
+// function facebook(state, opts) {
+//   return "https://www.facebook.com/sharer/sharer.php?u=" + opts.url;
+// }
 
 
 })(jQuery);

@@ -84,8 +84,8 @@ var $indicators = $('<ol>')
     .attr('class', 'quiz-button btn')
     .text("Start quiz!")
     .click(function() {
-      $quiz.carousel('videre');
-      $indicators.addClass('vis');
+      $quiz.carousel('next');
+      $indicators.addClass('show');
 
     $(".active .quiz-button.btn").each(function(){
       console.log(this.getBoundingClientRect())
@@ -165,7 +165,7 @@ var $indicators = $('<ol>')
       var opts = {
         allowOutsideClick : false,
         allowEscapeKey : false,
-        confirmButtonText: "Next Question",
+        confirmButtonText: "Næste spørgsmål",
         html : true,
         confirmButtonColor: "#0096D2"
       };
@@ -174,8 +174,8 @@ var $indicators = $('<ol>')
       // answer dialogue
       if (correct) {
         opts = $.extend(opts, {
-          title: "Nice!",
-          text: "Well done" + (
+          title: "Flot!",
+          text: "Supergodt klaret" + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
               question.correct.text +

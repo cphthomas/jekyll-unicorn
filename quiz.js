@@ -353,7 +353,7 @@ function tweet(state, opts) {
 }
 
 function facebook(state, opts) {
-  return "https://www.facebook.com/sharer/sharer.php?u=" + opts.url;
+  return "https://www.facebook.com/sharer/sharer.php?u=";
 }
 
 

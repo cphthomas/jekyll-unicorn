@@ -9,10 +9,10 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Skulle v\u00e6re feedback"
+        "text": "Skulle v\u00e6re feedback er det statig med???"
       },
       "number": 1,
-      "prompt": "Which of the \u00e5\u00e6\u00f8 \u00e5\u00e6\u00f8 following is the most real Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its b?"
+      "prompt": "Det virker super duper DEploy rettet Which of the \u00e5\u00e6\u00f8 \u00e5\u00e6\u00f8 following is the most real Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its b?"
     },
     {
       "answers": [
@@ -54,6 +54,6 @@
       "prompt": "What shade of white is this unicorn?"
     }
   ],
-  "title": "Forst\u00e5r du jura kapitel 1?",
+  "title": "Nu kan vi bare skrive l\u00f8s og comitte Deploy Forst\u00e5r du jura kapitel 1?",
   "url": null
 }

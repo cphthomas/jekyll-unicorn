@@ -4,15 +4,15 @@
       "answers": [
         "Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet",
         "Ofte findes",
-        "Ofte findes der ingen lovgivning",
-        "Ofte findes der ingen lovgivning"
+        "Ofte findes der ingen lovgivning 1",
+        "Ofte findes der ingen lovgivning 2"
       ],
       "correct": {
         "index": 2,
         "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. f\u00f8lgende domme:"
       },
       "number": 1,
-      "prompt": "<iframe width=\"640\" height=\"564\" src=\"https://player.vimeo.com/video/308785835\" frameborder=\"0\" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
+      "prompt": "Jura sp\u00f8rgsm\u00e5l 1 Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
     },
     {
       "answers": [
@@ -21,39 +21,42 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tliulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback <br> <br>  <img style=\"width:100%;\" src=\"img/img6.jpg\" alt=\"wig\" >"
+        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tliulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
       },
       "number": 2,
-      "prompt": "<img style=\"width:100%;\" src=\"img/img6.jpg\" alt=\"wig\" >Ofte findes der ingen lovgivning?"
+      "prompt": "Jura sp\u00f8rgsm\u00e5l 2?"
     },
     {
       "answers": [
-        "The Zombie is a mythical creature. Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its body to a horse, with the head of a deer, the feet of an elephant, the tail of a boar, a deep, bellowing voice, and a single black horn, two cubits in length, standing out in the middle of its forehead.\"",
-        "Moon Zombie",
-        "Egg shell"
+        "Jura svar bla bla 1",
+        "Jura svar bla bla 2",
+        "Jura svar bla bla 3",
+        "Jura svar bla bla 4",
+        "Jura svar bla bla 5",
+        "Jura svar bla bla 6"
       ],
       "correct": {
-        "index": 1,
+        "index": 0,
         "text": "Skulle v\u00e6re feedback Skulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
       },
       "number": 3,
-      "prompt": "<iframe width=\"640\" height=\"564\" src=\"https://player.vimeo.com/video/308785835\" frameborder=\"0\" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe> What shade of white is this unicorn Strong, wild, and fierce, it was impossible to tame by man. Plinie, the Roman naturalist records it as \"a very ferocious beast, similar in the rest of its b?"
+      "prompt": "Jura sp\u00f8rgsm\u00e5l 3 Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
     },
     {
       "answers": [
-        "Marshmallow",
-        "Moon Zombie",
-        "Egg shell"
+        "Jura svar 1",
+        "Jura svar 2",
+        "Jura svar 3"
       ],
       "correct": {
         "index": 1,
-        "text": "Skulle v\u00e6re feedback"
+        "text": "Feedback"
       },
       "image": "img/img10.jpg",
       "number": 4,
-      "prompt": "What shade of white is this unicorn?"
+      "prompt": "Jura sp\u00f8rgsm\u00e5l 1 Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
     }
   ],
-  "title": "Sp\u00f8rgsm\u00e5l til kapitel 1 i jurabogen",
+  "title": "Jura sp\u00f8rgsm\u00e5l Ofte findes der ingen lovgivning?",
   "url": null
 }

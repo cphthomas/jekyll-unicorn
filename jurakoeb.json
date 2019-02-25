@@ -108,8 +108,7 @@
     {
       "answers": [
         "Skadelidte vil normalt ikke kunne p\u00e5ber\u00e5be sig adgangen til at kr\u00e6ve erstatning sammen med \u00e9n af de almindelige misligholdelsesbef\u00f8jelser.",
-        "Skadelidte vil normalt p\u00e5ber\u00e5be sig adgangen til at kr\u00e6ve erstatning sammen med \u00e9n af de almindelige misligholdelsesbef\u00f8jelser.",
-        "I praksis kan der eksempelvis v\u00e6re mulighed for at kr\u00e6ves et forholdsm\u00e6ssigt afslag men ikke erstatning, hvis der f.eks. ikke kan bevises et \u00f8konomisk tab"
+        "Skadelidte vil normalt p\u00e5ber\u00e5be sig adgangen til at kr\u00e6ve erstatning sammen med \u00e9n af de almindelige misligholdelsesbef\u00f8jelser."
       ],
       "correct": {
         "index": 1
@@ -182,6 +181,17 @@
       },
       "number": 17,
       "prompt": "Hvorn\u00e5r foreligger der fuldst\u00e6ndig vanhjemmel?"
+    },
+    {
+      "answers": [
+        "N\u00e5r det viser det sig, at tredjemand har en begr\u00e6nset ret over genstanden, fx i form af en panteret",
+        "N\u00e5r det viser det sig, at kontraktsparten har en begr\u00e6nset ret over genstanden, fx i form af en panteret"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 18,
+      "prompt": "Hvorn\u00e5r foreligger der partiel vanhjemmel?"
     }
   ],
   "title": "K\u00f8b",

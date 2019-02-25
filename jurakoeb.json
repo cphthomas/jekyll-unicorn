@@ -1,0 +1,189 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Kun, hvis der er n\u00e6rmere aftalt i kontrakten mellem parterne",
+        "Anvendelsen af misligholdelsesbef\u00f8jelser foruds\u00e6tter, at der foreligger kontraktbrud. Hvis det ikke er tilf\u00e6ldet, kan der foreligge erstatningsansvar (standpunktsrisiko). Se eksempelvis U.2009.199 H om uberettiget oph\u00e6velse af en forhandlerkontrakt",
+        "Kun, hvis der i kontrakten er en henvisning til k\u00f8belovens \u00a7 78"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 1,
+      "prompt": "Hvorn\u00e5r kan skadelidte bringe misligholdelsesbef\u00f8jelser i anvendelse?"
+    },
+    {
+      "answers": [
+        "Skadelidte vil normalt kunne p\u00e5ber\u00e5be sig adgangen til at kr\u00e6ve erstatning forudsat, at de kumulative betingelser er opfyldt og en af de almindelige misligholdelsesbef\u00f8jelser",
+        "Afhj\u00e6lpning og omlevering",
+        "H\u00e6ve k\u00f8bet eller et passende afslag"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 2,
+      "prompt": "Hvilke misligholdelsesbef\u00f8jelser kan skadelidte bringe i anvendelse?"
+    },
+    {
+      "answers": [
+        "Naturalopfyldelse (Fastholdelse med evt. omlevering ved genus). Oph\u00e6velse. Afhj\u00e6lpning og Nachfrist (G\u00e6lder efter CISG)",
+        "Naturalopfyldelse (Fastholdelse med evt. omlevering ved genus). Oph\u00e6velse. Afhj\u00e6lpning. Forholdsm\u00e6ssigt afslag",
+        "Naturalopfyldelse (Fastholdelse med evt. omlevering ved genus). Oph\u00e6velse. Afhj\u00e6lpning. Forholdsm\u00e6ssigt afslag og Nachfrist (G\u00e6lder efter CISG)"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "Hvori best\u00e5r de almindelige misligholdelsesbef\u00f8jelser?"
+    },
+    {
+      "answers": [
+        "Nej, ikke efter k\u00f8beloven",
+        "Nej, det f\u00f8lger af princippet om, at aftaler er bindende og skal overholdes. Adgangen til at kr\u00e6ve naturalopfyldelse kan imidlertid bortfalde p\u00e5 grund af umulighed \u2013 speciesgenstanden er g\u00e5et til grunde forud for leveringen eller kunstmaleren, der skulle male et portr\u00e6t afg\u00e5r med d\u00f8den",
+        "Der skal v\u00e6re tale om en species genstanden"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 4,
+      "prompt": "Kr\u00e6ver det s\u00e6rlige betingelser at fordre naturalopfyldelse?"
+    },
+    {
+      "answers": [
+        "Nej, der kan h\u00e6ves selvom misligholdelsen ikke er v\u00e6sentlig",
+        "Ja, at den der vil oph\u00e6ve kontrakten har handlet i god tro",
+        "Ja, dette foruds\u00e6tter v\u00e6sentlig misligholdelse, da det er den mest indgribende misligholdelsesbef\u00f8jelse, der kan bringes i anvendelse"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 5,
+      "prompt": "Kr\u00e6ves der s\u00e6rlige betingelser for at oph\u00e6ve kontrakten?"
+    },
+    {
+      "answers": [
+        "Ja, der skal v\u00e6re tale om en v\u00e6rdiforringende mangel, og der m\u00e5 i udgangspunktet v\u00e6re tale om, at realydelsen lider af en faktisk mangel",
+        "Nej, ikke hvis der er tale om en forbrugeraftale",
+        "Det kommer an p\u00e5, hvad der er blevet aftalt mellem parterne"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 6,
+      "prompt": "Kr\u00e6ve det s\u00e6rlige betingelser at kr\u00e6ve et forholdsm\u00e6ssigt afslag?"
+    },
+    {
+      "answers": [
+        "Ja, det skal enten f\u00f8lge af aftalegrundlaget, s\u00e6dvane, specialitetsgrunds\u00e6tning eller lex specialis (KBL \u00a7 78)",
+        "Nej, der er ingen betingelser tilknyttet afhj\u00e6lpning, jf. k\u00f8belovens \u00a7 78"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 7,
+      "prompt": "Kr\u00e6ves der s\u00e6rlige betingelser for at kr\u00e6ve afhj\u00e6lpning?"
+    },
+    {
+      "answers": [
+        "Misligholdelsesbef\u00f8jelserne er identiske under obligationsrettens almindelige og specielle del",
+        "Naturalopfyldelse, oph\u00e6velse \u2013 forudsat v\u00e6sentlig misligholdelse og forholdsm\u00e6ssigt afslag, hvor realydelsen lider af en faktisk mangel m\u00e5 anses for at henh\u00f8re under obligationsrettens almindelige del. Afhj\u00e6lpning er en specialitetsgrunds\u00e6tning"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 8,
+      "prompt": "Hvilke misligholdelsesbef\u00f8jelser m\u00e5 anses for at v\u00e6re henh\u00f8rende under obligationsrettens almindelige eller specielle del?"
+    },
+    {
+      "answers": [
+        "Det kommer an p\u00e5, hvad der n\u00e6rmere er aftalt i kontrakten",
+        "Skadelidte skal normalt tage konkret stilling til, hvilken almindelig misligholdelsesbef\u00f8jelse, der vil p\u00e5ber\u00e5bes. Skadelidte vil ikke p\u00e5 en samme gang selvsagt kunne fastholde og oph\u00e6ve aftalen"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 9,
+      "prompt": "Hvordan h\u00e6nger de almindelige misligholdelsesbef\u00f8jelser sammen?"
+    },
+    {
+      "answers": [
+        "Skadelidte vil normalt ikke kunne p\u00e5ber\u00e5be sig adgangen til at kr\u00e6ve erstatning sammen med \u00e9n af de almindelige misligholdelsesbef\u00f8jelser.",
+        "Skadelidte vil normalt p\u00e5ber\u00e5be sig adgangen til at kr\u00e6ve erstatning sammen med \u00e9n af de almindelige misligholdelsesbef\u00f8jelser.",
+        "I praksis kan der eksempelvis v\u00e6re mulighed for at kr\u00e6ves et forholdsm\u00e6ssigt afslag men ikke erstatning, hvis der f.eks. ikke kan bevises et \u00f8konomisk tab"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 10,
+      "prompt": "Hvorledes h\u00e6nger erstatningsbef\u00f8jelsen sammen med de almindelige misligholdelsesbef\u00f8jelser?"
+    },
+    {
+      "answers": [
+        "Nej, culpareglen g\u00e6lder kun uden for kontrakt",
+        "Den almindelige erstatningsregel, culpa, er hovedreglen b\u00e5de i og uden for kontraktforhold."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 11,
+      "prompt": "G\u00e6lder den almindelige culparegel b\u00e5de i og uden for kontrakt?"
+    },
+    {
+      "answers": [
+        "Det vil fremg\u00e5 af k\u00f8bsaftalen, hvorn\u00e5r der er sket misligholdelse af aftalen",
+        "Misligholdelse, juridisk betegnelse for ikke-opfyldelse af en aftalepligt. Om en aftale er misligholdt beror p\u00e5 dens indhold og p\u00e5 de regler, fx i K\u00f8beloven"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 12,
+      "prompt": "Hvorn\u00e5r misligholdes en k\u00f8bsaftale?"
+    },
+    {
+      "answers": [
+        "En ydelse lider af en mangel, hvis dens fysiske tilstand, m\u00e6ngde eller kvalitet ikke er som aftalt",
+        "En ydelse lider af en mangel, hvis dens fysiske tilstand ikke er som aftalt."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 14,
+      "prompt": "Hvorn\u00e5r lider en ydelse af en mangel?"
+    },
+    {
+      "answers": [
+        "Det afg\u00f8rende er, om fejlen ligger uden for det acceptable og forventelige.",
+        "Det afg\u00f8rende er, om fejlen ligger uden for det acceptable og ikke forventelige."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 15,
+      "prompt": "Hvorn\u00e5r udg\u00f8re en \"fejl\" en mangel i k\u00f8beretlig forstand?"
+    },
+    {
+      "answers": [
+        "N\u00e5r der er fejl og mangler i lovteksten eller i en dom",
+        "Retsmangler taler man om, n\u00e5r et udefrakommende retskrav hindrer den forudsatte brug af en ydelse."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 16,
+      "prompt": "Hvad er en retsmangel?"
+    },
+    {
+      "answers": [
+        "Fuldst\u00e6ndig vanhjemmel foreligger, hvis det viser sig, at det ikke kan bevises, at genstanden tilh\u00f8rer en anden",
+        "Fuldst\u00e6ndig vanhjemmel foreligger, hvis det viser sig, at genstanden tilh\u00f8rer en anden"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 17,
+      "prompt": "Hvorn\u00e5r foreligger der fuldst\u00e6ndig vanhjemmel?"
+    }
+  ],
+  "title": "K\u00f8b",
+  "url": null
+}

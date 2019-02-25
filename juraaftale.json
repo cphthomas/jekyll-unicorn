@@ -187,6 +187,17 @@
     },
     {
       "answers": [
+        "Subjektiv eller teleologisk fortolkningsm\u00e5de, der indeb\u00e6rer, at man l\u00e6gger stor v\u00e6gt p\u00e5 lovens form\u00e5l, fx ved at studere lovens forarbejder.",
+        "Subjektiv eller teleologisk fortolkningsm\u00e5de, der indeb\u00e6rer, at man l\u00e6gger stor v\u00e6gt p\u00e5 den enkelte dommers subjektive opfattelse af g\u00e6ldende ret i en konkret sag."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 17,
+      "prompt": "Hvad menes der med subjektiv eller teleologisk fortolkningsm\u00e5de?"
+    },
+    {
+      "answers": [
         "Inden for juridisk teori taler man om en analogislutning, n\u00e5r en retsregel anvendes p\u00e5 tilf\u00e6lde, der ud fra en naturlig sproglig forst\u00e5else falder inden for reglens egentlige anvendelsesomr\u00e5de.",
         "Inden for juridisk teori taler man om en analogislutning, n\u00e5r en retsregel anvendes p\u00e5 tilf\u00e6lde, der ikke ud fra en naturlig sproglig forst\u00e5else falder inden for reglens egentlige anvendelsesomr\u00e5de."
       ],

@@ -1,0 +1,205 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Ansvarsgrundlag, kausalitet og ad\u00e6kvans. svigter en af betingelserne, kan der ikke kr\u00e6ves erstatning",
+        "\u00d8konomisk tab, kausalitet og ad\u00e6kvans. svigter en af betingelserne, kan der ikke kr\u00e6ves erstatning",
+        "\u00d8konomisk tab, ansvarsgrundlag, kausalitet og ad\u00e6kvans. svigter en af betingelserne, kan der ikke kr\u00e6ves erstatning",
+        "\u00d8konomisk tab, ansvarsgrundlag og ad\u00e6kvans. svigter en af betingelserne, kan der ikke kr\u00e6ves erstatning"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 1,
+      "prompt": "Hvilke kumulative betingelser skal v\u00e6re opfyldt for at kr\u00e6ve erstatning?"
+    },
+    {
+      "answers": [
+        "Nej, men ansvarsfrihedsgrundene er forskellige",
+        "Nej",
+        "Ja, det ene er lovreguleret, det er ikke det andet"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 2,
+      "prompt": "Er der forskelle mellem erstatningsbetingelserne i kontrakt- og deliktsretten?"
+    },
+    {
+      "answers": [
+        "Ansvarsreguleringsvilk\u00e5r \u2013 Ansvarsfraskrivelses- og ansvarsbegr\u00e6nsningsklausuler",
+        "Force Majeure (jf. dog fx ubetinget objektivt ansvar i k\u00f8belovens \u00a7 59), ansvarsreguleringsvilk\u00e5r, ansvarsfraskrivelses- og ansvarsbegr\u00e6nsningsklausuler \u2013 Disse er er s\u00e5ledes aftalebetinget i mods\u00e6tning til FM",
+        "Kun Force majeure"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 3,
+      "prompt": "Hvilke ansvarsfrihedsgrunde eksisterer der i kontraktretten?"
+    },
+    {
+      "answers": [
+        "Udt\u00f8mmende: Egen skyld, accept af risiko, samtykke, n\u00f8dv\u00e6rge og n\u00f8dret",
+        "Ikke udt\u00f8mmende: Egen skyld, accept af risiko, samtykke, n\u00f8dv\u00e6rge og n\u00f8dret"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 4,
+      "prompt": "Hvilke ansvarsfrihedsgrunde eksisterer der i deliktsretten?"
+    },
+    {
+      "answers": [
+        "Hvis der foreligger en gyldig indg\u00e5et kontrakt, har skadelidte valget mellem den positive eller negative kontraktinteresse",
+        "Hvis der foreligger en gyldig indg\u00e5et kontrakt, kan skadelidte kun v\u00e6lge den positive opfyldelsesinteresse",
+        "Hvis der foreligger en gyldig indg\u00e5et kontrakt, kan skadelidte kun v\u00e6lge den negative kontraktsinteresse"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 5,
+      "prompt": "Hvorledes skal erstatningen beregnes i kontraktretten?"
+    },
+    {
+      "answers": [
+        "At blive stillet \u00f8konomisk, som om kontrakten var blevet opfyldt",
+        "At blive stillet \u00f8konomisk, som om kontrakten ikke var blevet opfyldt"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 6,
+      "prompt": "Hvad betyder den positive opfyldelsesinteresse?"
+    },
+    {
+      "answers": [
+        "Der kan udelukkende kr\u00e6ves erstatning op til den positive opfyldelsesinteresse",
+        "Der kan udelukkende kr\u00e6ves erstatning op til den negative kontraktinteresse",
+        "Hvis aftalen er ugyldig kan der ikke kr\u00e6ves nogen form for erstatning"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 7,
+      "prompt": "Hvis kontrakten anses for ugyldig efter aftalelovens kap. 3 eller efter foruds\u00e6tningsl\u00e6ren, hvilken form for erstatning kan der da kr\u00e6ves?"
+    },
+    {
+      "answers": [
+        "Nej, udgangspunktet er, at skadelidte kan kr\u00e6ve erstatning for det tab, der er lidt",
+        "Ja",
+        "Det kommer an p\u00e5, hvad der n\u00e6rmere er aftalt mellem parterne"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 8,
+      "prompt": "Sondres der mellem den positive opfyldelsesinteresse og negative kontraktinteresse i deliktsretten?"
+    },
+    {
+      "answers": [
+        "Erstatningsretten skal sikre borgernes retsf\u00f8lelse og undg\u00e5 h\u00e6vnmotiver",
+        "Erstatningsretten bygger i retspolitisk henseende p\u00e5 et genopretnings- og forebyggelsessynspunkt"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 9,
+      "prompt": "Hvad er form\u00e5let med erstatningsretten?"
+    },
+    {
+      "answers": [
+        "Culpa, objektivansvar, DL 3-19-2",
+        "Culpa med ligefrem og omvendt bevisbyrde (Pr\u00e6sumptionsansvar) fx KBL \u00a7 23. Betinget og ubetinget objektivt ansvar (fx KBL \u00a7 24 og \u00a7 59), kontrolansvar (CISG art. 79)",
+        "H\u00e6ndelige skader, culpa og objektiv ansvar"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 10,
+      "prompt": "Hvilke typer ansvarsgrundlag eksisterer der i dansk ret?"
+    },
+    {
+      "answers": [
+        "Culpa med omvendt bevisbyrde",
+        "Culpa med ligefrem bevisbyrde"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 11,
+      "prompt": "Hvad er hovedreglen i dansk ret, hvad ang\u00e5r ansvarsgrundlag?"
+    },
+    {
+      "answers": [
+        "At handlingen m\u00e5 anses for uagtsom \u2013 der sondres mellem grov og simpel uagtsomhed",
+        "At handlingen eller evt. undladelsen m\u00e5 anses for fors\u00e6tlig eller uagtsom \u2013 der sondres mellem grov og simpel uagtsomhed"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 12,
+      "prompt": "Hvad d\u00e6kker culpa reglen over (anvendelsesomr\u00e5de)?"
+    },
+    {
+      "answers": [
+        "Er skadevolder underlagt et culpaansvar, er der s\u00e5ledes ansvarsgrundlag, hvis begivenheden m\u00e5 karakteriseres som h\u00e6ndelig",
+        "At skadevolder ogs\u00e5 er ansvarlig for h\u00e6ndelige begivenheder, men ikke for force majeure \u2013 som kan kvalificeres en ekstraordin\u00e6r h\u00e6ndelig begivenhed"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 13,
+      "prompt": "Er der ansvarsgrundlag ved h\u00e6ndelige skader?"
+    },
+    {
+      "answers": [
+        "Ja",
+        "Nej"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 14,
+      "prompt": "H\u00e6fter man for h\u00e6ndelige skader ved et objektivt ansvar?"
+    },
+    {
+      "answers": [
+        "Begivenheden skal v\u00e6re uforudsigelig p\u00e5 kontraktindg\u00e5elsestidspunktet",
+        "To kumulative betingelser skal v\u00e6re opfyldt. Begivenheden skal v\u00e6re uforudsigelig p\u00e5 kontraktindg\u00e5elsestidspunktet. Begivenheden skal v\u00e6re ekstraordin\u00e6r",
+        "Tre kumulative betingelser skal v\u00e6re opfyldt. Begivenheden skal v\u00e6re uforudsigelig p\u00e5 kontraktindg\u00e5elsestidspunktet. Begivenheden skal v\u00e6re ekstraordin\u00e6r, og Der skal foreligge artsumulighed \u2013 Denne betingelse m\u00e5 modificeres for tjenesteydelsesaftaler"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 15,
+      "prompt": "Hvilke betingelser skal v\u00e6re opfyldt for, at der foreligger force majeure?"
+    },
+    {
+      "answers": [
+        "Ad\u00e6kvansbetingelsen",
+        "Kausalitetsbetingelsen",
+        "Det \u00f8konomiske tab",
+        "Det er i udgangspunktet udelukkende ansvarsgrundlaget, der er fastlagt ved lov. Det tages for givet, herunder i en eksamensbesvarelse, at der ogs\u00e5 tages stilling til, om de \u00f8vrige erstatningsbetingelser er opfyldt"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 16,
+      "prompt": "Hvilken af erstatningsbetingelserne er normalt reguleret i den materielle lovgivning?"
+    },
+    {
+      "answers": [
+        "Der findes ingen regler, da det er domstolene der bestemmer udm\u00e5lingen af erstatning ved personskader",
+        "Reglerne findes i erstatningsloven",
+        "Reglerne om udm\u00e5ling af erstatning for personskade st\u00e5r i erstatningsansvarsloven"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 17,
+      "prompt": "Hvor st\u00e5r reglerne om udm\u00e5ling af erstatning ved personskader?"
+    }
+  ],
+  "title": "Erstatningsret",
+  "url": null
+}

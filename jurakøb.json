@@ -1,0 +1,213 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Hvordan man forudser en aftales afslutning",
+        "Fortolkningen vedr\u00f8rer fastl\u00e6ggelsen af kontraktens meningsindhold",
+        "Hvordan man skal indg\u00e5 lovlig aftale"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 1,
+      "prompt": "Hvad forst\u00e5s der ved aftalefortolkning?"
+    },
+    {
+      "answers": [
+        "Hvordan man indarbejder lovteksten i aftalen",
+        "Hvordan parterne indg\u00e5r en supplering til den oprindelige aftale",
+        "Hvis kontrakten ikke fastl\u00e6gger retsvirkningerne for en given situation, s\u00e5ledes at kontrakten er inkomplet, skal kontrakten suppleres med den eller de relevante retskilder for at udlede g\u00e6ldende ret"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 2,
+      "prompt": "Hvad forst\u00e5s der ved udfyldning/aftalesupplering?"
+    },
+    {
+      "answers": [
+        "Det parterne er blevet enige om i deres kontrakt.",
+        "Det, som Folketinget har besluttet",
+        "Det er domstolene, som der fastl\u00e6gger, hvad der er g\u00e6ldende ret"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "Hvad er g\u00e6ldende ret?"
+    },
+    {
+      "answers": [
+        "Nej, det er alene, hvad Justitsministeriet v\u00e6lger at fortolke i en given sag",
+        "Nej, disse er udviklet i retspraksis. Undtaget er aftalelovens \u00a7 38 b, ophavsretslovens \u00a7 53, stk. 3 og CISG art. 7 og 8",
+        "Nej, disse er kun udviklet i retspraksis"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 4,
+      "prompt": "Indeholder dansk ret lovf\u00e6stede regler om kontraktens fortolkning?"
+    },
+    {
+      "answers": [
+        "Nej, ikke n\u00e5r der henses til de lovf\u00e6stede regler",
+        "Ja, n\u00e5r der henses til de lovf\u00e6stede regler",
+        "Nej, ikke n\u00e5r der henses til de ulovf\u00e6stede regler"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 5,
+      "prompt": "Er det muligt p\u00e5 forh\u00e5nd at kvalificere det eller de fortolkningsparadigmer, som en domstol vil l\u00e6gge til grund?"
+    },
+    {
+      "answers": [
+        "Udelukkende efter lovgivningen",
+        "Foreligger der en individuel kontrakt m\u00e5 udgangspunktet v\u00e6re at udfinde parternes f\u00e6lles vilje (subjektiv fortolkning) om muligt",
+        "Man m\u00e5 se n\u00e6rmere p\u00e5 i hvilken kontekst, kontrakten er blevet udarbejdet"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 6,
+      "prompt": "Hvordan fortolkes en individuel kontrakt?"
+    },
+    {
+      "answers": [
+        "Man sammenligner standardkontrakten med en tilsvarende standardkontrakt.",
+        "Man tager udgangspunkt i parternes subjektive med indg\u00e5elsen af standardkontrakten",
+        "Foreligger der en standardkontrakt, herunder adh\u00e6sionskontrakter m\u00e5 udgangspunktet v\u00e6re ordlydsfortolkning (objektiv fortolkning)"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 7,
+      "prompt": "Hvordan fortolker man en standardkontrakt?"
+    },
+    {
+      "answers": [
+        "Nej, der er i strid med grundlovens \u00a7 63",
+        "Nej, det vil v\u00e6re i strid EMRK artikel 6",
+        "Ja, se til illustration heraf U.2004.2894 H"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 8,
+      "prompt": "Kan en domstol anvende flere forskellige fortolkningsparadigmer p\u00e5 den samme kontrakt?"
+    },
+    {
+      "answers": [
+        "Hvis aftalen er uklar, kommer det forbrugeren til skade",
+        "Det medf\u00f8rer aftalens civilretlige ugyldighed",
+        "Fortolkningsprincip, der g\u00e5 ud p\u00e5, at den foreliggende tvivl om forst\u00e5else af et aftalepunkt, skal fortolkes imod den som har affattet vilk\u00e5ret, fordi han eller hun var den n\u00e6rmeste til at undg\u00e5 tvivlen"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 9,
+      "prompt": "Koncipistreglen (Uklarhedsreglen \u2013 in dubio contra stipulatorem), jf. aftalelovens \u00a7 38b betyder?"
+    },
+    {
+      "answers": [
+        "Minimumsregel g\u00e5r ud p\u00e5, at hvis et aftalevilk\u00e5r kan fortolkes p\u00e5 to m\u00e5der, da v\u00e6lges den for l\u00f8ftegiveren mindst byrdefulde m\u00e5de.",
+        "Minimumsregel g\u00e5r ud p\u00e5, at hvis et aftalevilk\u00e5r kan fortolkes p\u00e5 to m\u00e5der, da v\u00e6lges den for l\u00f8ftegiveren mest byrdefulde m\u00e5de."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 10,
+      "prompt": "Hvad g\u00e5r fortolkningsreglen; minimumsregel ud p\u00e5?"
+    },
+    {
+      "answers": [
+        "Hvad parterne finder mest hensigtsm\u00e6ssigt",
+        "Den eller de retskilder, der er relevante for konflikten (faktum, jus, retsvirkning(er)"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 11,
+      "prompt": "Hvad skal der foretages udfyldning med?"
+    },
+    {
+      "answers": [
+        "Lovgivning, retspraksis, s\u00e6dvaner/kutymer, forholdets natur (residual retskilde), retsvidenskabelige litteratur",
+        "Kun lovgivning og retspraksis"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 12,
+      "prompt": "Hvilke retskilder kan l\u00e6gges til grund ved aftalesupplering?"
+    },
+    {
+      "answers": [
+        "Der er ingen sammenh\u00e6ng, hvis lovgivningen ikke har taget stilling til sp\u00f8rgsm\u00e5let, s\u00e5 kan domstolene heller ikke tage stilling i sagen",
+        "Hvor lovgivningen ikke er absolut i sin ordlyd, vil det ofte v\u00e6re relevant at se p\u00e5 om retspraksis giver svar p\u00e5 lovfortolkningsvanskeligheder"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 13,
+      "prompt": "Hvad er sammenh\u00e6ngen mellem lovgivningen og retspraksis?"
+    },
+    {
+      "answers": [
+        "Hvor lovgivningen ikke er udt\u00f8mmende (Husk at v\u00e6re varsom med at slutte mods\u00e6tningsvis) vil retspraksis kunne st\u00e5 alene som retskilde",
+        "Nej, s\u00e5 m\u00e5 problemstillingen henvises til en fornyet behandling i Folketinget, jf. grundlovens \u00a7 3"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 14,
+      "prompt": "Kan retspraksis st\u00e5 alene som retskilde, hvis lovgivningen ikke er udt\u00f8mmende?"
+    },
+    {
+      "answers": [
+        "Ja",
+        "Nej"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 15,
+      "prompt": "Har parterne f.eks. aftalt prima kvalitet og dermed ment 2. kvalitet, er det uden betydning om den objektivt set b\u00f8r fortolkes som 1. kvalitet?"
+    },
+    {
+      "answers": [
+        "objektiv fortolkningsm\u00e5de, der indeb\u00e6rer, at man holder sig til selve lovteksten",
+        "objektiv fortolkningsm\u00e5de, der indeb\u00e6rer, at man holder sig udelukkende til retspraksis p\u00e5 et givent omr\u00e5de"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 16,
+      "prompt": "Objektiv fortolkningsm\u00e5de, indeb\u00e6rer, at man holder sig til selve lovteksten?"
+    },
+    {
+      "answers": [
+        "Subjektiv eller teleologisk fortolkningsm\u00e5de, der indeb\u00e6rer, at man l\u00e6gger stor v\u00e6gt p\u00e5 lovens form\u00e5l, fx ved at studere lovens forarbejder.",
+        "Subjektiv eller teleologisk fortolkningsm\u00e5de, der indeb\u00e6rer, at man l\u00e6gger stor v\u00e6gt p\u00e5 den enkelte dommers subjektive opfattelse af g\u00e6ldende ret i en konkret sag."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 17,
+      "prompt": "Hvad menes der med subjektiv eller teleologisk fortolkningsm\u00e5de?"
+    },
+    {
+      "answers": [
+        "Inden for juridisk teori taler man om en analogislutning, n\u00e5r en retsregel anvendes p\u00e5 tilf\u00e6lde, der ud fra en naturlig sproglig forst\u00e5else falder inden for reglens egentlige anvendelsesomr\u00e5de.",
+        "Inden for juridisk teori taler man om en analogislutning, n\u00e5r en retsregel anvendes p\u00e5 tilf\u00e6lde, der ikke ud fra en naturlig sproglig forst\u00e5else falder inden for reglens egentlige anvendelsesomr\u00e5de."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 18,
+      "prompt": "Hvad er en analogislutning?"
+    }
+  ],
+  "title": "Aftalers fortolkning og udfyldning",
+  "url": null
+}

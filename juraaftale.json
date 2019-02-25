@@ -18,7 +18,9 @@
         "Hvordan parterne indg\u00e5r en supplering til den oprindelige aftale",
         "Hvis kontrakten ikke fastl\u00e6gger retsvirkningerne for en given situation, s\u00e5ledes at kontrakten er inkomplet, skal kontrakten suppleres med den eller de relevante retskilder for at udlede g\u00e6ldende ret"
       ],
-      "correct": {},
+      "correct": {
+        "index": 2
+      },
       "number": 2,
       "prompt": "Hvad forst\u00e5s der ved udfyldning/aftalesupplering?"
     },
@@ -29,11 +31,35 @@
         "Det er domstolene, som der fastl\u00e6gger, hvad der er g\u00e6ldende ret"
       ],
       "correct": {
-        "index": 2,
-        "text": "4) Indeholder dansk ret lovf\u00e6stede regler om kontraktens fortolkning?"
+        "index": 2
       },
       "number": 3,
       "prompt": "Hvad er g\u00e6ldende ret?"
+    },
+    {
+      "answers": [
+        "Nej, det er alene, hvad Justitsministeriet v\u00e6lger at fortolke i en given sag",
+        "Nej, disse er udviklet i retspraksis. Undtaget er aftalelovens \u00a7 38 b, ophavsretslovens \u00a7 53, stk. 3 og CISG art. 7 og 8",
+        "Nej, disse er kun udviklet i retspraksis"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 4,
+      "prompt": "Indeholder dansk ret lovf\u00e6stede regler om kontraktens fortolkning?"
+    },
+    {
+      "answers": [
+        "Nej, ikke n\u00e5r der henses til de lovf\u00e6stede regler",
+        "Ja, n\u00e5r der henses til de lovf\u00e6stede regler",
+        "Nej, ikke n\u00e5r der henses til de ulovf\u00e6stede regler"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "6.Hvordan fortolkes en individuel kontrakt?"
+      },
+      "number": 5,
+      "prompt": "Er det muligt p\u00e5 forh\u00e5nd at kvalificere det eller de fortolkningsparadigmer, som en domstol vil l\u00e6gge til grund?"
     }
   ],
   "title": "Aftalers fortolkning og udfyldning",

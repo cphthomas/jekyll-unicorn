@@ -1,0 +1,41 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Hvordan man forudser en aftales afslutning",
+        "Fortolkningen vedr\u00f8rer fastl\u00e6ggelsen af kontraktens meningsindhold",
+        "Hvordan man skal indg\u00e5 lovlig aftale"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 1,
+      "prompt": "Hvad forst\u00e5s der ved aftalefortolkning?"
+    },
+    {
+      "answers": [
+        "Hvordan man indarbejder lovteksten i aftalen",
+        "Hvordan parterne indg\u00e5r en supplering til den oprindelige aftale",
+        "Hvis kontrakten ikke fastl\u00e6gger retsvirkningerne for en given situation, s\u00e5ledes at kontrakten er inkomplet, skal kontrakten suppleres med den eller de relevante retskilder for at udlede g\u00e6ldende ret"
+      ],
+      "correct": {},
+      "number": 2,
+      "prompt": "Hvad forst\u00e5s der ved udfyldning/aftalesupplering?"
+    },
+    {
+      "answers": [
+        "Det parterne er blevet enige om i deres kontrakt.",
+        "Det, som Folketinget har besluttet",
+        "Det er domstolene, som der fastl\u00e6gger, hvad der er g\u00e6ldende ret"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "4) Indeholder dansk ret lovf\u00e6stede regler om kontraktens fortolkning?"
+      },
+      "number": 3,
+      "prompt": "Hvad er g\u00e6ldende ret?"
+    }
+  ],
+  "title": "Aftalers fortolkning og udfyldning",
+  "url": null
+}

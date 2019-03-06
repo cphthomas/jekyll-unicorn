@@ -14,18 +14,6 @@
     },
     {
       "answers": [
-        "N\u00e5r domstolene beslutter det",
-        "Ved accept af tilbuddet"
-      ],
-      "correct": {
-        "index": 1
-      },
-      "image": "jur2.jpg",
-      "number": 2,
-      "prompt": "Hvorn\u00e5r er der indg\u00e5et en juridisk bindende aftale?"
-    },
-    {
-      "answers": [
         "Nej, det f\u00f8lger af Danske Lov",
         "Ja, den skal blot kunne bevises"
       ],

@@ -8,6 +8,7 @@
       "correct": {
         "index": 0
       },
+      "image": "jur1.jpg",
       "number": 1,
       "prompt": "Hvad er definitionen p\u00e5 en aftale?"
     },
@@ -19,6 +20,7 @@
       "correct": {
         "index": 1
       },
+      "image": "jur2.jpg",
       "number": 2,
       "prompt": "Hvorn\u00e5r er der indg\u00e5et en juridisk bindende aftale?"
     },
@@ -30,6 +32,7 @@
       "correct": {
         "index": 1
       },
+      "image": "jur3.jpg",
       "number": 3,
       "prompt": "Er en mundtlig aftale juridisk bindende?"
     },
@@ -41,6 +44,7 @@
       "correct": {
         "index": 0
       },
+      "image": "jur4.jpg",
       "number": 4,
       "prompt": "Hvad kan aftaleparterne forlange af hinanden, n\u00e5r en aftale er juridisk bindende?"
     },

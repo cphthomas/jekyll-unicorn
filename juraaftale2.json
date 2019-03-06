@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "En aftale som etableres ved et tilbud og en accept af tilbuddet",
+        "Der er mange forskellige definitioner afh\u00e6ngig hvilken lov der anvendes"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 1,
+      "prompt": "Hvad er definitionen p\u00e5 en aftale?"
+    },
+    {
+      "answers": [
+        "N\u00e5r domstolene beslutter det",
+        "Ved accept af tilbuddet"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Hvorn\u00e5r er der indg\u00e5et en juridisk bindende aftale?"
+    },
+    {
+      "answers": [
+        "Nej, det f\u00f8lger af Danske Lov",
+        "Ja, den skal blot kunne bevises"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 3,
+      "prompt": "Er en mundtlig aftale juridisk bindende?"
+    },
+    {
+      "answers": [
+        "Opfyldelse af aftalen",
+        "At aftalen er ugyldig"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 4,
+      "prompt": "Hvad kan aftaleparterne forlange af hinanden, n\u00e5r en aftale er juridisk bindende?"
+    },
+    {
+      "answers": [
+        "Parterne skal stilles som om, at aftalen er blevet overholdt (den positive opfyldelsesinteresse), herunder evt. et erstatningskrav ved et dokumenteret \u00f8konomisk tab",
+        "Parterne skal stilles som om aftalen ikke er blevet indg\u00e5et (den negative kontraktsinteresse)"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 5,
+      "prompt": "Hvad kan der ske, hvis den ene part ikke overholder sin del af en juridisk bindende aftale?"
+    },
+    {
+      "answers": [
+        "Der er ingen forskel i realiteten ved domstolene",
+        "Det f\u00f8rste er bindende for l\u00f8ftegiver det andet er em opfordring af en ikke-bindende henvendelse til andre om at give tilbud."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 6,
+      "prompt": "Hvad er forskellen p\u00e5 et bindende tilbud og en opfordring til tilbud?"
+    },
+    {
+      "answers": [
+        "Opfordring til tilbud",
+        "Et bindende tilbud"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 7,
+      "prompt": "Er et tilbud i en udsalgsavis eller et katalog et bindende tilbud eller en opfordring til tilbud?"
+    },
+    {
+      "answers": [
+        "Et bindende tilbud",
+        "Et bindende tilbud, hvis der er en indk\u00f8bsfunktion (indk\u00f8bskurv) p\u00e5 hjemmesiden"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 8,
+      "prompt": "Er et tilbud p\u00e5 en hjemmeside et bindende tilbud eller en opfordring til tilbud?"
+    },
+    {
+      "answers": [
+        "Ja",
+        "Nej"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 9,
+      "prompt": "Er tilbudsgiver/s\u00e6lger bundet af de priser som er angivet p\u00e5 varerne i hans forretning?"
+    },
+    {
+      "answers": [
+        "Altid bundet",
+        "Det kommer an p\u00e5 k\u00f8beren er i god tro eller ond tro hos k\u00f8beren"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 10,
+      "prompt": "Hvorn\u00e5r er s\u00e6lger ikke bundet af sine priser i en butik eller et butiksvindue?"
+    }
+  ],
+  "title": "Aftaleindg\u00e5else",
+  "url": null
+}

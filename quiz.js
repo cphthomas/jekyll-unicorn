@@ -322,7 +322,7 @@ function resultsText(state) {
       text = "Rimeligt godt, vi siger det er bestået.";
       break;
     case (ratio > 0.5):
-      text = "Well, at least you got half of them right&hellip;";
+      text = "OK det kan dog forbedres;";
       break;
     case (ratio < 0.5 && ratio !== 0):
       text = "Den var hård, bedre held næste gang.";

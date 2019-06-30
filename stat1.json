@@ -2,10 +2,10 @@
   "questions": [
     {
       "answers": [
-        "H<sub>0</sub>: &mu; \\\\alpha &Mu; &Theta; &ge; 43 <br>H<sub>1</sub>: &#x3BC; < 43",
-        "<p>H<sub>0</sub>: &mu; = 43 <br>H<sub>1</sub>: &#x3BC;; &ne; 43</p>",
-        "<span>H<sub>0</sub>: &beta; = 43 <br>H<sub>1</sub>: &#956; &ne; 43</span>",
-        "<div>H<sub>0</sub>: &delta; &le; 43 <br>H<sub>1</sub>: &alpha; > 43</div>"
+        "H<sub>0</sub>: &mu; \\\\alpha &Mu; &Theta; &lambda; &ge; 43 <br>H<sub>1</sub>: &#x3BC; < 43 (image) img/stat1.jpg",
+        "H<sub>0</sub>: &mu; = 43 <br>H<sub>1</sub>: &#x3BC; &ne; 43 (image) img/stat1.jpg",
+        "H<sub>0</sub>: &beta; = 43 <br>H<sub>1</sub>: &#956; &ne; 43",
+        "H<sub>0</sub>: &delta; &le; 43 <br>H<sub>1</sub>: &alpha; > 43 <p>I will display &#924;</p>"
       ],
       "correct": {
         "index": 2,

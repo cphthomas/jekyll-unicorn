@@ -24,6 +24,7 @@
       "correct": {
         "index": 2
       },
+      "image": "img/stat2.jpg",
       "number": 2,
       "prompt": "Hvad forst\u00e5s der ved udfyldning/aftalesupplering?"
     },
@@ -36,6 +37,7 @@
       "correct": {
         "index": 2
       },
+      "image": "img/stat3.jpg",
       "number": 3,
       "prompt": "Hvad er g\u00e6ldende ret?"
     },
@@ -48,6 +50,7 @@
       "correct": {
         "index": 1
       },
+      "image": "img/stat4.jpg",
       "number": 4,
       "prompt": "Indeholder dansk ret lovf\u00e6stede regler om kontraktens fortolkning?"
     },
@@ -60,6 +63,7 @@
       "correct": {
         "index": 0
       },
+      "image": "img/stat5.jpg",
       "number": 5,
       "prompt": "Er det muligt p\u00e5 forh\u00e5nd at kvalificere det eller de fortolkningsparadigmer, som en domstol vil l\u00e6gge til grund?"
     },
@@ -72,6 +76,7 @@
       "correct": {
         "index": 1
       },
+      "image": "img/stat6.jpg",
       "number": 6,
       "prompt": "Hvordan fortolkes en individuel kontrakt?"
     },
@@ -84,6 +89,7 @@
       "correct": {
         "index": 2
       },
+      "image": "img/stat7.jpg",
       "number": 7,
       "prompt": "Hvordan fortolker man en standardkontrakt?"
     },
@@ -96,6 +102,7 @@
       "correct": {
         "index": 2
       },
+      "image": "img/stat8.jpg",
       "number": 8,
       "prompt": "Kan en domstol anvende flere forskellige fortolkningsparadigmer p\u00e5 den samme kontrakt?"
     },
@@ -108,6 +115,7 @@
       "correct": {
         "index": 2
       },
+      "image": "img/stat9.jpg",
       "number": 9,
       "prompt": "Koncipistreglen (Uklarhedsreglen \u2013 in dubio contra stipulatorem), jf. aftalelovens \u00a7 38b betyder?"
     },
@@ -119,6 +127,7 @@
       "correct": {
         "index": 0
       },
+      "image": "img/stat10.jpg",
       "number": 10,
       "prompt": "Hvad g\u00e5r fortolkningsreglen; minimumsregel ud p\u00e5?"
     },
@@ -130,6 +139,7 @@
       "correct": {
         "index": 0
       },
+      "image": "img/stat11.jpg",
       "number": 11,
       "prompt": "Hvad skal der foretages udfyldning med?"
     },

@@ -4,8 +4,8 @@
       "answers": [
         "<p>H<sub>0</sub>: &#x3BC; &ge; 43 <br>H<sub>1</sub>: &#x3BC; < 43</p>",
         "<p>H<sub>0</sub>: &mu; = 43 <br>H<sub>1</sub>: &#x3BC;; &ne; 43</p>",
-        "<p>H<sub>0</sub>: &beta; = 43 <br>H<sub>1</sub>: &#956; &ne; 43</p>",
-        "H<sub>0</sub>: &mu; = 43 <br>H<sub>1</sub>: &mu; &ne; 43"
+        "<span>H<sub>0</sub>: &beta; = 43 <br>H<sub>1</sub>: &#956; &ne; 43</span>",
+        "<div>H<sub>0</sub>: &delta; &le; 43 <br>H<sub>1</sub>: &alpha; > 43</div>"
       ],
       "correct": {
         "index": 2,
@@ -13,7 +13,7 @@
       },
       "image": "img/stat1.jpg",
       "number": 1,
-      "prompt": "Jura sp\u00f8rgsm\u00e5l 1 Ofte <p>This text contains  findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I   <br>stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
+      "prompt": "Jura sp\u00f8rgsm\u00e5l 1 Ofte <p>This text contains  findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I  <br>H<sub>0</sub>: &mu; = 43 <br>H<sub>1</sub>: &mu; &ne; 43 <br>stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
     },
     {
       "answers": [

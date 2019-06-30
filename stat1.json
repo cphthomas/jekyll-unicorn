@@ -2,7 +2,7 @@
   "questions": [
     {
       "answers": [
-        "<p>H<sub>0</sub>: &#x3BC; &ge; 43 <br>H<sub>1</sub>: &#x3BC; < 43</p>",
+        "<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\" /><p>H<sub>0</sub>: &#x3BC; &ge; 43 <br>H<sub>1</sub>: &#x3BC; < 43</p>",
         "<p>H<sub>0</sub>: &mu; = 43 <br>H<sub>1</sub>: &#x3BC;; &ne; 43</p>",
         "<span>H<sub>0</sub>: &beta; = 43 <br>H<sub>1</sub>: &#956; &ne; 43</span>",
         "<div>H<sub>0</sub>: &delta; &le; 43 <br>H<sub>1</sub>: &alpha; > 43</div>"

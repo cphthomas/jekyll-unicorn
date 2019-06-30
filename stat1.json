@@ -2,7 +2,7 @@
   "questions": [
     {
       "answers": [
-        "<br><br>H<sub>0</sub>: &mu; &ge; 43 <br>H<sub>0</sub>: &mu; < 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &#x3BC; &ge; 43 <br>H<sub>0</sub>: &#x3BC; < 43 <br><br>",
         "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
         "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
         "<br><br>H<sub>0</sub>: &mu; &le; 43 <br>H<sub>0</sub>: &mu; > 43 <br><br>"
@@ -18,8 +18,8 @@
     {
       "answers": [
         "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
-        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
-        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &#956; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &#x3BC; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
         "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>"
       ],
       "correct": {

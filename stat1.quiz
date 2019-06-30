@@ -1,7 +1,7 @@
 # Hypoteser   
 
  1) Jura spørgsmål 1 Ofte <p>This text contains  findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I  <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at?
-  - <br><br>H<sub>0</sub>: &mu; &ge; 43 <br>H<sub>0</sub>: &mu; < 43 <br><br>
+  - <br><br>H<sub>0</sub>: &#x3BC; &ge; 43 <br>H<sub>0</sub>: &#x3BC; < 43 <br><br>
   - <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>
   * <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>
   - <br><br>H<sub>0</sub>: &mu; &le; 43 <br>H<sub>0</sub>: &mu; > 43 <br><br>
@@ -12,8 +12,8 @@
 
 2) Jura spørgsmål 2 Ofte <p>This text contains  findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I  <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at?
   - <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>
-  - <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>
-  * <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>
+  - <br><br>H<sub>0</sub>: &#956; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>
+  * <br><br>H<sub>0</sub>: &#x3BC; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>
   - <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>
 (image) img/stat2.jpg
 

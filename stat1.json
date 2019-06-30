@@ -2,10 +2,10 @@
   "questions": [
     {
       "answers": [
-        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>ingen lovgivning 1",
-        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>ingen lovgivning 1",
-        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>ingen lovgivning 1",
-        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>ingen lovgivning 1"
+        "<br><br>H<sub>0</sub>: &mu; &ge; 43 <br>H<sub>0</sub>: &mu; < 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &mu; &le; 43 <br>H<sub>0</sub>: &mu; > 43 <br><br>"
       ],
       "correct": {
         "index": 2,
@@ -17,16 +17,18 @@
     },
     {
       "answers": [
-        "Hvordan man indarbejder lovteksten i aftalen",
-        "Hvordan parterne indg\u00e5r en supplering til den oprindelige aftale",
-        "Hvis kontrakten ikke fastl\u00e6gger retsvirkningerne for en given situation, s\u00e5ledes at kontrakten er inkomplet, skal kontrakten suppleres med den eller de relevante retskilder for at udlede g\u00e6ldende ret"
+        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>",
+        "<br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>"
       ],
       "correct": {
-        "index": 2
+        "index": 2,
+        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, <br><br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br><br>som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. f\u00f8lgende domme: <iframe width=\"100%\" height=\"auto\" src=\"https://player.vimeo.com/video/308785835\" frameborder=\"0\" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>"
       },
       "image": "img/stat2.jpg",
       "number": 2,
-      "prompt": "Hvad forst\u00e5s der ved udfyldning/aftalesupplering?"
+      "prompt": "Jura sp\u00f8rgsm\u00e5l 2 Ofte <p>This text contains  findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I  <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
     },
     {
       "answers": [

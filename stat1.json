@@ -11,11 +11,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320000 i populationen, kan overs\u00e6ttes til  <br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br>som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. f\u00f8lgende domme: <iframe width=\"100%\" height=\"auto\" src=\"https://player.vimeo.com/video/308785835\" frameborder=\"0\" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>"
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>"
       },
       "image": "img/stat1.jpg",
       "number": 1,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [

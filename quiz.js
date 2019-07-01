@@ -313,22 +313,22 @@ function resultsText(state) {
 
   switch (true) {
     case (ratio === 1):
-      text = "Wow&mdash;perfect score du hedder herefter hjernen!";
+      text = "Wow&mdash;perfect score du hedder herefter hjernen!<br><IMG SRC=\"https://i.gifer.com/naT.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
       break;
     case (ratio > 0.9):
-      text = "Fantastisk klaret, du fik næsten alle rigtige.";
+      text = "Fantastisk klaret, du fik næsten alle rigtige.<br><IMG SRC=\"https://i.gifer.com/PhG.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.60):
-      text = "Rimeligt godt, vi siger det er bestået.";
+      text = "Rimeligt godt, vi siger det er bestået.<br><IMG SRC=\"https://i.gifer.com/GGmT.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
       break;
     case (ratio > 0.5):
       text = "OK det kan dog forbedres;";
       break;
     case (ratio < 0.5 && ratio !== 0):
-      text = "Den var hård, bedre held næste gang.";
+      text = "Den var hård, bedre held næste gang.<br><br><br><IMG SRC=\"https://i.gifer.com/vXl.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio === 0):
-      text = "Uha, ingen korrekte. Prøv igen";
+      text = "Uha, ingen korrekte. Prøv igen<br><br><br><IMG SRC=\"https://i.gifer.com/4azh.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
   }
   return text;

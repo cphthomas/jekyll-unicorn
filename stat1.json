@@ -11,91 +11,113 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>"
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br> &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/6tj.gif\" width=\"80%\" height=\"80%\" align=\"center\">"
       },
-      "image": "img/stat1.jpg",
+      "image": "img/bean2.gif",
       "number": 1,
       "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
-        "H<sub>0</sub>: &mu; = 43 <br> H<sub>1</sub>: &mu; &ne; 43",
-        "H<sub>0</sub>: &#956; = 43 <br>H<sub>0</sub>: &mu; &ne; 43",
-        "H<sub>0</sub>: &#x3BC; = 43 <br>H<sub>0</sub>: &mu; &ne; 43",
-        "H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43"
+        "=",
+        "&ne;",
+        "&le;",
+        ">",
+        "&ge;",
+        "<"
       ],
       "correct": {
         "index": 2,
-        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, <br><br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br><br>som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. f\u00f8lgende domme: <iframe width=\"100%\" height=\"auto\" src=\"https://player.vimeo.com/video/308785835\" frameborder=\"0\" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>"
+        "text": "FEEDBACK Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jst 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er mindre end eller lig med 320.0000 dvs.<br><br> &mu; &le; 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &le; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 h\u00f8jst: &le;<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 >:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>st\u00f8rre end</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/KjPU.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
-      "image": "img/stat2.jpg",
+      "image": "img/cat.gif",
       "number": 2,
-      "prompt": "Jura sp\u00f8rgsm\u00e5l 2 Ofte <p>This text contains  findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I  <br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br>stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen h\u00f8jst er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
-        "Det parterne er blevet enige om i deres kontrakt.",
-        "Det, som Folketinget har besluttet",
-        "Det er domstolene, som der fastl\u00e6gger, hvad der er g\u00e6ldende ret"
+        "=",
+        "&ne;",
+        "&le;",
+        ">",
+        "&ge;",
+        "<"
       ],
       "correct": {
-        "index": 2
+        "index": 3,
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br> &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
-      "image": "img/stat3.jpg",
+      "image": "img/indy.gif",
       "number": 3,
-      "prompt": "Hvad er g\u00e6ldende ret?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jere end 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
-        "Nej, det er alene, hvad Justitsministeriet v\u00e6lger at fortolke i en given sag",
-        "Nej, disse er udviklet i retspraksis. Undtaget er aftalelovens \u00a7 38 b, ophavsretslovens \u00a7 53, stk. 3 og CISG art. 7 og 8",
-        "Nej, disse er kun udviklet i retspraksis"
+        "=",
+        "&ne;",
+        "&le;",
+        ">",
+        "&ge;",
+        "<"
       ],
       "correct": {
-        "index": 1
+        "index": 0,
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br> &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/stat4.jpg",
       "number": 4,
-      "prompt": "Indeholder dansk ret lovf\u00e6stede regler om kontraktens fortolkning?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
-        "Nej, ikke n\u00e5r der henses til de lovf\u00e6stede regler",
-        "Ja, n\u00e5r der henses til de lovf\u00e6stede regler",
-        "Nej, ikke n\u00e5r der henses til de ulovf\u00e6stede regler"
+        "=",
+        "&ne;",
+        "&le;",
+        ">",
+        "&ge;",
+        "<"
       ],
       "correct": {
-        "index": 0
+        "index": 0,
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br> &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a>"
       },
       "image": "img/stat5.jpg",
       "number": 5,
-      "prompt": "Er det muligt p\u00e5 forh\u00e5nd at kvalificere det eller de fortolkningsparadigmer, som en domstol vil l\u00e6gge til grund?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
-        "Udelukkende efter lovgivningen",
-        "Foreligger der en individuel kontrakt m\u00e5 udgangspunktet v\u00e6re at udfinde parternes f\u00e6lles vilje (subjektiv fortolkning) om muligt",
-        "Man m\u00e5 se n\u00e6rmere p\u00e5 i hvilken kontekst, kontrakten er blevet udarbejdet"
+        "=",
+        "&ne;",
+        "&le;",
+        ">",
+        "&ge;",
+        "<"
       ],
       "correct": {
-        "index": 1
+        "index": 0,
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br> &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen <br><br>https://s.tepedu.dk/hypotesetests-middelvrdi.html</a>"
       },
       "image": "img/stat6.jpg",
       "number": 6,
-      "prompt": "Hvordan fortolkes en individuel kontrakt?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
-        "Man sammenligner standardkontrakten med en tilsvarende standardkontrakt.",
-        "Man tager udgangspunkt i parternes subjektive med indg\u00e5elsen af standardkontrakten",
-        "Foreligger der en standardkontrakt, herunder adh\u00e6sionskontrakter m\u00e5 udgangspunktet v\u00e6re ordlydsfortolkning (objektiv fortolkning)"
+        "=",
+        "&ne;",
+        "&le;",
+        ">",
+        "&ge;",
+        "<"
       ],
       "correct": {
-        "index": 2
+        "index": 0,
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br> &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/76cp.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
-      "image": "img/stat7.jpg",
+      "image": "img/bean.gif",
       "number": 7,
-      "prompt": "Hvordan fortolker man en standardkontrakt?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
@@ -143,7 +165,7 @@
       "correct": {
         "index": 0
       },
-      "image": "img/stat11.jpg",
+      "image": "img/basket.gif",
       "number": 11,
       "prompt": "Hvad skal der foretages udfyldning med?"
     },
@@ -155,6 +177,7 @@
       "correct": {
         "index": 0
       },
+      "image": "img/hand.gif",
       "number": 12,
       "prompt": "Hvilke retskilder kan l\u00e6gges til grund ved aftalesupplering?"
     },
@@ -166,6 +189,7 @@
       "correct": {
         "index": 1
       },
+      "image": "img/stat3.jpg",
       "number": 13,
       "prompt": "Hvad er sammenh\u00e6ngen mellem lovgivningen og retspraksis?"
     },
@@ -177,6 +201,7 @@
       "correct": {
         "index": 0
       },
+      "image": "img/stat2.jpg",
       "number": 14,
       "prompt": "Kan retspraksis st\u00e5 alene som retskilde, hvis lovgivningen ikke er udt\u00f8mmende?"
     },
@@ -188,6 +213,7 @@
       "correct": {
         "index": 0
       },
+      "image": "img/hit.gif",
       "number": 15,
       "prompt": "Har parterne f.eks. aftalt prima kvalitet og dermed ment 2. kvalitet, er det uden betydning om den objektivt set b\u00f8r fortolkes som 1. kvalitet?"
     },
@@ -199,6 +225,7 @@
       "correct": {
         "index": 0
       },
+      "image": "img/stat5.jpg",
       "number": 16,
       "prompt": "Objektiv fortolkningsm\u00e5de, indeb\u00e6rer, at man holder sig til selve lovteksten?"
     },
@@ -210,6 +237,7 @@
       "correct": {
         "index": 0
       },
+      "image": "img/kramer2.gif",
       "number": 17,
       "prompt": "Hvad menes der med subjektiv eller teleologisk fortolkningsm\u00e5de?"
     },

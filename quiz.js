@@ -313,10 +313,16 @@ function resultsText(state) {
 
   switch (true) {
     case (ratio === 1):
-      text = "Wow&mdash;perfect score du hedder herefter hjernen!<br><br><IMG SRC=\"https://i.gifer.com/naT.gif\" width=\"40%\" height=\"40%\" align=\"center\">";
+      text = "Wow&mdash;perfect score, du hedder herefter hjernen!<br><br><IMG SRC=\"https://i.gifer.com/naT.gif\" width=\"40%\" height=\"40%\" align=\"center\">";
       break;
     case (ratio > 0.9):
-      text = "Fantastisk klaret, du fik næsten alle rigtige.<br><br><IMG SRC=\"https://i.gifer.com/PhG.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Fantastisk klaret, du fik næsten alle rigtige :O)<br><br><IMG SRC=\"https://i.gifer.com/EiL.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      break;
+    case (ratio > 0.8):
+      text = "Superduper, rigtig rigtig flot.<br><br><IMG SRC=\"https://i.gifer.com/PhG.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      break;
+    case (ratio > 0.7):
+      text = "Godt klaret :O)<br><br><IMG SRC=\"https://i.gifer.com/6os.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.60):
       text = "Rimeligt godt, vi siger det er bestået.<br><br><IMG SRC=\"https://i.gifer.com/GGmT.gif\" width=\"60%\" height=\"60%\" align=\"center\">";

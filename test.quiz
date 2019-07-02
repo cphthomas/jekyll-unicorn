@@ -1,9 +1,9 @@
 # Test quiz
 
 1) Jura spørgsmål 1 Ofte <p>This text contains <sub>subscript</sub> text.</p> findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I  <br><br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br><br>stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at?
-  - Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet 
+  * Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet 
   - Ofte findes 
-  * Ofte findes der <br><br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br><br>ingen lovgivning 1
+  - Ofte findes der <br><br><br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br><br><br>ingen lovgivning 1
   - Ofte findes der ingen lovgivning 2
 (image) img/img1.jpg
 
@@ -33,8 +33,8 @@
 (image_credit) Fra nettet
 
 4) Jura spørgsmål 1 Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at?
-  - Jura svar 1
-  * Jura svar 2
+  * Jura svar 1
+  - Jura svar 2
   - Jura svar 3
 (image) img/img10.jpg
 
@@ -43,3 +43,15 @@ Feedback
   // this image will appear along with
   // the question prompt
   (image) img7.jpg
+
+5) Jura spørgsmål 1 Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at?
+  * Jura svar 1
+  - Jura svar 2
+  - Jura svar 3
+(image) img/img10.jpg
+
+6) Jura spørgsmål 1 Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at?
+  * Jura svar 1
+  - Jura svar 2
+  - Jura svar 3
+(image) img/img10.jpg

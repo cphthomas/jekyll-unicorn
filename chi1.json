@@ -11,11 +11,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br>\t\t\t\t\t &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br>\t\t\t H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br>\t\t Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br>\t\t\t\t \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t\t<IMG SRC=\"https://i.gifer.com/6tj.gif\" width=\"80%\" height=\"80%\" align=\"center\">"
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br>\t\t\t\t\t &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br>\t\t\t H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br>\t\t Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br>\t\t\t\t Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t\t<IMG SRC=\"https://i.gifer.com/6tj.gif\" width=\"80%\" height=\"80%\" align=\"center\">"
       },
       "image": "img/bean2.gif",
       "number": 1,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000, hvilken af f\u00f8lgende matematiske opratorer, kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
@@ -28,11 +28,11 @@
       ],
       "correct": {
         "index": 2,
-        "text": "FEEDBACK Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jst 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er mindre end eller lig med 320.0000 dvs.<br><br> &mu; &le; 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &le; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 h\u00f8jst: &le;<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 >:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>st\u00f8rre end</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/KjPU.gif\" width=\"80%\" height=\"80%\" align=\"center\">"
+        "text": "FEEDBACK Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jst 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er mindre end eller lig med 320.0000 dvs.<br><br> &mu; &le; 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &le; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 h\u00f8jst: &le;<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 >:<br><br>Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>st\u00f8rre end</b> 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/KjPU.gif\" width=\"80%\" height=\"80%\" align=\"center\">"
       },
       "image": "img/cat.gif",
       "number": 2,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen h\u00f8jst er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen h\u00f8jst er 320.000, hvilken af f\u00f8lgende matematiske operatorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
@@ -45,11 +45,11 @@
       ],
       "correct": {
         "index": 3,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jere end 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er h\u00f8jere end 320.0000 dvs.<br><br> &mu; > 320000<br><br> Bem\u00e6rk vi har ikke lighedstegn i udsagnet, derfor er der tale om alternativ hypotesen.<br><br> H<sub>1</sub>: &mu; > 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 st\u00f8rre end ><br> Vi kan s\u00e5 bagefter udlede nulhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &le;:<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>h\u00f8jst</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2Bq.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jere end 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er h\u00f8jere end 320.0000 dvs.<br><br> &mu; > 320000<br><br> Bem\u00e6rk vi har ikke lighedstegn i udsagnet, derfor er der tale om alternativ hypotesen.<br><br> H<sub>1</sub>: &mu; > 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 st\u00f8rre end ><br> Vi kan s\u00e5 bagefter udlede nulhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &le;:<br><br>Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>h\u00f8jst</b> 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2Bq.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
-      "image": "img/indy.gif",
+      "image": "img/fundog.gif",
       "number": 3,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jere end 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jere end 320.000, hvilken af f\u00f8lgende matematiske operatorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
@@ -62,11 +62,11 @@
       ],
       "correct": {
         "index": 4,
-        "text": "FEEDBACK Mindst er det samme som st\u00f8rre end lig med. Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindst 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er st\u00f8rre end lig med 320.0000 dvs.<br><br> &mu; &ge; 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 &ge; <br> Vi kan s\u00e5 nu finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 mindre end dvs < <br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>mindre end</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "FEEDBACK Mindst er det samme som st\u00f8rre end lig med. Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindst 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er st\u00f8rre end lig med 320.0000 dvs.<br><br> &mu; &ge; 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 &ge; <br> Vi kan s\u00e5 nu finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 mindre end dvs < <br><br>Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>mindre end</b> 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
-      "image": "img/stat4.jpg",
+      "image": "img/dogcat.gif",
       "number": 4,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen mindst er 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen mindst er 320.000, hvilken af f\u00f8lgende matematiske operatorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
@@ -79,11 +79,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er forskellig fra 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er ikke 320.0000 dvs.<br><br> &mu; &ne; 320000<br><br> N\u00e5r vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 forskellig fra dvs. &ne;<br> Vi kan s\u00e5 bagefter finde nulhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 =<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen <b>er</b> 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er forskellig fra 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er ikke 320.0000 dvs.<br><br> &mu; &ne; 320000<br><br> N\u00e5r vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 forskellig fra dvs. &ne;<br> Vi kan s\u00e5 bagefter finde nulhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 =<br><br>Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen <b>er</b> 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
       },
-      "image": "img/stat5.jpg",
+      "image": "img/doggodnight.gif",
       "number": 5,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er forskellig fra 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er forskellig fra 320.000, hvilken af f\u00f8lgende matematiske operatorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
@@ -96,11 +96,11 @@
       ],
       "correct": {
         "index": 5,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindre end 320.000 i populationen, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen < 320.0000 dvs.<br><br> &mu; < 320000<br><br> N\u00e5r vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; < 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 mindre end dvs. < <br> Vi kan s\u00e5 bagefter finde nulhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ge;<br><br> \"Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindst 320.000 i populationen \"<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
+        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindre end 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen < 320.0000 dvs.<br><br> &mu; < 320000<br><br> N\u00e5r vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; < 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 mindre end dvs. < <br> Vi kan s\u00e5 bagefter finde nulhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ge;<br><br>Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindst 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
       },
       "image": "img/stat5.jpg",
       "number": 6,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindre end 320.000 i populationen, hvilken af f\u00f8lgende matematiske opratorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindre end 320.000, hvilken af f\u00f8lgende matematiske operatorer kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
@@ -115,9 +115,9 @@
         "index": 5,
         "text": "FEEDBACK Da signifikanssandsynligheden/p-v\u00e6rdien 8.87% er st\u00f8rre end signifikansniveauet 5%, kan vi ikke forkaste nulhypotesen<br><br> H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Den gennemsnitlige pr\u00e6mieudbetaling er alts\u00e5 mindst 28.000,-<br><br>Bem\u00e6rk konklusionen er niveauf\u00f8lsom, havde vi testet p\u00e5 10% signifikansniveau, havde vi forkastet nulhypotesen, vi havde da konkluderet at den gennemsnitlige pr\u00e6miebetaling er mindre end 28.000,-<br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/76cp.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
-      "image": "img/bean.gif",
+      "image": "img/dogwind.gif",
       "number": 7,
-      "prompt": "Et forsikringsselskab har gennemf\u00f8rt et test vedr. den gennemsnitlige pr\u00e6miebetaling n\u00e5r kunderne har anmeldt skader p\u00e5 deres indboforsikring. Hypoteserne i testet var f\u00f8lgende:<br><br>H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Man har testet p\u00e5 et 5% signifikansniveau og har f\u00e5et en signifikanssandsynlighed p\u00e5 8.87%. Hvilken af f\u00f8lgende ikke tekniske konklusioner er korrekt?"
+      "prompt": "Et forsikringsselskab har gennemf\u00f8rt et test vedr. den gennemsnitlige pr\u00e6miebetaling, n\u00e5r kunderne har anmeldt skader p\u00e5 deres indboforsikring. Hypoteserne i testet var f\u00f8lgende:<br><br>H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Man har testet p\u00e5 et 5% signifikansniveau og har f\u00e5et en signifikanssandsynlighed p\u00e5 8.87%. Hvilken af f\u00f8lgende ikke tekniske konklusioner er korrekt?"
     },
     {
       "answers": [
@@ -147,7 +147,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "FEEDBACK Da signifikanssandsynligheden/p-v\u00e6rdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige pr\u00e6mieudbetaling er alts\u00e5 forskellig fra 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t<IMG SRC=\"https://i.gifer.com/14bE.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "FEEDBACK Da signifikanssandsynligheden/p-v\u00e6rdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige pr\u00e6mieudbetaling er alts\u00e5 forskellig fra 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t<IMG SRC=\"img/cleverdog.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/stat9.jpg",
       "number": 9,
@@ -161,7 +161,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK Vi kan ende med at forkaste nulhypotesen p\u00e5 2 m\u00e5der: hvis pr\u00e6miebetalingen er under 28.000,-, eller hvis pr\u00e6miebetalingen er over 28.000,-.  Vi siger at vi har et test med 2 sidet alternativ hypotese, vi forkaster nulhypotesen hvis stikpr\u00f8vegennemsnittet er signifikant under 28.000,- eller signifikant over 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/76cp.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+        "text": "FEEDBACK Vi kan ende med at forkaste nulhypotesen p\u00e5 2 m\u00e5der: hvis pr\u00e6miebetalingen er under 28.000,-, eller hvis pr\u00e6miebetalingen er over 28.000,-.  Vi siger at vi har et test med 2 sidet alternativ hypotese, vi forkaster nulhypotesen hvis stikpr\u00f8vegennemsnittet er signifikant under 28.000,- eller signifikant over 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"img/catsonbox.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
       "image": "img/stat10.jpg",
       "number": 10,
@@ -177,7 +177,7 @@
         "index": 1,
         "text": "FEEDBACK Vi kan kun ende med at forkaste nulhypotesen p\u00e5 1 m\u00e5de: hvis pr\u00e6miebetalingen er under 28.000,-. Vi siger at vi har et test med ensidet alternativ hypotese nedad, vi forkaster nulhypotesen, hvis stikpr\u00f8vegennemsnittet er signifikant under 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/yH.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
-      "image": "img/basket.gif",
+      "image": "img/cleverdog.gif",
       "number": 11,
       "prompt": "Et forsikringsselskab har gennemf\u00f8rt et test vedr. den gennemsnitlige pr\u00e6miebetaling, n\u00e5r kunderne har anmeldt skader p\u00e5 deres indboforsikring. Hypoteserne i testet var f\u00f8lgende:<br><br>\t\tH<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Hvad kaldes dette test?"
     },

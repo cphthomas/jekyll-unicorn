@@ -1,6 +1,6 @@
 # Hypoteser   
 
- 1) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er 320.000 i populationen, hvilken af følgende matematiske opratorer kan dette udsagn oversættes til?
+ 1) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er 320.000, hvilken af følgende matematiske opratorer, kan dette udsagn oversættes til?
  	* =
  	- &ne;
  	- &le;
@@ -9,11 +9,11 @@
  	- <
 (image) img/bean2.gif
 
-   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er 320.000 i populationen, kan oversættes til:<br>Middelværdien i populationen er lig med 320.0000 dvs.<br><br>					 &mu; = 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br>			 H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er altså lig med =<br>		 Vi kan så bagefter finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &ne;:<br><br>				 "Den gennemsnitlige årlige bruttoindtægt i populationen er <b>ikke</b> 320.000 i populationen "<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>							<IMG SRC="https://i.gifer.com/6tj.gif" width="80%" height="80%" align="center">
+   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er 320.000, kan oversættes til:<br>Middelværdien i populationen er lig med 320.0000 dvs.<br><br>					 &mu; = 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br>			 H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er altså lig med =<br>		 Vi kan så bagefter finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &ne;:<br><br>				 Den gennemsnitlige årlige bruttoindtægt i populationen er <b>ikke</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>							<IMG SRC="https://i.gifer.com/6tj.gif" width="80%" height="80%" align="center">
 
 
 
-2) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen højst er 320.000 i populationen, hvilken af følgende matematiske opratorer kan dette udsagn oversættes til?
+2) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen højst er 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
  	- =
  	- &ne;
  	* &le;
@@ -22,52 +22,52 @@
  	- <
 (image) img/cat.gif
 
-   FEEDBACK Den gennemsnitlige årlige bruttoindtægt i populationen er højst 320.000 i populationen, kan oversættes til:<br>Middelværdien i populationen er mindre end eller lig med 320.0000 dvs.<br><br> &mu; &le; 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &le; 320.000<br><br> Den korrekte matematiske operator er altså højst: &le;<br> Vi kan så bagefter finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså >:<br><br> "Den gennemsnitlige årlige bruttoindtægt i populationen er <b>større end</b> 320.000 i populationen "<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/KjPU.gif" width="80%" height="80%" align="center">
+   FEEDBACK Den gennemsnitlige årlige bruttoindtægt i populationen er højst 320.000, kan oversættes til:<br>Middelværdien i populationen er mindre end eller lig med 320.0000 dvs.<br><br> &mu; &le; 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &le; 320.000<br><br> Den korrekte matematiske operator er altså højst: &le;<br> Vi kan så bagefter finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså >:<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er <b>større end</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/KjPU.gif" width="80%" height="80%" align="center">
   
   
-3) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er højere end 320.000 i populationen, hvilken af følgende matematiske opratorer kan dette udsagn oversættes til?
+3) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er højere end 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
  	- =
  	- &ne;
  	- &le;
  	* >
  	- &ge;
  	- <
-(image) img/indy.gif
+(image) img/fundog.gif
 
-   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er højere end 320.000 i populationen, kan oversættes til:<br>Middelværdien i populationen er højere end 320.0000 dvs.<br><br> &mu; > 320000<br><br> Bemærk vi har ikke lighedstegn i udsagnet, derfor er der tale om alternativ hypotesen.<br><br> H<sub>1</sub>: &mu; > 320.000<br><br> Den korrekte matematiske operator er altså større end ><br> Vi kan så bagefter udlede nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &le;:<br><br> "Den gennemsnitlige årlige bruttoindtægt i populationen er <b>højst</b> 320.000 i populationen "<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
+   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er højere end 320.000, kan oversættes til:<br>Middelværdien i populationen er højere end 320.0000 dvs.<br><br> &mu; > 320000<br><br> Bemærk vi har ikke lighedstegn i udsagnet, derfor er der tale om alternativ hypotesen.<br><br> H<sub>1</sub>: &mu; > 320.000<br><br> Den korrekte matematiske operator er altså større end ><br> Vi kan så bagefter udlede nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &le;:<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er <b>højst</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
 
    
   
 
-4) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen mindst er 320.000 i populationen, hvilken af følgende matematiske opratorer kan dette udsagn oversættes til?
+4) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen mindst er 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
  	- =
  	- &ne;
  	- &le;
  	- >
  	* &ge;
  	- <
-(image) img/stat4.jpg
+(image) img/dogcat.gif
 
-   FEEDBACK Mindst er det samme som større end lig med. Den gennemsnitlige årlige bruttoindtægt i populationen er mindst 320.000 i populationen, kan oversættes til:<br>Middelværdien i populationen er større end lig med 320.0000 dvs.<br><br> &mu; &ge; 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br><br> Den korrekte matematiske operator er altså &ge; <br> Vi kan så nu finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså mindre end dvs < <br><br> "Den gennemsnitlige årlige bruttoindtægt i populationen er <b>mindre end</b> 320.000 i populationen "<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
-
-
+   FEEDBACK Mindst er det samme som større end lig med. Den gennemsnitlige årlige bruttoindtægt i populationen er mindst 320.000, kan oversættes til:<br>Middelværdien i populationen er større end lig med 320.0000 dvs.<br><br> &mu; &ge; 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br><br> Den korrekte matematiske operator er altså &ge; <br> Vi kan så nu finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså mindre end dvs < <br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er <b>mindre end</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
 
 
 
-5) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er forskellig fra 320.000 i populationen, hvilken af følgende matematiske opratorer kan dette udsagn oversættes til?
+
+
+5) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er forskellig fra 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
  	- =
  	* &ne;
  	- &le;
  	- >
  	- &ge;
  	- <
-(image) img/stat5.jpg
+(image) img/doggodnight.gif
 
-   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er forskellig fra 320.000 i populationen, kan oversættes til:<br>Middelværdien i populationen er ikke 320.0000 dvs.<br><br> &mu; &ne; 320000<br><br> Når vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> Den korrekte matematiske operator er altså forskellig fra dvs. &ne;<br> Vi kan så bagefter finde nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså =<br><br> "Den gennemsnitlige årlige bruttoindtægt i populationen <b>er</b> 320.000 i populationen "<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er forskellig fra 320.000, kan oversættes til:<br>Middelværdien i populationen er ikke 320.0000 dvs.<br><br> &mu; &ne; 320000<br><br> Når vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> Den korrekte matematiske operator er altså forskellig fra dvs. &ne;<br> Vi kan så bagefter finde nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså =<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen <b>er</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
   
 
 
-6) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er mindre end 320.000 i populationen, hvilken af følgende matematiske opratorer kan dette udsagn oversættes til?
+6) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er mindre end 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
  	- =
  	- &ne;
  	- &le;
@@ -76,16 +76,16 @@
  	* <
 (image) img/stat5.jpg
 
-   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er mindre end 320.000 i populationen, kan oversættes til:<br>Middelværdien i populationen < 320.0000 dvs.<br><br> &mu; < 320000<br><br> Når vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; < 320.000<br><br> Den korrekte matematiske operator er altså mindre end dvs. < <br> Vi kan så bagefter finde nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &ge;<br><br> "Den gennemsnitlige årlige bruttoindtægt i populationen er mindst 320.000 i populationen "<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er mindre end 320.000, kan oversættes til:<br>Middelværdien i populationen < 320.0000 dvs.<br><br> &mu; < 320000<br><br> Når vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; < 320.000<br><br> Den korrekte matematiske operator er altså mindre end dvs. < <br> Vi kan så bagefter finde nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &ge;<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er mindst 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
 
-7) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Man har testet på et 5% signifikansniveau og har fået en signifikanssandsynlighed på 8.87%. Hvilken af følgende ikke tekniske konklusioner er korrekt?
+7) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Man har testet på et 5% signifikansniveau og har fået en signifikanssandsynlighed på 8.87%. Hvilken af følgende ikke tekniske konklusioner er korrekt?
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling er 28.000,-
  	- Vi konkluderer, den gennemsnitlige præmiebetaling er forskellig fra 28.000,-
  	- Vi konkluderer, den gennemsnitlige præmiebetaling er større end 28.000,-
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling højst er 28.000,-
  	- Vi konkluderer, den gennemsnitlige præmiebetaling er mindre end 28.000,-
  	* Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
-(image) img/bean.gif
+(image) img/dogwind.gif
 
    FEEDBACK Da signifikanssandsynligheden/p-værdien 8.87% er større end signifikansniveauet 5%, kan vi ikke forkaste nulhypotesen<br><br> H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså mindst 28.000,-<br><br>Bemærk konklusionen er niveaufølsom, havde vi testet på 10% signifikansniveau, havde vi forkastet nulhypotesen, vi havde da konkluderet at den gennemsnitlige præmiebetaling er mindre end 28.000,-<br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/76cp.gif" width="60%" height="60%" align="center">
 
@@ -110,7 +110,7 @@
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
 (image) img/stat9.jpg
 
-   FEEDBACK Da signifikanssandsynligheden/p-værdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså forskellig fra 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>						<IMG SRC="https://i.gifer.com/14bE.gif" width="60%" height="60%" align="center">
+   FEEDBACK Da signifikanssandsynligheden/p-værdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså forskellig fra 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>						<IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
 
 10) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Hvad kaldes dette test også?
  	* Test med tosidet alternativ hypotese
@@ -118,13 +118,13 @@
  	- Test med ensidet alternativ hypotese opad
  	(image) img/stat10.jpg
 
-   FEEDBACK Vi kan ende med at forkaste nulhypotesen på 2 måder: hvis præmiebetalingen er under 28.000,-, eller hvis præmiebetalingen er over 28.000,-.  Vi siger at vi har et test med 2 sidet alternativ hypotese, vi forkaster nulhypotesen hvis stikprøvegennemsnittet er signifikant under 28.000,- eller signifikant over 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/76cp.gif" width="40%" height="40%" align="center">
+   FEEDBACK Vi kan ende med at forkaste nulhypotesen på 2 måder: hvis præmiebetalingen er under 28.000,-, eller hvis præmiebetalingen er over 28.000,-.  Vi siger at vi har et test med 2 sidet alternativ hypotese, vi forkaster nulhypotesen hvis stikprøvegennemsnittet er signifikant under 28.000,- eller signifikant over 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>		<IMG SRC="img/catsonbox.gif" width="40%" height="40%" align="center">
 
 11) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Hvad kaldes dette test?
  	- Test med tosidet alternativ hypotese
  	* Test med ensidet alternativ hypotese nedad
  	- Test med ensidet alternativ hypotese opad
- 	(image) img/basket.gif
+ 	(image) img/cleverdog.gif
 
    FEEDBACK Vi kan kun ende med at forkaste nulhypotesen på 1 måde: hvis præmiebetalingen er under 28.000,-. Vi siger at vi har et test med ensidet alternativ hypotese nedad, vi forkaster nulhypotesen, hvis stikprøvegennemsnittet er signifikant under 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/yH.gif" width="40%" height="40%" align="center">
 

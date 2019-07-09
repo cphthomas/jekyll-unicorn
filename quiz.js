@@ -322,10 +322,13 @@ function resultsText(state) {
       text = "Suuuper klaret !!! Mere end 90% rigtige :O)<br><br><IMG SRC=\"img/aceventuradoor.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.85):
-      text = "Rigtig rigtig rigtig flot.<br><br><IMG SRC=\"https://i.gifer.com/PhG.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Rigtig rigtig rigtig flot.<br><br><IMG SRC=\"img/indy.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.8):
-      text = "Rigtig flot.<br><br><IMG SRC=\"https://i.gifer.com/PhG.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Rigtig flot.<br><br><IMG SRC=\"img/cramerhappy.img\" width=\"80%\" height=\"80%\" align=\"center\">";
+      break;
+    case (ratio > 0.75):
+      text = "Rigtig flot.<br><br><IMG SRC=\"img/kramer2.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.7):
       text = "Godt klaret :O)<br><br><IMG SRC=\"https://i.gifer.com/6os.gif\" width=\"80%\" height=\"80%\" align=\"center\">";

@@ -313,7 +313,7 @@ function resultsText(state) {
 
   switch (true) {
     case (ratio === 1):
-      text = "Wow&mdash;perfect score, du hedder herefter hjernen!<br><br><IMG SRC=\"https://i.gifer.com/naT.gif\" width=\"40%\" height=\"40%\" align=\"center\">";
+      text = "Wow&mdash;perfect score, du hedder herefter hjernen!<br><br><IMG SRC=\"img/100correct.gif\" width=\"40%\" height=\"40%\" align=\"center\">";
       break;
     case (ratio > 0.9):
       text = "Fantastisk klaret, du fik næsten alle rigtige :O)<br><br><IMG SRC=\"https://i.gifer.com/EiL.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
@@ -330,7 +330,10 @@ function resultsText(state) {
     case (ratio > 0.5):
       text = "OK det kan dog forbedres.<br><br><IMG SRC=\"https://i.gifer.com/1zFf.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
-    case (ratio < 0.5 && ratio !== 0):
+      case (ratio > 0.4):
+      text = "OK det kan dog forbedres.<br><br><IMG SRC=\"img/25pctcorrect.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      break;
+    case (ratio < 0.4 && ratio !== 0):
       text = "Den var hård, bedre held næste gang.<br><br><IMG SRC=\"https://i.gifer.com/vXl.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
       break;
     case (ratio === 0):

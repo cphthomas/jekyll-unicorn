@@ -331,10 +331,16 @@ function resultsText(state) {
       text = "OK det kan dog forbedres.<br><br><IMG SRC=\"https://i.gifer.com/1zFf.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
       case (ratio > 0.4):
-      text = "OK det kan dog forbedres.<br><br><IMG SRC=\"img/25pctcorrect.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "OK det kan du nok klare bedre :O)<br><br><IMG SRC=\"img/25pctcorrect.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
-    case (ratio < 0.4 && ratio !== 0):
-      text = "Den var hård, bedre held næste gang.<br><br><IMG SRC=\"https://i.gifer.com/vXl.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
+      case (ratio > 0.3):
+      text = "Forsøg gerne igen, så går det nok bedre :O)<br><br><IMG SRC=\"img/hit.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      break;
+      case (ratio > 0.2):
+      text = "Æv altså, prøv igen, så går det meget bedre :O)<br><br><IMG SRC=\"img/johncleese.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      break;
+    case (ratio < 0.1 && ratio !== 0):
+      text = "Den var hård, bedre held næste gang.<br><br><IMG SRC=\"img/tom.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
       break;
     case (ratio === 0):
       text = "Uha, ingen korrekte. Prøv igen<br><br><IMG SRC=\"https://i.gifer.com/7cHr.gif\" width=\"50%\" height=\"50%\" align=\"center\">";

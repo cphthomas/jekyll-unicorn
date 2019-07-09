@@ -343,7 +343,7 @@ function resultsText(state) {
       text = "Den var hård, bedre held næste gang.<br><br><IMG SRC=\"img/tom.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
       break;
     case (ratio === 0):
-      text = "Uha, ingen korrekte. Prøv igen<br><br><IMG SRC=\"https://i.gifer.com/7cHr.gif\" width=\"50%\" height=\"50%\" align=\"center\">";
+      text = "Uha, ingen korrekte. Prøv igen<br><br><IMG SRC=\"img/bean.gif\" width=\"50%\" height=\"50%\" align=\"center\">";
       break;
   }
   return text;

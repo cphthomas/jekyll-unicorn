@@ -177,7 +177,7 @@
         "index": 1,
         "text": "FEEDBACK Vi kan kun ende med at forkaste nulhypotesen p\u00e5 1 m\u00e5de: hvis pr\u00e6miebetalingen er under 28.000,-. Vi siger at vi har et test med ensidet alternativ hypotese nedad, vi forkaster nulhypotesen, hvis stikpr\u00f8vegennemsnittet er signifikant under 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/yH.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
-      "image": "img/cleverdog.gif",
+      "image": "img/dogbear.gif",
       "number": 11,
       "prompt": "Et forsikringsselskab har gennemf\u00f8rt et test vedr. den gennemsnitlige pr\u00e6miebetaling, n\u00e5r kunderne har anmeldt skader p\u00e5 deres indboforsikring. Hypoteserne i testet var f\u00f8lgende:<br><br>\t\tH<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Hvad kaldes dette test?"
     },
@@ -206,7 +206,7 @@
         "index": 0,
         "text": "FEEDBACK Har man fx. sat signifikansniveauet til 5%, vil man i et af 20 tests s\u00e5ledes beg\u00e5 en type 1 fejl. Er det vigtigt at sikre sig mod type 1 fejl, kan man s\u00e5ledes s\u00e6nke signifikansniveauet, 1% signifikansniveau vil s\u00e5ledes sikre at man kun i 1 ud af 100 tests vil forkaste en sand nulhypotese.<br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/Hi4.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
-      "image": "img/stat3.jpg",
+      "image": "img/fundogtv.gif",
       "number": 13,
       "prompt": "Hvad er sandsynligheden for at beg\u00e5 en type 1 fejl i et test?"
     }

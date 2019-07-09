@@ -110,7 +110,7 @@
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
 (image) img/stat9.jpg
 
-   FEEDBACK Da signifikanssandsynligheden/p-værdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså forskellig fra 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>						<IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
+   FEEDBACK Da signifikanssandsynligheden/p-værdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså forskellig fra 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>						<IMG SRC="img/dogbear.gif" width="60%" height="60%" align="center">
 
 10) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Hvad kaldes dette test også?
  	* Test med tosidet alternativ hypotese
@@ -143,7 +143,7 @@
  * Signifikansniveauet
  - Konfidensniveauet
  - teststørrelsen
- (image) img/stat3.jpg
+ (image) img/fundogtv.gif
 
 	FEEDBACK Har man fx. sat signifikansniveauet til 5%, vil man i et af 20 tests således begå en type 1 fejl. Er det vigtigt at sikre sig mod type 1 fejl, kan man således sænke signifikansniveauet, 1% signifikansniveau vil således sikre at man kun i 1 ud af 100 tests vil forkaste en sand nulhypotese.<br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/Hi4.gif" width="40%" height="40%" align="center">
 

@@ -147,7 +147,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "FEEDBACK Da signifikanssandsynligheden/p-v\u00e6rdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige pr\u00e6mieudbetaling er alts\u00e5 forskellig fra 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t<IMG SRC=\"img/cleverdog.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "FEEDBACK Da signifikanssandsynligheden/p-v\u00e6rdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige pr\u00e6mieudbetaling er alts\u00e5 forskellig fra 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t<IMG SRC=\"img/dogbear.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/stat9.jpg",
       "number": 9,
@@ -206,7 +206,7 @@
         "index": 0,
         "text": "FEEDBACK Har man fx. sat signifikansniveauet til 5%, vil man i et af 20 tests s\u00e5ledes beg\u00e5 en type 1 fejl. Er det vigtigt at sikre sig mod type 1 fejl, kan man s\u00e5ledes s\u00e6nke signifikansniveauet, 1% signifikansniveau vil s\u00e5ledes sikre at man kun i 1 ud af 100 tests vil forkaste en sand nulhypotese.<br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/Hi4.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
-      "image": "img/stat3.jpg",
+      "image": "img/fundogtv.gif",
       "number": 13,
       "prompt": "Hvad er sandsynligheden for at beg\u00e5 en type 1 fejl i et test?"
     }

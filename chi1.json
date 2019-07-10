@@ -11,11 +11,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK test test <a href=\"files/Virksomheder.xlsx\" download=\"Virksomheder.xlsx\"> Virksomheder.xlsx</a> Test <a href=\"/files/Virksomheder.xlsx\" download=\"Virksomheder.xlsx\"> Virksomheder.xlsx</a> Her skal feedback v\u00e6re<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t\t<IMG SRC=\"https://i.gifer.com/6tj.gif\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>    <IMG SRC=\"img/catsonbox.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+        "text": "FEEDBACK test test Test <a href=\"/files/Virksomheder.xlsx\" download=\"Virksomheder.xlsx\"> Virksomheder.xlsx</a> Her skal feedback v\u00e6re<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t\t<IMG SRC=\"https://i.gifer.com/6tj.gif\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>    <IMG SRC=\"img/catsonbox.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
       "image": "img/bean2.gif",
       "number": 1,
-      "prompt": "Hvad er 2+2?"
+      "prompt": "Hvad er <br><a href=\"files/Virksomheder.xlsx\" download=\"Virksomheder.xlsx\"> Virksomheder.xlsx</a><br> 2+2?"
     },
     {
       "answers": [

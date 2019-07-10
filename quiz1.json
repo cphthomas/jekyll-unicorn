@@ -9,8 +9,9 @@
       ],
       "correct": {
         "index": 2,
-        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. f\u00f8lgende domme:"
+        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. f\u00f8lgende domme: <iframe width=\"100%\" height=\"auto\" src=\"https://player.vimeo.com/video/308785835\" frameborder=\"0\" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>"
       },
+      "image": "img/img1.jpg",
       "number": 1,
       "prompt": "Jura sp\u00f8rgsm\u00e5l 1 Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
     },
@@ -21,15 +22,16 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tliulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
+        "text": "(image) img/img9.jpg FEEDBACK Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at man er ansvarlig for den \u00f8konomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder ogs\u00e5 culpa- eller skyldreglen. Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optr\u00e5dt culp\u00f8st, overtr\u00e5dt culpareglen, hvis han eller hun har handlet enten fors\u00e6tliulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
       },
+      "image": "img/img5.jpg",
       "number": 2,
       "prompt": "Jura sp\u00f8rgsm\u00e5l 2?"
     },
     {
       "answers": [
         "Jura svar bla bla 1",
-        "Jura svar bla bla 2",
+        "Jura svar bla bla 2 <iframe width=\"100%\" height=\"auto\" src=\"https://player.vimeo.com/video/308785835\" frameborder=\"0\" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>",
         "Jura svar bla bla 3",
         "Jura svar bla bla 4",
         "Jura svar bla bla 5",
@@ -39,6 +41,7 @@
         "index": 0,
         "text": "Skulle v\u00e6re feedback Skulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedbackSkulle v\u00e6re feedback"
       },
+      "image": "img/img9.jpg",
       "number": 3,
       "prompt": "Jura sp\u00f8rgsm\u00e5l 3 Ofte findes der ingen lovgivning, som kan fort\u00e6lle, hvorn\u00e5r man som privatperson er ansvarlig for en skade. I stedet er der ud af mange \u00e5rs domspraksis udledt en erstatningsregel, der kaldes \u201cden almindelige erstatningsregel\u201d. Denne regel fastsl\u00e5r, at?"
     },

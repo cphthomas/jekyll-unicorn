@@ -10,23 +10,6 @@
         "<"
       ],
       "correct": {
-        "index": 0,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er lig med 320.0000 dvs.<br><br>\t\t\t\t\t &mu; = 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br>\t\t\t H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 lig med =<br>\t\t Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ne;:<br><br>\t\t\t\t Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>ikke</b> 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t\t<IMG SRC=\"https://i.gifer.com/6tj.gif\" width=\"80%\" height=\"80%\" align=\"center\">"
-      },
-      "image": "img/bean2.gif",
-      "number": 1,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000, hvilken af f\u00f8lgende matematiske opratorer, kan dette udsagn overs\u00e6ttes til?"
-    },
-    {
-      "answers": [
-        "=",
-        "&ne;",
-        "&le;",
-        ">",
-        "&ge;",
-        "<"
-      ],
-      "correct": {
         "index": 2,
         "text": "FEEDBACK Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er h\u00f8jst 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er mindre end eller lig med 320.0000 dvs.<br><br> &mu; &le; 320000<br><br> N\u00e5r vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &le; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 h\u00f8jst: &le;<br> Vi kan s\u00e5 bagefter finde alternativhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 >:<br><br>Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er <b>st\u00f8rre end</b> 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/KjPU.gif\" width=\"80%\" height=\"80%\" align=\"center\">"
       },

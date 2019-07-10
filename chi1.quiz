@@ -1,6 +1,6 @@
 # Hypoteser   
 
- 1) Test <a href="/files/Virksomheder.xlsx" download="Virksomheder.xlsx"> Virksomheder.xlsx</a> hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er 320.000, hvilken af følgende matematiske opratorer, kan dette udsagn oversættes til?
+ 1) Test hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er 320.000, hvilken af følgende matematiske opratorer, kan dette udsagn oversættes til?
  	* =
  	- &ne;
  	- &le;
@@ -9,7 +9,7 @@
  	- <
 (image) img/bean2.gif
 
-    Test <a href="/files/Virksomheder.xlsx" download="Virksomheder.xlsx"> Virksomheder.xlsx</a> den gennemsnitlige årlige bruttoindtægt i populationen er 320.000, kan oversættes til:<br>Middelværdien i populationen er lig med 320.0000 dvs.<br><br>					 &mu; = 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br>			 H<sub>0</sub>: &mu; = 320.000<br><br> Den korrekte matematiske operator er altså lig med =<br>		 Vi kan så bagefter finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &ne;:<br><br>				 Den gennemsnitlige årlige bruttoindtægt i populationen er <b>ikke</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>							<IMG SRC="https://i.gifer.com/6tj.gif" width="80%" height="80%" align="center">
+    FEEDBACK test test <a href="/files/Virksomheder.xlsx" download="Virksomheder.xlsx"> Virksomheder.xlsx</a> Test <a href="/files/Virksomheder.xlsx" download="Virksomheder.xlsx"> Virksomheder.xlsx</a> Her skal feedback være<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>							<IMG SRC="https://i.gifer.com/6tj.gif" width="80%" height="80%" align="center">
 
 
 

@@ -15,7 +15,7 @@
       },
       "image": "img/bean2.gif",
       "number": 1,
-      "prompt": "Test hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000, hvilken af f\u00f8lgende matematiske opratorer, kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvad er 2+2?"
     },
     {
       "answers": [

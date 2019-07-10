@@ -15,7 +15,7 @@
       },
       "image": "img/bean2.gif",
       "number": 1,
-      "prompt": "Hvad er <br><a href=\"files/Virksomheder.xlsx\" download=\"Virksomheder.xlsx\"> Virksomheder.xlsx</a><br> 2+2?"
+      "prompt": "Hvad er <br><a href=\"files/Virksomheder.xlsx\" download=\"Virksomheder.xlsx\"> Download datas\u00e6ttet Virksomheder.xlsx her</a><br> 2+2?"
     },
     {
       "answers": [

@@ -2,20 +2,20 @@
   "questions": [
     {
       "answers": [
-        "=",
-        "&ne;",
-        "&le;",
-        ">",
-        "&ge;",
-        "<"
+        "3",
+        "5",
+        "7",
+        "11",
+        "15",
+        "21"
       ],
       "correct": {
-        "index": 0,
-        "text": "Svar Her skal feedback v\u00e6re<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t\t<IMG SRC=\"https://i.gifer.com/6tj.gif\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>"
+        "index": 2,
+        "text": "Svar: Her skal feedback v\u00e6re<br><br> <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>\t\t\t\t\t\t\t<IMG SRC=\"img/chiobserveret.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>"
       },
       "image": "img/bean2.gif",
       "number": 1,
-      "prompt": "Hvad er <br><a href=\"files/Virksomheder.xlsx\" download=\"Virksomheder.xlsx\"> Download datas\u00e6ttet Virksomheder.xlsx her</a><br> 2+2?"
+      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv.<br><a href=\"files/Virksomheder.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvor mange uden job har uddannelse: <i>\"Kandidatuddannelser eller l\u00e6ngere\"</i> ?"
     },
     {
       "answers": [

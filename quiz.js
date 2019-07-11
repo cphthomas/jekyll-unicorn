@@ -348,7 +348,7 @@ function resultsText(state) {
       case (ratio > 0.2):
       text = "Æv altså, prøv igen, så går det meget bedre :O)<br><br><IMG SRC=\"img/johncleese.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
-    case (ratio < 0.1 && ratio !== 0):
+    case (ratio < 0.2 && ratio !== 0):
       text = "Den var hård, bedre held næste gang.<br><br><IMG SRC=\"img/tom.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
       break;
     case (ratio === 0):

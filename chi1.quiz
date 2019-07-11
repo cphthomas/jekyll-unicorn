@@ -1,6 +1,6 @@
 # Hypoteser   
 
- 1) Nedenfor er et datasæt omkring helbred, uddannelse osv.<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, hvor mange uden job har uddannelse: <i>"Kandidatuddannelser eller længere"</i> ?
+ 1) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, hvor mange uden job har uddannelse: <p style="font-family:courier;">"Kandidatuddannelser eller længere"</p>?
  	- 3
  	- 5
  	* 7
@@ -9,32 +9,29 @@
  	- 21
 (image) img/bean2.gif
 
-    Svar: Her skal feedback være<br><br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>							<IMG SRC="img/chiobserveret.png" width="100%" height="100%" align="center"><br><br>
+    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>							<IMG SRC="img/chiobserveret.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/6tj.gif" width="80%" height="80%" align="center">
 
 
 
-2) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen højst er 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
- 	- =
- 	- &ne;
- 	* &le;
- 	- >
- 	- &ge;
- 	- <
+2) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, hvordan finder man det forventede antal?
+ 	- <small>(søjlesum+rækkesum)/totalsum</small>
+ 	- <small>søjlesum+rækkesum/totalsum</small>
+ 	- <small>søjlesum/(rækkesum*totalsum)</small>
+ 	* <small>søjlesum*rækkesum/totalsum</small>
 (image) img/cat.gif
 
-   FEEDBACK Den gennemsnitlige årlige bruttoindtægt i populationen er højst 320.000, kan oversættes til:<br>Middelværdien i populationen er mindre end eller lig med 320.0000 dvs.<br><br> &mu; &le; 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &le; 320.000<br><br> Den korrekte matematiske operator er altså højst: &le;<br> Vi kan så bagefter finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså >:<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er <b>større end</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/KjPU.gif" width="80%" height="80%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/KjPU.gif" width="80%" height="80%" align="center">
   
   
-3) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er højere end 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
- 	- =
- 	- &ne;
- 	- &le;
- 	* >
- 	- &ge;
- 	- <
+3) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, er forudsætningerne for testet opfyldt?
+ 	- Nej, da nogle af de observerede værdier er mindre end 5, kan der være problemer med kvaliteten af testet.
+ 	* Nej, da nogle af de forventede værdier er mindre end 5, kan der være problemer med kvaliteten af testet.
+ 	- Nej, da nogle af Chi celle bidragene er mindre end 5, kan der være problemer med kvaliteten af testet.
+ 	- Nej, da signifkanssandsynligheden er mindre end 5%, kan der være problemer med kvaliteten af testet.
+ 	- Nej, da Chiteststørrelsen er større end 5%, kan der være problemer med kvaliteten af testet.
 (image) img/fundog.gif
 
-   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er højere end 320.000, kan oversættes til:<br>Middelværdien i populationen er højere end 320.0000 dvs.<br><br> &mu; > 320000<br><br> Bemærk vi har ikke lighedstegn i udsagnet, derfor er der tale om alternativ hypotesen.<br><br> H<sub>1</sub>: &mu; > 320.000<br><br> Den korrekte matematiske operator er altså større end ><br> Vi kan så bagefter udlede nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &le;:<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er <b>højst</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
+   Svar: Vi skal tjekke de forventede værdier, der er et par stykker der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
 
    
   
@@ -48,7 +45,7 @@
  	- <
 (image) img/dogcat.gif
 
-   FEEDBACK Mindst er det samme som større end lig med. Den gennemsnitlige årlige bruttoindtægt i populationen er mindst 320.000, kan oversættes til:<br>Middelværdien i populationen er større end lig med 320.0000 dvs.<br><br> &mu; &ge; 320000<br><br> Når vi har lighedstegn i udsagnet ved vi det er en nulhypotese.<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br><br> Den korrekte matematiske operator er altså &ge; <br> Vi kan så nu finde alternativhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså mindre end dvs < <br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er <b>mindre end</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
 
 
 

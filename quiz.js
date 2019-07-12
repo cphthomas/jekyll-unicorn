@@ -175,7 +175,9 @@ var $indicators = $('<ol>')
       if (correct) {
         opts = $.extend(opts, {
           title: "Flot!",
-          text: "Supergodt klaret" + (
+          text: 
+            "<IMG SRC=\"img/kramertrue.gif\" width=\"100%\" height=\"100%\" align=\"center\"><br/><br/>" + 
+            "<h3>Supergodt klaret!!!</h3>" + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
               question.correct.text +
@@ -187,7 +189,8 @@ var $indicators = $('<ol>')
         opts = $.extend(opts, {
           title: "Æv",
           text: (
-            "Det er desværre ikke rigtigt!<br/><br/>" +
+            "<IMG SRC=\"img/bean.gif\" width=\"100%\" height=\"100%\" align=\"center\"><br/><br/>" + 
+            "<h3>Det er desværre <b>ikke</b> rigtigt!</h3>" +
             "Det korrekte svar er \"" +
             question.answers[question.correct.index] + "\"." + (
             question.correct.text ?

@@ -42,7 +42,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: Vi skal tjekke de forventede v\u00e6rdier, der er en v\u00e6rdi 4.33, der er mindre end 5, dette b\u00f8r vi skrive en bem\u00e6rkning om, man kan evt. sammenl\u00e6gge kategorier for at l\u00f8se problemet. Vi v\u00e6lger her at forts\u00e6tte testet uden at sammenl\u00e6gge yderligere, da v\u00e6rdierne er nogenlunde t\u00e6t p\u00e5 5. P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chiexpected.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC=\"https://i.gifer.com/2Bq.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "Svar: Vi skal tjekke de forventede v\u00e6rdier, der er en v\u00e6rdi 4.33, der er mindre end 5, dette b\u00f8r vi skrive en bem\u00e6rkning om, man kan evt. sammenl\u00e6gge kategorier for at l\u00f8se problemet. Vi v\u00e6lger her at forts\u00e6tte testet uden at sammenl\u00e6gge yderligere, da v\u00e6rdierne er nogenlunde t\u00e6t p\u00e5 5. P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chiexpected.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><IMG SRC=\"https://i.gifer.com/2Bq.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/fundog.gif",
       "number": 3,
@@ -57,7 +57,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: Der er sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed, uddannelsen har betydning for ledigheden.<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "Svar: Der er sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed, uddannelsen har betydning for ledigheden.<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/dogcat.gif",
       "number": 4,
@@ -251,12 +251,12 @@
     },
     {
       "answers": [
-        "Har man som h\u00f8jste uddannelse folkeskolen 6.-8. klasse er der st\u00f8rre sandsynlighed for job",
-        "Har man som h\u00f8jste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job",
-        "Har man som h\u00f8jste uddannelse Kort erhvervsudd. under 1-2 \u00e5rs varighed, F.eks AMU Arbejdsmarkedsudd., Basis\u00e5r er der st\u00f8rre sandsynlighed for job",
-        "Har man som h\u00f8jste uddannelse Kort erhvervsudd. under 1-2 \u00e5rs varighed, F.eks AMU Arbejdsmarkedsudd., Basis\u00e5r er der mindre sandsynlighed for job",
-        "Har man som h\u00f8jste uddannelse Kort videreg. udd af op til 2-3 \u00e5r er der st\u00f8rre sandsynlighed for job",
-        "Har man som h\u00f8jste uddannelse Kort videreg. udd af op til 2-3 \u00e5r er der mindre sandsynlighed for job"
+        "Har man som h\u00f8jeste uddannelse folkeskolen 6.-8. klasse er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse Kort erhvervsudd. under 1-2 \u00e5rs varighed, F.eks AMU Arbejdsmarkedsudd., Basis\u00e5r er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse Kort erhvervsudd. under 1-2 \u00e5rs varighed, F.eks AMU Arbejdsmarkedsudd., Basis\u00e5r er der mindre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse Kort videreg. udd af op til 2-3 \u00e5r er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse Kort videreg. udd af op til 2-3 \u00e5r er der mindre sandsynlighed for job"
       ],
       "correct": {
         "index": 1,

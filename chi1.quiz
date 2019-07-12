@@ -9,7 +9,7 @@
  	- 21
 (image) img/bean2.gif
 
-    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>							<IMG SRC="img/chiobserveret.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/6tj.gif" width="80%" height="80%" align="center">
+    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>							<IMG SRC="img/chiobserveret.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>
 
 
 
@@ -31,7 +31,7 @@
  	- Nej, da Chiteststørrelsen er større end 5, kan der være problemer med kvaliteten af testet.
 (image) img/fundog.gif
 
-   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
+   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
 
    
   
@@ -43,7 +43,7 @@
  	- Vi kan ikke entydigt afgøre dette uden yderligere tests.
 (image) img/dogcat.gif
 
-   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
+   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
 
 
 
@@ -179,12 +179,12 @@
    Svar: Det/de største Chi cellebidrag er vigtige og beskrive, men kun hvis vi som her forkaster nulhypotesen og konstaterer der er sammenhæng.<br><br><IMG SRC="img/chicellebidrag.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC="img/cat2.gif" width="40%" height="40%" align="center">
 
 16) Hvilket af følgende udsagn er korrekt ud fra det største Chi cellebidrag?
-   - Har man som højste uddannelse folkeskolen 6.-8. klasse er der større sandsynlighed for job
-   * Har man som højste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job
-   - Har man som højste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der større sandsynlighed for job
-   - Har man som højste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der mindre sandsynlighed for job
-   - Har man som højste uddannelse Kort videreg. udd af op til 2-3 år er der større sandsynlighed for job
-   - Har man som højste uddannelse Kort videreg. udd af op til 2-3 år er der mindre sandsynlighed for job
+   - Har man som højeste uddannelse folkeskolen 6.-8. klasse er der større sandsynlighed for job
+   * Har man som højeste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job
+   - Har man som højeste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der større sandsynlighed for job
+   - Har man som højeste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der mindre sandsynlighed for job
+   - Har man som højeste uddannelse Kort videreg. udd af op til 2-3 år er der større sandsynlighed for job
+   - Har man som højeste uddannelse Kort videreg. udd af op til 2-3 år er der mindre sandsynlighed for job
  (image) img/girldancing.gif
 
    Svar: Vi ser, at har man som højste uddannelse folkeskolen 6.-8. klasse, er der mindre sandsynlighed for job, da vi har observeret 20 uden job, mens vi kun forventede 9.97 uden job. Det er denne forholdsmæssigt store forskel mellem observeret og forventet, der giver det store Chi i anden bidrag på 10.09.<br><br><IMG SRC="img/Chiall.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC="img/dogfish.gif" width="40%" height="40%" align="center">

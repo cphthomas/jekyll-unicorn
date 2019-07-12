@@ -9,7 +9,7 @@
  	- 21
 (image) img/bean2.gif
 
-    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>							<IMG SRC="img/chiobserveret.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/6tj.gif" width="80%" height="80%" align="center">
+    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>							<IMG SRC="img/chiobserveret.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/6tj.gif" width="80%" height="80%" align="center">
 
 
 
@@ -20,7 +20,7 @@
  	* <small>søjlesum*rækkesum/totalsum</small>
 (image) img/cat.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/KjPU.gif" width="80%" height="80%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/KjPU.gif" width="80%" height="80%" align="center">
   
   
 3) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, er forudsætningerne for testet opfyldt?
@@ -31,7 +31,7 @@
  	- Nej, da Chiteststørrelsen er større end 5, kan der være problemer med kvaliteten af testet.
 (image) img/fundog.gif
 
-   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
+   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
 
    
   
@@ -43,7 +43,7 @@
  	- Vi kan ikke entydigt afgøre dette uden yderligere tests.
 (image) img/dogcat.gif
 
-   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
+   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
 
 
 
@@ -56,7 +56,7 @@
    - Vi kan ikke entydigt afgøre dette uden yderligere tests.
 (image) img/doggodnight.gif
 
-   Svar: Der er afhængighed dvs sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden. <br><br>På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: Der er afhængighed dvs sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden. <br><br>På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
   
 
 
@@ -72,7 +72,7 @@
    - 10
 (image) img/stat5.jpg
 
-   Svar: Der er række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså 8*1=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: Der er række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså (9-1)*(2-1)=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
 
 7) Hvordan finder man teststørrelsen?
  	- Det er summen af de observerede værdier.
@@ -82,7 +82,7 @@
  	- Det er summen af de signifikansniveauerne.
 (image) img/dogwind.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/Chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
 
 8) Hvordan finder man Chi cellebidragene?
    - <small>(Observeret-Forventet)^2/Observeret</small>
@@ -92,56 +92,80 @@
    - <small>(Observeret-Forventet)/Signifikansniveau</small>
 (image) img/dogwind.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/76cp.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/76cp.gif" width="60%" height="60%" align="center">
 
 
 9) Hvad bliver teststørrelsen?
- 	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling er 28.000,-
- 	- Vi konkluderer, den gennemsnitlige præmiebetaling er forskellig fra 28.000,-
- 	* Vi konkluderer, den gennemsnitlige præmiebetaling er større end 28.000,-
- 	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling højst er 28.000,-
- 	- Vi konkluderer, den gennemsnitlige præmiebetaling er mindre end 28.000,-
- 	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
+ 	- 5%
+ 	- 7.81
+ 	- 15.51
+ 	- 21.67
+ 	* 40.56
+ 	- 78.72
+   - 95%
 (image) img/stat8.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br><IMG SRC="https://i.gifer.com/14bE.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br><IMG SRC="https://i.gifer.com/14bE.gif" width="60%" height="60%" align="center">
 
 
 
    
-10) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Hvad kaldes dette test også?
- 	* Test med tosidet alternativ hypotese
- 	- Test med ensidet alternativ hypotese nedad
- 	- Test med ensidet alternativ hypotese opad
+10) Hvad bliver den kritiske værdi?
+   - 5%
+   - 7.81
+   * 15.51
+   - 21.67
+   - 40.56
+   - 78.72
+   - 95%
  	(image) img/stat10.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="img/catsonbox.gif" width="40%" height="40%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="img/catsonbox.gif" width="40%" height="40%" align="center">
 
-11) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Hvad kaldes dette test?
- 	- Test med tosidet alternativ hypotese
- 	* Test med ensidet alternativ hypotese nedad
- 	- Test med ensidet alternativ hypotese opad
+11) Hvad bliver arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske værdi 15.51 og ud?
+ 	* 5%
+   - 7.81
+   - 15.51
+   - 21.67
+   * 40.56
+   - 78.72
+   - 95%
  	(image) img/dogbear.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/yH.gif" width="40%" height="40%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/yH.gif" width="40%" height="40%" align="center">
 
 
-12) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; &ge; 28.000,-<br> H<sub>1</sub>: &mu; < 28.000,-<br><br>Hvad vil en type 1 fejl betyde?
-	- At præmiebetalingen i virkeligehden er mindst er 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen mindst er 28.000,-
-	- At præmiebetalingen i virkeligehden er mindre end 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen er mindre end 28.000,-
-	* At præmiebetalingen i virkeligehden er mindst er 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen er mindre end 28.000,-
-	- At præmiebetalingen i virkeligehden er mindre end 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen mindst er 28.000,-
+12) Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske værdi 15.51 og ud de samme som?
+   - teststørrelsen
+   - signifikanssandsynligheden
+   * signifikansniveauet
+   - Den observerede værdi
+   - Den forventede værdi
 (image) img/hand.gif
 	
-	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/7Uz.gif" width="40%" height="40%" align="center">
+	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/7Uz.gif" width="40%" height="40%" align="center">
 
 
-13) Hvad er sandsynligheden for at begå en type 1 fejl i et test?
- * Signifikansniveauet
- - Konfidensniveauet
- - teststørrelsen
+13) Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra teststørrelsen 40.56 og ud de samme som?
+   - teststørrelsen
+   * signifikanssandsynligheden
+   - signifikansniveauet
+   - Den observerede værdi
+   - Den forventede værdi
  (image) img/fundogtv.gif
 
-	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>		<IMG SRC="https://i.gifer.com/Hi4.gif" width="40%" height="40%" align="center">
+	Svar: <IMG SRC="img/chidist.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>		<IMG SRC="https://i.gifer.com/Hi4.gif" width="40%" height="40%" align="center">
+
+
+14) Hvad bliver signifikanssandsynligheden?
+   * 0.00%
+   - 0.21%
+   - 0.56%
+   - 2.34%Den observerede værdi
+   - 4.23%
+   - 5%
+ (image) img/bean3.gif
+
+   Svar: <IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC="img/aceventuradoor.gif" width="40%" height="40%" align="center">
 
    

@@ -15,7 +15,7 @@
       },
       "image": "img/bean2.gif",
       "number": 1,
-      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l<br><a href=\"files/Virksomheder.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvor mange uden job har uddannelse: <p style=\"font-family:courier;\">\"Kandidatuddannelser eller l\u00e6ngere\"</p>?"
+      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l i denne quiz<br><a href=\"files/HELBRED.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvor mange uden job har uddannelse: <p style=\"font-family:courier;\">\"Kandidatuddannelser eller l\u00e6ngere\"</p>?"
     },
     {
       "answers": [
@@ -30,7 +30,7 @@
       },
       "image": "img/cat.gif",
       "number": 2,
-      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l<br><a href=\"files/Virksomheder.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvordan finder man det forventede antal?"
+      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l<br><a href=\"files/HELBRED.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvordan finder man det forventede antal?"
     },
     {
       "answers": [

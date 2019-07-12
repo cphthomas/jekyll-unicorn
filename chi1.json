@@ -34,15 +34,15 @@
     },
     {
       "answers": [
-        "Nej, da nogle af de observerede v\u00e6rdier er mindre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
-        "Nej, da nogle af de forventede v\u00e6rdier er mindre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
+        "Nej, ikke alle de observerede v\u00e6rdier er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
+        "Nej, ikke alle de forventede v\u00e6rdier er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
         "Nej, da nogle af Chi celle bidragene er mindre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
         "Nej, da signifkanssandsynligheden er mindre end 5%, kan der v\u00e6re problemer med kvaliteten af testet.",
-        "Nej, da Chitestst\u00f8rrelsen er st\u00f8rre end 5%, kan der v\u00e6re problemer med kvaliteten af testet."
+        "Nej, da Chitestst\u00f8rrelsen er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet."
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: Vi skal tjekke de forventede v\u00e6rdier, der er et par stykker der er mindre end 5, dette b\u00f8r vi skrive en bem\u00e6rkning om, man kan evt. sammenl\u00e6gge kategorier for at l\u00f8se problemet. Vi v\u00e6lger her at forts\u00e6tte testet uden at sammenl\u00e6gge yderligere, da v\u00e6rdierne er nogenlunde t\u00e6t p\u00e5 5. P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chiexpected.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC=\"https://i.gifer.com/2Bq.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "Svar: Vi skal tjekke de forventede v\u00e6rdier, der er en v\u00e6rdi 4.33, der er mindre end 5, dette b\u00f8r vi skrive en bem\u00e6rkning om, man kan evt. sammenl\u00e6gge kategorier for at l\u00f8se problemet. Vi v\u00e6lger her at forts\u00e6tte testet uden at sammenl\u00e6gge yderligere, da v\u00e6rdierne er nogenlunde t\u00e6t p\u00e5 5. P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chiexpected.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC=\"https://i.gifer.com/2Bq.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/fundog.gif",
       "number": 3,
@@ -50,20 +50,18 @@
     },
     {
       "answers": [
-        "=",
-        "&ne;",
-        "&le;",
-        ">",
-        "&ge;",
-        "<"
+        "Ja.",
+        "Nej.",
+        "Det svarer testet ikke p\u00e5.",
+        "Vi kan ikke entydigt afg\u00f8re dette uden yderligere tests."
       ],
       "correct": {
-        "index": 4,
+        "index": 0,
         "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/dogcat.gif",
       "number": 4,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen mindst er 320.000, hvilken af f\u00f8lgende matematiske operatorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Er der sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed?"
     },
     {
       "answers": [
@@ -76,7 +74,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er forskellig fra 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen er ikke 320.0000 dvs.<br><br> &mu; &ne; 320000<br><br> N\u00e5r vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 forskellig fra dvs. &ne;<br> Vi kan s\u00e5 bagefter finde nulhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 =<br><br>Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen <b>er</b> 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
       },
       "image": "img/doggodnight.gif",
       "number": 5,
@@ -93,7 +91,7 @@
       ],
       "correct": {
         "index": 5,
-        "text": "FEEDBACK den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindre end 320.000, kan overs\u00e6ttes til:<br>Middelv\u00e6rdien i populationen < 320.0000 dvs.<br><br> &mu; < 320000<br><br> N\u00e5r vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; < 320.000<br><br> Den korrekte matematiske operator er alts\u00e5 mindre end dvs. < <br> Vi kan s\u00e5 bagefter finde nulhypotesen: det er jo det komplement\u00e6re udsagn, dvs. det modsatte udsagn alts\u00e5 &ge;<br><br>Den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindst 320.000<br> Det samlede hypotesetest vil alts\u00e5 v\u00e6re:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
       },
       "image": "img/stat5.jpg",
       "number": 6,
@@ -110,7 +108,7 @@
       ],
       "correct": {
         "index": 5,
-        "text": "FEEDBACK Da signifikanssandsynligheden/p-v\u00e6rdien 8.87% er st\u00f8rre end signifikansniveauet 5%, kan vi ikke forkaste nulhypotesen<br><br> H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Den gennemsnitlige pr\u00e6mieudbetaling er alts\u00e5 mindst 28.000,-<br><br>Bem\u00e6rk konklusionen er niveauf\u00f8lsom, havde vi testet p\u00e5 10% signifikansniveau, havde vi forkastet nulhypotesen, vi havde da konkluderet at den gennemsnitlige pr\u00e6miebetaling er mindre end 28.000,-<br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/76cp.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/76cp.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/dogwind.gif",
       "number": 7,
@@ -127,7 +125,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "FEEDBACK Da signifikanssandsynligheden/p-v\u00e6rdien 8.87% er mindre end signifikansniveauet 10%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; &le; 28.000<br> H<sub>1</sub>: &mu; > 28.000<br><br>Den gennemsnitlige pr\u00e6mieudbetaling er alts\u00e5 st\u00f8rre end 28.000,-<br><br>Bem\u00e6rk konklusionen er niveauf\u00f8lsom, havde vi testet p\u00e5 5% signifikansniveau, havde vi ikke forkastet nulhypotesen, vi havde da konkluderet at den gennemsnitlige pr\u00e6miebetaling mindst er 28.000,-<br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/14bE.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br><IMG SRC=\"https://i.gifer.com/14bE.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/stat8.jpg",
       "number": 8,
@@ -144,7 +142,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "FEEDBACK Da signifikanssandsynligheden/p-v\u00e6rdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige pr\u00e6mieudbetaling er alts\u00e5 forskellig fra 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t\t\t\t\t<IMG SRC=\"img/cleverdog.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>\t\t\t\t\t\t<IMG SRC=\"img/cleverdog.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/stat9.jpg",
       "number": 9,
@@ -158,7 +156,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK Vi kan ende med at forkaste nulhypotesen p\u00e5 2 m\u00e5der: hvis pr\u00e6miebetalingen er under 28.000,-, eller hvis pr\u00e6miebetalingen er over 28.000,-.  Vi siger at vi har et test med 2 sidet alternativ hypotese, vi forkaster nulhypotesen hvis stikpr\u00f8vegennemsnittet er signifikant under 28.000,- eller signifikant over 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"img/catsonbox.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>\t\t<IMG SRC=\"img/catsonbox.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
       "image": "img/stat10.jpg",
       "number": 10,
@@ -172,7 +170,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "FEEDBACK Vi kan kun ende med at forkaste nulhypotesen p\u00e5 1 m\u00e5de: hvis pr\u00e6miebetalingen er under 28.000,-. Vi siger at vi har et test med ensidet alternativ hypotese nedad, vi forkaster nulhypotesen, hvis stikpr\u00f8vegennemsnittet er signifikant under 28.000,-<br><br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/yH.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/yH.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
       "image": "img/dogbear.gif",
       "number": 11,
@@ -187,7 +185,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "FEEDBACK En type 1 fejl betyder man forkaster en sand nulhypotese, det betyder H<sub>0</sub>: &mu; &ge; 28.000,- er sandheden, men man ender med at forkaste denne nulhypotese og konkludere at pr\u00e6miebetalingen er mindre end 28.000,-<br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/7Uz.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/7Uz.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
       "image": "img/hand.gif",
       "number": 12,
@@ -201,7 +199,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "FEEDBACK Har man fx. sat signifikansniveauet til 5%, vil man i et af 20 tests s\u00e5ledes beg\u00e5 en type 1 fejl. Er det vigtigt at sikre sig mod type 1 fejl, kan man s\u00e5ledes s\u00e6nke signifikansniveauet, 1% signifikansniveau vil s\u00e5ledes sikre at man kun i 1 ud af 100 tests vil forkaste en sand nulhypotese.<br><br><br><a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/Hi4.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>\t\t<IMG SRC=\"https://i.gifer.com/Hi4.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
       "image": "img/fundogtv.gif",
       "number": 13,

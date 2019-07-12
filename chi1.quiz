@@ -24,25 +24,23 @@
   
   
 3) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, er forudsætningerne for testet opfyldt?
- 	- Nej, da nogle af de observerede værdier er mindre end 5, kan der være problemer med kvaliteten af testet.
- 	* Nej, da nogle af de forventede værdier er mindre end 5, kan der være problemer med kvaliteten af testet.
+ 	- Nej, ikke alle de observerede værdier er større end 5, kan der være problemer med kvaliteten af testet.
+ 	* Nej, ikke alle de forventede værdier er større end 5, kan der være problemer med kvaliteten af testet.
  	- Nej, da nogle af Chi celle bidragene er mindre end 5, kan der være problemer med kvaliteten af testet.
  	- Nej, da signifkanssandsynligheden er mindre end 5%, kan der være problemer med kvaliteten af testet.
- 	- Nej, da Chiteststørrelsen er større end 5%, kan der være problemer med kvaliteten af testet.
+ 	- Nej, da Chiteststørrelsen er større end 5, kan der være problemer med kvaliteten af testet.
 (image) img/fundog.gif
 
-   Svar: Vi skal tjekke de forventede værdier, der er et par stykker der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
+   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
 
    
   
 
-4) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen mindst er 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
- 	- =
- 	- &ne;
- 	- &le;
- 	- >
- 	* &ge;
- 	- <
+4) Er der sammenhæng mellem uddannelse og arbejdsløshed?
+ 	* Ja.
+ 	- Nej.
+ 	- Det svarer testet ikke på.
+ 	- Vi kan ikke entydigt afgøre dette uden yderligere tests.
 (image) img/dogcat.gif
 
    Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
@@ -60,7 +58,7 @@
  	- <
 (image) img/doggodnight.gif
 
-   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er forskellig fra 320.000, kan oversættes til:<br>Middelværdien i populationen er ikke 320.0000 dvs.<br><br> &mu; &ne; 320000<br><br> Når vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> Den korrekte matematiske operator er altså forskellig fra dvs. &ne;<br> Vi kan så bagefter finde nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså =<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen <b>er</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; = 320.000<br> H<sub>1</sub>: &mu; &ne; 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
   
 
 
@@ -73,7 +71,7 @@
  	* <
 (image) img/stat5.jpg
 
-   FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er mindre end 320.000, kan oversættes til:<br>Middelværdien i populationen < 320.0000 dvs.<br><br> &mu; < 320000<br><br> Når vi ikke har lighedstegn i udsagnet ved vi det er en alternativhypotese.<br><br> H<sub>1</sub>: &mu; < 320.000<br><br> Den korrekte matematiske operator er altså mindre end dvs. < <br> Vi kan så bagefter finde nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &ge;<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er mindst 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &ge; 320.000<br> H<sub>1</sub>: &mu; < 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
 
 7) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Man har testet på et 5% signifikansniveau og har fået en signifikanssandsynlighed på 8.87%. Hvilken af følgende ikke tekniske konklusioner er korrekt?
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling er 28.000,-
@@ -84,7 +82,7 @@
  	* Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
 (image) img/dogwind.gif
 
-   FEEDBACK Da signifikanssandsynligheden/p-værdien 8.87% er større end signifikansniveauet 5%, kan vi ikke forkaste nulhypotesen<br><br> H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså mindst 28.000,-<br><br>Bemærk konklusionen er niveaufølsom, havde vi testet på 10% signifikansniveau, havde vi forkastet nulhypotesen, vi havde da konkluderet at den gennemsnitlige præmiebetaling er mindre end 28.000,-<br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/76cp.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/76cp.gif" width="60%" height="60%" align="center">
 
 
 8) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>H<sub>0</sub>: &mu; &le; 28.000<br> H<sub>1</sub>: &mu; > 28.000<br><br>Man har testet på et 10% signifikansniveau og har fået en p-værdi på 8.87%. Hvilken af følgende ikke tekniske konklusioner er korrekt?
@@ -96,7 +94,7 @@
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
 (image) img/stat8.jpg
 
-   FEEDBACK Da signifikanssandsynligheden/p-værdien 8.87% er mindre end signifikansniveauet 10%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; &le; 28.000<br> H<sub>1</sub>: &mu; > 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså større end 28.000,-<br><br>Bemærk konklusionen er niveaufølsom, havde vi testet på 5% signifikansniveau, havde vi ikke forkastet nulhypotesen, vi havde da konkluderet at den gennemsnitlige præmiebetaling mindst er 28.000,-<br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br><IMG SRC="https://i.gifer.com/14bE.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br><IMG SRC="https://i.gifer.com/14bE.gif" width="60%" height="60%" align="center">
 
 9) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Man har testet på et 5% signifikansniveau og har fået en p-værdi på 0.87%. Hvilken af følgende ikke tekniske konklusioner er korrekt?
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling er 28.000,-
@@ -107,7 +105,7 @@
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
 (image) img/stat9.jpg
 
-   FEEDBACK Da signifikanssandsynligheden/p-værdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså forskellig fra 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>						<IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>						<IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
 
 10) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Hvad kaldes dette test også?
  	* Test med tosidet alternativ hypotese
@@ -115,7 +113,7 @@
  	- Test med ensidet alternativ hypotese opad
  	(image) img/stat10.jpg
 
-   FEEDBACK Vi kan ende med at forkaste nulhypotesen på 2 måder: hvis præmiebetalingen er under 28.000,-, eller hvis præmiebetalingen er over 28.000,-.  Vi siger at vi har et test med 2 sidet alternativ hypotese, vi forkaster nulhypotesen hvis stikprøvegennemsnittet er signifikant under 28.000,- eller signifikant over 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>		<IMG SRC="img/catsonbox.gif" width="40%" height="40%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="img/catsonbox.gif" width="40%" height="40%" align="center">
 
 11) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Hvad kaldes dette test?
  	- Test med tosidet alternativ hypotese
@@ -123,7 +121,7 @@
  	- Test med ensidet alternativ hypotese opad
  	(image) img/dogbear.gif
 
-   FEEDBACK Vi kan kun ende med at forkaste nulhypotesen på 1 måde: hvis præmiebetalingen er under 28.000,-. Vi siger at vi har et test med ensidet alternativ hypotese nedad, vi forkaster nulhypotesen, hvis stikprøvegennemsnittet er signifikant under 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/yH.gif" width="40%" height="40%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/yH.gif" width="40%" height="40%" align="center">
 
 
 12) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; &ge; 28.000,-<br> H<sub>1</sub>: &mu; < 28.000,-<br><br>Hvad vil en type 1 fejl betyde?
@@ -133,7 +131,7 @@
 	- At præmiebetalingen i virkeligehden er mindre end 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen mindst er 28.000,-
 (image) img/hand.gif
 	
-	FEEDBACK En type 1 fejl betyder man forkaster en sand nulhypotese, det betyder H<sub>0</sub>: &mu; &ge; 28.000,- er sandheden, men man ender med at forkaste denne nulhypotese og konkludere at præmiebetalingen er mindre end 28.000,-<br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/7Uz.gif" width="40%" height="40%" align="center">
+	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/7Uz.gif" width="40%" height="40%" align="center">
 
 
 13) Hvad er sandsynligheden for at begå en type 1 fejl i et test?
@@ -142,6 +140,6 @@
  - teststørrelsen
  (image) img/fundogtv.gif
 
-	FEEDBACK Har man fx. sat signifikansniveauet til 5%, vil man i et af 20 tests således begå en type 1 fejl. Er det vigtigt at sikre sig mod type 1 fejl, kan man således sænke signifikansniveauet, 1% signifikansniveau vil således sikre at man kun i 1 ud af 100 tests vil forkaste en sand nulhypotese.<br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/Hi4.gif" width="40%" height="40%" align="center">
+	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>		<IMG SRC="https://i.gifer.com/Hi4.gif" width="40%" height="40%" align="center">
 
-   FEEDBACK Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kaldes “den almindelige erstatningsregel”. Denne regel fastslår, at man er ansvarlig for den økonomiske skade, <br>H<sub>0</sub>: &mu; = 43 <br>H<sub>0</sub>: &mu; &ne; 43 <br>som man har forvoldt ved uagtsomhed eller med vilje. Reglen hedder også culpa- eller skyldreglen. Culpa, er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis han eller hun har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. Se f.eks. følgende domme: <iframe width="100%" height="auto" src="https://player.vimeo.com/video/308785835" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe><br><br><br><IMG SRC="http://i.imgur.com/m5AK0.gif" width="60%" height="60%" align="center">
+   

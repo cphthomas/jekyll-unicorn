@@ -72,7 +72,7 @@
    - 10
 (image) img/stat5.jpg
 
-   Svar: Der er række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså (9-1)*(2-1)=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: Antallet af frihedsgrader for Chi i anden fordelingen findes som: række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså (9-1)*(2-1)=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
 
 7) Hvordan finder man teststørrelsen?
  	- Det er summen af de observerede værdier.
@@ -166,6 +166,29 @@
    - 5%
  (image) img/bean3.gif
 
-   Svar: <IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC="img/aceventuradoor.gif" width="40%" height="40%" align="center">
+   Svar: Nedenfor ses at p-værdien/signifikanssandsynligheden bliver 0.00%<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC="img/aceventuradoor.gif" width="40%" height="40%" align="center">
+
+15) Nævn et og kun et Chi celle bidrag, der dækker over en sammenhæng der specielt bør beskrives?
+   - 0.03
+   - 0.04
+   - 3.02
+   - 4.49
+   * 10.09
+ (image) img/girldrinking.gif
+
+   Svar: Det/de største Chi cellebidrag er vigtige og beskrive, men kun hvis vi som her forkaster nulhypotesen og konstaterer der er sammenhæng.<br><br><IMG SRC="img/chicellebidrag.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC="img/cat2.gif" width="40%" height="40%" align="center">
+
+16) Hvilket af følgende udsagn er korrekt ud fra det største Chi cellebidrag?
+   - Har man som højste uddannelse folkeskolen 6.-8. klasse er der større sandsynlighed for job
+   * Har man som højste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job
+   - Har man som højste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der større sandsynlighed for job
+   - Har man som højste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der mindre sandsynlighed for job
+   - Har man som højste uddannelse Kort videreg. udd af op til 2-3 år er der større sandsynlighed for job
+   - Har man som højste uddannelse Kort videreg. udd af op til 2-3 år er der mindre sandsynlighed for job
+   
+   
+ (image) img/girldancing.gif
+
+   Svar: Vi ser, at har man som højste uddannelse folkeskolen 6.-8. klasse, er der mindre sandsynlighed for job, da vi har observeret 20 uden job, mens vi kun forventede 9.97 uden job. Det er denne forholdsmæssigt store forskel mellem observeret og forventet, der giver det store Chi i anden bidrag på 10.09.<br><br><IMG SRC="img/Chiall.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC="img/dogfish.gif" width="40%" height="40%" align="center">
 
    

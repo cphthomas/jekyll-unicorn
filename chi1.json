@@ -92,7 +92,7 @@
       ],
       "correct": {
         "index": 6,
-        "text": "Svar: Der er r\u00e6kke kategorier minus 1 dvs. 9-1=8 gange s\u00f8jle kategorier minus 1 dvs. 2-1=1 alts\u00e5 (9-1)*(2-1)=8 frihedsgrader<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
+        "text": "Svar: Antallet af frihedsgrader for Chi i anden fordelingen findes som: r\u00e6kke kategorier minus 1 dvs. 9-1=8 gange s\u00f8jle kategorier minus 1 dvs. 2-1=1 alts\u00e5 (9-1)*(2-1)=8 frihedsgrader<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
       },
       "image": "img/stat5.jpg",
       "number": 6,
@@ -227,11 +227,44 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: <IMG SRC=\"img/chitolkning.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC=\"img/aceventuradoor.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+        "text": "Svar: Nedenfor ses at p-v\u00e6rdien/signifikanssandsynligheden bliver 0.00%<br><br><IMG SRC=\"img/chitolkning.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC=\"img/aceventuradoor.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
       },
       "image": "img/bean3.gif",
       "number": 14,
       "prompt": "Hvad bliver signifikanssandsynligheden?"
+    },
+    {
+      "answers": [
+        "0.03",
+        "0.04",
+        "3.02",
+        "4.49",
+        "10.09"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Svar: Det/de st\u00f8rste Chi cellebidrag er vigtige og beskrive, men kun hvis vi som her forkaster nulhypotesen og konstaterer der er sammenh\u00e6ng.<br><br><IMG SRC=\"img/chicellebidrag.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC=\"img/cat2.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+      },
+      "image": "img/girldrinking.gif",
+      "number": 15,
+      "prompt": "N\u00e6vn et og kun et Chi celle bidrag, der d\u00e6kker over en sammenh\u00e6ng der specielt b\u00f8r beskrives?"
+    },
+    {
+      "answers": [
+        "Har man som h\u00f8jste uddannelse folkeskolen 6.-8. klasse er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job",
+        "Har man som h\u00f8jste uddannelse Kort erhvervsudd. under 1-2 \u00e5rs varighed, F.eks AMU Arbejdsmarkedsudd., Basis\u00e5r er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jste uddannelse Kort erhvervsudd. under 1-2 \u00e5rs varighed, F.eks AMU Arbejdsmarkedsudd., Basis\u00e5r er der mindre sandsynlighed for job",
+        "Har man som h\u00f8jste uddannelse Kort videreg. udd af op til 2-3 \u00e5r er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jste uddannelse Kort videreg. udd af op til 2-3 \u00e5r er der mindre sandsynlighed for job"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: Vi ser, at har man som h\u00f8jste uddannelse folkeskolen 6.-8. klasse, er der mindre sandsynlighed for job, da vi har observeret 20 uden job, mens vi kun forventede 9.97 uden job. Det er denne forholdsm\u00e6ssigt store forskel mellem observeret og forventet, der giver det store Chi i anden bidrag p\u00e5 10.09.<br><br><IMG SRC=\"img/Chiall.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>    <IMG SRC=\"img/dogfish.gif\" width=\"40%\" height=\"40%\" align=\"center\">"
+      },
+      "image": "img/girldancing.gif",
+      "number": 16,
+      "prompt": "Hvilket af f\u00f8lgende udsagn er korrekt ud fra det st\u00f8rste Chi cellebidrag?"
     }
   ],
   "title": "Hypoteser",

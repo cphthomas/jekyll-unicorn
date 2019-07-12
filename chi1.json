@@ -57,7 +57,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "text": "Svar: Der er sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed, uddannelsen har betydning for ledigheden.<a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC=\"https://i.gifer.com/7V9m.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/dogcat.gif",
       "number": 4,
@@ -65,54 +65,70 @@
     },
     {
       "answers": [
-        "=",
-        "&ne;",
-        "&le;",
-        ">",
-        "&ge;",
-        "<"
+        "Ja.",
+        "Nej.",
+        "Det svarer testet ikke p\u00e5.",
+        "Vi kan ikke entydigt afg\u00f8re dette uden yderligere tests."
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
+        "text": "Svar: Der er afh\u00e6ngighed dvs sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed, uddannelsen har betydning for ledigheden. <br><br>P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chitolkning.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
       },
       "image": "img/doggodnight.gif",
       "number": 5,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er forskellig fra 320.000, hvilken af f\u00f8lgende matematiske operatorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Er der uafh\u00e6ngighed mellem uddannelse og arbejdsl\u00f8shed?"
     },
     {
       "answers": [
-        "=",
-        "&ne;",
-        "&le;",
-        ">",
-        "&ge;",
-        "<"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
       ],
       "correct": {
-        "index": 5,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
+        "index": 6,
+        "text": "Svar: Der er r\u00e6kke kategorier minus 1 dvs. 9-1=8 gange s\u00f8jle kategorier minus 1 dvs. 2-1=1 alts\u00e5 8*1=8 frihedsgrader<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/2oN.gif\" width=\"70%\" height=\"70%\" align=\"center\">"
       },
       "image": "img/stat5.jpg",
       "number": 6,
-      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er mindre end 320.000, hvilken af f\u00f8lgende matematiske operatorer kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvor mange frihedsgrader er der i testet?"
     },
     {
       "answers": [
-        "Vi kan ikke afvise, at den gennemsnitlige pr\u00e6miebetaling er 28.000,-",
-        "Vi konkluderer, den gennemsnitlige pr\u00e6miebetaling er forskellig fra 28.000,-",
-        "Vi konkluderer, den gennemsnitlige pr\u00e6miebetaling er st\u00f8rre end 28.000,-",
-        "Vi kan ikke afvise, at den gennemsnitlige pr\u00e6miebetaling h\u00f8jst er 28.000,-",
-        "Vi konkluderer, den gennemsnitlige pr\u00e6miebetaling er mindre end 28.000,-",
-        "Vi kan ikke afvise, at den gennemsnitlige pr\u00e6miebetaling mindst er 28.000,-"
+        "Det er summen af de observerede v\u00e6rdier.",
+        "Det er summen af de forventede v\u00e6rdier.",
+        "Det er summen af Chi cellebidragene.",
+        "Det er summen af de signifikanssandsynlighederne.",
+        "Det er summen af de signifikansniveauerne."
       ],
       "correct": {
-        "index": 5,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/76cp.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+        "index": 2,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"img/cleverdog.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/dogwind.gif",
       "number": 7,
-      "prompt": "Et forsikringsselskab har gennemf\u00f8rt et test vedr. den gennemsnitlige pr\u00e6miebetaling, n\u00e5r kunderne har anmeldt skader p\u00e5 deres indboforsikring. Hypoteserne i testet var f\u00f8lgende:<br><br>H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Man har testet p\u00e5 et 5% signifikansniveau og har f\u00e5et en signifikanssandsynlighed p\u00e5 8.87%. Hvilken af f\u00f8lgende ikke tekniske konklusioner er korrekt?"
+      "prompt": "Hvordan finder man testst\u00f8rrelsen?"
+    },
+    {
+      "answers": [
+        "<small>(Observeret-Forventet)^2/Observeret</small>",
+        "<small>(Observeret-Forventet)^2/Forventet</small>",
+        "<small>(Observeret-Forventet)/Forventet</small>",
+        "<small>(Observeret-Forventet)/Observeret</small>",
+        "<small>(Observeret-Forventet)/Signifikansniveau</small>"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC=\"https://i.gifer.com/76cp.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
+      },
+      "image": "img/dogwind.gif",
+      "number": 8,
+      "prompt": "Hvordan finder man Chi cellebidragene?"
     },
     {
       "answers": [
@@ -128,25 +144,8 @@
         "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br><IMG SRC=\"https://i.gifer.com/14bE.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
       },
       "image": "img/stat8.jpg",
-      "number": 8,
-      "prompt": "Et forsikringsselskab har gennemf\u00f8rt et test vedr. den gennemsnitlige pr\u00e6miebetaling, n\u00e5r kunderne har anmeldt skader p\u00e5 deres indboforsikring. Hypoteserne i testet var f\u00f8lgende:<br><br>H<sub>0</sub>: &mu; &le; 28.000<br> H<sub>1</sub>: &mu; > 28.000<br><br>Man har testet p\u00e5 et 10% signifikansniveau og har f\u00e5et en p-v\u00e6rdi p\u00e5 8.87%. Hvilken af f\u00f8lgende ikke tekniske konklusioner er korrekt?"
-    },
-    {
-      "answers": [
-        "Vi kan ikke afvise, at den gennemsnitlige pr\u00e6miebetaling er 28.000,-",
-        "Vi konkluderer, den gennemsnitlige pr\u00e6miebetaling er forskellig fra 28.000,-",
-        "Vi konkluderer, den gennemsnitlige pr\u00e6miebetaling er st\u00f8rre end 28.000,-",
-        "Vi kan ikke afvise, at den gennemsnitlige pr\u00e6miebetaling h\u00f8jst er 28.000,-",
-        "Vi konkluderer, den gennemsnitlige pr\u00e6miebetaling er mindre end 28.000,-",
-        "Vi kan ikke afvise, at den gennemsnitlige pr\u00e6miebetaling mindst er 28.000,-"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>\t\t\t\t\t\t<IMG SRC=\"img/cleverdog.gif\" width=\"60%\" height=\"60%\" align=\"center\">"
-      },
-      "image": "img/stat9.jpg",
       "number": 9,
-      "prompt": "Et forsikringsselskab har gennemf\u00f8rt et test vedr. den gennemsnitlige pr\u00e6miebetaling, n\u00e5r kunderne har anmeldt skader p\u00e5 deres indboforsikring. Hypoteserne i testet var f\u00f8lgende:<br><br>H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Man har testet p\u00e5 et 5% signifikansniveau og har f\u00e5et en p-v\u00e6rdi p\u00e5 0.87%. Hvilken af f\u00f8lgende ikke tekniske konklusioner er korrekt?"
+      "prompt": "Hvad bliver testst\u00f8rrelsen?"
     },
     {
       "answers": [

@@ -43,49 +43,59 @@
  	- Vi kan ikke entydigt afgøre dette uden yderligere tests.
 (image) img/dogcat.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
+   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><<br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
 
 
 
 
 
-5) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er forskellig fra 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
- 	- =
- 	* &ne;
- 	- &le;
- 	- >
- 	- &ge;
- 	- <
+5) Er der uafhængighed mellem uddannelse og arbejdsløshed?
+   - Ja.
+   * Nej.
+   - Det svarer testet ikke på.
+   - Vi kan ikke entydigt afgøre dette uden yderligere tests.
 (image) img/doggodnight.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: Der er afhængighed dvs sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden. <br><br>På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
   
 
 
-6) Hvis man ønsker at undersøge om den gennemsnitlige årlige bruttoindtægt i populationen er mindre end 320.000, hvilken af følgende matematiske operatorer kan dette udsagn oversættes til?
- 	- =
- 	- &ne;
- 	- &le;
- 	- >
- 	- &ge;
- 	* <
+6) Hvor mange frihedsgrader er der i testet?
+ 	- 2
+ 	- 3
+ 	- 4
+ 	- 5
+ 	- 6
+ 	- 7
+   * 8
+   - 9
+   - 10
 (image) img/stat5.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: Der er række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså 8*1=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
 
-7) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>H<sub>0</sub>: &mu; &ge; 28.000<br> H<sub>1</sub>: &mu; < 28.000<br><br>Man har testet på et 5% signifikansniveau og har fået en signifikanssandsynlighed på 8.87%. Hvilken af følgende ikke tekniske konklusioner er korrekt?
- 	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling er 28.000,-
- 	- Vi konkluderer, den gennemsnitlige præmiebetaling er forskellig fra 28.000,-
- 	- Vi konkluderer, den gennemsnitlige præmiebetaling er større end 28.000,-
- 	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling højst er 28.000,-
- 	- Vi konkluderer, den gennemsnitlige præmiebetaling er mindre end 28.000,-
- 	* Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
+7) Hvordan finder man teststørrelsen?
+ 	- Det er summen af de observerede værdier.
+ 	- Det er summen af de forventede værdier.
+ 	* Det er summen af Chi cellebidragene.
+ 	- Det er summen af de signifikanssandsynlighederne.
+ 	- Det er summen af de signifikansniveauerne.
+(image) img/dogwind.gif
+
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
+
+8) Hvordan finder man Chi cellebidragene?
+   - <small>(Observeret-Forventet)^2/Observeret</small>
+   * <small>(Observeret-Forventet)^2/Forventet</small>
+   - <small>(Observeret-Forventet)/Forventet</small>
+   - <small>(Observeret-Forventet)/Observeret</small>
+   - <small>(Observeret-Forventet)/Signifikansniveau</small>
 (image) img/dogwind.gif
 
    Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/76cp.gif" width="60%" height="60%" align="center">
 
 
-8) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>H<sub>0</sub>: &mu; &le; 28.000<br> H<sub>1</sub>: &mu; > 28.000<br><br>Man har testet på et 10% signifikansniveau og har fået en p-værdi på 8.87%. Hvilken af følgende ikke tekniske konklusioner er korrekt?
+9) Hvad bliver teststørrelsen?
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling er 28.000,-
  	- Vi konkluderer, den gennemsnitlige præmiebetaling er forskellig fra 28.000,-
  	* Vi konkluderer, den gennemsnitlige præmiebetaling er større end 28.000,-
@@ -96,17 +106,9 @@
 
    Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br><IMG SRC="https://i.gifer.com/14bE.gif" width="60%" height="60%" align="center">
 
-9) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Man har testet på et 5% signifikansniveau og har fået en p-værdi på 0.87%. Hvilken af følgende ikke tekniske konklusioner er korrekt?
- 	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling er 28.000,-
- 	* Vi konkluderer, den gennemsnitlige præmiebetaling er forskellig fra 28.000,-
- 	- Vi konkluderer, den gennemsnitlige præmiebetaling er større end 28.000,-
- 	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling højst er 28.000,-
- 	- Vi konkluderer, den gennemsnitlige præmiebetaling er mindre end 28.000,-
- 	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
-(image) img/stat9.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>						<IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
 
+   
 10) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Hvad kaldes dette test også?
  	* Test med tosidet alternativ hypotese
  	- Test med ensidet alternativ hypotese nedad

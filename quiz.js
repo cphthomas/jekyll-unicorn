@@ -173,7 +173,7 @@ var $indicators = $('<ol>')
       // set options for correct/incorrect
       // answer dialogue
       if (correct) {
-        var k = Math.floor(Math.random() * 23) + 1  ;
+        var k = Math.floor(Math.random() * 25) + 1  ;
         opts = $.extend(opts, {
           title: "Flot!",
           text: 
@@ -187,7 +187,7 @@ var $indicators = $('<ol>')
           type: "success"
         });
       } else {
-        var k = Math.floor(Math.random() * 23) + 1  ;
+        var k = Math.floor(Math.random() * 25) + 1  ;
         opts = $.extend(opts, {
           title: "Æv",
           text: (

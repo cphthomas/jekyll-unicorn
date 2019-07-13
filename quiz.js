@@ -173,10 +173,11 @@ var $indicators = $('<ol>')
       // set options for correct/incorrect
       // answer dialogue
       if (correct) {
+        var k = Math.floor(Math.random() * 10);
         opts = $.extend(opts, {
           title: "Flot!",
           text: 
-            "<IMG SRC=\"img/"+"1"+"true.gif\" width=\"100%\" height=\"100%\" align=\"center\"><br/><br/>" + 
+            "<IMG SRC=\"img/"+k+"true.gif\" width=\"100%\" height=\"100%\" align=\"center\"><br/><br/>" + 
             "<h3>Supergodt klaret!!!</h3>" + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +

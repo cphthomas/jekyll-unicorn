@@ -9,7 +9,7 @@
  	- 21
 (image) img/bean2.gif
 
-    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>							<IMG SRC="img/chiobserveret.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>
+    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>
 
 
 
@@ -20,7 +20,7 @@
  	* <small>søjlesum*rækkesum/totalsum</small>
 (image) img/cat.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/KjPU.gif" width="80%" height="80%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
   
   
 3) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, er forudsætningerne for testet opfyldt?
@@ -31,7 +31,7 @@
  	- Nej, da Chiteststørrelsen er større end 5, kan der være problemer med kvaliteten af testet.
 (image) img/fundog.gif
 
-   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><IMG SRC="https://i.gifer.com/2Bq.gif" width="60%" height="60%" align="center">
+   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
    
   
@@ -43,7 +43,7 @@
  	- Vi kan ikke entydigt afgøre dette uden yderligere tests.
 (image) img/dogcat.gif
 
-   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/7V9m.gif" width="60%" height="60%" align="center">
+   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 
 
@@ -56,7 +56,7 @@
    - Vi kan ikke entydigt afgøre dette uden yderligere tests.
 (image) img/doggodnight.gif
 
-   Svar: Der er afhængighed dvs sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden. <br><br>På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: Der er afhængighed dvs sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden. <br><br>På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
   
 
 
@@ -72,7 +72,7 @@
    - 10
 (image) img/stat5.jpg
 
-   Svar: Antallet af frihedsgrader for Chi i anden fordelingen findes som: række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså (9-1)*(2-1)=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/2oN.gif" width="70%" height="70%" align="center">
+   Svar: Antallet af frihedsgrader for Chi i anden fordelingen findes som: række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså (9-1)*(2-1)=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 7) Hvordan finder man teststørrelsen?
  	- Det er summen af de observerede værdier.
@@ -82,7 +82,7 @@
  	- Det er summen af de signifikansniveauerne.
 (image) img/dogwind.gif
 
-   Svar: <a href="https://s.tepedu.dk/Chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="img/cleverdog.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/Chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 8) Hvordan finder man Chi cellebidragene?
    - <small>(Observeret-Forventet)^2/Observeret</small>
@@ -92,7 +92,7 @@
    - <small>(Observeret-Forventet)/Signifikansniveau</small>
 (image) img/dogwind.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><IMG SRC="https://i.gifer.com/76cp.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 
 9) Hvad bliver teststørrelsen?
@@ -105,7 +105,7 @@
    - 95%
 (image) img/stat8.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br><IMG SRC="https://i.gifer.com/14bE.gif" width="60%" height="60%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 
 
@@ -120,7 +120,7 @@
    - 95%
  	(image) img/stat10.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="img/catsonbox.gif" width="40%" height="40%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 11) Hvad bliver arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske værdi 15.51 og ud?
  	* 5%
@@ -132,7 +132,7 @@
    - 95%
  	(image) img/dogbear.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/yH.gif" width="40%" height="40%" align="center">
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 
 12) Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske værdi 15.51 og ud de samme som?
@@ -143,7 +143,7 @@
    - Den forventede værdi
 (image) img/hand.gif
 	
-	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br>		<IMG SRC="https://i.gifer.com/7Uz.gif" width="40%" height="40%" align="center">
+	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 
 13) Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra teststørrelsen 40.56 og ud de samme som?
@@ -154,7 +154,7 @@
    - Den forventede værdi
  (image) img/fundogtv.gif
 
-	Svar: <IMG SRC="img/chidist.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br><br><br><br>		<IMG SRC="https://i.gifer.com/Hi4.gif" width="40%" height="40%" align="center">
+	Svar: <IMG SRC="img/chidist.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
 
 
 14) Hvad bliver signifikanssandsynligheden?

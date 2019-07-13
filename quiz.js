@@ -318,46 +318,46 @@ function resultsText(state) {
 
   switch (true) {
     case (ratio === 1):
-      text = "Wow&mdash;perfect score, du hedder herefter hjernen!<br><br><IMG SRC=\"img/100correct.gif\" width=\"40%\" height=\"40%\" align=\"center\">";
+      text = "Wow&mdash;perfect score, du hedder herefter hjernen!<br><br><IMG SRC=\"img/final100.gif\" width=\"40%\" height=\"40%\" align=\"center\">";
       break;
     case (ratio > 0.95):
       text = "Fantastisk klaret, du fik næsten alle rigtige :O)<br><br><IMG SRC=\"img/happydumbdumber.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.9):
-      text = "Suuuper klaret !!! Mere end 90% rigtige :O)<br><br><IMG SRC=\"img/aceventuradoor.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Suuuper klaret !!! Mere end 90% rigtige :O)<br><br><IMG SRC=\"img/final90.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.85):
-      text = "Rigtig rigtig rigtig flot.<br><br><IMG SRC=\"img/indy.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Rigtig rigtig rigtig flot.<br><br><IMG SRC=\"img/final85.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.8):
-      text = "Rigtig flot.<br><br><IMG SRC=\"img/cramerhappy.img\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Rigtig flot.<br><br><IMG SRC=\"img/final80.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.75):
-      text = "Rigtig flot.<br><br><IMG SRC=\"img/kramer2.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Rigtig flot.<br><br><IMG SRC=\"img/final80.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.7):
-      text = "Godt klaret :O)<br><br><IMG SRC=\"https://i.gifer.com/6os.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Godt klaret :O)<br><br><IMG SRC=\"img/final70.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio > 0.60):
-      text = "Rimeligt godt, vi siger det er bestået.<br><br><IMG SRC=\"https://i.gifer.com/GGmT.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
+      text = "Rimeligt godt, vi siger det er bestået.<br><br><IMG SRC=\"img/final60.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
       break;
     case (ratio > 0.5):
-      text = "OK det kan dog forbedres.<br><br><IMG SRC=\"img/seinfeldpez.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "OK det kan dog forbedres.<br><br><IMG SRC=\"img/final50.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
       case (ratio > 0.4):
-      text = "OK det kan du nok klare bedre :O)<br><br><IMG SRC=\"img/hit.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "OK det kan du nok klare bedre :O)<br><br><IMG SRC=\"img/final40.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
       case (ratio > 0.3):
-      text = "Forsøg gerne igen, så går det nok bedre :O)<br><br><IMG SRC=\"img/25pctcorrect.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Forsøg gerne igen, så går det nok bedre :O)<br><br><IMG SRC=\"img/final30.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
       case (ratio > 0.2):
-      text = "Æv altså, prøv igen, så går det meget bedre :O)<br><br><IMG SRC=\"img/johncleese.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
+      text = "Æv altså, prøv igen, så går det meget bedre :O)<br><br><IMG SRC=\"img/final20.gif\" width=\"80%\" height=\"80%\" align=\"center\">";
       break;
     case (ratio < 0.2 && ratio !== 0):
-      text = "Den var hård, bedre held næste gang.<br><br><IMG SRC=\"img/tom.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
+      text = "Den var hård, bedre held næste gang.<br><br><IMG SRC=\"img/final10.gif\" width=\"60%\" height=\"60%\" align=\"center\">";
       break;
     case (ratio === 0):
-      text = "Uha, ingen korrekte. Prøv igen<br><br><IMG SRC=\"img/bean.gif\" width=\"50%\" height=\"50%\" align=\"center\">";
+      text = "Uha, ingen korrekte. Prøv igen<br><br><IMG SRC=\"img/final0.gif\" width=\"50%\" height=\"50%\" align=\"center\">";
       break;
   }
   return text;

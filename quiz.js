@@ -187,10 +187,11 @@ var $indicators = $('<ol>')
           type: "success"
         });
       } else {
+        var k = Math.floor(Math.random() * 23) + 1  ;
         opts = $.extend(opts, {
           title: "Æv",
           text: (
-            "<IMG SRC=\"img/bean.gif\" width=\"100%\" height=\"100%\" align=\"center\"><br/><br/>" + 
+            "<IMG SRC=\"img/"+k+"false.gif\" width=\"100%\" height=\"100%\" align=\"center\"><br/><br/>" + 
             "<h3>Det er desværre <b>ikke</b> rigtigt!</h3>" +
             "Det korrekte svar er \"" +
             question.answers[question.correct.index] + "\"." + (

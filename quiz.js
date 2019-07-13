@@ -176,7 +176,7 @@ var $indicators = $('<ol>')
         opts = $.extend(opts, {
           title: "Flot!",
           text: 
-            "<IMG SRC=\"img/kramertrue.gif\" width=\"100%\" height=\"100%\" align=\"center\"><br/><br/>" + 
+            "<IMG SRC=\"img/"+"1"+"true.gif\" width=\"100%\" height=\"100%\" align=\"center\"><br/><br/>" + 
             "<h3>Supergodt klaret!!!</h3>" + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +

@@ -1,0 +1,192 @@
+# Hypoteser   
+
+ 1) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål i denne quiz<br><a href="files/HELBRED.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, hvor mange uden job har uddannelse: <p style="font-family:courier;">"Kandidatuddannelser eller længere"</p>?
+ 	- 3
+ 	- 5
+ 	* 7
+ 	- 11
+ 	- 15
+ 	- 21
+(image) img/bean2.gif
+
+    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>
+
+
+
+2) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/HELBRED.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, hvordan finder man det forventede antal?
+ 	- <small>(søjlesum+rækkesum)/totalsum</small>
+ 	- <small>søjlesum+rækkesum/totalsum</small>
+ 	- <small>søjlesum/(rækkesum*totalsum)</small>
+ 	* <small>søjlesum*rækkesum/totalsum</small>
+(image) img/cat.gif
+
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+  
+  
+3) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, er forudsætningerne for testet opfyldt?
+ 	- Nej, ikke alle de observerede værdier er større end 5, kan der være problemer med kvaliteten af testet.
+ 	* Nej, ikke alle de forventede værdier er større end 5, kan der være problemer med kvaliteten af testet.
+ 	- Nej, da nogle af Chi celle bidragene er mindre end 5, kan der være problemer med kvaliteten af testet.
+ 	- Nej, da signifkanssandsynligheden er mindre end 5%, kan der være problemer med kvaliteten af testet.
+ 	- Nej, da Chiteststørrelsen er større end 5, kan der være problemer med kvaliteten af testet.
+(image) img/fundog.gif
+
+   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+   
+  
+
+4) Er der sammenhæng mellem uddannelse og arbejdsløshed?
+ 	* Ja.
+ 	- Nej.
+ 	- Det svarer testet ikke på.
+ 	- Vi kan ikke entydigt afgøre dette uden yderligere tests.
+(image) img/dogcat.gif
+
+   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+
+
+
+
+5) Er der uafhængighed mellem uddannelse og arbejdsløshed?
+   - Ja.
+   * Nej.
+   - Det svarer testet ikke på.
+   - Vi kan ikke entydigt afgøre dette uden yderligere tests.
+(image) img/doggodnight.gif
+
+   Svar: Der er afhængighed dvs sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden. <br><br>På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+  
+
+
+6) Hvor mange frihedsgrader er der i testet?
+ 	- 2
+ 	- 3
+ 	- 4
+ 	- 5
+ 	- 6
+ 	- 7
+   * 8
+   - 9
+   - 10
+(image) img/stat5.jpg
+
+   Svar: Antallet af frihedsgrader for Chi i anden fordelingen findes som: række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså (9-1)*(2-1)=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+7) Hvordan finder man teststørrelsen?
+ 	- Det er summen af de observerede værdier.
+ 	- Det er summen af de forventede værdier.
+ 	* Det er summen af Chi cellebidragene.
+ 	- Det er summen af de signifikanssandsynlighederne.
+ 	- Det er summen af de signifikansniveauerne.
+(image) img/dogwind.gif
+
+   Svar: <a href="https://s.tepedu.dk/Chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+8) Hvordan finder man Chi cellebidragene?
+   - <small>(Observeret-Forventet)^2/Observeret</small>
+   * <small>(Observeret-Forventet)^2/Forventet</small>
+   - <small>(Observeret-Forventet)/Forventet</small>
+   - <small>(Observeret-Forventet)/Observeret</small>
+   - <small>(Observeret-Forventet)/Signifikansniveau</small>
+(image) img/stat2.jpg
+
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+
+9) Hvad bliver teststørrelsen?
+ 	- 5%
+ 	- 7.81
+ 	- 15.51
+ 	- 21.67
+ 	* 40.56
+ 	- 78.72
+   - 95%
+(image) img/stat8.jpg
+
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+
+
+   
+10) Hvad bliver den kritiske værdi?
+   - 5%
+   - 7.81
+   * 15.51
+   - 21.67
+   - 40.56
+   - 78.72
+   - 95%
+ 	(image) img/stat10.jpg
+
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+11) Hvad bliver arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske værdi 15.51 og ud?
+ 	* 5%
+   - 7.81
+   - 15.51
+   - 21.67
+   - 40.56
+   - 78.72
+   - 95%
+ 	(image) img/dogbear.gif
+
+   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+
+12) Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske værdi 15.51 og ud de samme som?
+   - teststørrelsen
+   - signifikanssandsynligheden
+   * signifikansniveauet
+   - Den observerede værdi
+   - Den forventede værdi
+(image) img/hand.gif
+	
+	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+
+13) Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra teststørrelsen 40.56 og ud de samme som?
+   - teststørrelsen
+   * signifikanssandsynligheden
+   - signifikansniveauet
+   - Den observerede værdi
+   - Den forventede værdi
+ (image) img/fundogtv.gif
+
+	Svar: <IMG SRC="img/chidist.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+
+14) Hvad bliver signifikanssandsynligheden?
+   * 0.00%
+   - 0.21%
+   - 0.56%
+   - 2.34%
+   - 4.23%
+   - 5%
+ (image) img/bean3.gif
+
+   Svar: Nedenfor ses at p-værdien/signifikanssandsynligheden bliver 0.00%<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+15) Nævn et og kun et Chi celle bidrag, der dækker over en sammenhæng der specielt bør beskrives?
+   - 0.03
+   - 0.04
+   - 3.02
+   - 4.49
+   * 10.09
+ (image) img/girldrinking.gif
+
+   Svar: Det/de største Chi cellebidrag er vigtige og beskrive, men kun hvis vi som her forkaster nulhypotesen og konstaterer der er sammenhæng.<br><br><IMG SRC="img/chicellebidrag.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+16) Hvilket af følgende udsagn er korrekt ud fra det største Chi cellebidrag?
+   - Har man som højeste uddannelse folkeskolen 6.-8. klasse er der større sandsynlighed for job
+   * Har man som højeste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job
+   - Har man som højeste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der større sandsynlighed for job
+   - Har man som højeste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der mindre sandsynlighed for job
+   - Har man som højeste uddannelse Kort videreg. udd af op til 2-3 år er der større sandsynlighed for job
+   - Har man som højeste uddannelse Kort videreg. udd af op til 2-3 år er der mindre sandsynlighed for job
+ (image) img/girldancing.gif
+
+   Svar: Vi ser, at har man som højste uddannelse folkeskolen 6.-8. klasse, er der mindre sandsynlighed for job, da vi har observeret 20 uden job, mens vi kun forventede 9.97 uden job. Det er denne forholdsmæssigt store forskel mellem observeret og forventet, der giver det store Chi i anden bidrag på 10.09.<br><br><IMG SRC="img/Chiall.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+
+   

@@ -1,0 +1,272 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "3",
+        "5",
+        "7",
+        "11",
+        "15",
+        "21"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsl\u00f8se med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsl\u00f8se med kandidatbaggrund er 7<br><br><br>       <br> <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>"
+      },
+      "image": "img/bean2.gif",
+      "number": 1,
+      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l i denne quiz<br><a href=\"files/HELBRED.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvor mange uden job har uddannelse: <p style=\"font-family:courier;\">\"Kandidatuddannelser eller l\u00e6ngere\"</p>?"
+    },
+    {
+      "answers": [
+        "<small>(s\u00f8jlesum+r\u00e6kkesum)/totalsum</small>",
+        "<small>s\u00f8jlesum+r\u00e6kkesum/totalsum</small>",
+        "<small>s\u00f8jlesum/(r\u00e6kkesum*totalsum)</small>",
+        "<small>s\u00f8jlesum*r\u00e6kkesum/totalsum</small>"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/cat.gif",
+      "number": 2,
+      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l<br><a href=\"files/HELBRED.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvordan finder man det forventede antal?"
+    },
+    {
+      "answers": [
+        "Nej, ikke alle de observerede v\u00e6rdier er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
+        "Nej, ikke alle de forventede v\u00e6rdier er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
+        "Nej, da nogle af Chi celle bidragene er mindre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
+        "Nej, da signifkanssandsynligheden er mindre end 5%, kan der v\u00e6re problemer med kvaliteten af testet.",
+        "Nej, da Chitestst\u00f8rrelsen er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: Vi skal tjekke de forventede v\u00e6rdier, der er en v\u00e6rdi 4.33, der er mindre end 5, dette b\u00f8r vi skrive en bem\u00e6rkning om, man kan evt. sammenl\u00e6gge kategorier for at l\u00f8se problemet. Vi v\u00e6lger her at forts\u00e6tte testet uden at sammenl\u00e6gge yderligere, da v\u00e6rdierne er nogenlunde t\u00e6t p\u00e5 5. P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chiexpected.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/fundog.gif",
+      "number": 3,
+      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l<br><a href=\"files/Virksomheder.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, er foruds\u00e6tningerne for testet opfyldt?"
+    },
+    {
+      "answers": [
+        "Ja.",
+        "Nej.",
+        "Det svarer testet ikke p\u00e5.",
+        "Vi kan ikke entydigt afg\u00f8re dette uden yderligere tests."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Svar: Der er sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed, uddannelsen har betydning for ledigheden.<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/dogcat.gif",
+      "number": 4,
+      "prompt": "Er der sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed?"
+    },
+    {
+      "answers": [
+        "Ja.",
+        "Nej.",
+        "Det svarer testet ikke p\u00e5.",
+        "Vi kan ikke entydigt afg\u00f8re dette uden yderligere tests."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: Der er afh\u00e6ngighed dvs sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed, uddannelsen har betydning for ledigheden. <br><br>P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chitolkning.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/doggodnight.gif",
+      "number": 5,
+      "prompt": "Er der uafh\u00e6ngighed mellem uddannelse og arbejdsl\u00f8shed?"
+    },
+    {
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": {
+        "index": 6,
+        "text": "Svar: Antallet af frihedsgrader for Chi i anden fordelingen findes som: r\u00e6kke kategorier minus 1 dvs. 9-1=8 gange s\u00f8jle kategorier minus 1 dvs. 2-1=1 alts\u00e5 (9-1)*(2-1)=8 frihedsgrader<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/stat5.jpg",
+      "number": 6,
+      "prompt": "Hvor mange frihedsgrader er der i testet?"
+    },
+    {
+      "answers": [
+        "Det er summen af de observerede v\u00e6rdier.",
+        "Det er summen af de forventede v\u00e6rdier.",
+        "Det er summen af Chi cellebidragene.",
+        "Det er summen af de signifikanssandsynlighederne.",
+        "Det er summen af de signifikansniveauerne."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/Chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/dogwind.gif",
+      "number": 7,
+      "prompt": "Hvordan finder man testst\u00f8rrelsen?"
+    },
+    {
+      "answers": [
+        "<small>(Observeret-Forventet)^2/Observeret</small>",
+        "<small>(Observeret-Forventet)^2/Forventet</small>",
+        "<small>(Observeret-Forventet)/Forventet</small>",
+        "<small>(Observeret-Forventet)/Observeret</small>",
+        "<small>(Observeret-Forventet)/Signifikansniveau</small>"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/stat2.jpg",
+      "number": 8,
+      "prompt": "Hvordan finder man Chi cellebidragene?"
+    },
+    {
+      "answers": [
+        "5%",
+        "7.81",
+        "15.51",
+        "21.67",
+        "40.56",
+        "78.72",
+        "95%"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/stat8.jpg",
+      "number": 9,
+      "prompt": "Hvad bliver testst\u00f8rrelsen?"
+    },
+    {
+      "answers": [
+        "5%",
+        "7.81",
+        "15.51",
+        "21.67",
+        "40.56",
+        "78.72",
+        "95%"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/stat10.jpg",
+      "number": 10,
+      "prompt": "Hvad bliver den kritiske v\u00e6rdi?"
+    },
+    {
+      "answers": [
+        "5%",
+        "7.81",
+        "15.51",
+        "21.67",
+        "40.56",
+        "78.72",
+        "95%"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/dogbear.gif",
+      "number": 11,
+      "prompt": "Hvad bliver arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske v\u00e6rdi 15.51 og ud?"
+    },
+    {
+      "answers": [
+        "testst\u00f8rrelsen",
+        "signifikanssandsynligheden",
+        "signifikansniveauet",
+        "Den observerede v\u00e6rdi",
+        "Den forventede v\u00e6rdi"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/hand.gif",
+      "number": 12,
+      "prompt": "Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske v\u00e6rdi 15.51 og ud de samme som?"
+    },
+    {
+      "answers": [
+        "testst\u00f8rrelsen",
+        "signifikanssandsynligheden",
+        "signifikansniveauet",
+        "Den observerede v\u00e6rdi",
+        "Den forventede v\u00e6rdi"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: <IMG SRC=\"img/chidist.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/fundogtv.gif",
+      "number": 13,
+      "prompt": "Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra testst\u00f8rrelsen 40.56 og ud de samme som?"
+    },
+    {
+      "answers": [
+        "0.00%",
+        "0.21%",
+        "0.56%",
+        "2.34%",
+        "4.23%",
+        "5%"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Svar: Nedenfor ses at p-v\u00e6rdien/signifikanssandsynligheden bliver 0.00%<br><br><IMG SRC=\"img/chitolkning.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/bean3.gif",
+      "number": 14,
+      "prompt": "Hvad bliver signifikanssandsynligheden?"
+    },
+    {
+      "answers": [
+        "0.03",
+        "0.04",
+        "3.02",
+        "4.49",
+        "10.09"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Svar: Det/de st\u00f8rste Chi cellebidrag er vigtige og beskrive, men kun hvis vi som her forkaster nulhypotesen og konstaterer der er sammenh\u00e6ng.<br><br><IMG SRC=\"img/chicellebidrag.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/girldrinking.gif",
+      "number": 15,
+      "prompt": "N\u00e6vn et og kun et Chi celle bidrag, der d\u00e6kker over en sammenh\u00e6ng der specielt b\u00f8r beskrives?"
+    },
+    {
+      "answers": [
+        "Har man som h\u00f8jeste uddannelse folkeskolen 6.-8. klasse er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse Kort erhvervsudd. under 1-2 \u00e5rs varighed, F.eks AMU Arbejdsmarkedsudd., Basis\u00e5r er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse Kort erhvervsudd. under 1-2 \u00e5rs varighed, F.eks AMU Arbejdsmarkedsudd., Basis\u00e5r er der mindre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse Kort videreg. udd af op til 2-3 \u00e5r er der st\u00f8rre sandsynlighed for job",
+        "Har man som h\u00f8jeste uddannelse Kort videreg. udd af op til 2-3 \u00e5r er der mindre sandsynlighed for job"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: Vi ser, at har man som h\u00f8jste uddannelse folkeskolen 6.-8. klasse, er der mindre sandsynlighed for job, da vi har observeret 20 uden job, mens vi kun forventede 9.97 uden job. Det er denne forholdsm\u00e6ssigt store forskel mellem observeret og forventet, der giver det store Chi i anden bidrag p\u00e5 10.09.<br><br><IMG SRC=\"img/Chiall.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+      },
+      "image": "img/girldancing.gif",
+      "number": 16,
+      "prompt": "Hvilket af f\u00f8lgende udsagn er korrekt ud fra det st\u00f8rste Chi cellebidrag?"
+    }
+  ],
+  "title": "Hypoteser",
+  "url": null
+}

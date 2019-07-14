@@ -189,155 +189,17 @@
     },
     {
       "answers": [
-        "Fordi vi forkaster nulhypotesen om at h\u00e6ldningen &beta; er lig med 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.",
-        "Fordi vi ikke kan afvise nulhypotesen om at h\u00e6ldningen &beta; er forskellig fra 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.",
-        "Fordi vi forkaster nulhypotesen om at sk\u00e6ringen &beta; er lig med 0, alts\u00e5 er sk\u00e6ringen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen."
+        "Fordi vi forkaster nulhypotesen om at h\u00e6ldningen er lig med 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.",
+        "Fordi vi ikke kan afvise nulhypotesen om at h\u00e6ldningen er forskellig fra 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.",
+        "Fordi vi forkaster nulhypotesen om at sk\u00e6ringen er lig med 0, alts\u00e5 er sk\u00e6ringen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen."
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: Nej overskudsgrad skal fjernes fra modellen.<br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Fordi vi forkaster nulhypotesen om at h\u00e6ldningen &beta;<sub>forklarende variabel</sub> er lig med 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.<br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat8.jpg",
       "number": 13,
       "prompt": "Hvad forklarer bedst, hvorfor vi taler om at en forklarende variabel er signifikant?"
-    },
-    {
-      "answers": [
-        "ja",
-        "nej",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "correct": {
-        "index": 6,
-        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/stat5.jpg",
-      "number": 14,
-      "prompt": "Hvad bliver R-kvadreret justeret?"
-    },
-    {
-      "answers": [
-        "Det er summen af de observerede v\u00e6rdier.",
-        "Det er summen af de forventede v\u00e6rdier.",
-        "Det er summen af Chi cellebidragene.",
-        "Det er summen af de signifikanssandsynlighederne.",
-        "Det er summen af de signifikansniveauerne."
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/dogwind.gif",
-      "number": 15,
-      "prompt": "Hvordan finder man testst\u00f8rrelsen?"
-    },
-    {
-      "answers": [
-        "<small>(Observeret-Forventet)^2/Observeret</small>",
-        "<small>(Observeret-Forventet)^2/Forventet</small>",
-        "<small>(Observeret-Forventet)/Forventet</small>",
-        "<small>(Observeret-Forventet)/Observeret</small>",
-        "<small>(Observeret-Forventet)/Signifikansniveau</small>"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/stat2.jpg",
-      "number": 16,
-      "prompt": "Hvor?"
-    },
-    {
-      "answers": [
-        "5%",
-        "7.81",
-        "15.51",
-        "21.67",
-        "40.56",
-        "78.72",
-        "95%"
-      ],
-      "correct": {
-        "index": 4,
-        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/stat8.jpg",
-      "number": 17,
-      "prompt": "Hvad?"
-    },
-    {
-      "answers": [
-        "5%",
-        "7.81",
-        "15.51",
-        "21.67",
-        "40.56",
-        "78.72",
-        "95%"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/stat10.jpg",
-      "number": 18,
-      "prompt": "Hvad?"
-    },
-    {
-      "answers": [
-        "5%",
-        "7.81",
-        "15.51",
-        "21.67",
-        "40.56",
-        "78.72",
-        "95%"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/dogbear.gif",
-      "number": 19,
-      "prompt": "Hvad?"
-    },
-    {
-      "answers": [
-        "testst\u00f8rrelsen",
-        "signifikanssandsynligheden",
-        "signifikansniveauet",
-        "Den observerede v\u00e6rdi",
-        "Den forventede v\u00e6rdi"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/hand.gif",
-      "number": 20,
-      "prompt": "Hvad?"
-    },
-    {
-      "answers": [
-        "testst\u00f8rrelsen",
-        "signifikanssandsynligheden",
-        "signifikansniveauet",
-        "Den observerede v\u00e6rdi",
-        "Den forventede v\u00e6rdi"
-      ],
-      "correct": {
-        "index": 1,
-        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/fundogtv.gif",
-      "number": 21,
-      "prompt": "Hvad?"
     }
   ],
   "title": "Hypoteser",

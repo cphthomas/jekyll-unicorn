@@ -132,12 +132,12 @@ Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten f
 
 
 13) Hvad forklarer bedst, hvorfor vi taler om at en forklarende variabel er signifikant?
-   * Fordi vi forkaster nulhypotesen om at hældningen &beta; er lig med 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
-   - Fordi vi ikke kan afvise nulhypotesen om at hældningen &beta; er forskellig fra 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
-   - Fordi vi forkaster nulhypotesen om at skæringen &beta; er lig med 0, altså er skæringen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
+   * Fordi vi forkaster nulhypotesen om at hældningen er lig med 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
+   - Fordi vi ikke kan afvise nulhypotesen om at hældningen er forskellig fra 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
+   - Fordi vi forkaster nulhypotesen om at skæringen er lig med 0, altså er skæringen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
 (image) img/stat8.jpg
 
-   Svar: Nej overskudsgrad skal fjernes fra modellen.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Fordi vi forkaster nulhypotesen om at hældningen &beta;<sub>forklarende variabel</sub> er lig med 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 
@@ -168,96 +168,3 @@ Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten f
 
 
 
-14) Hvad bliver R-kvadreret justeret?
- 	- ja
- 	- nej
- 	- 4
- 	- 5
- 	- 6
- 	- 7
-   * 8
-   - 9
-   - 10
-(image) img/stat5.jpg
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-15) Hvordan finder man teststørrelsen?
- 	- Det er summen af de observerede værdier.
- 	- Det er summen af de forventede værdier.
- 	* Det er summen af Chi cellebidragene.
- 	- Det er summen af de signifikanssandsynlighederne.
- 	- Det er summen af de signifikansniveauerne.
-(image) img/dogwind.gif
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-16) Hvor?
-   - <small>(Observeret-Forventet)^2/Observeret</small>
-   * <small>(Observeret-Forventet)^2/Forventet</small>
-   - <small>(Observeret-Forventet)/Forventet</small>
-   - <small>(Observeret-Forventet)/Observeret</small>
-   - <small>(Observeret-Forventet)/Signifikansniveau</small>
-(image) img/stat2.jpg
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-17) Hvad?
- 	- 5%
- 	- 7.81
- 	- 15.51
- 	- 21.67
- 	* 40.56
- 	- 78.72
-   - 95%
-(image) img/stat8.jpg
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-
-   
-18) Hvad?
-   - 5%
-   - 7.81
-   * 15.51
-   - 21.67
-   - 40.56
-   - 78.72
-   - 95%
- 	(image) img/stat10.jpg
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-19) Hvad?
- 	* 5%
-   - 7.81
-   - 15.51
-   - 21.67
-   - 40.56
-   - 78.72
-   - 95%
- 	(image) img/dogbear.gif
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-
-20) Hvad?
-   - teststørrelsen
-   - signifikanssandsynligheden
-   * signifikansniveauet
-   - Den observerede værdi
-   - Den forventede værdi
-(image) img/hand.gif
-	
-	Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-
-21) Hvad?
-   - teststørrelsen
-   * signifikanssandsynligheden
-   - signifikansniveauet
-   - Den observerede værdi
-   - Den forventede værdi
- (image) img/fundogtv.gif
-
-	Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>

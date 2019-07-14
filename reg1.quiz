@@ -41,7 +41,7 @@
    - SSR
 (image) img/dogcat.gif
 
-   Svar: <br><IMG SRC="img/reg1lånkoef.png" width="50%" height="50%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: <br><IMG SRC="img/reg1lnkoef.png" width="50%" height="50%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 
@@ -58,7 +58,7 @@
    - Når der er tale om et variabelt forrentet lån, stiger udlånsrenten med 0.4108 procentpoint.
 (image) img/stat1.jpg
    
-   Svar: Renten er målt i procent, parameterestimatet beskriver ændringen i renten i procentpoint (vigtigt IKKE procent), når dummy variablen tændes. Altså når der er tale om et fastforrentet lån.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1lånkoef.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Renten er målt i procent, parameterestimatet beskriver ændringen i renten i procentpoint (vigtigt IKKE procent), når dummy variablen tændes. Altså når der er tale om et fastforrentet lån.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1lnkoef.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 6) Giver fortegnet på parameterestimatet for lånetype mening?
    - Nej, når der er tale om et variabelt forrentet lån, bør udlånsrenten være højere, end ved et fastforrentet lån.

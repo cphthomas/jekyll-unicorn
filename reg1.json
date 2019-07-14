@@ -2,86 +2,108 @@
   "questions": [
     {
       "answers": [
-        "3",
-        "5",
-        "7",
-        "11",
-        "15",
-        "21"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsl\u00f8se med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsl\u00f8se med kandidatbaggrund er 7<br><br><br>       <br> <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>"
-      },
-      "image": "img/bean2.gif",
-      "number": 1,
-      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l i denne quiz<br><a href=\"files/HELBRED.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvor mange uden job har uddannelse: <p style=\"font-family:courier;\">\"Kandidatuddannelser eller l\u00e6ngere\"</p>?"
-    },
-    {
-      "answers": [
-        "<small>(s\u00f8jlesum+r\u00e6kkesum)/totalsum</small>",
-        "<small>s\u00f8jlesum+r\u00e6kkesum/totalsum</small>",
-        "<small>s\u00f8jlesum/(r\u00e6kkesum*totalsum)</small>",
-        "<small>s\u00f8jlesum*r\u00e6kkesum/totalsum</small>"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
-      },
-      "image": "img/cat.gif",
-      "number": 2,
-      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l<br><a href=\"files/HELBRED.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, hvordan finder man det forventede antal?"
-    },
-    {
-      "answers": [
-        "Nej, ikke alle de observerede v\u00e6rdier er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
-        "Nej, ikke alle de forventede v\u00e6rdier er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
-        "Nej, da nogle af Chi celle bidragene er mindre end 5, kan der v\u00e6re problemer med kvaliteten af testet.",
-        "Nej, da signifkanssandsynligheden er mindre end 5%, kan der v\u00e6re problemer med kvaliteten af testet.",
-        "Nej, da Chitestst\u00f8rrelsen er st\u00f8rre end 5, kan der v\u00e6re problemer med kvaliteten af testet."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "Svar: Vi skal tjekke de forventede v\u00e6rdier, der er en v\u00e6rdi 4.33, der er mindre end 5, dette b\u00f8r vi skrive en bem\u00e6rkning om, man kan evt. sammenl\u00e6gge kategorier for at l\u00f8se problemet. Vi v\u00e6lger her at forts\u00e6tte testet uden at sammenl\u00e6gge yderligere, da v\u00e6rdierne er nogenlunde t\u00e6t p\u00e5 5. P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chiexpected.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
-      },
-      "image": "img/fundog.gif",
-      "number": 3,
-      "prompt": "Nedenfor er et datas\u00e6t omkring helbred, uddannelse osv. dette skal du benytte for at besvare de f\u00f8lgende sp\u00f8rgsm\u00e5l<br><a href=\"files/Virksomheder.xlsx\" download=\"HELBRED.xlsx\"> Download datas\u00e6ttet HELBRED.xlsx her</a><br> Sammenlign k\u00f8n og uddannelse, er foruds\u00e6tningerne for testet opfyldt?"
-    },
-    {
-      "answers": [
-        "Ja.",
-        "Nej.",
-        "Det svarer testet ikke p\u00e5.",
-        "Vi kan ikke entydigt afg\u00f8re dette uden yderligere tests."
+        "Kvalitativ",
+        "Kvantitativ",
+        "Mesokurtisk",
+        "Kontinuert"
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: Der er sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed, uddannelsen har betydning for ledigheden.<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: Der er tale om en variabel med 2 mulige udfald Variabelt forrentet eller Fast forrentet. Variablen er en kvalitativ bin\u00e6r variabel<br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/cat.gif",
+      "number": 1,
+      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:<br>       <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her</a><br>            Ledelsen \u00f8nsker et redskab, der kan hj\u00e6lpe medarbejdere i fasts\u00e6ttelsen af renter. Man \u00f8nsker en model, der kan forudsige, hvilken rente en erhvervskunde skal tilbydes. Opstil en regressionsmodel, der kan forklare Renten ud fra Oms\u00e6tning i tusind kroner, Overskudsgrad(%), Rating og La\u030anetype. <br><br> Hvad type variabel er l\u00e5netype?"
+    },
+    {
+      "answers": [
+        "Et parameterestimat",
+        "En sk\u00e6ring",
+        "Et intercept",
+        "En residual",
+        "En dummy variabel"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Svar: Vi kalder denne for en dummy variabel<br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/fundog.gif",
+      "number": 2,
+      "prompt": "Hvad kalder vi en kvalitativ bin\u00e6r variabel, n\u00e5r vi benytter den i en line\u00e6r regressionsmodel?"
+    },
+    {
+      "answers": [
+        "Parameterestimatet",
+        "Sk\u00e6ringen",
+        "Interceptet",
+        "Residualen",
+        "Et fast forrentet l\u00e5n",
+        "SSR"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Svar: Basis for dummy variablen betyder, hvad er v\u00e6rdien af dummy variablen, n\u00e5r den er slukket. Alts\u00e5 et fast forrentet l\u00e5n.<br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "number": 3,
+      "prompt": "Kod dummy variablen, s\u00e5 den er t\u00e6ndt, n\u00e5r der er tale om et variabelt forrentet l\u00e5n.<br>Hvad er basis da for dummy variablen?"
+    },
+    {
+      "answers": [
+        "0.1614",
+        "0.61",
+        "0.4108",
+        "445.91",
+        "Interceptet",
+        "Residualen",
+        "SSR"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/dogcat.gif",
       "number": 4,
-      "prompt": "Er der sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed?"
+      "prompt": "Hvad er parameterestimatet for l\u00e5netype?"
     },
     {
       "answers": [
-        "Ja.",
-        "Nej.",
-        "Det svarer testet ikke p\u00e5.",
-        "Vi kan ikke entydigt afg\u00f8re dette uden yderligere tests."
+        "N\u00e5r der er tale om et fastforrentet l\u00e5n stiger, renten med 0.4108 procent.",
+        "N\u00e5r der er tale om et fastforrentet l\u00e5n stiger, renten med 0.4108 procentpoint.",
+        "N\u00e5r der er tale om et fastforrentet l\u00e5n stiger, renten med 41.08 procent.",
+        "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger renten med 0.4108 procent.",
+        "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger renten med 41.08 procent.",
+        "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger udl\u00e5nsrenten med 0.4108 procentpoint."
       ],
       "correct": {
-        "index": 1,
-        "text": "Svar: Der er afh\u00e6ngighed dvs sammenh\u00e6ng mellem uddannelse og arbejdsl\u00f8shed, uddannelsen har betydning for ledigheden. <br><br>P\u00e5 billedet herunder ses output fra Freestat<br><br><IMG SRC=\"img/chitolkning.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "index": 5,
+        "text": "Svar: Renten er m\u00e5lt i procent, parameterestimatet beskriver \u00e6ndringen i denne rente i procentpoint, n\u00e5r dummy variablen t\u00e6ndes. Alts\u00e5 n\u00e5r der er tale om et variabelt forrentet l\u00e5n.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1rkvadreret.png\" width=\"50%\" height=\"50%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
-      "image": "img/doggodnight.gif",
+      "image": "img/stat1.jpg",
       "number": 5,
-      "prompt": "Er der uafh\u00e6ngighed mellem uddannelse og arbejdsl\u00f8shed?"
+      "prompt": "Hvordan kan man bedst forklare parameterestimatet for l\u00e5netype 0.4108?"
     },
     {
       "answers": [
-        "2",
-        "3",
+        "16.14%",
+        "19.03%",
+        "23.78%",
+        "51.28%",
+        "89.48%",
+        "93.98%",
+        "98.11%"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Svar: R-kvadreret justeret bliver 16.14%. Det betyder med andre ord at 16.14% af variationen i Renten kan forklares ved variationen i de 4 forklarende variable. Alts\u00e5 skal 83.86% af variationen forklares ved andre faktorer.  <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1rkvadreret.png\" width=\"50%\" height=\"50%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/bean2.gif",
+      "number": 6,
+      "prompt": "Hvad bliver R-kvadreret justeret?"
+    },
+    {
+      "answers": [
+        "ja",
+        "nej",
         "4",
         "5",
         "6",
@@ -92,11 +114,11 @@
       ],
       "correct": {
         "index": 6,
-        "text": "Svar: Antallet af frihedsgrader for Chi i anden fordelingen findes som: r\u00e6kke kategorier minus 1 dvs. 9-1=8 gange s\u00f8jle kategorier minus 1 dvs. 2-1=1 alts\u00e5 (9-1)*(2-1)=8 frihedsgrader<br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat5.jpg",
       "number": 6,
-      "prompt": "Hvor mange frihedsgrader er der i testet?"
+      "prompt": "testet?"
     },
     {
       "answers": [
@@ -108,7 +130,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/Chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/dogwind.gif",
       "number": 7,
@@ -124,11 +146,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat2.jpg",
       "number": 8,
-      "prompt": "Hvordan finder man Chi cellebidragene?"
+      "prompt": "Hvor?"
     },
     {
       "answers": [
@@ -142,11 +164,11 @@
       ],
       "correct": {
         "index": 4,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat8.jpg",
       "number": 9,
-      "prompt": "Hvad bliver testst\u00f8rrelsen?"
+      "prompt": "Hvad?"
     },
     {
       "answers": [
@@ -160,11 +182,11 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat10.jpg",
       "number": 10,
-      "prompt": "Hvad bliver den kritiske v\u00e6rdi?"
+      "prompt": "Hvad?"
     },
     {
       "answers": [
@@ -178,11 +200,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/dogbear.gif",
       "number": 11,
-      "prompt": "Hvad bliver arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske v\u00e6rdi 15.51 og ud?"
+      "prompt": "Hvad?"
     },
     {
       "answers": [
@@ -194,11 +216,11 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/hand.gif",
       "number": 12,
-      "prompt": "Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske v\u00e6rdi 15.51 og ud de samme som?"
+      "prompt": "Hvad?"
     },
     {
       "answers": [
@@ -210,11 +232,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: <IMG SRC=\"img/chidist.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/fundogtv.gif",
       "number": 13,
-      "prompt": "Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra testst\u00f8rrelsen 40.56 og ud de samme som?"
+      "prompt": "Hvad?"
     },
     {
       "answers": [
@@ -227,11 +249,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: Nedenfor ses at p-v\u00e6rdien/signifikanssandsynligheden bliver 0.00%<br><br><IMG SRC=\"img/chitolkning.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/bean3.gif",
       "number": 14,
-      "prompt": "Hvad bliver signifikanssandsynligheden?"
+      "prompt": "Hvad?"
     },
     {
       "answers": [
@@ -243,11 +265,11 @@
       ],
       "correct": {
         "index": 4,
-        "text": "Svar: Det/de st\u00f8rste Chi cellebidrag er vigtige og beskrive, men kun hvis vi som her forkaster nulhypotesen og konstaterer der er sammenh\u00e6ng.<br><br><IMG SRC=\"img/chicellebidrag.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/girldrinking.gif",
       "number": 15,
-      "prompt": "N\u00e6vn et og kun et Chi celle bidrag, der d\u00e6kker over en sammenh\u00e6ng der specielt b\u00f8r beskrives?"
+      "prompt": "N\u00e6vn?"
     },
     {
       "answers": [
@@ -260,11 +282,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: Vi ser, at har man som h\u00f8jste uddannelse folkeskolen 6.-8. klasse, er der mindre sandsynlighed for job, da vi har observeret 20 uden job, mens vi kun forventede 9.97 uden job. Det er denne forholdsm\u00e6ssigt store forskel mellem observeret og forventet, der giver det store Chi i anden bidrag p\u00e5 10.09.<br><br><IMG SRC=\"img/Chiall.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br><a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>"
+        "text": "Svar: <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/girldancing.gif",
       "number": 16,
-      "prompt": "Hvilket af f\u00f8lgende udsagn er korrekt ud fra det st\u00f8rste Chi cellebidrag?"
+      "prompt": "Hvilket?"
     }
   ],
   "title": "Hypoteser",

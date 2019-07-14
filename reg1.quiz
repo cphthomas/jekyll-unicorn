@@ -1,68 +1,81 @@
 # Hypoteser   
 
- 1) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål i denne quiz<br><a href="files/HELBRED.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, hvor mange uden job har uddannelse: <p style="font-family:courier;">"Kandidatuddannelser eller længere"</p>?
- 	- 3
- 	- 5
- 	* 7
- 	- 11
- 	- 15
- 	- 21
-(image) img/bean2.gif
-
-    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>
-
-
-
-2) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/HELBRED.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, hvordan finder man det forventede antal?
- 	- <small>(søjlesum+rækkesum)/totalsum</small>
- 	- <small>søjlesum+rækkesum/totalsum</small>
- 	- <small>søjlesum/(rækkesum*totalsum)</small>
- 	* <small>søjlesum*rækkesum/totalsum</small>
+ 1)  Du er ansat i en bank. Ledelsen ønsker en analyse af renter på udlån til virksomheder i banken. Du har data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:<br>       <IMG SRC="img/reg1variable.png" width="80%" height="80%" align="center">        <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her</a><br>            Ledelsen ønsker et redskab, der kan hjælpe medarbejdere i fastsættelsen af renter. Man ønsker en model, der kan forudsige, hvilken rente en erhvervskunde skal tilbydes. Opstil en regressionsmodel, der kan forklare Renten ud fra Omsætning i tusind kroner, Overskudsgrad(%), Rating og Lånetype. <br><br> Hvad type variabel er lånetype?
+ 	* Kvalitativ
+ 	- Kvantitativ
+ 	- Mesokurtisk
+ 	- Kontinuert
 (image) img/cat.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: Der er tale om en variabel med 2 mulige udfald Variabelt forrentet eller Fast forrentet. Variablen er en kvalitativ binær variabel<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
   
   
-3) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål<br><a href="files/Virksomheder.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, er forudsætningerne for testet opfyldt?
- 	- Nej, ikke alle de observerede værdier er større end 5, kan der være problemer med kvaliteten af testet.
- 	* Nej, ikke alle de forventede værdier er større end 5, kan der være problemer med kvaliteten af testet.
- 	- Nej, da nogle af Chi celle bidragene er mindre end 5, kan der være problemer med kvaliteten af testet.
- 	- Nej, da signifkanssandsynligheden er mindre end 5%, kan der være problemer med kvaliteten af testet.
- 	- Nej, da Chiteststørrelsen er større end 5, kan der være problemer med kvaliteten af testet.
+2) Hvad kalder vi en kvalitativ binær variabel, når vi benytter den i en lineær regressionsmodel?
+ 	- Et parameterestimat
+ 	- En skæring
+   - Et intercept
+ 	- En residual
+ 	* En dummy variabel
 (image) img/fundog.gif
 
-   Svar: Vi skal tjekke de forventede værdier, der er en værdi 4.33, der er mindre end 5, dette bør vi skrive en bemærkning om, man kan evt. sammenlægge kategorier for at løse problemet. Vi vælger her at fortsætte testet uden at sammenlægge yderligere, da værdierne er nogenlunde tæt på 5. På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chiexpected.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: Vi kalder denne for en dummy variabel<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-   
-  
+3) Kod dummy variablen, så den er tændt, når der er tale om et variabelt forrentet lån.<br>Hvad er basis da for dummy variablen?
+   - Parameterestimatet
+   - Skæringen
+   - Interceptet
+   - Residualen
+   * Et fast forrentet lån
+   - SSR
 
-4) Er der sammenhæng mellem uddannelse og arbejdsløshed?
- 	* Ja.
- 	- Nej.
- 	- Det svarer testet ikke på.
- 	- Vi kan ikke entydigt afgøre dette uden yderligere tests.
+   Svar: Basis for dummy variablen betyder, hvad er værdien af dummy variablen, når den er slukket. Altså et fast forrentet lån.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+4) Hvad er parameterestimatet for lånetype?
+ 	- 0.1614
+ 	- 0.61
+ 	* 0.4108
+ 	- 445.91
+   - Interceptet
+   - Residualen
+   - SSR
 (image) img/dogcat.gif
 
-   Svar: Der er sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden.<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+
+
+5) Hvordan kan man bedst forklare parameterestimatet for lånetype 0.4108?
+   - Når der er tale om et fastforrentet lån stiger, renten med 0.4108 procent.
+   - Når der er tale om et fastforrentet lån stiger, renten med 0.4108 procentpoint.
+   - Når der er tale om et fastforrentet lån stiger, renten med 41.08 procent.
+   - Når der er tale om et variabelt forrentet lån, stiger renten med 0.4108 procent.
+   - Når der er tale om et variabelt forrentet lån, stiger renten med 41.08 procent.
+   * Når der er tale om et variabelt forrentet lån, stiger udlånsrenten med 0.4108 procentpoint.
+(image) img/stat1.jpg
+   
+   Svar: Renten er målt i procent, parameterestimatet beskriver ændringen i denne rente i procentpoint, når dummy variablen tændes. Altså når der er tale om et variabelt forrentet lån.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1rkvadreret.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 
 
+6) Hvad bliver R-kvadreret justeret?
+   * 16.14%
+   - 19.03%
+   - 23.78%
+   - 51.28%
+   - 89.48%
+   - 93.98%
+   - 98.11%
+(image) img/bean2.gif
 
-5) Er der uafhængighed mellem uddannelse og arbejdsløshed?
-   - Ja.
-   * Nej.
-   - Det svarer testet ikke på.
-   - Vi kan ikke entydigt afgøre dette uden yderligere tests.
-(image) img/doggodnight.gif
-
-   Svar: Der er afhængighed dvs sammenhæng mellem uddannelse og arbejdsløshed, uddannelsen har betydning for ledigheden. <br><br>På billedet herunder ses output fra Freestat<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
-  
+    Svar: R-kvadreret justeret bliver 16.14%. Det betyder med andre ord at 16.14% af variationen i Renten kan forklares ved variationen i de 4 forklarende variable. Altså skal 83.86% af variationen forklares ved andre faktorer.  <br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1rkvadreret.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
-6) Hvor mange frihedsgrader er der i testet?
- 	- 2
- 	- 3
+
+
+6) testet?
+ 	- ja
+ 	- nej
  	- 4
  	- 5
  	- 6
@@ -72,7 +85,7 @@
    - 10
 (image) img/stat5.jpg
 
-   Svar: Antallet af frihedsgrader for Chi i anden fordelingen findes som: række kategorier minus 1 dvs. 9-1=8 gange søjle kategorier minus 1 dvs. 2-1=1 altså (9-1)*(2-1)=8 frihedsgrader<br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 7) Hvordan finder man teststørrelsen?
  	- Det er summen af de observerede værdier.
@@ -82,9 +95,9 @@
  	- Det er summen af de signifikansniveauerne.
 (image) img/dogwind.gif
 
-   Svar: <a href="https://s.tepedu.dk/Chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-8) Hvordan finder man Chi cellebidragene?
+8) Hvor?
    - <small>(Observeret-Forventet)^2/Observeret</small>
    * <small>(Observeret-Forventet)^2/Forventet</small>
    - <small>(Observeret-Forventet)/Forventet</small>
@@ -92,10 +105,9 @@
    - <small>(Observeret-Forventet)/Signifikansniveau</small>
 (image) img/stat2.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-
-9) Hvad bliver teststørrelsen?
+9) Hvad?
  	- 5%
  	- 7.81
  	- 15.51
@@ -105,12 +117,11 @@
    - 95%
 (image) img/stat8.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
-
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
    
-10) Hvad bliver den kritiske værdi?
+10) Hvad?
    - 5%
    - 7.81
    * 15.51
@@ -120,9 +131,9 @@
    - 95%
  	(image) img/stat10.jpg
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-11) Hvad bliver arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske værdi 15.51 og ud?
+11) Hvad?
  	* 5%
    - 7.81
    - 15.51
@@ -132,10 +143,10 @@
    - 95%
  	(image) img/dogbear.gif
 
-   Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
-12) Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra den kritiske værdi 15.51 og ud de samme som?
+12) Hvad?
    - teststørrelsen
    - signifikanssandsynligheden
    * signifikansniveauet
@@ -143,10 +154,10 @@
    - Den forventede værdi
 (image) img/hand.gif
 	
-	Svar: <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+	Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
-13) Hvad er arealet under halen af Chi i anden fordelingen med 8 frihedsgrader fra teststørrelsen 40.56 og ud de samme som?
+13) Hvad?
    - teststørrelsen
    * signifikanssandsynligheden
    - signifikansniveauet
@@ -154,10 +165,9 @@
    - Den forventede værdi
  (image) img/fundogtv.gif
 
-	Svar: <IMG SRC="img/chidist.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+	Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-
-14) Hvad bliver signifikanssandsynligheden?
+14) Hvad?
    * 0.00%
    - 0.21%
    - 0.56%
@@ -166,9 +176,9 @@
    - 5%
  (image) img/bean3.gif
 
-   Svar: Nedenfor ses at p-værdien/signifikanssandsynligheden bliver 0.00%<br><br><IMG SRC="img/chitolkning.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-15) Nævn et og kun et Chi celle bidrag, der dækker over en sammenhæng der specielt bør beskrives?
+15) Nævn?
    - 0.03
    - 0.04
    - 3.02
@@ -176,9 +186,9 @@
    * 10.09
  (image) img/girldrinking.gif
 
-   Svar: Det/de største Chi cellebidrag er vigtige og beskrive, men kun hvis vi som her forkaster nulhypotesen og konstaterer der er sammenhæng.<br><br><IMG SRC="img/chicellebidrag.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-16) Hvilket af følgende udsagn er korrekt ud fra det største Chi cellebidrag?
+16) Hvilket?
    - Har man som højeste uddannelse folkeskolen 6.-8. klasse er der større sandsynlighed for job
    * Har man som højeste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job
    - Har man som højeste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der større sandsynlighed for job
@@ -187,6 +197,6 @@
    - Har man som højeste uddannelse Kort videreg. udd af op til 2-3 år er der mindre sandsynlighed for job
  (image) img/girldancing.gif
 
-   Svar: Vi ser, at har man som højste uddannelse folkeskolen 6.-8. klasse, er der mindre sandsynlighed for job, da vi har observeret 20 uden job, mens vi kun forventede 9.97 uden job. Det er denne forholdsmæssigt store forskel mellem observeret og forventet, der giver det store Chi i anden bidrag på 10.09.<br><br><IMG SRC="img/Chiall.png" width="100%" height="100%" align="center"><br><br><a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a>
+   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
    

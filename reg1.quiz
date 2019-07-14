@@ -20,17 +20,18 @@
 
    Svar: Vi kalder denne for en dummy variabel<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-3) Kod dummy variablen, så den er tændt, når der er tale om et variabelt forrentet lån.<br>Hvad er basis da for dummy variablen?
+3) Kod dummy variablen, så den er tændt, når der er tale om et fastforrentet lån.<br>Hvad er basis da for dummy variablen?
    - Parameterestimatet
    - Skæringen
    - Interceptet
    - Residualen
-   * Et fast forrentet lån
+   * Et variabelt forrentet lån
+   - Et fast forrentet lån
    - SSR
 
-   Svar: Basis for dummy variablen betyder, hvad er værdien af dummy variablen, når den er slukket. Altså et fast forrentet lån.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Basis for dummy variablen betyder, hvad er værdien af dummy variablen, når den er slukket. Altså et variabelt forrentet lån.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-4) Hvad er parameterestimatet for lånetype?
+4) Kod dummy variablen, så den er tændt, når der er tale om et fastforrentet lån.<br>Hvad er parameterestimatet for lånetype?
  	- 0.1614
  	- 0.61
  	* 0.4108
@@ -40,25 +41,71 @@
    - SSR
 (image) img/dogcat.gif
 
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: <br><IMG SRC="img/reg1lånkoef.png" width="50%" height="50%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 
 5) Hvordan kan man bedst forklare parameterestimatet for lånetype 0.4108?
+   - Når lånetype stiger med 0.4108 stiger renten med 1 procent.
+   - Når lånetype stiger med 0.4108 stiger renten med 1 procentpoint.
+   - Når lånetype stiger med 1 stiger renten med 0.4108 procent.
+   - Når lånetype stiger med 1 stiger renten med 0.4108 procentpoint.
    - Når der er tale om et fastforrentet lån stiger, renten med 0.4108 procent.
-   - Når der er tale om et fastforrentet lån stiger, renten med 0.4108 procentpoint.
+   * Når der er tale om et fastforrentet lån stiger, renten med 0.4108 procentpoint.
    - Når der er tale om et fastforrentet lån stiger, renten med 41.08 procent.
    - Når der er tale om et variabelt forrentet lån, stiger renten med 0.4108 procent.
    - Når der er tale om et variabelt forrentet lån, stiger renten med 41.08 procent.
-   * Når der er tale om et variabelt forrentet lån, stiger udlånsrenten med 0.4108 procentpoint.
+   - Når der er tale om et variabelt forrentet lån, stiger udlånsrenten med 0.4108 procentpoint.
 (image) img/stat1.jpg
    
-   Svar: Renten er målt i procent, parameterestimatet beskriver ændringen i denne rente i procentpoint, når dummy variablen tændes. Altså når der er tale om et variabelt forrentet lån.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1rkvadreret.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Renten er målt i procent, parameterestimatet beskriver ændringen i renten i procentpoint (vigtigt IKKE procent), når dummy variablen tændes. Altså når der er tale om et fastforrentet lån.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1lånkoef.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
+6) Giver fortegnet på parameterestimatet for lånetype mening?
+   - Nej, når der er tale om et variabelt forrentet lån, bør udlånsrenten være højere, end ved et fastforrentet lån.
+   * Ja, når der er tale om et variabeltforrentet lån, bør udlånsrenten være lavere end ved et fastforrentet lån. Det betyder når der er tale et fastforrentet lån er renten højere.
+   - Nej, vi kan ikke umiddelbart udtale os, om udlånsrenten for et variabelt forrentet lån bør være lavere eller højere end ved et fastforrentet udlån.
+(image) img/stat3.jpg
 
+Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede lån, da man er sikret mod rentestigninger, så det positive fortegn for parameterestimatet for lånetype giver god mening <br><br><IMG SRC="img/reg1lånkoef.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
+7) Hvad er parameterestimatet for rating?
+   - 6.75
+   - 0.00
+   - -0.002
+   * -0.01
+   - 0.4108
+   - 3.39
+   - 14.82
+(image) img/stat4.jpg
 
-6) Hvad bliver R-kvadreret justeret?
+   Svar: <br><IMG SRC="img/reg1ratingkoef.png" width="50%" height="50%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+8) Hvordan kan man bedst forklare parameterestimatet for rating -0.01?
+   - Når ratingen falder med 0.01 enhed, stiger renten med 1 procent.
+   - Når ratingen falder med 0.01 enhed, falder renten med 1 procentpoint.
+   - Når ratingen stiger med 1 enhed, falder renten med 0.01 procent.
+   * Når ratingen stiger med 1 enhed, falder renten med 0.01 procentpoint.
+   - Når der er tale om rating falder renten med 0.01 procent.
+   - Når der er tale om rating falder renten med 0.01 procentpoint.
+   - Når der er tale om rating falder renten med 1 procent.
+   - Når der er tale om rating falder renten med 1 procent.
+   - Når der er tale om rating falder renten med 0.01 procent.
+   - Når der er tale om rating falder renten med 1 procentpoint.
+(image) img/stat5.jpg
+   
+   Svar: Kun et af svarene er helt korrekt: Når x-variablen rating stiger med 1, falder y variablen rente med 0.01 procentpoint.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1ratingkoef.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+9)  Giver fortegnet på parameterestimatet for rating giver mening?
+   - Nej, når variablen rating stiger, bør udlånsrenten stige.
+   - Ja, når variablen rating stiger, bør udlånsrenten stige.
+   * Ja, når variablen rating stiger, bør udlånsrenten falde.
+   - Nej, når variablen rating stiger, bør udlånsrenten falde.
+   - Nej, vi kan ikke umiddelbart udtale os om udlånsrenten for et variabelt forrentet lån, bør være lavere eller højere end et fastforrentet udlån.
+(image) img/stat6.jpg
+
+Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten for den bedre kunde være lavere, derfor falder renten. <br><br><IMG SRC="img/reg1ratingkoef.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+10) Hvad bliver R-kvadreret justeret?
    * 16.14%
    - 19.03%
    - 23.78%
@@ -68,12 +115,60 @@
    - 98.11%
 (image) img/bean2.gif
 
-    Svar: R-kvadreret justeret bliver 16.14%. Det betyder med andre ord at 16.14% af variationen i Renten kan forklares ved variationen i de 4 forklarende variable. Altså skal 83.86% af variationen forklares ved andre faktorer.  <br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1rkvadreret.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+    Svar: R-kvadreret justeret bliver 16.14%. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1rkvadreret.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+
+11) Hvad betyder det når R-kvadreret justeret er 16.14%
+   - Det betyder at 16.14% af variationen i de 4 forklarende variable, kan forklares ved variationen i renten. Altså skal 83.86% af variationen forklares ved andre faktorer.
+   - Det betyder at 83.86% af variationen i renten, kan forklares ved variationen i de 4 forklarende variable. Altså skal 16.14% af variationen forklares ved andre faktorer.
+   * Det betyder at 16.14% af variationen i renten, kan forklares ved variationen i de 4 forklarende variable. Altså skal 83.86% af variationen forklares ved andre faktorer.
+
+12) Er samtlige forklarende variable signifikante?
+   - ja
+   * nej
+(image) img/stat7.jpg
+
+   Svar: Nej overskudsgrad skal fjernes fra modellen.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+
+13) Hvad forklarer bedst, hvorfor vi taler om at en forklarende variabel er signifikant?
+   * Fordi vi forkaster nulhypotesen om at hældningen &beta; er lig med 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
+   - Fordi vi ikke kan afvise nulhypotesen om at hældningen &beta; er forskellig fra 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
+   - Fordi vi forkaster nulhypotesen om at skæringen &beta; er lig med 0, altså er skæringen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
+(image) img/stat8.jpg
+
+   Svar: Nej overskudsgrad skal fjernes fra modellen.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 
 
-6) testet?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14) Hvad bliver R-kvadreret justeret?
  	- ja
  	- nej
  	- 4
@@ -87,7 +182,7 @@
 
    Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-7) Hvordan finder man teststørrelsen?
+15) Hvordan finder man teststørrelsen?
  	- Det er summen af de observerede værdier.
  	- Det er summen af de forventede værdier.
  	* Det er summen af Chi cellebidragene.
@@ -97,7 +192,7 @@
 
    Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-8) Hvor?
+16) Hvor?
    - <small>(Observeret-Forventet)^2/Observeret</small>
    * <small>(Observeret-Forventet)^2/Forventet</small>
    - <small>(Observeret-Forventet)/Forventet</small>
@@ -107,7 +202,7 @@
 
    Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-9) Hvad?
+17) Hvad?
  	- 5%
  	- 7.81
  	- 15.51
@@ -121,7 +216,7 @@
 
 
    
-10) Hvad?
+18) Hvad?
    - 5%
    - 7.81
    * 15.51
@@ -133,7 +228,7 @@
 
    Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-11) Hvad?
+19) Hvad?
  	* 5%
    - 7.81
    - 15.51
@@ -146,7 +241,7 @@
    Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
-12) Hvad?
+20) Hvad?
    - teststørrelsen
    - signifikanssandsynligheden
    * signifikansniveauet
@@ -157,7 +252,7 @@
 	Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
-13) Hvad?
+21) Hvad?
    - teststørrelsen
    * signifikanssandsynligheden
    - signifikansniveauet
@@ -166,37 +261,3 @@
  (image) img/fundogtv.gif
 
 	Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-14) Hvad?
-   * 0.00%
-   - 0.21%
-   - 0.56%
-   - 2.34%
-   - 4.23%
-   - 5%
- (image) img/bean3.gif
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-15) Nævn?
-   - 0.03
-   - 0.04
-   - 3.02
-   - 4.49
-   * 10.09
- (image) img/girldrinking.gif
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-16) Hvilket?
-   - Har man som højeste uddannelse folkeskolen 6.-8. klasse er der større sandsynlighed for job
-   * Har man som højeste uddannelse folkeskolen 6.-8. klasse er der mindre sandsynlighed for job
-   - Har man som højeste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der større sandsynlighed for job
-   - Har man som højeste uddannelse Kort erhvervsudd. under 1-2 års varighed, F.eks AMU Arbejdsmarkedsudd., Basisår er der mindre sandsynlighed for job
-   - Har man som højeste uddannelse Kort videreg. udd af op til 2-3 år er der større sandsynlighed for job
-   - Har man som højeste uddannelse Kort videreg. udd af op til 2-3 år er der mindre sandsynlighed for job
- (image) img/girldancing.gif
-
-   Svar: <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
-
-   

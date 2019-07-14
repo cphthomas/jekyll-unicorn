@@ -66,7 +66,7 @@
    - Nej, vi kan ikke umiddelbart udtale os, om udlånsrenten for et variabelt forrentet lån bør være lavere eller højere end ved et fastforrentet udlån.
 (image) img/stat3.jpg
 
-Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede lån, da man er sikret mod rentestigninger, så det positive fortegn for parameterestimatet for lånetype giver god mening <br><br><IMG SRC="img/reg1lånkoef.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede lån, da man er sikret mod rentestigninger, så det positive fortegn for parameterestimatet for lånetype giver god mening <br><br><IMG SRC="img/reg1lnkoef.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 7) Hvad er parameterestimatet for rating?
    - 6.75

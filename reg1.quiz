@@ -63,7 +63,7 @@
 
 6) Giver fortegnet på parameterestimatet for lånetype mening?
    - Nej, når der er tale om et variabelt forrentet lån, bør udlånsrenten være højere, end ved et fastforrentet lån.
-   * Ja, når der er tale om et variabeltforrentet lån, bør udlånsrenten være lavere end ved et fastforrentet lån. Det betyder når der er tale et fastforrentet lån er renten højere.
+   * Ja, når der er tale om et variabeltforrentet lån, bør udlånsrenten være lavere end ved et fastforrentet lån. Det betyder når der er tale om et fastforrentet lån er renten højere.
    - Nej, vi kan ikke umiddelbart udtale os, om udlånsrenten for et variabelt forrentet lån bør være lavere eller højere end ved et fastforrentet udlån.
 (image) img/stat3.jpg
 
@@ -150,7 +150,7 @@ Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten f
 
 Svar: Vi kan med 95% sikkerhed sige at renten for et fastforrentet lån ligger mellem 0.33 og 0.49 procentpoint højere end renten for et variabelt forrentet lån.                                                                                                                                                                                              <br><br><IMG SRC="img/reg1koef.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                               <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-15) Kan man ud fra konfidensintervallerne afgøre om parameter estimater er signifikante?
+15) Kan man ud fra konfidensintervallerne afgøre om parameter estimaterne er signifikante?
    - Nej
    * Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi ikke afvise nulhypotesen, dvs. der er ingen effekt.
    - Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi ikke afvise nulhypotesen, dvs. der er effekt.

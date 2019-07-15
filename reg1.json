@@ -90,7 +90,7 @@
     {
       "answers": [
         "Nej, n\u00e5r der er tale om et variabelt forrentet l\u00e5n, b\u00f8r udl\u00e5nsrenten v\u00e6re h\u00f8jere, end ved et fastforrentet l\u00e5n.",
-        "Ja, n\u00e5r der er tale om et variabeltforrentet l\u00e5n, b\u00f8r udl\u00e5nsrenten v\u00e6re lavere end ved et fastforrentet l\u00e5n. Det betyder n\u00e5r der er tale et fastforrentet l\u00e5n er renten h\u00f8jere.",
+        "Ja, n\u00e5r der er tale om et variabeltforrentet l\u00e5n, b\u00f8r udl\u00e5nsrenten v\u00e6re lavere end ved et fastforrentet l\u00e5n. Det betyder n\u00e5r der er tale om et fastforrentet l\u00e5n er renten h\u00f8jere.",
         "Nej, vi kan ikke umiddelbart udtale os, om udl\u00e5nsrenten for et variabelt forrentet l\u00e5n b\u00f8r v\u00e6re lavere eller h\u00f8jere end ved et fastforrentet udl\u00e5n."
       ],
       "correct": {
@@ -230,7 +230,7 @@
       },
       "image": "img/stat10.jpg",
       "number": 15,
-      "prompt": "Kan man ud fra konfidensintervallerne afg\u00f8re om parameter estimater er signifikante?"
+      "prompt": "Kan man ud fra konfidensintervallerne afg\u00f8re om parameter estimaterne er signifikante?"
     },
     {
       "answers": [

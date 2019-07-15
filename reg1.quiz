@@ -8,6 +8,7 @@
 (image) img/cat.gif
 
    Svar: Der er tale om en variabel med 2 mulige udfald Variabelt forrentet eller Fast forrentet. Variablen er en kvalitativ binær variabel<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
   
   
 2) Hvad kalder vi en kvalitativ binær variabel, når vi benytter den i en lineær regressionsmodel?
@@ -41,7 +42,7 @@
    - SSR
 (image) img/dogcat.gif
 
-   Svar: <br><IMG SRC="img/reg1lnkoef.png" width="50%" height="50%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: <br><IMG SRC="img/reg1lnkoef.png" width="80%" height="80%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 
@@ -50,15 +51,15 @@
    - Når lånetype stiger med 0.4108 stiger renten med 1 procentpoint.
    - Når lånetype stiger med 1 stiger renten med 0.4108 procent.
    - Når lånetype stiger med 1 stiger renten med 0.4108 procentpoint.
-   - Når der er tale om et fastforrentet lån stiger, renten med 0.4108 procent.
-   * Når der er tale om et fastforrentet lån stiger, renten med 0.4108 procentpoint.
-   - Når der er tale om et fastforrentet lån stiger, renten med 41.08 procent.
+   - Når der er tale om et fastforrentet lån, stiger renten med 0.4108 procent.
+   * Når der er tale om et fastforrentet lån, stiger renten med 0.4108 procentpoint.
+   - Når der er tale om et fastforrentet lån, stiger renten med 41.08 procent.
    - Når der er tale om et variabelt forrentet lån, stiger renten med 0.4108 procent.
    - Når der er tale om et variabelt forrentet lån, stiger renten med 41.08 procent.
    - Når der er tale om et variabelt forrentet lån, stiger udlånsrenten med 0.4108 procentpoint.
 (image) img/stat1.jpg
    
-   Svar: Renten er målt i procent, parameterestimatet beskriver ændringen i renten i procentpoint (vigtigt IKKE procent), når dummy variablen tændes. Altså når der er tale om et fastforrentet lån.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1lnkoef.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Renten er målt i procent, parameterestimatet beskriver ændringen i renten i procentpoint (vigtigt IKKE procent), når dummy variablen tændes. Altså når der er tale om et fastforrentet lån.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1lnkoef.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 6) Giver fortegnet på parameterestimatet for lånetype mening?
    - Nej, når der er tale om et variabelt forrentet lån, bør udlånsrenten være højere, end ved et fastforrentet lån.
@@ -66,7 +67,7 @@
    - Nej, vi kan ikke umiddelbart udtale os, om udlånsrenten for et variabelt forrentet lån bør være lavere eller højere end ved et fastforrentet udlån.
 (image) img/stat3.jpg
 
-Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede lån, da man er sikret mod rentestigninger, så det positive fortegn for parameterestimatet for lånetype giver god mening <br><br><IMG SRC="img/reg1lnkoef.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede lån, da man er sikret mod rentestigninger, så det positive fortegn for parameterestimatet for lånetype giver god mening <br><br><IMG SRC="img/reg1lnkoef.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 7) Hvad er parameterestimatet for rating?
    - 6.75
@@ -78,7 +79,7 @@ Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede
    - 14.82
 (image) img/stat4.jpg
 
-   Svar: <br><IMG SRC="img/reg1ratingkoef.png" width="50%" height="50%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: <br><IMG SRC="img/reg1ratingkoef.png" width="80%" height="80%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 8) Hvordan kan man bedst forklare parameterestimatet for rating -0.01?
    - Når ratingen falder med 0.01 enhed, stiger renten med 1 procent.
@@ -93,7 +94,7 @@ Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede
    - Når der er tale om rating falder renten med 1 procentpoint.
 (image) img/stat5.jpg
    
-   Svar: Kun et af svarene er helt korrekt: Når x-variablen rating stiger med 1, falder y variablen rente med 0.01 procentpoint.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1ratingkoef.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Kun et af svarene er helt korrekt: Når x-variablen rating stiger med 1, falder y variablen rente med 0.01 procentpoint.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1ratingkoef.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 9)  Giver fortegnet på parameterestimatet for rating giver mening?
    - Nej, når variablen rating stiger, bør udlånsrenten stige.
@@ -103,7 +104,7 @@ Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede
    - Nej, vi kan ikke umiddelbart udtale os om udlånsrenten for et variabelt forrentet lån, bør være lavere eller højere end et fastforrentet udlån.
 (image) img/stat6.jpg
 
-Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten for den bedre kunde være lavere, derfor falder renten. <br><br><IMG SRC="img/reg1ratingkoef.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten for den bedre kunde være lavere, derfor falder renten. <br><br><IMG SRC="img/reg1ratingkoef.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 10) Hvad bliver R-kvadreret justeret?
    * 16.14%
@@ -115,7 +116,7 @@ Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten f
    - 98.11%
 (image) img/bean2.gif
 
-    Svar: R-kvadreret justeret bliver 16.14%. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1rkvadreret.png" width="50%" height="50%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+    Svar: R-kvadreret justeret bliver 16.14%. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1rkvadreret.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 11) Hvad betyder det når R-kvadreret justeret er 16.14%
@@ -137,25 +138,71 @@ Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten f
    - Fordi vi forkaster nulhypotesen om at skæringen er lig med 0, altså er skæringen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
 (image) img/stat8.jpg
 
-   Svar: Fordi vi forkaster nulhypotesen om at hældningen &beta;<sub>forklarende variabel</sub> er lig med 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Fordi vi forkaster nulhypotesen om at hældningen &beta;<sub>forklarende variabel</sub> = 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.                                                                                                                                                                                    <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+
+14) Indenfor hvilken grænse ligger parameterestimatet for dummyvariablen lånetype med 95% sikkerhed?
+   - -0.33 og 0.49
+   - 0.33 og -0.49
+   - -0.33 og -0.49
+   * 0.33 og 0.49
+(image) img/stat9.jpg
+
+Svar: Vi kan med 95% sikkerhed sige at renten for et fastforrentet lån ligger mellem 0.33 og 0.49 procentpoint højere end renten for et variabelt forrentet lån.                                                                                                                                                                                              <br><br><IMG SRC="img/reg1koef.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                               <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+15) Kan man ud fra konfidensintervallerne afgøre om parameter estimater er signifikante?
+   - Nej
+   * Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi ikke afvise nulhypotesen, dvs. der er ingen effekt.
+   - Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi ikke afvise nulhypotesen, dvs. der er effekt.
+   - Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi afvise nulhypotesen, dvs. der er effekt.
+   - Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi afvise nulhypotesen, dvs. der er ingen effekt.
+(image) img/stat10.jpg
+
+   Svar: Nulhypotesen er H<sub>0</sub>: &beta; = 0, hvis 0 er i konfidensintervallet betyder hældningen kan være 0, hvilket betyder ingen effekt, så kan vi altså ikke afvise nulhypotesen.                                                                                                          <br><br><IMG SRC="img/reg1koef.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                               <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+
+16) Reducer modellen så kun signifikante forklarende variable er tilbage.<br>Hvad bliver R-kvadreret justeret?
+   - 0.1119
+   - 0.1219
+   - 0.1423
+   - 0.1514
+   - 0.1534
+   * 0.1619
+(image) img/stat11.jpg
+
+   Svar: I den reducerede slutmodel forklares rente ud fra Omsætning i tusinder, Rating og Lånetype.                                                                                                        <br><br><IMG SRC="img/reg1opt.png" width="80%" height="80%" align="center"><br><br>                                                                                                                                                                                                               <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+17) Hvad er den forudsagte rente ifølge slutmodellen for et anpartsselskab i erhvervscenter 2, med 1 mio. i omsætning, en overskudsgrad på 10% Rating 12, der har et variabelt forrentet lån?
+   - 4.56%
+   - 5.56%
+   - 5.87%
+   - 6.08%
+   - 6.23%
+   * 6.53%
+   - 7.16%
+   - 8.62%
+(image) img/stat12.jpg
+
+  Svar: Nedenfor ses hvorledes den forudsagte rente ifølge slutmodellen:                                                                                                       <br><br><IMG SRC="img/reg1forudsagt.png" width="80%" height="80%" align="center"><br><br>                                                                                                                                                                                                               <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+
+
+18) For anpartsselskabet fra forrige spørgsmål, kunne vi beregne en fordusagt rente på 6.53%, selskabet har faktisk en rente på 5%, hvad bliver residualen?
+   - -6.53%
+   - -5%
+   * -1.53%
+   - 0%
+   - 1.53%
+   - 5%
+   - 6.53%
+(image) img/stat13.jpg
+
+  Svar: Nedenfor ses hvorledes residualen kan udregnes, vi udregner altid denne som faktisk minus forudsagt:                                                                                                                                              <br><br><IMG SRC="img/reg1forudsagt.png" width="80%" height="80%" align="center"><br><br>                                                                                                                                                                                                               <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
 
 
 

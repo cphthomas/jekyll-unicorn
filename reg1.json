@@ -60,7 +60,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: <br><IMG SRC=\"img/reg1lnkoef.png\" width=\"50%\" height=\"50%\" align=\"center\"><br><br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: <br><IMG SRC=\"img/reg1lnkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/dogcat.gif",
       "number": 4,
@@ -72,16 +72,16 @@
         "N\u00e5r l\u00e5netype stiger med 0.4108 stiger renten med 1 procentpoint.",
         "N\u00e5r l\u00e5netype stiger med 1 stiger renten med 0.4108 procent.",
         "N\u00e5r l\u00e5netype stiger med 1 stiger renten med 0.4108 procentpoint.",
-        "N\u00e5r der er tale om et fastforrentet l\u00e5n stiger, renten med 0.4108 procent.",
-        "N\u00e5r der er tale om et fastforrentet l\u00e5n stiger, renten med 0.4108 procentpoint.",
-        "N\u00e5r der er tale om et fastforrentet l\u00e5n stiger, renten med 41.08 procent.",
+        "N\u00e5r der er tale om et fastforrentet l\u00e5n, stiger renten med 0.4108 procent.",
+        "N\u00e5r der er tale om et fastforrentet l\u00e5n, stiger renten med 0.4108 procentpoint.",
+        "N\u00e5r der er tale om et fastforrentet l\u00e5n, stiger renten med 41.08 procent.",
         "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger renten med 0.4108 procent.",
         "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger renten med 41.08 procent.",
         "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger udl\u00e5nsrenten med 0.4108 procentpoint."
       ],
       "correct": {
         "index": 5,
-        "text": "Svar: Renten er m\u00e5lt i procent, parameterestimatet beskriver \u00e6ndringen i renten i procentpoint (vigtigt IKKE procent), n\u00e5r dummy variablen t\u00e6ndes. Alts\u00e5 n\u00e5r der er tale om et fastforrentet l\u00e5n.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1lnkoef.png\" width=\"50%\" height=\"50%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Renten er m\u00e5lt i procent, parameterestimatet beskriver \u00e6ndringen i renten i procentpoint (vigtigt IKKE procent), n\u00e5r dummy variablen t\u00e6ndes. Alts\u00e5 n\u00e5r der er tale om et fastforrentet l\u00e5n.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1lnkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat1.jpg",
       "number": 5,
@@ -95,7 +95,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: Fast forrentede l\u00e5n er dyrere dvs. h\u00f8jere rente end variabelt forrentede l\u00e5n, da man er sikret mod rentestigninger, s\u00e5 det positive fortegn for parameterestimatet for l\u00e5netype giver god mening <br><br><IMG SRC=\"img/reg1lnkoef.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Fast forrentede l\u00e5n er dyrere dvs. h\u00f8jere rente end variabelt forrentede l\u00e5n, da man er sikret mod rentestigninger, s\u00e5 det positive fortegn for parameterestimatet for l\u00e5netype giver god mening <br><br><IMG SRC=\"img/reg1lnkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat3.jpg",
       "number": 6,
@@ -113,7 +113,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: <br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"50%\" height=\"50%\" align=\"center\"><br><br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: <br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat4.jpg",
       "number": 7,
@@ -134,7 +134,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Kun et af svarene er helt korrekt: N\u00e5r x-variablen rating stiger med 1, falder y variablen rente med 0.01 procentpoint.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"50%\" height=\"50%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Kun et af svarene er helt korrekt: N\u00e5r x-variablen rating stiger med 1, falder y variablen rente med 0.01 procentpoint.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat5.jpg",
       "number": 8,
@@ -150,7 +150,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: Ja, h\u00f8jere rating stiger betyder bedre kunde, derfor b\u00f8r udl\u00e5nsrenten for den bedre kunde v\u00e6re lavere, derfor falder renten. <br><br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Ja, h\u00f8jere rating stiger betyder bedre kunde, derfor b\u00f8r udl\u00e5nsrenten for den bedre kunde v\u00e6re lavere, derfor falder renten. <br><br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat6.jpg",
       "number": 9,
@@ -168,7 +168,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: R-kvadreret justeret bliver 16.14%. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1rkvadreret.png\" width=\"50%\" height=\"50%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: R-kvadreret justeret bliver 16.14%. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1rkvadreret.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/bean2.gif",
       "number": 10,
@@ -195,11 +195,96 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: Fordi vi forkaster nulhypotesen om at h\u00e6ldningen &beta;<sub>forklarende variabel</sub> er lig med 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.<br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Fordi vi forkaster nulhypotesen om at h\u00e6ldningen &beta;<sub>forklarende variabel</sub> = 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.                                                                                                                                                                                    <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat8.jpg",
       "number": 13,
       "prompt": "Hvad forklarer bedst, hvorfor vi taler om at en forklarende variabel er signifikant?"
+    },
+    {
+      "answers": [
+        "-0.33 og 0.49",
+        "0.33 og -0.49",
+        "-0.33 og -0.49",
+        "0.33 og 0.49"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Svar: Vi kan med 95% sikkerhed sige at renten for et fastforrentet l\u00e5n ligger mellem 0.33 og 0.49 procentpoint h\u00f8jere end renten for et variabelt forrentet l\u00e5n.                                                                                                                                                                                              <br><br><IMG SRC=\"img/reg1koef.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/stat9.jpg",
+      "number": 14,
+      "prompt": "Indenfor hvilken gr\u00e6nse ligger parameterestimatet for dummyvariablen l\u00e5netype med 95% sikkerhed?"
+    },
+    {
+      "answers": [
+        "Nej",
+        "Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi ikke afvise nulhypotesen, dvs. der er ingen effekt.",
+        "Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi ikke afvise nulhypotesen, dvs. der er effekt.",
+        "Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi afvise nulhypotesen, dvs. der er effekt.",
+        "Ja, hvis 0 er indeholdt i konfidensintervallet, kan vi afvise nulhypotesen, dvs. der er ingen effekt."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: Nulhypotesen er H<sub>0</sub>: &beta; = 0, hvis 0 er i konfidensintervallet betyder h\u00e6ldningen kan v\u00e6re 0, hvilket betyder ingen effekt, s\u00e5 kan vi alts\u00e5 ikke afvise nulhypotesen.                                                                                                          <br><br><IMG SRC=\"img/reg1koef.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/stat10.jpg",
+      "number": 15,
+      "prompt": "Kan man ud fra konfidensintervallerne afg\u00f8re om parameter estimater er signifikante?"
+    },
+    {
+      "answers": [
+        "0.1119",
+        "0.1219",
+        "0.1423",
+        "0.1514",
+        "0.1534",
+        "0.1619"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Svar: I den reducerede slutmodel forklares rente ud fra Oms\u00e6tning i tusinder, Rating og L\u00e5netype.                                                                                                        <br><br><IMG SRC=\"img/reg1opt.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/stat11.jpg",
+      "number": 16,
+      "prompt": "Reducer modellen s\u00e5 kun signifikante forklarende variable er tilbage.<br>Hvad bliver R-kvadreret justeret?"
+    },
+    {
+      "answers": [
+        "4.56%",
+        "5.56%",
+        "5.87%",
+        "6.08%",
+        "6.23%",
+        "6.53%",
+        "7.16%",
+        "8.62%"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Svar: Nedenfor ses hvorledes den forudsagte rente if\u00f8lge slutmodellen:                                                                                                       <br><br><IMG SRC=\"img/reg1forudsagt.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/stat12.jpg",
+      "number": 17,
+      "prompt": "Hvad er den forudsagte rente if\u00f8lge slutmodellen for et anpartsselskab i erhvervscenter 2, med 1 mio. i oms\u00e6tning, en overskudsgrad p\u00e5 10% Rating 12, der har et variabelt forrentet l\u00e5n?"
+    },
+    {
+      "answers": [
+        "-6.53%",
+        "-5%",
+        "-1.53%",
+        "0%",
+        "1.53%",
+        "5%",
+        "6.53%"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: Nedenfor ses hvorledes residualen kan udregnes, vi udregner altid denne som faktisk minus forudsagt:                                                                                                                                              <br><br><IMG SRC=\"img/reg1forudsagt.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/stat13.jpg",
+      "number": 18,
+      "prompt": "For anpartsselskabet fra forrige sp\u00f8rgsm\u00e5l, kunne vi beregne en fordusagt rente p\u00e5 6.53%, selskabet har faktisk en rente p\u00e5 5%, hvad bliver residualen?"
     }
   ],
   "title": "Hypoteser",

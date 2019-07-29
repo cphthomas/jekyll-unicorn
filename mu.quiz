@@ -32,7 +32,7 @@
 
    Svar: Vores bedste gæt på den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan også kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="80%" height="80%" align="center"><br>                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
-4) Hvad betyder punktestimatet for parameteren &sigma;
+4) Hvad betyder punktestimatet for parameteren &sigma;?
  	- Vores bedste gæt på medianen
    - Vores bedste gæt på kvartilafstanden
    * Vores bedste gæt på standardafvigelsen
@@ -45,7 +45,7 @@
 
 
 
-5) Hvad bliver punktestimatet for parameteren &sigma;
+5) Hvad bliver punktestimatet for parameteren &sigma;?
    * 0.67
    - 0.71
    - 0.78

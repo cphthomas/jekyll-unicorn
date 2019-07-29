@@ -49,6 +49,40 @@
     },
     {
       "answers": [
+        "Vores bedste g\u00e6t p\u00e5 medianen",
+        "Vores bedste g\u00e6t p\u00e5 kvartilafstanden",
+        "Vores bedste g\u00e6t p\u00e5 standardafvigelsen",
+        "Vores bedste g\u00e6t p\u00e5 middelv\u00e6rdien",
+        "Vores bedste g\u00e6t p\u00e5 fejlmarginen",
+        "Vores bedste g\u00e6t p\u00e5 testst\u00f8rrelsen"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.                                                                                                                                                                                                                                                                                                                                                                                    <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/dogcat.gif",
+      "number": 4,
+      "prompt": "Hvad betyder punktestimatet for parameteren &sigma;?"
+    },
+    {
+      "answers": [
+        "0.67",
+        "0.71",
+        "0.78",
+        "0.87",
+        "0.93",
+        "1.21"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"80%\" height=\"80%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/stat1.jpg",
+      "number": 5,
+      "prompt": "Hvad bliver punktestimatet for parameteren &sigma;?"
+    },
+    {
+      "answers": [
         "Nej, n\u00e5r der er tale om et variabelt forrentet l\u00e5n, b\u00f8r udl\u00e5nsrenten v\u00e6re h\u00f8jere, end ved et fastforrentet l\u00e5n.",
         "Ja, n\u00e5r der er tale om et variabelt forrentet l\u00e5n, b\u00f8r udl\u00e5nsrenten v\u00e6re lavere end ved et fastforrentet l\u00e5n. Det betyder n\u00e5r der er tale om et fastforrentet l\u00e5n er renten h\u00f8jere.",
         "Nej, vi kan ikke umiddelbart udtale os, om udl\u00e5nsrenten for et variabelt forrentet l\u00e5n b\u00f8r v\u00e6re lavere eller h\u00f8jere end ved et fastforrentet udl\u00e5n."

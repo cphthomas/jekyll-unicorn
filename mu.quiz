@@ -8,7 +8,7 @@
  	- Kontinuert
 (image) img/cat.gif
 
-   Svar: Nedenfor ses hvorledes residualen kan udregnes, vi udregner altid denne som faktisk minus forudsagt:                                                                                                                                              <br><br><IMG SRC="img/reg1residual.png" width="80%" height="80%" align="center"><br><br>                                                                                                                                                                                                               <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Renten er en kvantitativ variabel, vi kan se dette, da vi kan beregne statistiske deskriptorer som fx. middelværdi, median og standardafvigelse og disse giver mening.<br>                                                                                                                                                                                                                                                                                                                                                            <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
   
   
@@ -21,18 +21,16 @@
    - Vores bedste gæt på teststørrelsen
 (image) img/fundog.gif
 
-   Svar: Symbolet for den sande ukendte middelværdi er det græske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste gæt på &mu; kaldes et estimat eller mere præcist et punktestimat for &mu;. Estimat betyder gæt, så punktestimatet for &mu; er altså vores beste gæt som er middelværdien i stikprøven.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Symbolet for den sande ukendte middelværdi er det græske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste gæt på &mu; kaldes et estimat eller mere præcist et punktestimat for &mu;. Estimat betyder gæt, så punktestimatet for &mu; er altså vores beste gæt som er middelværdien i stikprøven.                                                                                                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
 3) Hvad er punktestimatet for &mu;?
-   - Parameterestimatet
-   - Skæringen
-   - Interceptet
-   - Residualen
-   * Et variabelt forrentet lån
-   - Et fast forrentet lån
-   - SSR
+   - 5.24
+   - 5.81
+   - 5.97
+   - 6.23
+   * 6.30
 
-   Svar: Basis for dummy variablen betyder, hvad er værdien af dummy variablen, når den er slukket. Altså et variabelt forrentet lån.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Vores bedste gæt på den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan også kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="80%" height="80%" align="center"><br>                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
 4) Kod dummy variablen, så den er tændt, når der er tale om et fastforrentet lån.<br>Hvad er parameterestimatet for lånetype?
  	- 0.1614

@@ -1,6 +1,6 @@
 # Hypotesetests, konfidensintervaller for en kvantitativ variabel.
 
- 1)  Du er ansat i en bank. Ledelsen ønsker en analyse af renter på udlån til virksomheder i banken. Du har data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:                                                                                                                                                <br>       <IMG SRC="img/reg1variable.png" width="80%" height="80%" align="center">                                                                                                                                                                                                                   <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her</a><br>                                                                                                                                                                                                                                                                                                 Ledelsen ønsker et redskab, der kan hjælpe medarbejdere i fastsættelsen af renter. Man ønsker en model, der kan forudsige, hvilken rente en erhvervskunde skal tilbydes. Opstil en regressionsmodel, der kan forklare Renten ud fra Omsætning i tusind kroner, Overskudsgrad(%), Rating og Lånetype.                                                                                                                                                                                    <br><br> Hvad type variabel er rente?  
+ 1)  Du er ansat i en bank. Ledelsen ønsker en analyse af renter på udlån til virksomheder i banken. Du har data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:                                                                                                                                                <br>                                                                                                                                                                                                                                           <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br> Hvad type variabel er rente?  
 
  	- Kvalitativ
  	* Kvantitativ
@@ -21,7 +21,7 @@
    - Vores bedste gæt på teststørrelsen
 (image) img/fundog.gif
 
-   Svar: Symbolet for den sande ukendte middelværdi er det græske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste gæt på &mu; kaldes et estimat eller mere præcist et punktestimat for &mu;. Estimat betyder gæt, så punktestimatet for &mu; er altså vores beste gæt som er middelværdien i stikprøven.                                                                                                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
+   Svar: Symbolet for den sande ukendte middelværdi er det græske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste gæt på &mu; kaldes et estimat eller mere præcist et punktestimat for &mu;. <br><br>Estimat betyder gæt, så punktestimatet for &mu; er altså vores bedste gæt. Da vi ikke kender alle renter i populationen, er vores bedste gæt middelværdien i stikprøven.                    <br>                                                                                                                                                                                                                       <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
 3) Hvad er punktestimatet for &mu;?
    - 5.24
@@ -32,34 +32,29 @@
 
    Svar: Vores bedste gæt på den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan også kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="80%" height="80%" align="center"><br>                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
-4) Kod dummy variablen, så den er tændt, når der er tale om et fastforrentet lån.<br>Hvad er parameterestimatet for lånetype?
- 	- 0.1614
- 	- 0.61
- 	* 0.4108
- 	- 445.91
-   - Interceptet
-   - Residualen
-   - SSR
+4) Hvad betyder punktestimatet for parameteren &sigma;
+ 	- Vores bedste gæt på medianen
+   - Vores bedste gæt på kvartilafstanden
+   * Vores bedste gæt på standardafvigelsen
+   - Vores bedste gæt på middelværdien
+   - Vores bedste gæt på fejlmarginen
+   - Vores bedste gæt på teststørrelsen
 (image) img/dogcat.gif
 
-   Svar: <br><IMG SRC="img/reg1lnkoef.png" width="80%" height="80%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores gæt standardafvigelsen i stikprøven.                                                                                                                                                                                                                                                                                                                                                                                    <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
 
 
-5) Hvordan kan man bedst forklare parameterestimatet for lånetype 0.4108?
-   - Når lånetype stiger med 0.4108 stiger renten med 1 procent.
-   - Når lånetype stiger med 0.4108 stiger renten med 1 procentpoint.
-   - Når lånetype stiger med 1 stiger renten med 0.4108 procent.
-   - Når lånetype stiger med 1 stiger renten med 0.4108 procentpoint.
-   - Når der er tale om et fastforrentet lån, stiger renten med 0.4108 procent.
-   * Når der er tale om et fastforrentet lån, stiger renten med 0.4108 procentpoint.
-   - Når der er tale om et fastforrentet lån, stiger renten med 41.08 procent.
-   - Når der er tale om et variabelt forrentet lån, stiger renten med 0.4108 procent.
-   - Når der er tale om et variabelt forrentet lån, stiger renten med 41.08 procent.
-   - Når der er tale om et variabelt forrentet lån, stiger udlånsrenten med 0.4108 procentpoint.
+5) Hvad bliver punktestimatet for parameteren &sigma;
+   * 0.67
+   - 0.71
+   - 0.78
+   - 0.87
+   - 0.93
+   - 1.21
 (image) img/stat1.jpg
    
-   Svar: Renten er målt i procent, parameterestimatet beskriver ændringen i renten i procentpoint (vigtigt IKKE procent), når dummy variablen tændes. Altså når der er tale om et fastforrentet lån.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1lnkoef.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores gæt standardafvigelsen i stikprøven.                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="80%" height="80%" align="center"><br>                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
 6) Giver fortegnet på parameterestimatet for lånetype mening?
    - Nej, når der er tale om et variabelt forrentet lån, bør udlånsrenten være højere, end ved et fastforrentet lån.

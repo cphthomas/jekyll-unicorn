@@ -13,7 +13,7 @@
       },
       "image": "img/cat.gif",
       "number": 1,
-      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:                                                                                                                                                <br>       <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">                                                                                                                                                                                                                   <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her</a><br>                                                                                                                                                                                                                                                                                                 Ledelsen \u00f8nsker et redskab, der kan hj\u00e6lpe medarbejdere i fasts\u00e6ttelsen af renter. Man \u00f8nsker en model, der kan forudsige, hvilken rente en erhvervskunde skal tilbydes. Opstil en regressionsmodel, der kan forklare Renten ud fra Oms\u00e6tning i tusind kroner, Overskudsgrad(%), Rating og La\u030anetype.                                                                                                                                                                                    <br><br> Hvad type variabel er rente?"
+      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:                                                                                                                                                <br>                                                                                                                                                                                                                                           <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br> Hvad type variabel er rente?"
     },
     {
       "answers": [
@@ -26,7 +26,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Symbolet for den sande ukendte middelv\u00e6rdi er det gr\u00e6ske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste g\u00e6t p\u00e5 &mu; kaldes et estimat eller mere pr\u00e6cist et punktestimat for &mu;. Estimat betyder g\u00e6t, s\u00e5 punktestimatet for &mu; er alts\u00e5 vores beste g\u00e6t som er middelv\u00e6rdien i stikpr\u00f8ven.                                                                                                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Symbolet for den sande ukendte middelv\u00e6rdi er det gr\u00e6ske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste g\u00e6t p\u00e5 &mu; kaldes et estimat eller mere pr\u00e6cist et punktestimat for &mu;. <br><br>Estimat betyder g\u00e6t, s\u00e5 punktestimatet for &mu; er alts\u00e5 vores bedste g\u00e6t. Da vi ikke kender alle renter i populationen, er vores bedste g\u00e6t middelv\u00e6rdien i stikpr\u00f8ven.                    <br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
       "image": "img/fundog.gif",
       "number": 2,
@@ -46,45 +46,6 @@
       },
       "number": 3,
       "prompt": "Hvad er punktestimatet for &mu;?"
-    },
-    {
-      "answers": [
-        "0.1614",
-        "0.61",
-        "0.4108",
-        "445.91",
-        "Interceptet",
-        "Residualen",
-        "SSR"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Svar: <br><IMG SRC=\"img/reg1lnkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/dogcat.gif",
-      "number": 4,
-      "prompt": "Kod dummy variablen, s\u00e5 den er t\u00e6ndt, n\u00e5r der er tale om et fastforrentet l\u00e5n.<br>Hvad er parameterestimatet for l\u00e5netype?"
-    },
-    {
-      "answers": [
-        "N\u00e5r l\u00e5netype stiger med 0.4108 stiger renten med 1 procent.",
-        "N\u00e5r l\u00e5netype stiger med 0.4108 stiger renten med 1 procentpoint.",
-        "N\u00e5r l\u00e5netype stiger med 1 stiger renten med 0.4108 procent.",
-        "N\u00e5r l\u00e5netype stiger med 1 stiger renten med 0.4108 procentpoint.",
-        "N\u00e5r der er tale om et fastforrentet l\u00e5n, stiger renten med 0.4108 procent.",
-        "N\u00e5r der er tale om et fastforrentet l\u00e5n, stiger renten med 0.4108 procentpoint.",
-        "N\u00e5r der er tale om et fastforrentet l\u00e5n, stiger renten med 41.08 procent.",
-        "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger renten med 0.4108 procent.",
-        "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger renten med 41.08 procent.",
-        "N\u00e5r der er tale om et variabelt forrentet l\u00e5n, stiger udl\u00e5nsrenten med 0.4108 procentpoint."
-      ],
-      "correct": {
-        "index": 5,
-        "text": "Svar: Renten er m\u00e5lt i procent, parameterestimatet beskriver \u00e6ndringen i renten i procentpoint (vigtigt IKKE procent), n\u00e5r dummy variablen t\u00e6ndes. Alts\u00e5 n\u00e5r der er tale om et fastforrentet l\u00e5n.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1lnkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
-      },
-      "image": "img/stat1.jpg",
-      "number": 5,
-      "prompt": "Hvordan kan man bedst forklare parameterestimatet for l\u00e5netype 0.4108?"
     },
     {
       "answers": [

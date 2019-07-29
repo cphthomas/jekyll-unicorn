@@ -11,7 +11,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsl\u00f8se med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsl\u00f8se med kandidatbaggrund er 7<br><br><br>       <br> <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>"
+        "text": "Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsl\u00f8se med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsl\u00f8se med kandidatbaggrund er 7<br><br><IMG SRC=\"img/chiobserveret.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>       <br> <a href=\"https://s.tepedu.dk/chi-i-anden-tests.html\" target=\"_blank\">Du kan l\u00e6se mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>"
       },
       "image": "img/bean2.gif",
       "number": 1,
@@ -267,6 +267,6 @@
       "prompt": "Hvilket af f\u00f8lgende udsagn er korrekt ud fra det st\u00f8rste Chi cellebidrag?"
     }
   ],
-  "title": "Chi i anden test",
+  "title": "Chi i anden tests",
   "url": null
 }

@@ -1,4 +1,4 @@
-# Chi i anden test   
+# Chi i anden tests   
 
  1) Nedenfor er et datasæt omkring helbred, uddannelse osv. dette skal du benytte for at besvare de følgende spørgsmål i denne quiz<br><a href="files/HELBRED.xlsx" download="HELBRED.xlsx"> Download datasættet HELBRED.xlsx her</a><br> Sammenlign køn og uddannelse, hvor mange uden job har uddannelse: <p style="font-family:courier;">"Kandidatuddannelser eller længere"</p>?
  	- 3
@@ -9,7 +9,7 @@
  	- 21
 (image) img/bean2.gif
 
-    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>
+    Svar: Man kan benytte Excel pivot tabellen til at bestemme antallet af arbejdsløse med kandidatbaggrund. Nedenfor ses output fra Freestat hvor vi kan se antallet af arbejdsløse med kandidatbaggrund er 7<br><br><IMG SRC="img/chiobserveret.png" width="100%" height="100%" align="center"><br>       <br> <a href="https://s.tepedu.dk/chi-i-anden-tests.html" target="_blank">Du kan læse mere om Chi i anden tests og se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/chi-i-anden-tests.html</a><br>
 
 
 

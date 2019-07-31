@@ -13,7 +13,7 @@
       },
       "image": "img/cat.gif",
       "number": 1,
-      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:                                                                                                                                                <br>                                                                                                                                                                                                                                           <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br> Hvad type variabel er rente?"
+      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:                                                                                                                                                <br>                                                                                                                                                                                                                                           <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br> Hvad type variabel er rente?"
     },
     {
       "answers": [
@@ -30,7 +30,7 @@
       },
       "image": "img/fundog.gif",
       "number": 2,
-      "prompt": "Hvad betyder punktestimatet for &mu;?"
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>                                   Hvad betyder punktestimatet for &mu;?"
     },
     {
       "answers": [
@@ -45,7 +45,7 @@
         "text": "Svar: Vores bedste g\u00e6t p\u00e5 den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan ogs\u00e5 kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
       "number": 3,
-      "prompt": "Hvad er punktestimatet for parameteren &mu;?"
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>                                   Hvad er punktestimatet for parameteren &mu;?"
     },
     {
       "answers": [
@@ -167,7 +167,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>Herunder er output fra Freestat:<br><br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>                                                                                                                                                                                                                       <br><a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/bean2.gif",
       "number": 10,
@@ -175,30 +175,56 @@
     },
     {
       "answers": [
-        "ja",
-        "nej"
+        "Den procentvise afvigelse fra middelv\u00e6rdien",
+        "Den procentvise afvigelse fra medianen",
+        "Den procentvise afvigelse fra konfidensintervallet",
+        "Halvdelen af bredden af konfidensintervallet",
+        "Konfidensintervallets midte"
       ],
       "correct": {
-        "index": 1,
-        "text": "Svar: Nej i hvert fald skal overskudsgrad fjernes fra modellen, efter genberegning skal det afg\u00f8res, om der er flere forklarende variable der skal fjernes.<br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "index": 3,
+        "text": "Svar: Fejlmarginen fort\u00e6ller hvor meget populationsparamereten fx. &mu; afviger op og ned fra parameterestimatet punktestimatet med en vis grad af sikkerhed. Vi finder dette som (\u00d8vre gr\u00e6nse KI-nedre gr\u00e6nse KI)/2, alts\u00e5 halvdelen af konfidensintervallets bredde.<br><br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
-      "image": "img/stat7.jpg",
-      "number": 12,
-      "prompt": "Er samtlige forklarende variable signifikante?"
+      "number": 11,
+      "prompt": "Hvad betyder fejlmarginen?"
     },
     {
       "answers": [
-        "Fordi vi forkaster nulhypotesen om at h\u00e6ldningen er lig med 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.",
-        "Fordi vi ikke kan afvise nulhypotesen om at h\u00e6ldningen er forskellig fra 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.",
-        "Fordi vi forkaster nulhypotesen om at sk\u00e6ringen er lig med 0, alts\u00e5 er sk\u00e6ringen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen."
+        "0.0241",
+        "0.0348",
+        "0.0415",
+        "0.0545",
+        "Mellem 0.6401 og 0.6987",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 6.2600 og 6.3429"
       ],
       "correct": {
-        "index": 0,
-        "text": "Svar: Fordi vi forkaster nulhypotesen om at h\u00e6ldningen &beta;<sub>forklarende variabel</sub> = 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.                                                                                                                                                                                    <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "index": 2,
+        "text": "Svar: <br><br><IMG SRC=\"img/fm95.png\" width=\"100%\" height=\"100%\" align=\"center\"> <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+      },
+      "image": "img/stat7.jpg",
+      "number": 12,
+      "prompt": "Hvad er fejlmarginen for et 95% konfidensinterval for middelv\u00e6rdien?"
+    },
+    {
+      "answers": [
+        "0.0241",
+        "0.0348",
+        "0.0415",
+        "0.0545",
+        "Mellem 0.6401 og 0.6987",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 6.2600 og 6.3429"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: <br><br><IMG SRC=\"img/fm90.png\" width=\"100%\" height=\"100%\" align=\"center\"> <br>Fordi vi forkaster nulhypotesen om at h\u00e6ldningen &beta;<sub>forklarende variabel</sub> = 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.                                                                                                                                                                                    <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat8.jpg",
       "number": 13,
-      "prompt": "Hvad forklarer bedst, hvorfor vi taler om at en forklarende variabel er signifikant?"
+      "prompt": "Hvad er fejlmarginen for et 90% konfidensinterval for middelv\u00e6rdien?"
     },
     {
       "answers": [
@@ -286,6 +312,6 @@
       "prompt": "For anpartsselskabet fra forrige sp\u00f8rgsm\u00e5l, kunne vi beregne en fordusagt rente p\u00e5 6.53%, selskabet har faktisk en rente p\u00e5 5%, hvad bliver residualen?"
     }
   ],
-  "title": "Hypotesetests, konfidensintervaller for en kvantitativ variabel.",
+  "title": "Konfidensintervaller for en kvantitativ variabel.",
   "url": null
 }

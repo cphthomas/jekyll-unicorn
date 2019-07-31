@@ -1,6 +1,6 @@
-# Hypotesetests, konfidensintervaller for en kvantitativ variabel.
+# Konfidensintervaller for en kvantitativ variabel.
 
- 1)  Du er ansat i en bank. Ledelsen ønsker en analyse af renter på udlån til virksomheder i banken. Du har data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:                                                                                                                                                <br>                                                                                                                                                                                                                                           <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br> Hvad type variabel er rente?  
+ 1)  Du er ansat i en bank. Ledelsen ønsker en analyse af renter på udlån til virksomheder i banken. Du har data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:                                                                                                                                                <br>                                                                                                                                                                                                                                           <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br> Hvad type variabel er rente?  
 
  	- Kvalitativ
  	* Kvantitativ
@@ -12,7 +12,7 @@
 
   
   
-2) Hvad betyder punktestimatet for &mu;?
+2) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>                                   Hvad betyder punktestimatet for &mu;?
  	- Vores bedste gæt på medianen
  	- Vores bedste gæt på kvartilafstanden
    - Vores bedste gæt på standardafvigelsen
@@ -23,7 +23,7 @@
 
    Svar: Symbolet for den sande ukendte middelværdi er det græske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste gæt på &mu; kaldes et estimat eller mere præcist et punktestimat for &mu;. <br><br>Estimat betyder gæt, så punktestimatet for &mu; er altså vores bedste gæt. Da vi ikke kender alle renter i populationen, er vores bedste gæt middelværdien i stikprøven.                    <br>                                                                                                                                                                                                                       <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
-3) Hvad er punktestimatet for parameteren &mu;?
+3) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>                                   Hvad er punktestimatet for parameteren &mu;?
    - 5.24
    - 5.81
    - 5.97
@@ -116,29 +116,44 @@ Svar: Man kan få et smallere konfidensinterval (større præcision), ved at udv
    - En ændret stikprøvestørrelse påvirker ikke standardafvigelsen &sigma; i populationen 
 (image) img/bean2.gif
 
-    Svar: En ændret stikprøvestørrelse, påvirker slet ikke den sande middelværdi i populationen<br><br>Herunder er output fra Freestat:<br><br>                                                                                                                                                                                                                       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+    Svar: En ændret stikprøvestørrelse, påvirker slet ikke den sande middelværdi i populationen<br><br>                                                                                                                                                                                                                       <br><a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
-11) Hvad betyder det når R-kvadreret justeret er 16.14%
-   - Det betyder at 16.14% af variationen i de 4 forklarende variable, kan forklares ved variationen i renten. Altså skal 83.86% af variationen forklares ved andre faktorer.
-   - Det betyder at 83.86% af variationen i renten, kan forklares ved variationen i de 4 forklarende variable. Altså skal 16.14% af variationen forklares ved andre faktorer.
-   * Det betyder at 16.14% af variationen i renten, kan forklares ved variationen i de 4 forklarende variable. Altså skal 83.86% af variationen forklares ved andre faktorer.
+11) Hvad betyder fejlmarginen?
+   - Den procentvise afvigelse fra middelværdien
+   - Den procentvise afvigelse fra medianen
+   - Den procentvise afvigelse fra konfidensintervallet
+   * Halvdelen af bredden af konfidensintervallet
+   - Konfidensintervallets midte
 
-12) Er samtlige forklarende variable signifikante?
-   - ja
-   * nej
+   Svar: Fejlmarginen fortæller hvor meget populationsparamereten fx. &mu; afviger op og ned fra parameterestimatet punktestimatet med en vis grad af sikkerhed. Vi finder dette som (Øvre grænse KI-nedre grænse KI)/2, altså halvdelen af konfidensintervallets bredde.<br><br>                                                                                                                                                                                                                       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+
+12) Hvad er fejlmarginen for et 95% konfidensinterval for middelværdien?
+   - 0.0241
+   - 0.0348
+   * 0.0415
+   - 0.0545
+   - Mellem 0.6401 og 0.6987
+   - Mellem 0.6445 og 0.6937
+   - Mellem 0.6445 og 0.6937
+   - Mellem 6.2600 og 6.3429
 (image) img/stat7.jpg
 
-   Svar: Nej i hvert fald skal overskudsgrad fjernes fra modellen, efter genberegning skal det afgøres, om der er flere forklarende variable der skal fjernes.<br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: <br><br><IMG SRC="img/fm95.png" width="100%" height="100%" align="center"> <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
-13) Hvad forklarer bedst, hvorfor vi taler om at en forklarende variabel er signifikant?
-   * Fordi vi forkaster nulhypotesen om at hældningen er lig med 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
-   - Fordi vi ikke kan afvise nulhypotesen om at hældningen er forskellig fra 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
-   - Fordi vi forkaster nulhypotesen om at skæringen er lig med 0, altså er skæringen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.
+13) Hvad er fejlmarginen for et 90% konfidensinterval for middelværdien?
+   - 0.0241
+   - 0.0348
+   * 0.0415
+   - 0.0545
+   - Mellem 0.6401 og 0.6987
+   - Mellem 0.6445 og 0.6937
+   - Mellem 0.6445 og 0.6937
+   - Mellem 6.2600 og 6.3429
 (image) img/stat8.jpg
 
-   Svar: Fordi vi forkaster nulhypotesen om at hældningen &beta;<sub>forklarende variabel</sub> = 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.                                                                                                                                                                                    <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: <br><br><IMG SRC="img/fm90.png" width="100%" height="100%" align="center"> <br>Fordi vi forkaster nulhypotesen om at hældningen &beta;<sub>forklarende variabel</sub> = 0, altså er hældningen forskellig fra 0, det betyder den forklarende variabel har effekt på responsvariablen.                                                                                                                                                                                    <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 14) Indenfor hvilken grænse ligger parameterestimatet for dummyvariablen lånetype med 95% sikkerhed?

@@ -30,7 +30,7 @@
    - 6.23
    * 6.30
 
-   Svar: Vores bedste gæt på den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan også kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="80%" height="80%" align="center"><br>                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
+   Svar: Vores bedste gæt på den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan også kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="100%" height="100%" align="center"><br>                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
 4) Hvad betyder punktestimatet for parameteren &sigma;?
  	- Vores bedste gæt på medianen
@@ -54,64 +54,69 @@
    - 1.21
 (image) img/stat1.jpg
    
-   Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores gæt standardafvigelsen i stikprøven.                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="80%" height="80%" align="center"><br>                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
+   Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores gæt standardafvigelsen i stikprøven.<br>Du kan se stikprøve standardafvigelsen i nedenstående output fra Freestat<br>                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="100%" height="100%" align="center"><br>                                                                                                                                                           <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
-6) Giver fortegnet på parameterestimatet for lånetype mening?
-   - Nej, når der er tale om et variabelt forrentet lån, bør udlånsrenten være højere, end ved et fastforrentet lån.
-   * Ja, når der er tale om et variabelt forrentet lån, bør udlånsrenten være lavere end ved et fastforrentet lån. Det betyder når der er tale om et fastforrentet lån er renten højere.
-   - Nej, vi kan ikke umiddelbart udtale os, om udlånsrenten for et variabelt forrentet lån bør være lavere eller højere end ved et fastforrentet udlån.
+6) Hvor er 95% konfidensintervallet for middelværdien?
+   - 0.6681
+   - 6.3014
+   - Mellem 0.6401 og 0.6987
+   - Mellem 0.6445 og 0.6937
+   - Mellem 0.6445 og 0.6937
+   * Mellem 6.2600 og 6.3429
+   - Mellem 6.2534 og 6.4523
+   - Mellem 6.2666 og 6.3362
+   - Mellem 6.2469 og 6.3560
 (image) img/stat3.jpg
 
-Svar: Fast forrentede lån er dyrere dvs. højere rente end variabelt forrentede lån, da man er sikret mod rentestigninger, så det positive fortegn for parameterestimatet for lånetype giver god mening <br><br><IMG SRC="img/reg1lnkoef.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+Svar:  Vi kan med 95% sikkerhed sige at den sande middelværdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC="img/96KImu.png" width="100%" height="100%" align="center">                                                                                           <br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-7) Hvad er parameterestimatet for rating?
-   - 6.75
-   - 0.00
-   - -0.002
-   * -0.01
-   - 0.4108
-   - 3.39
-   - 14.82
+7) Hvor vil den gennemsnitlige rente i populationen, vil ligge med 90% sandsynlighed?
+   - 0.6681
+   - 6.3014
+   - Mellem 0.6401 og 0.6987
+   - Mellem 0.6445 og 0.6937
+   - Mellem 0.6445 og 0.6937
+   - Mellem 6.2600 og 6.3429
+   - Mellem 6.2534 og 6.4523
+   * Mellem 6.2666 og 6.3362
+   - Mellem 6.2469 og 6.3560
 (image) img/stat4.jpg
 
-   Svar: <br><IMG SRC="img/reg1ratingkoef.png" width="80%" height="80%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Vi kan med 90% sikkerhed sige at den sande middelværdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2666 og 6.3362. <br><IMG SRC="img/90KI.png" width="100%" height="100%" align="center"><br><br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-8) Hvordan kan man bedst forklare parameterestimatet for rating -0.01?
-   - Når ratingen falder med 0.01 enhed, stiger renten med 1 procent.
-   - Når ratingen falder med 0.01 enhed, falder renten med 1 procentpoint.
-   - Når ratingen stiger med 1 enhed, falder renten med 0.01 procent.
-   * Når ratingen stiger med 1 enhed, falder renten med 0.01 procentpoint.
-   - Når der er tale om rating falder renten med 0.01 procent.
-   - Når der er tale om rating falder renten med 0.01 procentpoint.
-   - Når der er tale om rating falder renten med 1 procent.
-   - Når der er tale om rating falder renten med 1 procent.
-   - Når der er tale om rating falder renten med 0.01 procent.
-   - Når der er tale om rating falder renten med 1 procentpoint.
+8) Hvor vil standardafvigelsen for renten i populationen, ligge med 90% sandsynlighed?
+   - 0.6681
+   - 6.3014
+   - Mellem 0.6401 og 0.6987
+   * Mellem 0.6445 og 0.6937
+   - Mellem 0.6445 og 0.6937
+   - Mellem 6.2600 og 6.3429
+   - Mellem 6.2534 og 6.4523
+   * Mellem 6.2666 og 6.3362
+   - Mellem 6.2469 og 6.3560
 (image) img/stat5.jpg
    
-   Svar: Kun et af svarene er helt korrekt: Når x-variablen rating stiger med 1, falder y variablen rente med 0.01 procentpoint.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1ratingkoef.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+   Svar: Vi kan med 90% sikkerhed sige at den sande standardafvigelse i populationen (standardafvigelsen for renten i populationen) ligger mellem 0.6445 og 0.6937. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/90KIsigma.png" width="100%" height="100%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-9)  Giver fortegnet på parameterestimatet for rating giver mening?
-   - Nej, når variablen rating stiger, bør udlånsrenten stige.
-   - Ja, når variablen rating stiger, bør udlånsrenten stige.
-   * Ja, når variablen rating stiger, bør udlånsrenten falde.
-   - Nej, når variablen rating stiger, bør udlånsrenten falde.
-   - Nej, vi kan ikke umiddelbart udtale os om udlånsrenten for et variabelt forrentet lån, bør være lavere eller højere end et fastforrentet udlån.
+9)  Hvordan kan man få et smallere konfidensinterval (større præcision)?
+   - Man kan øge konfidensniveauet 
+   - Man kan sænke signifikansniveauet 
+   - Udvælge en mindre stikprøve
+   * Man kan øge signifikansniveauet
 (image) img/stat6.jpg
 
-Svar: Ja, højere rating stiger betyder bedre kunde, derfor bør udlånsrenten for den bedre kunde være lavere, derfor falder renten. <br><br><IMG SRC="img/reg1ratingkoef.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+Svar: Man kan få et smallere konfidensinterval (større præcision), ved at udvælge en større stikprøve (koster penge) eller øge signifikansniveaet dvs. sænke konfidensniveauet (koster sikkerhed)<br><br>                                                                                                                                                         <br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
-10) Hvad bliver R-kvadreret justeret?
-   * 16.14%
-   - 19.03%
-   - 23.78%
-   - 51.28%
-   - 89.48%
-   - 93.98%
-   - 98.11%
+10) Hvilket af følgende udsagn er <b>IKKE</b> korrekt?
+   - Der er et tradeoff mellem præcision og sikkerhed
+   * En større stikprøve vil gøre middelværdien &mu; i populationen mindre 
+   - En større stikprøve vil gøre konfidensintervallet smallere
+   - Øget signifikansniveau vil gøre konfidensintervallet smallere
+   - Sænket konfidensniveau vil gøre konfidensintervallet smallere
+   - En ændret stikprøvestørrelse påvirker ikke standardafvigelsen &sigma; i populationen 
 (image) img/bean2.gif
 
-    Svar: R-kvadreret justeret bliver 16.14%. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC="img/reg1rkvadreret.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+    Svar: En ændret stikprøvestørrelse, påvirker slet ikke den sande middelværdi i populationen<br><br>Herunder er output fra Freestat:<br><br>                                                                                                            <IMG SRC="img/reg1rkvadreret.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 11) Hvad betyder det når R-kvadreret justeret er 16.14%

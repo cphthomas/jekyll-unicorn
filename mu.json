@@ -42,7 +42,7 @@
       ],
       "correct": {
         "index": 4,
-        "text": "Svar: Vores bedste g\u00e6t p\u00e5 den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan ogs\u00e5 kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"80%\" height=\"80%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Vores bedste g\u00e6t p\u00e5 den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan ogs\u00e5 kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
       "number": 3,
       "prompt": "Hvad er punktestimatet for parameteren &mu;?"
@@ -75,7 +75,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"80%\" height=\"80%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.<br>Du kan se stikpr\u00f8ve standardafvigelsen i nedenst\u00e5ende output fra Freestat<br>                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
       "image": "img/stat1.jpg",
       "number": 5,
@@ -83,90 +83,95 @@
     },
     {
       "answers": [
-        "Nej, n\u00e5r der er tale om et variabelt forrentet l\u00e5n, b\u00f8r udl\u00e5nsrenten v\u00e6re h\u00f8jere, end ved et fastforrentet l\u00e5n.",
-        "Ja, n\u00e5r der er tale om et variabelt forrentet l\u00e5n, b\u00f8r udl\u00e5nsrenten v\u00e6re lavere end ved et fastforrentet l\u00e5n. Det betyder n\u00e5r der er tale om et fastforrentet l\u00e5n er renten h\u00f8jere.",
-        "Nej, vi kan ikke umiddelbart udtale os, om udl\u00e5nsrenten for et variabelt forrentet l\u00e5n b\u00f8r v\u00e6re lavere eller h\u00f8jere end ved et fastforrentet udl\u00e5n."
+        "0.6681",
+        "6.3014",
+        "Mellem 0.6401 og 0.6987",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 6.2600 og 6.3429",
+        "Mellem 6.2534 og 6.4523",
+        "Mellem 6.2666 og 6.3362",
+        "Mellem 6.2469 og 6.3560"
       ],
       "correct": {
-        "index": 1,
-        "text": "Svar: Fast forrentede l\u00e5n er dyrere dvs. h\u00f8jere rente end variabelt forrentede l\u00e5n, da man er sikret mod rentestigninger, s\u00e5 det positive fortegn for parameterestimatet for l\u00e5netype giver god mening <br><br><IMG SRC=\"img/reg1lnkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "index": 5,
+        "text": "Svar:  Vi kan med 95% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC=\"img/96KImu.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                                                           <br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat3.jpg",
       "number": 6,
-      "prompt": "Giver fortegnet p\u00e5 parameterestimatet for l\u00e5netype mening?"
+      "prompt": "Hvor er 95% konfidensintervallet for middelv\u00e6rdien?"
     },
     {
       "answers": [
-        "6.75",
-        "0.00",
-        "-0.002",
-        "-0.01",
-        "0.4108",
-        "3.39",
-        "14.82"
+        "0.6681",
+        "6.3014",
+        "Mellem 0.6401 og 0.6987",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 6.2600 og 6.3429",
+        "Mellem 6.2534 og 6.4523",
+        "Mellem 6.2666 og 6.3362",
+        "Mellem 6.2469 og 6.3560"
       ],
       "correct": {
-        "index": 3,
-        "text": "Svar: <br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "index": 7,
+        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2666 og 6.3362. <br><IMG SRC=\"img/90KI.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat4.jpg",
       "number": 7,
-      "prompt": "Hvad er parameterestimatet for rating?"
+      "prompt": "Hvor vil den gennemsnitlige rente i populationen, vil ligge med 90% sandsynlighed?"
     },
     {
       "answers": [
-        "N\u00e5r ratingen falder med 0.01 enhed, stiger renten med 1 procent.",
-        "N\u00e5r ratingen falder med 0.01 enhed, falder renten med 1 procentpoint.",
-        "N\u00e5r ratingen stiger med 1 enhed, falder renten med 0.01 procent.",
-        "N\u00e5r ratingen stiger med 1 enhed, falder renten med 0.01 procentpoint.",
-        "N\u00e5r der er tale om rating falder renten med 0.01 procent.",
-        "N\u00e5r der er tale om rating falder renten med 0.01 procentpoint.",
-        "N\u00e5r der er tale om rating falder renten med 1 procent.",
-        "N\u00e5r der er tale om rating falder renten med 1 procent.",
-        "N\u00e5r der er tale om rating falder renten med 0.01 procent.",
-        "N\u00e5r der er tale om rating falder renten med 1 procentpoint."
+        "0.6681",
+        "6.3014",
+        "Mellem 0.6401 og 0.6987",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 0.6445 og 0.6937",
+        "Mellem 6.2600 og 6.3429",
+        "Mellem 6.2534 og 6.4523",
+        "Mellem 6.2666 og 6.3362",
+        "Mellem 6.2469 og 6.3560"
       ],
       "correct": {
-        "index": 3,
-        "text": "Svar: Kun et af svarene er helt korrekt: N\u00e5r x-variablen rating stiger med 1, falder y variablen rente med 0.01 procentpoint.<br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "index": 7,
+        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande standardafvigelse i populationen (standardafvigelsen for renten i populationen) ligger mellem 0.6445 og 0.6937. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/90KIsigma.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat5.jpg",
       "number": 8,
-      "prompt": "Hvordan kan man bedst forklare parameterestimatet for rating -0.01?"
+      "prompt": "Hvor vil standardafvigelsen for renten i populationen, ligge med 90% sandsynlighed?"
     },
     {
       "answers": [
-        "Nej, n\u00e5r variablen rating stiger, b\u00f8r udl\u00e5nsrenten stige.",
-        "Ja, n\u00e5r variablen rating stiger, b\u00f8r udl\u00e5nsrenten stige.",
-        "Ja, n\u00e5r variablen rating stiger, b\u00f8r udl\u00e5nsrenten falde.",
-        "Nej, n\u00e5r variablen rating stiger, b\u00f8r udl\u00e5nsrenten falde.",
-        "Nej, vi kan ikke umiddelbart udtale os om udl\u00e5nsrenten for et variabelt forrentet l\u00e5n, b\u00f8r v\u00e6re lavere eller h\u00f8jere end et fastforrentet udl\u00e5n."
+        "Man kan \u00f8ge konfidensniveauet",
+        "Man kan s\u00e6nke signifikansniveauet",
+        "Udv\u00e6lge en mindre stikpr\u00f8ve",
+        "Man kan \u00f8ge signifikansniveauet"
       ],
       "correct": {
-        "index": 2,
-        "text": "Svar: Ja, h\u00f8jere rating stiger betyder bedre kunde, derfor b\u00f8r udl\u00e5nsrenten for den bedre kunde v\u00e6re lavere, derfor falder renten. <br><br><IMG SRC=\"img/reg1ratingkoef.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "index": 3,
+        "text": "Svar: Man kan f\u00e5 et smallere konfidensinterval (st\u00f8rre pr\u00e6cision), ved at udv\u00e6lge en st\u00f8rre stikpr\u00f8ve (koster penge) eller \u00f8ge signifikansniveaet dvs. s\u00e6nke konfidensniveauet (koster sikkerhed)<br><br>                                                                                                                                                         <br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat6.jpg",
       "number": 9,
-      "prompt": "Giver fortegnet p\u00e5 parameterestimatet for rating giver mening?"
+      "prompt": "Hvordan kan man f\u00e5 et smallere konfidensinterval (st\u00f8rre pr\u00e6cision)?"
     },
     {
       "answers": [
-        "16.14%",
-        "19.03%",
-        "23.78%",
-        "51.28%",
-        "89.48%",
-        "93.98%",
-        "98.11%"
+        "Der er et tradeoff mellem pr\u00e6cision og sikkerhed",
+        "En st\u00f8rre stikpr\u00f8ve vil g\u00f8re middelv\u00e6rdien &mu; i populationen mindre",
+        "En st\u00f8rre stikpr\u00f8ve vil g\u00f8re konfidensintervallet smallere",
+        "\u00d8get signifikansniveau vil g\u00f8re konfidensintervallet smallere",
+        "S\u00e6nket konfidensniveau vil g\u00f8re konfidensintervallet smallere",
+        "En \u00e6ndret stikpr\u00f8vest\u00f8rrelse p\u00e5virker ikke standardafvigelsen &sigma; i populationen"
       ],
       "correct": {
-        "index": 0,
-        "text": "Svar: R-kvadreret justeret bliver 16.14%. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/reg1rkvadreret.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "index": 1,
+        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>Herunder er output fra Freestat:<br><br>                                                                                                            <IMG SRC=\"img/reg1rkvadreret.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/bean2.gif",
       "number": 10,
-      "prompt": "Hvad bliver R-kvadreret justeret?"
+      "prompt": "Hvilket af f\u00f8lgende udsagn er <b>IKKE</b> korrekt?"
     },
     {
       "answers": [

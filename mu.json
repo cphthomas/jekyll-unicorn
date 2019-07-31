@@ -9,11 +9,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: Renten er en kvantitativ variabel, vi kan se dette, da vi kan beregne statistiske deskriptorer som fx. middelv\u00e6rdi, median og standardafvigelse og disse giver mening.<br>                                                                                                                                                                                                                                                                                                                                                            <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Renten er en kvantitativ variabel, vi kan se dette, da vi kan beregne statistiske deskriptorer som fx. middelv\u00e6rdi, median og standardafvigelse og disse giver mening.<br>                                                                                                                                                                                                                                                                                                                                                            <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/cat.gif",
       "number": 1,
-      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:                                                                                                                                                <br>                                                                                                                                                                                                                                           <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br> Hvad type variabel er rente?"
+      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:                                                                                                                                                <br>                                                                                                                                                                                                                                           <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br>Hvad type variabel er rente?"
     },
     {
       "answers": [
@@ -26,7 +26,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Symbolet for den sande ukendte middelv\u00e6rdi er det gr\u00e6ske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste g\u00e6t p\u00e5 &mu; kaldes et estimat eller mere pr\u00e6cist et punktestimat for &mu;. <br><br>Estimat betyder g\u00e6t, s\u00e5 punktestimatet for &mu; er alts\u00e5 vores bedste g\u00e6t. Da vi ikke kender alle renter i populationen, er vores bedste g\u00e6t middelv\u00e6rdien i stikpr\u00f8ven.                    <br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Symbolet for den sande ukendte middelv\u00e6rdi er det gr\u00e6ske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste g\u00e6t p\u00e5 &mu; kaldes et estimat eller mere pr\u00e6cist et punktestimat for &mu;. <br><br>Estimat betyder g\u00e6t, s\u00e5 punktestimatet for &mu; er alts\u00e5 vores bedste g\u00e6t. Da vi ikke kender alle renter i populationen, er vores bedste g\u00e6t middelv\u00e6rdien i stikpr\u00f8ven.                    <br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/fundog.gif",
       "number": 2,
@@ -42,7 +42,7 @@
       ],
       "correct": {
         "index": 4,
-        "text": "Svar: Vores bedste g\u00e6t p\u00e5 den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan ogs\u00e5 kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Vores bedste g\u00e6t p\u00e5 den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan ogs\u00e5 kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "number": 3,
       "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>                                   Hvad er punktestimatet for parameteren &mu;?"
@@ -58,7 +58,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.                                                                                                                                                                                                                                                                                                                                                                                    <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.                                                                                                                                                                                                                                                                                                                                                                                    <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/dogcat.gif",
       "number": 4,
@@ -75,7 +75,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.<br>Du kan se stikpr\u00f8ve standardafvigelsen i nedenst\u00e5ende output fra Freestat<br>                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.<br>Du kan se stikpr\u00f8ve standardafvigelsen i nedenst\u00e5ende output fra Freestat<br>                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/stat1.jpg",
       "number": 5,
@@ -95,7 +95,7 @@
       ],
       "correct": {
         "index": 5,
-        "text": "Svar:  Vi kan med 95% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC=\"img/95KImu.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                                                           <br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar:  Vi kan med 95% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC=\"img/95KImu.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                                                           <br><br>       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/stat3.jpg",
       "number": 6,
@@ -115,7 +115,7 @@
       ],
       "correct": {
         "index": 7,
-        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2666 og 6.3362. <br><IMG SRC=\"img/90KI.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2666 og 6.3362. <br><IMG SRC=\"img/90KI.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br> <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/stat4.jpg",
       "number": 7,
@@ -135,7 +135,7 @@
       ],
       "correct": {
         "index": 7,
-        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande standardafvigelse i populationen (standardafvigelsen for renten i populationen) ligger mellem 0.6445 og 0.6937. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/90KIsigma.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande standardafvigelse i populationen (standardafvigelsen for renten i populationen) ligger mellem 0.6445 og 0.6937. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/90KIsigma.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/stat5.jpg",
       "number": 8,
@@ -150,7 +150,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Man kan f\u00e5 et smallere konfidensinterval (st\u00f8rre pr\u00e6cision), ved at udv\u00e6lge en st\u00f8rre stikpr\u00f8ve (koster penge) eller \u00f8ge signifikansniveaet dvs. s\u00e6nke konfidensniveauet (koster sikkerhed)<br><br>                                                                                                                                                         <br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Man kan f\u00e5 et smallere konfidensinterval (st\u00f8rre pr\u00e6cision), ved at udv\u00e6lge en st\u00f8rre stikpr\u00f8ve (koster penge) eller \u00f8ge signifikansniveaet dvs. s\u00e6nke konfidensniveauet (koster sikkerhed)<br><br>                                                                                                                                                         <br>       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/stat6.jpg",
       "number": 9,
@@ -167,7 +167,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>                                                                                                                                                                                                                       <br><a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/bean2.gif",
       "number": 10,
@@ -178,12 +178,12 @@
         "Den procentvise afvigelse fra middelv\u00e6rdien",
         "Den procentvise afvigelse fra medianen",
         "Den procentvise afvigelse fra konfidensintervallet",
-        "Halvdelen af bredden af konfidensintervallet",
+        "Den halve l\u00e6ngde af konfidensintervallet",
         "Konfidensintervallets midte"
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Fejlmarginen fort\u00e6ller hvor meget populationsparamereten fx. &mu; afviger op og ned fra parameterestimatet punktestimatet med en vis grad af sikkerhed. Vi finder dette som (\u00d8vre gr\u00e6nse KI-nedre gr\u00e6nse KI)/2, alts\u00e5 halvdelen af konfidensintervallets bredde.<br><br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: Fejlmarginen fort\u00e6ller hvor meget populationsparamereten fx. &mu; afviger op og ned fra parameterestimatet punktestimatet med en vis grad af sikkerhed. Vi finder dette som (\u00d8vre gr\u00e6nse KI-nedre gr\u00e6nse KI)/2, alts\u00e5 halvdelen af konfidensintervallets l\u00e6ngde.<br><br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "number": 11,
       "prompt": "Hvad betyder fejlmarginen?"
@@ -201,7 +201,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: <br><br><IMG SRC=\"img/fm95.png\" width=\"100%\" height=\"100%\" align=\"center\"> <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: <br><br><IMG SRC=\"img/fm95.png\" width=\"100%\" height=\"100%\" align=\"center\"> <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/stat7.jpg",
       "number": 12,
@@ -220,7 +220,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: <br><br><IMG SRC=\"img/fm90.png\" width=\"100%\" height=\"100%\" align=\"center\"> <br>Fordi vi forkaster nulhypotesen om at h\u00e6ldningen &beta;<sub>forklarende variabel</sub> = 0, alts\u00e5 er h\u00e6ldningen forskellig fra 0, det betyder den forklarende variabel har effekt p\u00e5 responsvariablen.                                                                                                                                                                                    <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: <br><br><IMG SRC=\"img/fm90.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                             <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/stat8.jpg",
       "number": 13,
@@ -228,18 +228,17 @@
     },
     {
       "answers": [
-        "-0.33 og 0.49",
-        "0.33 og -0.49",
-        "-0.33 og -0.49",
-        "0.33 og 0.49"
+        "1%",
+        "5%",
+        "10%"
       ],
       "correct": {
-        "index": 3,
-        "text": "Svar: Vi kan med 95% sikkerhed sige at renten for et fastforrentet l\u00e5n ligger mellem 0.33 og 0.49 procentpoint h\u00f8jere end renten for et variabelt forrentet l\u00e5n.                                                                                                                                                                                              <br><br><IMG SRC=\"img/reg1koef.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "index": 2,
+        "text": "Svar: 10% signifikansniveau giver det smalleste konfidensinterval og dermed den mindste fejlmargin.                                                                                                                                                              <br><br><IMG SRC=\"img/fm90.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat9.jpg",
       "number": 14,
-      "prompt": "Indenfor hvilken gr\u00e6nse ligger parameterestimatet for dummyvariablen l\u00e5netype med 95% sikkerhed?"
+      "prompt": "Hvilke af de g\u00e6ngse signifikansniveauer giver den mindste fejlmargin?"
     },
     {
       "answers": [

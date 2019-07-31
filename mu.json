@@ -95,7 +95,7 @@
       ],
       "correct": {
         "index": 5,
-        "text": "Svar:  Vi kan med 95% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC=\"img/96KImu.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                                                           <br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar:  Vi kan med 95% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC=\"img/95KImu.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                                                           <br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/stat3.jpg",
       "number": 6,
@@ -167,7 +167,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>Herunder er output fra Freestat:<br><br>                                                                                                            <IMG SRC=\"img/reg1rkvadreret.png\" width=\"80%\" height=\"80%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
+        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>Herunder er output fra Freestat:<br><br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/liner-regressionsanalyse.html\" target=\"_blank\">Du kan l\u00e6se mere om line\u00e6r regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>"
       },
       "image": "img/bean2.gif",
       "number": 10,

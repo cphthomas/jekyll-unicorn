@@ -68,7 +68,7 @@
    - Mellem 6.2469 og 6.3560
 (image) img/stat3.jpg
 
-Svar:  Vi kan med 95% sikkerhed sige at den sande middelværdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC="img/96KImu.png" width="100%" height="100%" align="center">                                                                                           <br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+Svar:  Vi kan med 95% sikkerhed sige at den sande middelværdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC="img/95KImu.png" width="100%" height="100%" align="center">                                                                                           <br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 7) Hvor vil den gennemsnitlige rente i populationen, vil ligge med 90% sandsynlighed?
    - 0.6681
@@ -116,7 +116,7 @@ Svar: Man kan få et smallere konfidensinterval (større præcision), ved at udv
    - En ændret stikprøvestørrelse påvirker ikke standardafvigelsen &sigma; i populationen 
 (image) img/bean2.gif
 
-    Svar: En ændret stikprøvestørrelse, påvirker slet ikke den sande middelværdi i populationen<br><br>Herunder er output fra Freestat:<br><br>                                                                                                            <IMG SRC="img/reg1rkvadreret.png" width="80%" height="80%" align="center"><br><br>       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
+    Svar: En ændret stikprøvestørrelse, påvirker slet ikke den sande middelværdi i populationen<br><br>Herunder er output fra Freestat:<br><br>                                                                                                                                                                                                                       <br> <a href="https://s.tepedu.dk/liner-regressionsanalyse.html" target="_blank">Du kan læse mere om lineær regression, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/liner-regressionsanalyse.html</a><br>
 
 
 11) Hvad betyder det når R-kvadreret justeret er 16.14%

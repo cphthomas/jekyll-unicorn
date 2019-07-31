@@ -23,7 +23,7 @@
 
    Svar: Symbolet for den sande ukendte middelværdi er det græske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste gæt på &mu; kaldes et estimat eller mere præcist et punktestimat for &mu;. <br><br>Estimat betyder gæt, så punktestimatet for &mu; er altså vores bedste gæt. Da vi ikke kender alle renter i populationen, er vores bedste gæt middelværdien i stikprøven.                    <br>                                                                                                                                                                                                                       <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
 
-3) Hvad er punktestimatet for &mu;?
+3) Hvad er punktestimatet for parameteren &mu;?
    - 5.24
    - 5.81
    - 5.97

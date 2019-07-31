@@ -45,7 +45,7 @@
         "text": "Svar: Vores bedste g\u00e6t p\u00e5 den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan ogs\u00e5 kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"80%\" height=\"80%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
       "number": 3,
-      "prompt": "Hvad er punktestimatet for &mu;?"
+      "prompt": "Hvad er punktestimatet for parameteren &mu;?"
     },
     {
       "answers": [

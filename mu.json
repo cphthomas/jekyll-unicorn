@@ -30,7 +30,7 @@
       },
       "image": "img/fundog.gif",
       "number": 2,
-      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>                                   <br><b>Sp\u00f8rgsm\u00e5l 2</b><br>Hvad betyder punktestimatet for &mu; (vi kan ogs\u00e5 skrive punktestimatet for &mu; med symbolet &mu;&#770;)?"
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>                                   <br><b>Sp\u00f8rgsm\u00e5l 2</b><br>Hvad betyder punktestimatet for &mu; <small>(vi kan ogs\u00e5 skrive punktestimatet for &mu; med symbolet &mu;&#770;)</small>?"
     },
     {
       "answers": [

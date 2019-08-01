@@ -1,9 +1,10 @@
 html, body {
   width: 100%;
-  font-family: times;
+  font-family: Helvetica Neue;
 }
 
 .quiz-question {
+  font-family: times;
   width: 100%;
   max-width: 500px;
   display: block;

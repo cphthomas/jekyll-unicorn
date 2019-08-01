@@ -1,6 +1,6 @@
 html, body {
   width: 100%;
-  font-family: Helvetica Neue;
+  font-family: .utf8sans {"Arial Unicode MS", "Lucida Grande" sans-serif};
 }
 
 .quiz-question {

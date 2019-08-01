@@ -1,6 +1,6 @@
 html, body {
   width: 100%;
-  font-family: Arial;
+  font-family: Helvetica Neue;
 }
 
 .quiz-question {
@@ -10,7 +10,7 @@ html, body {
   margin: 0 auto;
   text-align: center;
   margin-top: 30px;
-  font-size: 14px;
+  font-size: 16px;
   font-style: italic;
   margin-bottom: 20px;
 }

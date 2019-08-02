@@ -254,7 +254,7 @@
         "index": 4,
         "text": "Svar: Vi kan finde svaret ved at v\u00e6lge 5% signifikansniveau, og inds\u00e6tte den \u00f8nskede fejlmargin til 0.01, s\u00e5 kan vi se mindste stikpr\u00f8vest\u00f8rrelse. Se output fra Freestat herunder:                                                                                                                                                              <br><br><IMG SRC=\"img/mindste5.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
-      "image": "img/stat9.jpg",
+      "image": "img/stat10.jpg",
       "number": 15,
       "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 15</b><br>Hvor stor skal stikpr\u00f8ven ved 5% signifikansniveau v\u00e6re, hvis man \u00f8nsker en fejlmargin p\u00e5 0.01?"
     }

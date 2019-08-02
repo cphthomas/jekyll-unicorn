@@ -172,6 +172,6 @@ Svar: 10% signifikansniveauet, giver det smalleste konfidensinterval, og dermed 
    - 8712
    * 17147
    - 21838
-(image) img/stat9.jpg
+(image) img/stat10.jpg
 
 Svar: Vi kan finde svaret ved at vælge 5% signifikansniveau, og indsætte den ønskede fejlmargin til 0.01, så kan vi se mindste stikprøvestørrelse. Se output fra Freestat herunder:                                                                                                                                                              <br><br><IMG SRC="img/mindste5.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                               <br> <a href="https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>

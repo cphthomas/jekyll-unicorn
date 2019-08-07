@@ -32,7 +32,7 @@
  	* >
  	- &ge;
  	- <
-(image) img/fundog.gif
+(image) img/cat3.gif
 
    FEEDBACK den gennemsnitlige årlige bruttoindtægt i populationen er højere end 320.000, kan oversættes til:<br>Middelværdien i populationen er højere end 320.0000 dvs.<br><br> &mu; > 320000<br><br> Bemærk vi har ikke lighedstegn i udsagnet, derfor er der tale om alternativ hypotesen.<br><br> H<sub>1</sub>: &mu; > 320.000<br><br> Den korrekte matematiske operator er altså større end ><br> Vi kan så bagefter udlede nulhypotesen: det er jo det komplementære udsagn, dvs. det modsatte udsagn altså &le;:<br><br>Den gennemsnitlige årlige bruttoindtægt i populationen er <b>højst</b> 320.000<br> Det samlede hypotesetest vil altså være:<br><br> H<sub>0</sub>: &mu; &le; 320.000<br> H<sub>1</sub>: &mu; > 320.000<br><br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer podcasts i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a>
 

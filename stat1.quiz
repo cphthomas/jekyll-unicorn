@@ -108,7 +108,7 @@
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling højst er 28.000,-
  	- Vi konkluderer, den gennemsnitlige præmiebetaling er mindre end 28.000,-
  	- Vi kan ikke afvise, at den gennemsnitlige præmiebetaling mindst er 28.000,-
-(image) img/catreading.gif
+(image) img/fundogtv.gif
 
    FEEDBACK Da signifikanssandsynligheden/p-værdien 0.87% er mindre end signifikansniveauet 5%, forkaster vi nulhypotesen<br><br> H<sub>0</sub>: &mu; = 28.000<br> H<sub>1</sub>: &mu; &ne; 28.000<br><br>Den gennemsnitlige præmieudbetaling er altså forskellig fra 28.000,-<br><br><br><br><a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypoteser og se videoer, podcasts og opgaver i onlinebogen https://s.tepedu.dk/hypotesetests-middelvrdi.html</a>
 

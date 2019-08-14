@@ -64,7 +64,7 @@
       },
       "image": "img/dogcat.gif",
       "number": 4,
-      "prompt": "Kod dummy variablen, s\u00e5 den er t\u00e6ndt, n\u00e5r der er tale om et fastforrentet l\u00e5n.<br>Hvad er parameterestimatet for l\u00e5netype?"
+      "prompt": "Ledelsen \u00f8nsker et redskab, der kan hj\u00e6lpe medarbejdere i fasts\u00e6ttelsen af renter. Man \u00f8nsker en model, der kan forudsige, hvilken rente en erhvervskunde skal tilbydes. Opstil en regressionsmodel, der kan forklare Renten ud fra Oms\u00e6tning i tusind kroner, Overskudsgrad(%), Rating og La\u030anetype. <br><br>Kod dummy variablen, s\u00e5 den er t\u00e6ndt, n\u00e5r der er tale om et fastforrentet l\u00e5n.<br>Hvad er parameterestimatet for l\u00e5netype?"
     },
     {
       "answers": [

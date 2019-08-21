@@ -21,6 +21,24 @@
     },
     {
       "answers": [
+        "0.00%",
+        "0.75%",
+        "1%",
+        "1.51%",
+        "5%",
+        "10%",
+        "99.25%"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Svar: Signifikanssandsynligheden dvs. p-v\u00e6rdien, afl\u00e6ses til 1.51%<br>       <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/cat.gif",
+      "number": 2,
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 1</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvad bliver signifikanssandsynligheden?"
+    },
+    {
+      "answers": [
         "Vi forkaster nulhypotesen, renten i populationen kan antages at v\u00e6re 6.25%",
         "Vi forkaster nulhypotesen, renten i populationen er ikke 6.25%",
         "Vi kan ikke forkaste nulhypotesen, renten i populationen kan antages at v\u00e6re 6.25%",
@@ -28,10 +46,10 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: Da p-v\u00e6rdien er mindre end signifikansniveauet, forkaster vi nulhypotesen, renten i populationen er s\u00e5ledes ikke 6.25% <br>                                                                                                                                                                                                                                                                                                                                                            <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Da p-v\u00e6rdien er mindre end signifikansniveauet, forkaster vi nulhypotesen, renten i populationen er s\u00e5ledes ikke 6.25% <br>                    <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
       "image": "img/cat.gif",
-      "number": 2,
+      "number": 3,
       "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 1</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
     }
   ],

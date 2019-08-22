@@ -1,6 +1,6 @@
 # Hypotesetests for en kvantitativ variabel.
 
- 1)  Du er ansat i en bank. Ledelsen ønsker en analyse af renter på udlån til virksomheder i banken. Du har data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:<br>       <IMG SRC="img/reg1variable.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                                               <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <b>Spørgsmål 2</b><br>Hvis vi ønsker at teste på 5% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilke hypoteser skal vi da opstille?
+ 1)  Du er ansat i en bank. Ledelsen ønsker en analyse af renter på udlån til virksomheder i banken. Du har data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:<br>       <IMG SRC="img/reg1variable.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                                              <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <b>Spørgsmål 1</b><br>Hvis vi ønsker at teste på 5% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilke hypoteser skal vi da opstille?
    - H<sub>0</sub>: &mu; &geq; 6.25%<br>H<sub>1</sub>: &mu; &leq; 6.25%<br>
    - H<sub>0</sub>: &mu; = 6.25%<br>H<sub>1</sub>: &mu; &leq; 6.25%<br>
    - H<sub>0</sub>: &mu; &ne; 6.25%<br>H<sub>1</sub>: &mu; = 6.25%<br>
@@ -15,7 +15,7 @@
 
   
   
-2) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>Spørgsmål 1</b><br>Test på 5% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvad bliver signifikanssandsynligheden?  
+2) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>Spørgsmål 2</b><br>Test på 5% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvad bliver signifikanssandsynligheden?  
 
    - 0.00%
    - 0.75%
@@ -31,7 +31,7 @@
 
 
 
-3) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>Spørgsmål 1</b><br>Test på 5% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilket af følgende udsagn er korrekt?  
+3) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>Spørgsmål 3</b><br>Test på 5% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilket af følgende udsagn er korrekt?  
 
    - Vi kan ikke forkaste nulhypotesen, renten i populationen kan antages at være 6.25%
    - Vi kan ikke forkaste nulhypotesen, renten i populationen er ikke 6.25%
@@ -47,7 +47,7 @@
    Svar: Da p-værdien 1.51% er mindre end signifikansniveauet på 5%, forkaster vi nulhypotesen, renten i populationen er således forskellig fra 6.25% dvs.<br> H<sub>1</sub>: &mu; &ne; 6.25%<br>                    <IMG SRC="img/mu2_2.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>                                  
 
 
-4) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>Spørgsmål 1</b><br>Test på 1% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilket af følgende udsagn er korrekt?  
+4) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>Spørgsmål 4</b><br>Test på 1% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilket af følgende udsagn er korrekt?  
 
    * Vi kan ikke forkaste nulhypotesen, renten i populationen kan antages at være 6.25%
    - Vi kan ikke forkaste nulhypotesen, renten i populationen er ikke 6.25%
@@ -64,7 +64,7 @@
 
 
 
-4) Hvilket fagudtryk bruger vi når p-værdien ligger mellem 1% og 10%?  
+5) Spørgsmål 5<br>Hvilket fagudtryk bruger vi når p-værdien ligger mellem 1% og 10%?  
 
    - Konklusionen er signifikant
    - Konfidensintervallet er signifikant

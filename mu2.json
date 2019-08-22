@@ -17,7 +17,7 @@
       },
       "image": "img/fundog.gif",
       "number": 1,
-      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:<br>       <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                                               <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <b>Sp\u00f8rgsm\u00e5l 2</b><br>Hvis vi \u00f8nsker at teste p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilke hypoteser skal vi da opstille?"
+      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:<br>       <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                                              <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <b>Sp\u00f8rgsm\u00e5l 1</b><br>Hvis vi \u00f8nsker at teste p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilke hypoteser skal vi da opstille?"
     },
     {
       "answers": [
@@ -35,7 +35,7 @@
       },
       "image": "img/cat.gif",
       "number": 2,
-      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 1</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvad bliver signifikanssandsynligheden?"
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 2</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvad bliver signifikanssandsynligheden?"
     },
     {
       "answers": [
@@ -55,7 +55,7 @@
       },
       "image": "img/cat.gif",
       "number": 3,
-      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 1</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 3</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
     },
     {
       "answers": [
@@ -75,7 +75,7 @@
       },
       "image": "img/stat1.gif",
       "number": 4,
-      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 1</b><br>Test p\u00e5 1% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 4</b><br>Test p\u00e5 1% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
     },
     {
       "answers": [
@@ -87,8 +87,8 @@
         "text": "Svar: Vi f\u00e5r forskellig konklusioner ved forskellige signifikansniveauer<br> H<sub>0</sub>: &mu; = 6.25<br>                    <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
       "image": "img/stat1.gif",
-      "number": 4,
-      "prompt": "Hvilket fagudtryk bruger vi n\u00e5r p-v\u00e6rdien ligger mellem 1% og 10%?"
+      "number": 5,
+      "prompt": "Sp\u00f8rgsm\u00e5l 5<br>Hvilket fagudtryk bruger vi n\u00e5r p-v\u00e6rdien ligger mellem 1% og 10%?"
     }
   ],
   "title": "Hypotesetests for en kvantitativ variabel.",

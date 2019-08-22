@@ -1,14 +1,14 @@
 # Hypotesetests for en kvantitativ variabel.
 
  1)  Du er ansat i en bank. Ledelsen ønsker en analyse af renter på udlån til virksomheder i banken. Du har data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:<br>       <IMG SRC="img/reg1variable.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                                               <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <b>Spørgsmål 2</b><br>Hvis vi ønsker at teste på 5% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilke hypoteser skal vi da opstille?
-   - H<sub>0</sub>: &mu; &geq; 6.25<br>H<sub>1</sub>: &mu; &leq; 6.25<br>
-   - H<sub>0</sub>: &mu; = 6.25<br>H<sub>1</sub>: &mu; &leq; 6.25<br>
-   - H<sub>0</sub>: &mu; &ne; 6.25<br>H<sub>1</sub>: &mu; = 6.25<br>
-   - H<sub>0</sub>: &mu; &leq; 6.25<br>H<sub>1</sub>: &mu; &geq; 6.25<br>
-   - H<sub>0</sub>: &mu; &geq; 6.25<br>H<sub>1</sub>: &mu; < 6.25<br>
-   - H<sub>0</sub>: &mu; &geq; 6.25<br>H<sub>1</sub>: &mu; &ne; 6.25<br>
-   - H<sub>0</sub>: &mu; &ne; 6.25<br>H<sub>1</sub>: &mu; &leq; 6.25<br>
-   * H<sub>0</sub>: &mu; = 6.25<br>H<sub>1</sub>: &mu; &ne; 6.25<br>
+   - H<sub>0</sub>: &mu; &geq; 6.25%<br>H<sub>1</sub>: &mu; &leq; 6.25%<br>
+   - H<sub>0</sub>: &mu; = 6.25%<br>H<sub>1</sub>: &mu; &leq; 6.25%<br>
+   - H<sub>0</sub>: &mu; &ne; 6.25%<br>H<sub>1</sub>: &mu; = 6.25%<br>
+   - H<sub>0</sub>: &mu; &leq; 6.25%<br>H<sub>1</sub>: &mu; &geq; 6.25%<br>
+   - H<sub>0</sub>: &mu; &geq; 6.25%<br>H<sub>1</sub>: &mu; < 6.25%<br>
+   - H<sub>0</sub>: &mu; &geq; 6.25%<br>H<sub>1</sub>: &mu; &ne; 6.25%<br>
+   - H<sub>0</sub>: &mu; &ne; 6.25%<br>H<sub>1</sub>: &mu; &leq; 6.25%<br>
+   * H<sub>0</sub>: &mu; = 6.25%<br>H<sub>1</sub>: &mu; &ne; 6.25%<br>
 (image) img/fundog.gif
 
    Svar: Vi skal altid have lighedtegn i nulhypotesen, her bliver det = ikke &geq; og ikke  &leq;, da der i spørgsmålet står <p style="color:red;">"at være"</p>.                    <br>                                                                                                                                                                                                                       <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>
@@ -33,14 +33,34 @@
 
 3) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>Spørgsmål 1</b><br>Test på 5% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilket af følgende udsagn er korrekt?  
 
-   - Vi forkaster nulhypotesen, renten i populationen kan antages at være 6.25%
-   * Vi forkaster nulhypotesen, renten i populationen er ikke 6.25%
    - Vi kan ikke forkaste nulhypotesen, renten i populationen kan antages at være 6.25%
    - Vi kan ikke forkaste nulhypotesen, renten i populationen er ikke 6.25%
+   - Vi kan ikke forkaste nulhypotesen, renten i populationen er højst 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er højst 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er mindst 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er større end 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er mindre end 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen kan antages at være 6.25%
+   * Vi forkaster nulhypotesen, renten i populationen er forskellig fra 6.25%
 (image) img/cat.gif
 
-   Svar: Da p-værdien er mindre end signifikansniveauet, forkaster vi nulhypotesen, renten i populationen er således ikke 6.25% <br>                    <IMG SRC="img/mu2_2.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>                                  
+   Svar: Da p-værdien 1.51% er mindre end signifikansniveauet på 5%, forkaster vi nulhypotesen, renten i populationen er således forskellig fra 6.25% dvs.<br> H<sub>1</sub>: &mu; &ne; 6.25%<br>                    <IMG SRC="img/mu2_2.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>                                  
 
+
+4) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>Spørgsmål 1</b><br>Test på 1% signifikansniveau, om renten i populationen kan antages at være 6.25%<br>Hvilket af følgende udsagn er korrekt?  
+
+   * Vi kan ikke forkaste nulhypotesen, renten i populationen kan antages at være 6.25%
+   - Vi kan ikke forkaste nulhypotesen, renten i populationen er ikke 6.25%
+   - Vi kan ikke forkaste nulhypotesen, renten i populationen er højst 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er højst 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er mindst 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er større end 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er mindre end 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen kan antages at være 6.25%
+   - Vi forkaster nulhypotesen, renten i populationen er forskellig fra 6.25%
+(image) img/stat1.gif
+
+   Svar: Da p-værdien 1.51% er større end signifikansniveauet på 1%, kan vi ikke forkaste nulhypotesen, renten i populationen er således 6.25% dvs.<br> H<sub>0</sub>: &mu; = 6.25<br>                    <IMG SRC="img/mu2_2.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>                                  
 
 
 

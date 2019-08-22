@@ -2,14 +2,14 @@
   "questions": [
     {
       "answers": [
-        "H<sub>0</sub>: &mu; &geq; 6.25<br>H<sub>1</sub>: &mu; &leq; 6.25<br>",
-        "H<sub>0</sub>: &mu; = 6.25<br>H<sub>1</sub>: &mu; &leq; 6.25<br>",
-        "H<sub>0</sub>: &mu; &ne; 6.25<br>H<sub>1</sub>: &mu; = 6.25<br>",
-        "H<sub>0</sub>: &mu; &leq; 6.25<br>H<sub>1</sub>: &mu; &geq; 6.25<br>",
-        "H<sub>0</sub>: &mu; &geq; 6.25<br>H<sub>1</sub>: &mu; < 6.25<br>",
-        "H<sub>0</sub>: &mu; &geq; 6.25<br>H<sub>1</sub>: &mu; &ne; 6.25<br>",
-        "H<sub>0</sub>: &mu; &ne; 6.25<br>H<sub>1</sub>: &mu; &leq; 6.25<br>",
-        "H<sub>0</sub>: &mu; = 6.25<br>H<sub>1</sub>: &mu; &ne; 6.25<br>"
+        "H<sub>0</sub>: &mu; &geq; 6.25%<br>H<sub>1</sub>: &mu; &leq; 6.25%<br>",
+        "H<sub>0</sub>: &mu; = 6.25%<br>H<sub>1</sub>: &mu; &leq; 6.25%<br>",
+        "H<sub>0</sub>: &mu; &ne; 6.25%<br>H<sub>1</sub>: &mu; = 6.25%<br>",
+        "H<sub>0</sub>: &mu; &leq; 6.25%<br>H<sub>1</sub>: &mu; &geq; 6.25%<br>",
+        "H<sub>0</sub>: &mu; &geq; 6.25%<br>H<sub>1</sub>: &mu; < 6.25%<br>",
+        "H<sub>0</sub>: &mu; &geq; 6.25%<br>H<sub>1</sub>: &mu; &ne; 6.25%<br>",
+        "H<sub>0</sub>: &mu; &ne; 6.25%<br>H<sub>1</sub>: &mu; &leq; 6.25%<br>",
+        "H<sub>0</sub>: &mu; = 6.25%<br>H<sub>1</sub>: &mu; &ne; 6.25%<br>"
       ],
       "correct": {
         "index": 7,
@@ -39,18 +39,43 @@
     },
     {
       "answers": [
-        "Vi forkaster nulhypotesen, renten i populationen kan antages at v\u00e6re 6.25%",
-        "Vi forkaster nulhypotesen, renten i populationen er ikke 6.25%",
         "Vi kan ikke forkaste nulhypotesen, renten i populationen kan antages at v\u00e6re 6.25%",
-        "Vi kan ikke forkaste nulhypotesen, renten i populationen er ikke 6.25%"
+        "Vi kan ikke forkaste nulhypotesen, renten i populationen er ikke 6.25%",
+        "Vi kan ikke forkaste nulhypotesen, renten i populationen er h\u00f8jst 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er h\u00f8jst 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er mindst 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er st\u00f8rre end 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er mindre end 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen kan antages at v\u00e6re 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er forskellig fra 6.25%"
       ],
       "correct": {
-        "index": 1,
-        "text": "Svar: Da p-v\u00e6rdien er mindre end signifikansniveauet, forkaster vi nulhypotesen, renten i populationen er s\u00e5ledes ikke 6.25% <br>                    <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "index": 8,
+        "text": "Svar: Da p-v\u00e6rdien 1.51% er mindre end signifikansniveauet p\u00e5 5%, forkaster vi nulhypotesen, renten i populationen er s\u00e5ledes forskellig fra 6.25% dvs.<br> H<sub>1</sub>: &mu; &ne; 6.25%<br>                    <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
       "image": "img/cat.gif",
       "number": 3,
       "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 1</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
+    },
+    {
+      "answers": [
+        "Vi kan ikke forkaste nulhypotesen, renten i populationen kan antages at v\u00e6re 6.25%",
+        "Vi kan ikke forkaste nulhypotesen, renten i populationen er ikke 6.25%",
+        "Vi kan ikke forkaste nulhypotesen, renten i populationen er h\u00f8jst 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er h\u00f8jst 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er mindst 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er st\u00f8rre end 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er mindre end 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen kan antages at v\u00e6re 6.25%",
+        "Vi forkaster nulhypotesen, renten i populationen er forskellig fra 6.25%"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Svar: Da p-v\u00e6rdien 1.51% er st\u00f8rre end signifikansniveauet p\u00e5 1%, kan vi ikke forkaste nulhypotesen, renten i populationen er s\u00e5ledes 6.25% dvs.<br> H<sub>0</sub>: &mu; = 6.25<br>                    <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/stat1.gif",
+      "number": 4,
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 1</b><br>Test p\u00e5 1% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
     }
   ],
   "title": "Hypotesetests for en kvantitativ variabel.",

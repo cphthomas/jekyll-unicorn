@@ -139,7 +139,7 @@
       },
       "image": "img/stat5.jpg",
       "number": 8,
-      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 8</b><br>Hvor vil standardafvigelsen for renten i populationen, ligge med 90% sandsynlighed?"
+      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 8</b><br>Hvor vil standardafvigelsen for renten i populationen, med 90% sandsynlighed ligge?"
     },
     {
       "answers": [

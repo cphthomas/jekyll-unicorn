@@ -64,6 +64,14 @@
 
 
 
+4) Hvilket fagudtryk bruger vi når p-værdien ligger mellem 1% og 10%?  
+
+   - Konklusionen er signifikant
+   - Konfidensintervallet er signifikant
+   - Konklusionen er signifikant
+(image) img/stat1.gif
+
+   Svar: Vi får forskellig konklusioner ved forskellige signifikansniveauer<br> H<sub>0</sub>: &mu; = 6.25<br>                    <IMG SRC="img/mu2_2.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>                                  
 
 
 

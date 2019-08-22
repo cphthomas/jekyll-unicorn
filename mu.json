@@ -134,7 +134,7 @@
         "Mellem 6.2469 og 6.3560"
       ],
       "correct": {
-        "index": 7,
+        "index": 3,
         "text": "Svar: Vi kan med 90% sikkerhed sige at den sande standardafvigelse i populationen (standardafvigelsen for renten i populationen) ligger mellem 0.6445 og 0.6937. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/90KIsigma.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
       },
       "image": "img/stat5.jpg",

@@ -9,7 +9,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: Renten er en kvantitativ variabel, vi kan se dette, da vi kan beregne statistiske deskriptorer som fx. middelv\u00e6rdi, median og standardafvigelse og disse giver mening.<br>                                                                                                                                                                                                                                                                                                                                                            <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: Renten er en kvantitativ variabel, vi kan se dette, da vi kan beregne statistiske deskriptorer som fx. middelv\u00e6rdi, median og standardafvigelse og disse giver mening.<br>                                                                                                                                                                                                                                                                                                                                                            <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/cat.gif",
       "number": 1,
@@ -26,7 +26,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Symbolet for den sande ukendte middelv\u00e6rdi er det gr\u00e6ske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste g\u00e6t p\u00e5 &mu; kaldes et estimat eller mere pr\u00e6cist et punktestimat for &mu;. Vi kan skrive dette som symbolet &mu;&#770; vi siger mu hat fordi vi har sat en slags hat ovenp\u00e5 &mu;<br><br>Estimat betyder g\u00e6t, s\u00e5 punktestimatet for &mu; er alts\u00e5 vores bedste g\u00e6t. Da vi ikke kender alle renter i populationen, er vores bedste g\u00e6t middelv\u00e6rdien i stikpr\u00f8ven.                    <br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: Symbolet for den sande ukendte middelv\u00e6rdi er det gr\u00e6ske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste g\u00e6t p\u00e5 &mu; kaldes et estimat eller mere pr\u00e6cist et punktestimat for &mu;. Vi kan skrive dette som symbolet &mu;&#770; vi siger mu hat fordi vi har sat en slags hat ovenp\u00e5 &mu;<br><br>Estimat betyder g\u00e6t, s\u00e5 punktestimatet for &mu; er alts\u00e5 vores bedste g\u00e6t. Da vi ikke kender alle renter i populationen, er vores bedste g\u00e6t middelv\u00e6rdien i stikpr\u00f8ven.                    <br>                                                                                                                                                                                                                                                                                                                                                                      <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/fundog.gif",
       "number": 2,
@@ -42,7 +42,7 @@
       ],
       "correct": {
         "index": 4,
-        "text": "Svar: Vores bedste g\u00e6t p\u00e5 den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan ogs\u00e5 kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: Vores bedste g\u00e6t p\u00e5 den gennemsnitlige rente i populationen dvs. punktestimatet for &mu; er 6.30. Vi kan ogs\u00e5 kalde punktestimatet for parameterestimatet, parameteren der interesserer os her er den sande gennemsnitlige rente i populationen &mu;                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                                                                                                                                                                          <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat17.jpg",
       "number": 3,
@@ -59,7 +59,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.                                                                                                                                                                                                                                                                                                                                                                                    <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/dogcat.gif",
       "number": 4,
@@ -76,7 +76,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.<br>Du kan se stikpr\u00f8ve standardafvigelsen i nedenst\u00e5ende output fra Freestat<br>                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                           <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores g\u00e6t standardafvigelsen i stikpr\u00f8ven.<br>Du kan se stikpr\u00f8ve standardafvigelsen i nedenst\u00e5ende output fra Freestat<br>                                                                                                                                                                                                                                          <br><IMG SRC=\"img/middel1.png\" width=\"100%\" height=\"100%\" align=\"center\"><br>                                                                                                                                                                                                                                                                                                          <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat1.jpg",
       "number": 5,
@@ -96,7 +96,7 @@
       ],
       "correct": {
         "index": 5,
-        "text": "Svar:  Vi kan med 95% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC=\"img/95KImu.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                                                           <br><br>       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar:  Vi kan med 95% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC=\"img/95KImu.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                                                           <br><br>                                                                                                                                                      <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat3.jpg",
       "number": 6,
@@ -115,7 +115,7 @@
       ],
       "correct": {
         "index": 6,
-        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2666 og 6.3362. <br><IMG SRC=\"img/90KI.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br> <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande middelv\u00e6rdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2666 og 6.3362. <br><IMG SRC=\"img/90KI.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br> <br>                                                                                                                                                <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat4.jpg",
       "number": 7,
@@ -135,7 +135,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande standardafvigelse i populationen (standardafvigelsen for renten i populationen) ligger mellem 0.6445 og 0.6937. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/90KIsigma.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: Vi kan med 90% sikkerhed sige at den sande standardafvigelse i populationen (standardafvigelsen for renten i populationen) ligger mellem 0.6445 og 0.6937. <br><br>Herunder er output fra Freestat:<br><br><IMG SRC=\"img/90KIsigma.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                      <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat5.jpg",
       "number": 8,
@@ -150,7 +150,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Man kan f\u00e5 et smallere konfidensinterval (st\u00f8rre pr\u00e6cision), ved at udv\u00e6lge en st\u00f8rre stikpr\u00f8ve (koster penge) eller \u00f8ge signifikansniveaet dvs. s\u00e6nke konfidensniveauet (koster sikkerhed)<br><br>                                                                                                                                                         <br>       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: Man kan f\u00e5 et smallere konfidensinterval (st\u00f8rre pr\u00e6cision), ved at udv\u00e6lge en st\u00f8rre stikpr\u00f8ve (koster penge) eller \u00f8ge signifikansniveaet dvs. s\u00e6nke konfidensniveauet (koster sikkerhed)<br><br>                                                                                                                                                         <br>       <br>                                                                                                                                                <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat6.jpg",
       "number": 9,
@@ -167,7 +167,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: En \u00e6ndret stikpr\u00f8vest\u00f8rrelse, p\u00e5virker slet ikke den sande middelv\u00e6rdi i populationen<br><br>                                                                                                                                                                                                                                                                                                                                                                      <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/bean2.gif",
       "number": 10,
@@ -183,7 +183,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Fejlmarginen fort\u00e6ller hvor meget populationsparamereten fx. &mu; afviger op og ned fra parameterestimatet punktestimatet med en vis grad af sikkerhed. Vi finder dette som (\u00d8vre gr\u00e6nse KI-nedre gr\u00e6nse KI)/2, alts\u00e5 halvdelen af konfidensintervallets l\u00e6ngde.<br><br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: Fejlmarginen fort\u00e6ller hvor meget populationsparamereten fx. &mu; afviger op og ned fra parameterestimatet punktestimatet med en vis grad af sikkerhed. Vi finder dette som (\u00d8vre gr\u00e6nse KI-nedre gr\u00e6nse KI)/2, alts\u00e5 halvdelen af konfidensintervallets l\u00e6ngde.<br><br>                                                                                                                                                                                                                                                                                                                                                                      <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat16.jpg",
       "number": 11,
@@ -202,7 +202,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: <br><br><IMG SRC=\"img/fm95.png\" width=\"100%\" height=\"100%\" align=\"center\"> <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: <br><br><IMG SRC=\"img/fm95.png\" width=\"100%\" height=\"100%\" align=\"center\"> <br>                                                                                                                                                <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat7.jpg",
       "number": 12,
@@ -221,7 +221,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: <br><br><IMG SRC=\"img/fm90.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                             <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: <br><br><IMG SRC=\"img/fm90.png\" width=\"100%\" height=\"100%\" align=\"center\">                                                                                                                                                                                                            <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat8.jpg",
       "number": 13,
@@ -235,7 +235,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: 10% signifikansniveauet, giver det smalleste konfidensinterval, og dermed den mindste fejlmargin.                                                                                                                                                              <br><br><IMG SRC=\"img/fm90.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: 10% signifikansniveauet, giver det smalleste konfidensinterval, og dermed den mindste fejlmargin.                                                                                                                                                              <br><br><IMG SRC=\"img/fm90.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                                                                                                                                                                              <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat9.jpg",
       "number": 14,
@@ -252,7 +252,7 @@
       ],
       "correct": {
         "index": 4,
-        "text": "Svar: Vi kan finde svaret ved at v\u00e6lge 5% signifikansniveau, og inds\u00e6tte den \u00f8nskede fejlmargin til 0.01, s\u00e5 kan vi se mindste stikpr\u00f8vest\u00f8rrelse. Se output fra Freestat herunder:                                                                                                                                                              <br><br><IMG SRC=\"img/mindste5.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html#konfidensinterval-for-standardafvigelsen</a><br>"
+        "text": "Svar: Vi kan finde svaret ved at v\u00e6lge 5% signifikansniveau, og inds\u00e6tte den \u00f8nskede fejlmargin til 0.01, s\u00e5 kan vi se mindste stikpr\u00f8vest\u00f8rrelse. Se output fra Freestat herunder:                                                                                                                                                              <br><br><IMG SRC=\"img/mindste5.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                                                                                                                                                                              <br> <a href=\"https://s.tepedu.dk/konfidensintervaller.html\" target=\"_blank\">Du kan l\u00e6se mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>"
       },
       "image": "img/stat10.jpg",
       "number": 15,

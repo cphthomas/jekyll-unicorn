@@ -1,0 +1,218 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "43",
+        "59",
+        "63",
+        "91",
+        "234",
+        "419",
+        "787"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Svar: Man kan fx. finde antallet af erhvervskunder tilknyttet erhvervscenter 1, som 91 ved at benytte pivottabeller.<br><br>                <IMG SRC=\"img/anova_1.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read1.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af bankens erhvervskunder. Du har en repr\u00e6sentativ stikpr\u00f8ve med data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:<br> <br>      <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                                              <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br>Hvor mange af kunderne i stikpr\u00f8ven er tilknyttet ervhervscenter 1?"
+    },
+    {
+      "answers": [
+        "H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub>",
+        "H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>                                                          H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub>",
+        "H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub> &ne; &sigma;<sub>3</sub> &ne; &sigma;<sub>4</sub>",
+        "H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: Ikke alle varianser er ens",
+        "H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> = &mu;<sub>3</sub> = &mu;<sub>4</sub> <br>                                                                H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub> &ne; &mu;<sub>3</sub> &ne; &mu;<sub>4</sub>",
+        "H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> = &mu;<sub>3</sub> = &mu;<sub>4</sub> <br>                                                                H<sub>1</sub>: Ikke alle middelv\u00e6rdier er ens"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Svar:     Vi tester variansen &sigma;<sup>2</sup>, dette er det samme som at teste standardafvigelsen &sigma;. Nulhypotesen er at alle varianser er ens, alternativ hypotesen er det modsatte dvs. IKKE alle middelv\u00e6rdier er ens.                                                                                                                                                                                                                                                                                                                                                               <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read2.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Test p\u00e5 5% signifikansniveau, om der er varianshomogenitet.<br><br>Hvilket af f\u00f8lgende tests kan vi opstille?"
+    },
+    {
+      "answers": [
+        "0.00%",
+        "0.75%",
+        "0.91%",
+        "1%",
+        "1.51%",
+        "5%",
+        "10%",
+        "82.20%",
+        "87.25%"
+      ],
+      "correct": {
+        "index": 7,
+        "text": "Svar: Signifikanssandsynligheden dvs. p-v\u00e6rdien, afl\u00e6ses til 0.91%<br>    <br><br>   <IMG SRC=\"img/anova_4.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read4.gif",
+      "number": 3,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Test p\u00e5 5% signifikansniveau, om der er varianshomogenitet vha. Bartlett<br>Hvad bliver signifikanssandsynligheden for dette test?"
+    },
+    {
+      "answers": [
+        "Vi forkaster nulhypotesen, alle middelv\u00e6rdier er ens",
+        "Vi kan ikke forkaste nulhypotesen, alle middelv\u00e6rdier er ens",
+        "Vi forkaster nulhypotesen, ikke alle middelv\u00e6rdier er ens",
+        "Vi kan ikke forkaste nulhypotesen, ikke alle middelv\u00e6rdier er ens",
+        "Vi kan ikke forkaste nulhypotesen, der er varianshomogenitet",
+        "Vi kan ikke forkaste nulhypotesen, der er ikke varianshomogenitet",
+        "Vi kan ikke forkaste nulhypotesen, ikke alle varianser er ens",
+        "Vi forkaster nulhypotesen, der er varianshomogenitet",
+        "Vi forkaster nulhypotesen, der er ikke varianshomogenitet",
+        "Vi forkaster nulhypotesen, ikke alle varianser er ens"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Svar: Der er varianshomogenitet, det betyder vi konkluderer at alle varianser er ens i de 4 afdelinger.<br>    <br><br>   <IMG SRC=\"img/anova_4.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read4.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Test p\u00e5 5% signifikansniveau, om der er varianshomogenitet vha. Bartlett<br>Hvad bliver konklusionen?"
+    },
+    {
+      "answers": [
+        "H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub>",
+        "H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>                                                          H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub>",
+        "H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub> &ne; &sigma;<sub>3</sub> &ne; &sigma;<sub>4</sub>",
+        "H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: Ikke alle varianser er ens",
+        "H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> = &mu;<sub>3</sub> = &mu;<sub>4</sub> <br>                                                                H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub> &ne; &mu;<sub>3</sub> &ne; &mu;<sub>4</sub>",
+        "H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> = &mu;<sub>3</sub> = &mu;<sub>4</sub> <br>                                                                H<sub>1</sub>: Ikke alle middelv\u00e6rdier er ens"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Svar: Nulhypotesen er at alle middelv\u00e6rdier er ens, alternativ hypotesen er det modsatte udsagn dvs. IKKE alle middelv\u00e6rdier er ens for de 4 afdelinger.<br><br>   <IMG SRC=\"img/anova_5.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>"
+      },
+      "image": "img/read5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Test p\u00e5 5% signifikansniveau, om den gennemsnitlige rente i de 4 afdelinger, kan antages at v\u00e6re ens<br><br>Hvilket af f\u00f8lgende tests kan vi opstille?"
+    },
+    {
+      "answers": [
+        "0.00%",
+        "0.75%",
+        "0.91%",
+        "1%",
+        "1.51%",
+        "5%",
+        "10%",
+        "82.20%",
+        "87.25%"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: Signifikanssandsynligheden dvs. p-v\u00e6rdien, afl\u00e6ses til 0.91%<br>    <br><br>   <IMG SRC=\"img/anova_5.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Test p\u00e5 5% signifikansniveau, om den gennemsnitlige rente er ens i de 4 afdelinger<br>Hvad bliver signifikanssandsynligheden for dette test?"
+    },
+    {
+      "answers": [
+        "Vi forkaster nulhypotesen, alle middelv\u00e6rdier er ens",
+        "Vi kan ikke forkaste nulhypotesen, alle middelv\u00e6rdier er ens",
+        "Vi forkaster nulhypotesen, ikke alle middelv\u00e6rdier er ens",
+        "Vi kan ikke forkaste nulhypotesen, ikke alle middelv\u00e6rdier er ens",
+        "Vi kan ikke forkaste nulhypotesen, der er varianshomogenitet",
+        "Vi kan ikke forkaste nulhypotesen, der er ikke varianshomogenitet",
+        "Vi kan ikke forkaste nulhypotesen, ikke alle varianser er ens",
+        "Vi forkaster nulhypotesen, der er varianshomogenitet",
+        "Vi forkaster nulhypotesen, der er ikke varianshomogenitet",
+        "Vi forkaster nulhypotesen, ikke alle varianser er ens"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: Der er varianshomogenitet, det betyder vi konkluderer at alle varianser er ens i de 4 afdelinger.<br>    <br><br>   <IMG SRC=\"img/anova_4.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Test p\u00e5 5% signifikansniveau, om den gennemsnitlige rente er ens i de 4 afdelinger<br>Hvad bliver konklusionen?"
+    },
+    {
+      "answers": [
+        "5.72%",
+        "6.05%",
+        "6.23%",
+        "6.28%",
+        "6.30%",
+        "6.52%",
+        "6.92%",
+        "7.18%",
+        "7.45%"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Svar: <br>    <IMG SRC=\"img/anova_6.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read8.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Find den afdeling i stikpr\u00f8ven der havde den h\u00f8jeste gennemsnitlige rente.<br>Hvad var den gennemsnitlige rente i stikpr\u00f8ven for denne gruppe?"
+    },
+    {
+      "answers": [
+        "5.72%",
+        "6.05%",
+        "6.23%",
+        "6.28%",
+        "6.30%",
+        "6.52%",
+        "6.92%",
+        "7.18%",
+        "7.45%"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: <br>   <IMG SRC=\"img/anova_6.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Find den afdeling i stikpr\u00f8ven, der havde den mindste gennemsnitlige rente.<br>Hvad var den gennemsnitlige rente i stikpr\u00f8ven for denne gruppe?"
+    },
+    {
+      "answers": [
+        "0.39",
+        "0.45",
+        "0.48",
+        "0.42",
+        "0.63",
+        "0.67",
+        "0.69",
+        "0.65"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Svar: Estimatet for gruppe 4 er h\u00f8jest, estimatet for variansen bliver &sigma;&#770;<sup>2</sup> = 0,48 dvs. estimatet for standardafvigelsen bliver<br> &sigma;&#770; = 0.48^0.5 = 0.69 <IMG SRC=\"img/anova_7.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read10.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Find den afdeling i stikpr\u00f8ven, der havde den h\u00f8jeste varians.<br>Hvad var variansen i stikpr\u00f8ven for denne gruppe?"
+    },
+    {
+      "answers": [
+        "0.39",
+        "0.45",
+        "0.48",
+        "0.42",
+        "0.63",
+        "0.67",
+        "0.69",
+        "0.65"
+      ],
+      "correct": {
+        "index": 6,
+        "text": "Svar: Estimatet for gruppe 4 er h\u00f8jest, estimatet for variansen bliver &sigma;&#770;<sup>2</sup> = 0,48 dvs. estimatet for standardafvigelsen bliver<br> &sigma;&#770; = 0.48^0.5 = 0.69 <IMG SRC=\"img/anova_7.png\" width=\"100%\" height=\"100%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://s.tepedu.dk/anova-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>"
+      },
+      "image": "img/read11.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Find den afdeling i stikpr\u00f8ven, der havde den h\u00f8jeste standardafvigelse.<br>Hvad var standardafvigelsen i stikpr\u00f8ven for denne gruppe?"
+    }
+  ],
+  "title": "ANOVA Variansanalyse",
+  "url": null
+}

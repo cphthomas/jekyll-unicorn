@@ -1,0 +1,178 @@
+# ANOVA Variansanalyse
+
+ 1)  <h2>Spørgsmål 1</h2>Du er ansat i en bank. Ledelsen ønsker en analyse af bankens erhvervskunder. Du har en repræsentativ stikprøve med data fra 1000 af bankens udlån til virksomheder.<br> Data findes i Excel-arket udlån.xlsx. Datasættet består af følgende 7 variable:<br> <br>      <IMG SRC="img/reg1variable.png" width="80%" height="80%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                                              <br><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br>Hvor mange af kunderne i stikprøven er tilknyttet ervhervscenter 1?
+   - 43
+   - 59
+   - 63
+   * 91
+   - 234
+   - 419
+   - 787
+   
+
+(image) img/read1.gif
+
+   Svar: Man kan fx. finde antallet af erhvervskunder tilknyttet erhvervscenter 1, som 91 ved at benytte pivottabeller.<br><br>                <IMG SRC="img/anova_1.png" width="100%" height="100%" align="center">        <br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
+
+
+
+ 
+
+2) <h2>Spørgsmål 2</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet.<br><br>Hvilket af følgende tests kan vi opstille?
+   - H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub>
+   - H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>                                                          H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub>
+   - H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub> &ne; &sigma;<sub>3</sub> &ne; &sigma;<sub>4</sub>
+   * H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: Ikke alle varianser er ens
+   - H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> = &mu;<sub>3</sub> = &mu;<sub>4</sub> <br>                                                                H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub> &ne; &mu;<sub>3</sub> &ne; &mu;<sub>4</sub>
+   - H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> = &mu;<sub>3</sub> = &mu;<sub>4</sub> <br>                                                                H<sub>1</sub>: Ikke alle middelværdier er ens
+(image) img/read2.gif
+
+   Svar:     Vi tester variansen &sigma;<sup>2</sup>, dette er det samme som at teste standardafvigelsen &sigma;. Nulhypotesen er at alle varianser er ens, alternativ hypotesen er det modsatte dvs. IKKE alle middelværdier er ens.                                                                                                                                                                                                                                                                                                                                                               <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>                                                                    
+
+    
+
+  
+3) <h2>Spørgsmål 3</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet vha. Bartlett<br>Hvad bliver signifikanssandsynligheden for dette test?  
+
+   - 0.00%
+   - 0.75%
+   - 0.91%
+   - 1%
+   - 1.51%
+   - 5%
+   - 10%
+   * 82.20%
+   - 87.25%
+
+(image) img/read4.gif
+
+   Svar: Signifikanssandsynligheden dvs. p-værdien, aflæses til 0.91%<br>    <br><br>   <IMG SRC="img/anova_4.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
+
+4) <h2>Spørgsmål 4</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet vha. Bartlett<br>Hvad bliver konklusionen?  
+
+   - Vi forkaster nulhypotesen, alle middelværdier er ens
+   - Vi kan ikke forkaste nulhypotesen, alle middelværdier er ens
+   - Vi forkaster nulhypotesen, ikke alle middelværdier er ens
+   - Vi kan ikke forkaste nulhypotesen, ikke alle middelværdier er ens
+   * Vi kan ikke forkaste nulhypotesen, der er varianshomogenitet
+   - Vi kan ikke forkaste nulhypotesen, der er ikke varianshomogenitet
+   - Vi kan ikke forkaste nulhypotesen, ikke alle varianser er ens
+   - Vi forkaster nulhypotesen, der er varianshomogenitet
+   - Vi forkaster nulhypotesen, der er ikke varianshomogenitet
+   - Vi forkaster nulhypotesen, ikke alle varianser er ens
+
+(image) img/read4.gif
+
+   Svar: Der er varianshomogenitet, det betyder vi konkluderer at alle varianser er ens i de 4 afdelinger.<br>    <br><br>   <IMG SRC="img/anova_4.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
+
+
+
+5) <h2>Spørgsmål 5</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente i de 4 afdelinger, kan antages at være ens<br><br>Hvilket af følgende tests kan vi opstille?
+
+   - H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub>
+   - H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>                                                          H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub> 
+   - H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub> &ne; &sigma;<sub>3</sub> &ne; &sigma;<sub>4</sub>
+   - H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: Ikke alle varianser er ens
+   - H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> = &mu;<sub>3</sub> = &mu;<sub>4</sub> <br>                                                                H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub> &ne; &mu;<sub>3</sub> &ne; &mu;<sub>4</sub>
+   * H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> = &mu;<sub>3</sub> = &mu;<sub>4</sub> <br>                                                                H<sub>1</sub>: Ikke alle middelværdier er ens
+(image) img/read5.gif
+
+   Svar: Nulhypotesen er at alle middelværdier er ens, alternativ hypotesen er det modsatte udsagn dvs. IKKE alle middelværdier er ens for de 4 afdelinger.<br><br>   <IMG SRC="img/anova_5.png" width="100%" height="100%" align="center">        <br>                  
+(image) img/read3.gif                                                                                                                                                                                                                    <br> <a <br> <a href="https://s.tepedu.dk/hypotesetests-middelvrdi.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>    
+
+
+
+
+6) <h2>Spørgsmål 6</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente er ens i de 4 afdelinger<br>Hvad bliver signifikanssandsynligheden for dette test?  
+
+   - 0.00%
+   - 0.75%
+   * 0.91%
+   - 1%
+   - 1.51%
+   - 5%
+   - 10%
+   - 82.20%
+   - 87.25%
+
+(image) img/read6.gif
+
+   Svar: Signifikanssandsynligheden dvs. p-værdien, aflæses til 0.91%<br>    <br><br>   <IMG SRC="img/anova_5.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
+
+
+
+7) <h2>Spørgsmål 7</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente er ens i de 4 afdelinger<br>Hvad bliver konklusionen?
+
+   - Vi forkaster nulhypotesen, alle middelværdier er ens
+   - Vi kan ikke forkaste nulhypotesen, alle middelværdier er ens
+   * Vi forkaster nulhypotesen, ikke alle middelværdier er ens
+   - Vi kan ikke forkaste nulhypotesen, ikke alle middelværdier er ens
+   - Vi kan ikke forkaste nulhypotesen, der er varianshomogenitet
+   - Vi kan ikke forkaste nulhypotesen, der er ikke varianshomogenitet
+   - Vi kan ikke forkaste nulhypotesen, ikke alle varianser er ens
+   - Vi forkaster nulhypotesen, der er varianshomogenitet
+   - Vi forkaster nulhypotesen, der er ikke varianshomogenitet
+   - Vi forkaster nulhypotesen, ikke alle varianser er ens
+
+(image) img/read7.gif
+
+   Svar: Der er varianshomogenitet, det betyder vi konkluderer at alle varianser er ens i de 4 afdelinger.<br>    <br><br>   <IMG SRC="img/anova_4.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
+    
+
+8) <h2>Spørgsmål 8</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find den afdeling i stikprøven der havde den højeste gennemsnitlige rente.<br>Hvad var den gennemsnitlige rente i stikprøven for denne gruppe?
+   - 5.72%
+   - 6.05%
+   - 6.23%
+   - 6.28%
+   - 6.30%
+   * 6.52%   
+   - 6.92%
+   - 7.18%
+   - 7.45%      
+
+(image) img/read8.gif
+
+   Svar: <br>    <IMG SRC="img/anova_6.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
+    
+
+9) <h2>Spørgsmål 9</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find den afdeling i stikprøven, der havde den mindste gennemsnitlige rente.<br>Hvad var den gennemsnitlige rente i stikprøven for denne gruppe?
+   - 5.72%
+   - 6.05%
+   * 6.23%
+   - 6.28%
+   - 6.30%
+   - 6.52%   
+   - 6.92%
+   - 7.18%
+   - 7.45%      
+
+(image) img/read9.gif
+
+   Svar: <br>   <IMG SRC="img/anova_6.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
+    
+10) <h2>Spørgsmål 10</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find den afdeling i stikprøven, der havde den højeste varians.<br>Hvad var variansen i stikprøven for denne gruppe?
+    - 0.39
+    - 0.45
+    * 0.48
+    - 0.42
+    - 0.63
+    - 0.67
+    - 0.69
+    - 0.65
+(image) img/read10.gif
+
+   Svar: Estimatet for gruppe 4 er højest, estimatet for variansen bliver &sigma;&#770;<sup>2</sup> = 0,48 dvs. estimatet for standardafvigelsen bliver<br> &sigma;&#770; = 0.48^0.5 = 0.69 <IMG SRC="img/anova_7.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>
+
+
+11) <h2>Spørgsmål 10</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find den afdeling i stikprøven, der havde den højeste standardafvigelse.<br>Hvad var standardafvigelsen i stikprøven for denne gruppe?
+    - 0.39
+    - 0.45
+    - 0.48
+    - 0.42
+    - 0.63
+    - 0.67
+    * 0.69
+    - 0.65
+(image) img/read11.gif
+
+   Svar: Estimatet for gruppe 4 er højest, estimatet for variansen bliver &sigma;&#770;<sup>2</sup> = 0,48 dvs. estimatet for standardafvigelsen bliver<br> &sigma;&#770; = 0.48^0.5 = 0.69 <IMG SRC="img/anova_7.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>

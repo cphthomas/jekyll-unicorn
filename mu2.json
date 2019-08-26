@@ -15,9 +15,9 @@
         "index": 7,
         "text": "Svar: Vi skal altid have lighedtegn i nulhypotesen, her bliver det = ikke &geq; og ikke  &leq;, da der i sp\u00f8rgsm\u00e5let st\u00e5r <p style=\"color:red;\">\"at v\u00e6re\"</p>.                    <br>                                                                                                                                                                                                                       <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
-      "image": "img/fundog.gif",
+      "image": "img/read4.gif",
       "number": 1,
-      "prompt": "Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af renter p\u00e5 udl\u00e5n til virksomheder i banken. Du har data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:<br>       <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                                              <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <b>Sp\u00f8rgsm\u00e5l 1</b><br>Hvis vi \u00f8nsker at teste p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilke hypoteser skal vi da opstille?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Du er ansat i en bank. Ledelsen \u00f8nsker en analyse af bankens erhvervskunder. Du har en repr\u00e6sentativ stikpr\u00f8ve med data fra 1000 af bankens udl\u00e5n til virksomheder.<br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:<br> <br>      <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                                              <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br>Hvis vi \u00f8nsker at teste p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilke hypoteser skal vi da opstille?"
     },
     {
       "answers": [
@@ -31,11 +31,11 @@
       ],
       "correct": {
         "index": 3,
-        "text": "Svar: Signifikanssandsynligheden dvs. p-v\u00e6rdien, afl\u00e6ses til 1.51%<br>       <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Signifikanssandsynligheden dvs. p-v\u00e6rdien, afl\u00e6ses til 1.51%<br>    <br><br>   <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
-      "image": "img/cat.gif",
+      "image": "img/read5.gif",
       "number": 2,
-      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 2</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvad bliver signifikanssandsynligheden?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvad bliver signifikanssandsynligheden?"
     },
     {
       "answers": [
@@ -51,11 +51,11 @@
       ],
       "correct": {
         "index": 8,
-        "text": "Svar: Da p-v\u00e6rdien 1.51% er mindre end signifikansniveauet p\u00e5 5%, forkaster vi nulhypotesen, renten i populationen er s\u00e5ledes forskellig fra 6.25% dvs.<br> H<sub>1</sub>: &mu; &ne; 6.25%<br>                    <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Da p-v\u00e6rdien 1.51% er mindre end signifikansniveauet p\u00e5 5%, forkaster vi nulhypotesen, renten i populationen er s\u00e5ledes forskellig fra 6.25% dvs.<br> H<sub>1</sub>: &mu; &ne; 6.25%<br>    <br><br>                <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
-      "image": "img/cat.gif",
+      "image": "img/read6.gif",
       "number": 3,
-      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 3</b><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Test p\u00e5 5% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
     },
     {
       "answers": [
@@ -71,24 +71,159 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: Da p-v\u00e6rdien 1.51% er st\u00f8rre end signifikansniveauet p\u00e5 1%, kan vi ikke forkaste nulhypotesen, renten i populationen er s\u00e5ledes 6.25% dvs.<br> H<sub>0</sub>: &mu; = 6.25<br>                    <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "text": "Svar: Da p-v\u00e6rdien 1.51% er st\u00f8rre end signifikansniveauet p\u00e5 1%, kan vi ikke forkaste nulhypotesen, renten i populationen er s\u00e5ledes 6.25% dvs.<br> H<sub>0</sub>: &mu; = 6.25<br>  <br><br>                  <IMG SRC=\"img/mu2_3.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
-      "image": "img/stat1.gif",
+      "image": "img/read7.gif",
       "number": 4,
-      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>Sp\u00f8rgsm\u00e5l 4</b><br>Test p\u00e5 1% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>Test p\u00e5 1% signifikansniveau, om renten i populationen kan antages at v\u00e6re 6.25%<br>Hvilket af f\u00f8lgende udsagn er korrekt?"
     },
     {
       "answers": [
         "Konklusionen er signifikant",
         "Konfidensintervallet er signifikant",
-        "Konklusionen er signifikant"
+        "Konklusionen er niveauf\u00f8lsom",
+        "Konfidensintervallet er niveauf\u00f8lsomt",
+        "Signifikansniveauet er signifikant",
+        "Signifikansniveauet er niveauf\u00f8lsomt"
       ],
       "correct": {
-        "text": "Svar: Vi f\u00e5r forskellig konklusioner ved forskellige signifikansniveauer<br> H<sub>0</sub>: &mu; = 6.25<br>                    <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+        "index": 2,
+        "text": "Svar: N\u00e5r vi f\u00e5r forskellige konklusioner ved forskellige signifikansniveauer, siger vi at konklusionen er niveauf\u00f8lsom. Konklusionen afh\u00e6nger nemlig af vort signifikansniveau<br>          <br><br>     <IMG SRC=\"img/mu2_2.png\" width=\"80%\" height=\"80%\" align=\"center\">    <br><br>    <br><IMG SRC=\"img/mu2_3.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
       },
-      "image": "img/stat1.gif",
+      "image": "img/stat2.jpg",
       "number": 5,
-      "prompt": "Sp\u00f8rgsm\u00e5l 5<br>Hvilket fagudtryk bruger vi n\u00e5r p-v\u00e6rdien ligger mellem 1% og 10%?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvilket fagudtryk bruger vi n\u00e5r p-v\u00e6rdien ligger mellem 1% og 10%?"
+    },
+    {
+      "answers": [
+        "H<sub>0</sub>: &mu; &geq; 7.7 mio.<br>H<sub>1</sub>: &mu; &leq; 7.7 mio.<br>",
+        "H<sub>0</sub>: &mu; = 7.7 mio.<br>H<sub>1</sub>: &mu; &leq; 7.7 mio.<br>",
+        "H<sub>0</sub>: &mu; &ne; 7.7 mio.<br>H<sub>1</sub>: &mu; = 7.7 mio.<br>",
+        "H<sub>0</sub>: &mu; &leq; 7.7 mio.<br>H<sub>1</sub>: &mu; &geq; 7.7 mio.<br>",
+        "H<sub>0</sub>: &mu; &leq; 7.7 mio.<br>H<sub>1</sub>: &mu; > 7.7 mio.<br>",
+        "H<sub>0</sub>: &mu; &geq; 7.7 mio.<br>H<sub>1</sub>: &mu; < 7.7 mio.<br>",
+        "H<sub>0</sub>: &mu; &geq; 7.7 mio.<br>H<sub>1</sub>: &mu; &ne; 7.7 mio.<br>",
+        "H<sub>0</sub>: &mu; &ne; 7.7 mio.<br>H<sub>1</sub>: &mu; &leq; 7.7 mio.<br>",
+        "H<sub>0</sub>: &mu; > 7.7 mio.<br>H<sub>1</sub>: &mu; &leq; 7.7 mio.<br>"
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Svar: <i>\"nu h\u00f8jere end 7.7 millioner\"</i> kan overs\u00e6ttes til &mu; > 7.7 mio. Hvilket er en alternativ hypotese, da der ikke er lighedstegn<br><br> H<sub>1</sub>: &mu; > 7.7 mio.       <br>                                                                                                                                                                                                                                                                                                                          <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/stat3.jpg",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Banken har forrige \u00e5r gennemf\u00f8rt en unders\u00f8gelse, her konstaterede man at den gennemsnitlige erhvervskunde havde en oms\u00e6tning p\u00e5 7.7 millioner om \u00e5ret. Man \u00f8nsker nu med de nye data, at teste om oms\u00e6tningen for den gennemsnitlige erhvervskunde h\u00f8jere end 7.7 millioner om \u00e5ret. Hvilken hypotesetest skal banken opstille?"
+    },
+    {
+      "answers": [
+        "Ja, da vi ikke kan forkaste nulhypotesen er den gennemsnitlige oms\u00e6tning h\u00f8jere end 7.7 mio.",
+        "Ja, da vi forkaster nulhypotesen er den gennemsnitlige oms\u00e6tning h\u00f8jere end 7.7 mio.",
+        "Ja, da vi forkaster alternativhypotesen er den gennemsnitlige oms\u00e6tning h\u00f8jere end 7.7 mio.",
+        "Nej, da vi forkaster alternativhypotesen er den gennemsnitlige oms\u00e6tning IKKE h\u00f8jere end 7.7 mio.",
+        "Nej, da vi ikke kan forkaste nulhypotesen er den gennemsnitlige oms\u00e6tning IKKE h\u00f8jere end 7.7 mio."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: Vi unders\u00f8ger altid om vi kan forkaste eller ikke forkaste nulhypotesen (ikke alternativhypotesen), her forkastes nulhypotesen og vi konstaterer at den gennemsnitlige oms\u00e6tning h\u00f8jere end 7.7 mio.              <br><br>                                                                                                                                                                                                                                                                                                                                            <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/stat4.jpg",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Er oms\u00e6tningen for den gennemsnitlige erhvervskunde nu h\u00f8jere end 7.7 millioner om \u00e5ret, n\u00e5r man tester p\u00e5 5% signifikansniveau?"
+    },
+    {
+      "answers": [
+        "4.59%",
+        "5%",
+        "97.7%",
+        "2.3%",
+        "1%",
+        "10%",
+        "3.51%"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Svar: Vi unders\u00f8ger altid om vi kan forkaste eller ikke forkaste nulhypotesen (ikke alternativhypotesen), her forkastes nulhypotesen og konstaterer at den gennemsnitlige oms\u00e6tning h\u00f8jere end 7.7 mio.              <br><br>      <br><br>    <br><IMG SRC=\"img/mu2_8.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/stat5.jpg",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad bliver p-v\u00e6rdien n\u00e5r vi tester, om oms\u00e6tningen for den gennemsnitlige erhvervskunde er h\u00f8jere end 7.7 millioner om \u00e5ret?"
+    },
+    {
+      "answers": [
+        "&mu;",
+        "&sigma;",
+        "&beta;",
+        "&rho;",
+        "p"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar 9: <br>   Vi betegner standardafvigelsen med symbolet for sigma &sigma;             <br>                                                                                                                                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/read3.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Banken har forrige \u00e5r gennemf\u00f8rt en unders\u00f8gelse, her konstaterede man at den gennemsnitlige erhvervskunde havde en oms\u00e6tning p\u00e5 7.7 millioner om \u00e5ret med en standardafvigelse p\u00e5 2.9 millioner. <br>Man \u00f8nsker nu med de nye data, at teste om standardafvigelsen for oms\u00e6tningen er mindre end 2.9 millioner. <br>Hvilken parameter skal indg\u00e5 i hypotese testen?"
+    },
+    {
+      "answers": [
+        "H<sub>0</sub>: &sigma; &geq; 2.9 mio.<br>H<sub>1</sub>: &sigma; &leq; 2.9 mio.<br>",
+        "H<sub>0</sub>: &sigma; = 2.9 mio.<br>H<sub>1</sub>: &sigma; &leq; 2.9 mio.<br>",
+        "H<sub>0</sub>: &sigma; &ne; 2.9 mio.<br>H<sub>1</sub>: &sigma; = 2.9 mio.<br>",
+        "H<sub>0</sub>: &sigma; &leq; 2.9 mio.<br>H<sub>1</sub>: &sigma; &geq; 2.9 mio.<br>",
+        "H<sub>0</sub>: &sigma; &leq; 2.9 mio.<br>H<sub>1</sub>: &sigma; > 2.9 mio.<br>",
+        "H<sub>0</sub>: &sigma; &geq; 2.9 mio.<br>H<sub>1</sub>: &sigma; < 2.9 mio.<br>",
+        "H<sub>0</sub>: &sigma; &geq; 2.9 mio.<br>H<sub>1</sub>: &sigma; &ne; 2.9 mio.<br>",
+        "H<sub>0</sub>: &sigma; &ne; 2.9 mio.<br>H<sub>1</sub>: &sigma; &leq; 2.9 mio.<br>",
+        "H<sub>0</sub>: &sigma; > 2.9 mio.<br>H<sub>1</sub>: &sigma; &leq; 2.9 mio.<br>"
+      ],
+      "correct": {
+        "index": 5,
+        "text": "Svar: <i>\"mindre end 2.9 millioner\"</i> kan overs\u00e6ttes til &sigma; < 2.9 mio. Hvilket er en alternativ hypotese, da der ikke er lighedstegn<br><br> H<sub>1</sub>: &sigma; < 2.9 mio.  <br><br>    <br>                                                                                                                                                                                                                                                                                                                               <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/read2.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Banken har forrige \u00e5r gennemf\u00f8rt en unders\u00f8gelse, her konstaterede man at den gennemsnitlige erhvervskunde havde en oms\u00e6tning p\u00e5 7.7 millioner om \u00e5ret med en standardafvigelse p\u00e5 2.9 millioner. <br>Man \u00f8nsker nu med de nye data, at teste om standardafvigelsen for oms\u00e6tningen er mindre end 2.9 millioner. <br>Hvilken hypotesetest skal banken opstille?"
+    },
+    {
+      "answers": [
+        "4.59%",
+        "5%",
+        "97.7%",
+        "2.3%",
+        "2.44%",
+        "10%",
+        "3.51%",
+        "1%",
+        "1.22%",
+        "2.44%"
+      ],
+      "correct": {
+        "index": 8,
+        "text": "Svar:            <br>  <br><IMG SRC=\"img/mu2_11.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                        <br> <a href=\"https://s.tepedu.dk/hypotesetests-middelvrdi.html\" target=\"_blank\">Du kan l\u00e6se mere om hypotesetests, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/hypotesetests-middelvrdi.html</a><br>"
+      },
+      "image": "img/read1.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad bliver p-v\u00e6rdien n\u00e5r vi tester, om standardafvigelsen er mindre end 2.9 millioner om \u00e5ret?"
+    },
+    {
+      "answers": [
+        "Vi kan ikke forkaste nulhypotesen, standardafvigelsen i populationen kan antages at v\u00e6re 2.9 mio.",
+        "Vi kan ikke forkaste nulhypotesen, standardafvigelsen i populationen er ikke 2.9 mio.",
+        "Vi kan ikke forkaste nulhypotesen, standardafvigelsen i populationen er h\u00f8jst 2.9 mio.",
+        "Vi kan ikke forkaste nulhypotesen, standardafvigelsen i populationen er h\u00f8jst 2.9 mio.",
+        "Vi kan ikke forkaste nulhypotesen, standardafvigelsen i populationen er mindst 2.9 mio.",
+        "Vi forkaster nulhypotesen, standardafvigelsen i populationen er st\u00f8rre end 2.9 mio.",
+        "Vi forkaster nulhypotesen, standardafvigelsen i populationen er mindre end 2.9 mio.",
+        "Vi forkaster nulhypotesen, standardafvigelsen i populationen kan antages at v\u00e6re 2.9 mio.",
+        "Vi forkaster nulhypotesen, standardafvigelsen i populationen er forskellig fra 2.9 mio."
+      ],
+      "correct": {
+        "index": 4,
+        "text": "Svar: Da p-v\u00e6rdien 1.22% er st\u00f8rre end signifikansniveauet p\u00e5 1%, kan vi ikke forkaste nulhypotesen, , standardafvigelsen i populationen er mindst 2.9 mio.<br> H<sub>0</sub>: &sigma; &geq; 2.9 mio.<br>  <br><br>                  <IMG SRC=\"img/mu2_11.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>"
+      },
+      "image": "img/read7.gif",
+      "number": 12,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 12</h2><br>Vi tester, om standardafvigelsen er mindre end 2.9 millioner om \u00e5ret p\u00e5 1% signifikansniveau. Hvilken af f\u00f8lgende ikke tekniske konklusioner er korrekt?"
     }
   ],
   "title": "Hypotesetests for en kvantitativ variabel.",

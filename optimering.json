@@ -121,7 +121,7 @@
         "index": 1,
         "text": "Svar: Man finder afs\u00e6tningen hvor GROMS = GROMK:<br> &hArr; -20m + 100 = 50 &hArr; 100 - 50 = 20m &hArr; <br>50 = 20m &hArr; 50/20 = m &hArr; 2.5 = m<br>Det betyder n\u00e5r der afs\u00e6ttes 2.5 is er d\u00e6kningsbidraget optimalt.  <br><br><IMG SRC=\"img/pris2.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
       },
-      "image": "img/yes7.gif",
+      "image": "img/fundogtv.gif",
       "number": 7,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2><i>ICECOLD</i>, har en line\u00e6r pris-afs\u00e6tningsfunktion: <br> P = -10m + 100  <br>De variable omkostninger pr. stk. er 50,-<br>Ved hvilken afs\u00e6tning er GROMS/MR lig GROMK/MC?"
     },
@@ -141,7 +141,7 @@
         "index": 7,
         "text": "Svar: Man finder den optimale pris P, ved at inds\u00e6tte 2.5 i pris- afs\u00e6tningsfunktionen:<br> P = -10m + 100 &hArr; P = -10*2.5 + 100 &hArr; <br>P = -25 + 100 &hArr; P = 75<br>Man skal alts\u00e5 s\u00e6tte prisen p\u00e5 isene til 75,- for at maksimere d\u00e6kningsbidraget<br><br><IMG SRC=\"img/pris3.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
       },
-      "image": "img/yes8.gif",
+      "image": "img/read14.gif",
       "number": 8,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2><i>ICECOLD</i>, har en line\u00e6r pris- afs\u00e6tningsfunktion: <br> P = -10m + 100  <br>De variable omkostninger pr. stk. er 50,-<br>Den optimale afs\u00e6tning fandt i sp\u00f8rgsm\u00e5l 7 var 2.5.<br>Hvilken pris skal man s\u00e6tte for, at maksimere d\u00e6kningsbidraget DB?"
     },
@@ -163,7 +163,7 @@
       },
       "image": "img/yes9.gif",
       "number": 9,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2><i>ICECOLD</i>, har en line\u00e6r pris- afs\u00e6tningsfunktion: <br> P = -10m + 100  <br>De variable omkostninger pr. stk. er 50,-<br><br>Hvad bliver oms\u00e6tningen n\u00e5r man maksimerer d\u00e6kningsbidraget?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2><i>ICECOLD</i>, har en line\u00e6r pris- afs\u00e6tningsfunktion: <br> P = -10m + 100  <br>De variable omkostninger pr. stk. er 50,-<br><br>Hvad bliver oms\u00e6tningen, n\u00e5r man maksimerer d\u00e6kningsbidraget?"
     },
     {
       "answers": [
@@ -201,11 +201,11 @@
         "index": 0,
         "text": "Svar: Det maksimale d\u00e6kningsbidrag DB, kan findes som omkostninger minus TVO/TVC &hArr; 187.5 - 125 = 62.5<br><br><IMG SRC=\"img/pris3.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
       },
-      "image": "img/yes11.gif",
+      "image": "img/fundog.gif",
       "number": 11,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2><i>ICECOLD</i>, har en line\u00e6r pris- afs\u00e6tningsfunktion: <br> P = -10m + 100  <br>De variable omkostninger pr. stk. er 50,-<br><br>Hvad bliver det maksimale d\u00e6kningsbidrag DB?"
     }
   ],
-  "title": "GROMS MR",
+  "title": "Optimering",
   "url": null
 }

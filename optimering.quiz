@@ -6,7 +6,7 @@
   - -10m + 100m
   - -10m<sup>2</sup> + 100m<sup>2</sup>
   - -10m + 100
-(image) img/yes1.gif
+(image) img/fear1.gif
    Svar: Omsætningen kan skrives som:<br> P*m  = (-10m + 100)m = -10m*m + 100m = -10m<sup>2</sup> + 100m                                                                                                                                                                                                                           <br> <br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br> 
 
 2) <h2>Spørgsmål 2</h2><i>ICECOLD</i>, har en lineær pris-afsætningsfunktion: <br> P = -10m + 100  <br>Omsætningen er -10m<sup>2</sup> + 100m<br>Man kan finde grænseomsætningen GROMS (MR marginal revenue på engelsk) ved at differentiere omsætningen.<br>Når pris-afsætningsfunktionen er lineær som her kan man endda endnu hurtigere finde GROMS som pris-afsætningsfunktionen med den dobbelte hældning dvs. GROMS = 2am + b<br>Hvad bliver GROMS/MR?
@@ -16,7 +16,7 @@
   - -10m + 100m
   - -20m<sup>2</sup> + 100m
   - -20m + 100m
-(image) img/yes2.gif
+(image) img/fear2.gif
    Svar: Pris- afsætningsfunktion har forskriften <br> P = -10m + 100 &hArr; GROMS = 2*-10m + 100 &hArr; GROMS = -20m + 100<br>                                                                                                                                                                                                                                                                  <IMG SRC="img/pris4.png" width="100%" height="100%" align="center">                                        <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 3) <h2>Spørgsmål 3</h2>Hvis de variable enhedsomkostninger er liniære VE = am + b, hvad bliver GROMK/MC da?
@@ -26,7 +26,7 @@
   - am<sup>2</sup> + b<sup>2</sup>
   - b<sup>2</sup>
   - 2b
-(image) img/yes3.gif
+(image) img/fear3.gif
    Svar:  GROMK/MC kan findes som VE med den dobbelte hældning dvs. GROMK/MC = 2am + b.                                                                                                                                                                                                                                                                                                         <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 4) <h2>Spørgsmål 4</h2>Hvis de variable enhedsomkostninger er konstante VE = b, hvad bliver GROMK/MC da?
@@ -37,7 +37,7 @@
   - am<sup>2</sup>
   - b<sup>2</sup>
   - 2b
-(image) img/yes4.gif
+(image) img/fear4.gif
    Svar: Når VE = b altså konstant, er VE også lineær, her er hældningen a = 0, så VE med den dobbelte hældning er:<br> GROMS/MC = 2am + b  &rArr; GROMS/MC = 2*0*m + b &rArr;  GROMS/MC = b                                                                                                                                                                                                                                                                                                    <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 
@@ -50,7 +50,7 @@
   - Når P er lig med afsætningen
   - Når GROMS er lig med omsætningen
   - Når GROMS er lig med afsætningen
-(image) img/yes5.gif
+(image) img/fear5.gif
    Svar:                                                                                                                                                                                                                                                                                                           <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 6) <h2>Spørgsmål 6</h2><i>ICECOLD</i>, har en lineær pris- afsætningsfunktion:<br> P = -10m + 100  <br>Omsætningen er -10m<sup>2</sup> + 100m<br>De variable omkostninger pr. stk. VE er 50,-<br>Hvad bliver GROMK? 
@@ -62,7 +62,7 @@
   - 10
   * 50
   - 100
-(image) img/yes6.gif
+(image) img/fear6.gif
    Svar: Man finder afsætningen hvor VE = 0m + 50 &hArr; GROMK/MC = 2*0*m + 50 &hArr; GROMK/MC = 50                                                                                                                                                                                                                                                                  <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 7) <h2>Spørgsmål 7</h2><i>ICECOLD</i>, har en lineær pris-afsætningsfunktion: <br> P = -10m + 100  <br>De variable omkostninger pr. stk. er 50,-<br>Ved hvilken afsætning er GROMS/MR lig GROMK/MC? 
@@ -76,7 +76,7 @@
   - 10
   - 50
   - 100
-(image) img/fundogtv.gif
+(image) img/fear7.gif
    Svar: Man finder afsætningen hvor GROMS = GROMK:<br> &hArr; -20m + 100 = 50 &hArr; 100 - 50 = 20m &hArr; <br>50 = 20m &hArr; 50/20 = m &hArr; 2.5 = m<br>Det betyder når der afsættes 2.5 is er dækningsbidraget optimalt.  <br><br><IMG SRC="img/pris2.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 
@@ -90,7 +90,7 @@
   - 50
   * 75
   - 100
-(image) img/read14.gif
+(image) img/fear8.gif
    Svar: Man finder den optimale pris P, ved at indsætte 2.5 i pris- afsætningsfunktionen:<br> P = -10m + 100 &hArr; P = -10*2.5 + 100 &hArr; <br>P = -25 + 100 &hArr; P = 75<br>Man skal altså sætte prisen på isene til 75,- for at maksimere dækningsbidraget<br><br><IMG SRC="img/pris3.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 
@@ -104,7 +104,7 @@
   - 174.5
   * 187.5
   - 200
-(image) img/yes9.gif
+(image) img/fear9.gif
    Svar: Omsætningen bliver P*m &hArr; 75*2.5 = 187.5<br><br><IMG SRC="img/pris3.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 
@@ -118,7 +118,7 @@
   - 174.5
   - 187.5
   - 200
-(image) img/yes10.gif
+(image) img/fear10.gif
    Svar: De totale variable omkostninger TVO/TVC bliver VE*m &hArr; 50*2.5 = 125<br><br><IMG SRC="img/pris3.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 
@@ -132,5 +132,5 @@
   - 174.5
   - 187.5
   - 200
-(image) img/fundog.gif
+(image) img/fear11.gif
    Svar: Det maksimale dækningsbidrag DB, kan findes som omkostninger minus TVO/TVC &hArr; 187.5 - 125 = 62.5<br><br><IMG SRC="img/pris3.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>

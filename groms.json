@@ -12,9 +12,9 @@
         "index": 0,
         "text": "Svar: Oms\u00e6tningen kan skrives som:<br> P*m  = (-10m + 100)m = -10m*m + 100m = -10m<sup>2</sup> + 100m                                                                                                                                                                                                                           <br> <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
       },
-      "image": "img/yes2.gif",
+      "image": "img/yes1.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2><i>ICECOLD</i>, har en line\u00e6r pris- afs\u00e6tningsfunktion:     <br><br>  P = -10m + 100    <br><br>Hvor P er pris pr stk i perioden, og m er den afsatte m\u00e6ngde<br>Oms\u00e6tning er pris P gange afs\u00e6tning m.<br>Man kan bestemme oms\u00e6tningen som P*m<br>Hvad er funktionsforskriften for oms\u00e6tningen?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Is firmaet ICECOLD, har for en vaffelis en line\u00e6r pris- afs\u00e6tningsfunktion:     <br><br>  P = -10m + 100    <br><br>Hvor P er pris pr stk i perioden, og m er den afsatte m\u00e6ngde<br>Oms\u00e6tning er pris P gange afs\u00e6tning m.<br>Man kan bestemme oms\u00e6tningen som P*m<br>Hvad er funktionsforskriften for oms\u00e6tningen?"
     },
     {
       "answers": [
@@ -27,28 +27,103 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: Pris- afs\u00e6tningsfunktion har forskriften <br> P = -10m + 100 &hArr; GROMS = 2*-10m + 100 &hArr; GROMS = -20m + 100<br>                                                                                                                                                                                                                                                                  <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
+        "text": "Svar: Pris- afs\u00e6tningsfunktion har forskriften <br> P = -10m + 100 &hArr; GROMS = 2*-10m + 100 &hArr; GROMS = -20m + 100<br>                                                                                                                                                                                                                                                                  <IMG SRC=\"img/pris4.png\" width=\"100%\" height=\"100%\" align=\"center\">                                        <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
       },
-      "image": "img/yes1.gif",
+      "image": "img/yes2.gif",
       "number": 2,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2><i>ICECOLD</i>, har en line\u00e6r pris-afs\u00e6tningsfunktion: <br> P = -10m + 100  <br>Oms\u00e6tningen er -10m<sup>2</sup> + 100m<br>Man kan finde gr\u00e6nseoms\u00e6tningen GROMS (MR marginal revenue p\u00e5 engelsk) ved at differentiere oms\u00e6tningen.<br>N\u00e5r pris-afs\u00e6tningsfunktionen er line\u00e6r som her kan man endda endnu hurtigere finde GROMS som pris-afs\u00e6tningsfunktionen med den dobbelte h\u00e6ldning dvs. GROMS = 2am + b<br>Hvad bliver GROMS/MR?"
     },
     {
       "answers": [
-        "-10m + 100",
-        "-5m + 100",
-        "-20m + 100",
-        "-10m + 100m",
-        "-20m<sup>2</sup> + 100m",
-        "-20m + 100m"
+        "am + b",
+        "am<sup>2</sup> + b",
+        "2am + b",
+        "am<sup>2</sup> + b<sup>2</sup>",
+        "b<sup>2</sup>",
+        "2b"
       ],
       "correct": {
         "index": 2,
-        "text": "Svar: Pris- afs\u00e6tningsfunktion har forskriften <br> P = -10m + 100 &hArr; GROMS = 2*-10m + 100 &hArr; GROMS = -20m + 100<br>                                                                                                                                                                                                                                                                  <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
+        "text": "Svar:  GROMK/MC kan findes som VE med den dobbelte h\u00e6ldning dvs. GROMK/MC = 2am + b.                                                                                                                                                                                                                                                                                                         <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
       },
-      "image": "img/yes1.gif",
+      "image": "img/yes3.gif",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2><i>ICECOLD</i>, har en line\u00e6r pris-afs\u00e6tningsfunktion: <br> P = -10m + 100  <br>Oms\u00e6tningen er -10m<sup>2</sup> + 100m<br>Man kan finde gr\u00e6nseoms\u00e6tningen GROMS (MR marginal revenue p\u00e5 engelsk) ved at differentiere oms\u00e6tningen.<br>N\u00e5r pris-afs\u00e6tningsfunktionen er line\u00e6r som her kan man endda endnu hurtigere finde GROMS som pris-afs\u00e6tningsfunktionen med den dobbelte h\u00e6ldning dvs. GROMS = 2am + b<br>Hvad bliver GROMS/MR?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvis de variable enhedsomkostninger er lini\u00e6re VE = am + b, hvad bliver GROMK/MC da?"
+    },
+    {
+      "answers": [
+        "am + b",
+        "am<sup>2</sup> + b",
+        "am<sup>2</sup> + b<sup>2</sup>",
+        "b",
+        "am<sup>2</sup>",
+        "b<sup>2</sup>",
+        "2b"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Svar: N\u00e5r VE = b alts\u00e5 konstant, er VE ogs\u00e5 line\u00e6r, her er h\u00e6ldningen a = 0, s\u00e5 VE med den dobbelte h\u00e6ldning er:<br> GROMS/MC = 2am + b  &rArr; GROMS/MC = 2*0*m + b &rArr;  GROMS/MC = b                                                                                                                                                                                                                                                                                                    <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
+      },
+      "image": "img/yes4.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvis de variable enhedsomkostninger er konstante VE = b, hvad bliver GROMK/MC da?"
+    },
+    {
+      "answers": [
+        "N\u00e5r P er lig med GROMS",
+        "N\u00e5r GROMK er lig med GROMS",
+        "N\u00e5r P er lig med oms\u00e6tningen",
+        "N\u00e5r P er lig med afs\u00e6tningen",
+        "N\u00e5r GROMS er lig med oms\u00e6tningen",
+        "N\u00e5r GROMS er lig med afs\u00e6tningen"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar:                                                                                                                                                                                                                                                                                                           <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
+      },
+      "image": "img/yes5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Ved hvilken afs\u00e6tning, vil man have det maksimale d\u00e6kningsbidrag DB?"
+    },
+    {
+      "answers": [
+        "2a",
+        "2m + 50",
+        "2am + 50",
+        "5",
+        "8",
+        "10",
+        "50",
+        "100"
+      ],
+      "correct": {
+        "index": 6,
+        "text": "Svar: Man finder afs\u00e6tningen hvor VE = 0m + 50 &hArr; GROMK/MC = 2*0*m + 50 &hArr; GROMK/MC = 50                                                                                                                                                                                                                                                                  <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
+      },
+      "image": "img/yes6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2><i>ICECOLD</i>, har en line\u00e6r pris- afs\u00e6tningsfunktion:<br> P = -10m + 100  <br>Oms\u00e6tningen er -10m<sup>2</sup> + 100m<br>De variable omkostninger pr. stk. VE er 50,-<br>Hvad bliver GROMK?"
+    },
+    {
+      "answers": [
+        "2",
+        "2.5",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "10",
+        "50",
+        "100"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: Man finder afs\u00e6tningen hvor GROMS = GROMK:<br> &hArr; -20m + 100 = 50 &hArr; 100 - 50 = 20m &hArr; 50 = 20m &hArr; 50/20 = m &hArr; 2.5 = m<br>Det betyder n\u00e5r der afs\u00e6ttes 2.5 is er d\u00e6kningsbidraget optimalt.  <br><br><IMG SRC=\"img/pris2.png\" width=\"100%\" height=\"100%\" align=\"center\"><br><br>                                                                                                                                                                                                                                                                <br><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om optimering, se videoer, podcasts og opgaver i onlineb\u00f8gerne<br> https://www.tepedu.dk</a><br>"
+      },
+      "image": "img/yes7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2><i>ICECOLD</i>, har en line\u00e6r pris-afs\u00e6tningsfunktion: <br> P = -10m + 100  <br>De variable omkostninger pr. stk. er 50,-<br>Ved hvilken afs\u00e6tning er GROMS/MR lig GROMK/MC?"
     }
   ],
   "title": "GROMS MR",

@@ -11,7 +11,7 @@
 
 
 
-2) <h2>Spørgsmål 2</h2><i>ICECOLD</i>, har en lineær pris-afsætningsfunktion:     <br><br>  P = -10m + 100    <br>Omsætningen er -10m<sup>2</sup> + 100m<br>Man kan finde grænseomsætningen GROMS (MR marginal revenue på engelsk) ved at differentiere omsætningen.<br>Når pris-afsætningsfunktionen er lineær som her kan man endda endnu hurtigere finde GROMS som pris-afsætningsfunktionen med den dobbelte hældning dvs. GROMS = 2am + b<br>Hvad bliver GROMS/MR?
+2) <h2>Spørgsmål 2</h2><i>ICECOLD</i>, har en lineær pris-afsætningsfunktion: <br> P = -10m + 100  <br>Omsætningen er -10m<sup>2</sup> + 100m<br>Man kan finde grænseomsætningen GROMS (MR marginal revenue på engelsk) ved at differentiere omsætningen.<br>Når pris-afsætningsfunktionen er lineær som her kan man endda endnu hurtigere finde GROMS som pris-afsætningsfunktionen med den dobbelte hældning dvs. GROMS = 2am + b<br>Hvad bliver GROMS/MR?
   - -10m + 100
   - -5m + 100
   * -20m + 100
@@ -22,30 +22,13 @@
    Svar: Pris- afsætningsfunktion har forskriften <br> P = -10m + 100 &hArr; GROMS = 2*-10m + 100 &hArr; GROMS = -20m + 100<br>                                                                                                                                                                                                                                                                  <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
 
 
-   
-3) <h2>Spørgsmål 3</h2><i>ICECOLD</i>, har en lineær pris-afsætningsfunktion:     <br><br>  P = -10m + 100    <br><br>Hvor P er pris pr stk i perioden, og m er den afsatte mængde<br>Hvad er skæringen med x-aksen?
-   - 0
-   * 10
-   - 50
-   - 100
-   - 200
-   - 250
-   - 1000
-(image) img/read3.gif
 
-   Svar: Vi kan opfattte P = -10m + 100 som en lineær funktion hvor Y = ax + b<br>Hvor a = -10 og b = 100<br> Ved skæringen med Y aksen er P eller Y lig med 0, vi kan altså sætte Y = 0 i ligningen og løse denne for x   <br><br>   0 = ax + b      <br> -b = ax <br> -b/a = x  <br><br>  Vi indsætter nu værdier for a og b <br> -100/-10 = 10                                                                                                                                                                                                                                                                                                                                                    <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br> 
-
-4) <h2>Spørgsmål 4</h2><i>ICECOLD</i>, har en lineær pris-afsætningsfunktion:     <br><br>  P = -10m + 100    <br><br>Hvor P er pris pr stk i perioden, og m er den afsatte mængde<br>Hvor mange is kan <i>ICECOLD</i> afsætte før markedet er mættet?
-   - -10
-   - -1
-   - 0
-   - 1
-   * 10
-   - 50
-   - 100
-   - 200
-   - 250
-   - 1000
-(image) img/read4.gif
-
-   Svar: Markedet er mættet når prisen rammer 0, dvs. vi kan højst afsætte 10 is.<br>Nedenfor ses pris- afsætningsfunktionen grafisk:<br><br>                                                                                                                                                                                                                   <IMG SRC="img/pris1.png" width="100%" height="100%" align="center">                                        <br> <br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>
+3) <h2>Spørgsmål 3</h2><i>ICECOLD</i>, har en lineær pris-afsætningsfunktion: <br> P = -10m + 100  <br>Omsætningen er -10m<sup>2</sup> + 100m<br>Man kan finde grænseomsætningen GROMS (MR marginal revenue på engelsk) ved at differentiere omsætningen.<br>Når pris-afsætningsfunktionen er lineær som her kan man endda endnu hurtigere finde GROMS som pris-afsætningsfunktionen med den dobbelte hældning dvs. GROMS = 2am + b<br>Hvad bliver GROMS/MR?
+  - -10m + 100
+  - -5m + 100
+  * -20m + 100
+  - -10m + 100m
+  - -20m<sup>2</sup> + 100m
+  - -20m + 100m
+(image) img/yes1.gif
+   Svar: Pris- afsætningsfunktion har forskriften <br> P = -10m + 100 &hArr; GROMS = 2*-10m + 100 &hArr; GROMS = -20m + 100<br>                                                                                                                                                                                                                                                                  <br><br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om optimering, se videoer, podcasts og opgaver i onlinebøgerne<br> https://www.tepedu.dk</a><br>

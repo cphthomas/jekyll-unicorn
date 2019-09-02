@@ -18,7 +18,7 @@
 
  
 
-2) <h2>Spørgsmål 2</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet.<br><br>Hvilket af følgende tests kan vi opstille?
+2) <h2>Spørgsmål 2</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet, når vi ønsker at undersøge om renteniveauet er ens for de 4 erhvervscentre.<br><br>Hvilket af følgende tests kan vi opstille?
    - H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub>
    - H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>                                                          H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub>
    - H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub> &ne; &sigma;<sub>3</sub> &ne; &sigma;<sub>4</sub>
@@ -32,7 +32,7 @@
     
 
   
-3) <h2>Spørgsmål 3</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet vha. Bartlett<br>Hvad bliver signifikanssandsynligheden for dette test?  
+3) <h2>Spørgsmål 3</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet vha. Bartlett, når vi ønsker at undersøge om renteniveauet er ens for de 4 erhvervscentre.<br>Hvad bliver signifikanssandsynligheden for dette test?  
 
    - 0.00%
    - 0.75%
@@ -48,7 +48,7 @@
 
    Svar: Signifikanssandsynligheden dvs. p-værdien, aflæses til 0.91%<br>    <br><br>   <IMG SRC="img/anova_4.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
 
-4) <h2>Spørgsmål 4</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet vha. Bartlett<br>Hvad bliver konklusionen?  
+4) <h2>Spørgsmål 4</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om der er varianshomogenitet vha. Bartlett, når vi ønsker at undersøge om renteniveauet er ens for de 4 erhvervscentre.<br>Hvad bliver konklusionen?  
 
    - Vi forkaster nulhypotesen, alle middelværdier er ens
    - Vi kan ikke forkaste nulhypotesen, alle middelværdier er ens
@@ -67,7 +67,7 @@
 
 
 
-5) <h2>Spørgsmål 5</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente i de 4 afdelinger, kan antages at være ens<br><br>Hvilket af følgende tests kan vi opstille?
+5) <h2>Spørgsmål 5</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente i de 4 erhvervscentre, kan antages at være ens<br><br>Hvilket af følgende tests kan vi opstille?
 
    - H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub>
    - H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>                                                          H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub> 
@@ -83,7 +83,7 @@
 
 
 
-6) <h2>Spørgsmål 6</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente er ens i de 4 afdelinger<br>Hvad bliver signifikanssandsynligheden for dette test?  
+6) <h2>Spørgsmål 6</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente er ens i de 4 erhvervscentre<br>Hvad bliver signifikanssandsynligheden for dette test?  
 
    - 0.00%
    - 0.75%
@@ -101,7 +101,7 @@
 
 
 
-7) <h2>Spørgsmål 7</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente er ens i de 4 afdelinger<br>Hvad bliver konklusionen?
+7) <h2>Spørgsmål 7</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Test på 5% signifikansniveau, om den gennemsnitlige rente er ens i de 4 erhvervscentre.<br>Hvad bliver konklusionen?
 
    - Vi forkaster nulhypotesen, alle middelværdier er ens
    - Vi kan ikke forkaste nulhypotesen, alle middelværdier er ens
@@ -119,7 +119,7 @@
    Svar: Der er varianshomogenitet, det betyder vi konkluderer at alle varianser er ens i de 4 afdelinger.<br>    <br><br>   <IMG SRC="img/anova_4.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
     
 
-8) <h2>Spørgsmål 8</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find den afdeling i stikprøven der havde den højeste gennemsnitlige rente.<br>Hvad var den gennemsnitlige rente i stikprøven for denne gruppe?
+8) <h2>Spørgsmål 8</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find det erhvervscenter i stikprøven der havde den højeste gennemsnitlige rente.<br>Hvad var den gennemsnitlige rente i stikprøven for denne gruppe?
    - 5.72%
    - 6.05%
    - 6.23%
@@ -135,7 +135,7 @@
    Svar: <br>    <IMG SRC="img/anova_6.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
     
 
-9) <h2>Spørgsmål 9</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find den afdeling i stikprøven, der havde den mindste gennemsnitlige rente.<br>Hvad var den gennemsnitlige rente i stikprøven for denne gruppe?
+9) <h2>Spørgsmål 9</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find det erhvervscenter i stikprøven, der havde den mindste gennemsnitlige rente.<br>Hvad var den gennemsnitlige rente i stikprøven for denne gruppe?
    - 5.72%
    - 6.05%
    * 6.23%
@@ -150,7 +150,7 @@
 
    Svar: <br>   <IMG SRC="img/anova_6.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br> 
     
-10) <h2>Spørgsmål 10</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find den afdeling i stikprøven, der havde den højeste varians.<br>Hvad var variansen i stikprøven for denne gruppe?
+10) <h2>Spørgsmål 10</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find det erhvervscenter i stikprøven, der havde den højeste varians.<br>Hvad var variansen i stikprøven for denne gruppe?
     - 0.39
     - 0.45
     * 0.48
@@ -164,7 +164,7 @@
    Svar: Estimatet for gruppe 4 er højest, estimatet for variansen bliver &sigma;&#770;<sup>2</sup> = 0,48 dvs. estimatet for standardafvigelsen bliver<br> &sigma;&#770; = 0.48^0.5 = 0.69 <IMG SRC="img/anova_7.png" width="100%" height="100%" align="center">        <br>                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href="https://s.tepedu.dk/anova-premium.html" target="_blank">Du kan læse mere om ANOVA, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/anova-premium.html</a><br>
 
 
-11) <h2>Spørgsmål 10</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find den afdeling i stikprøven, der havde den højeste standardafvigelse.<br>Hvad var standardafvigelsen i stikprøven for denne gruppe?
+11) <h2>Spørgsmål 10</h2><a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her.</a><br><br>Find det erhvervscenter i stikprøven, der havde den højeste standardafvigelse.<br>Hvad var standardafvigelsen i stikprøven for denne gruppe?
     - 0.39
     - 0.45
     - 0.48

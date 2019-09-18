@@ -4,8 +4,8 @@
       "answers": [
         "Kvalitativ",
         "Kvantitativ",
-        "Mesokurtisk",
-        "Kontinuert"
+        "Binomial",
+        "Diskret"
       ],
       "correct": {
         "index": 1,

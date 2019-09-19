@@ -15,7 +15,7 @@
       },
       "image": "img/bean2.gif",
       "number": 1,
-      "prompt": "hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000, hvilken af f\u00f8lgende matematiske opratorer, kan dette udsagn overs\u00e6ttes til?"
+      "prompt": "Hvis man \u00f8nsker at unders\u00f8ge om den gennemsnitlige \u00e5rlige bruttoindt\u00e6gt i populationen er 320.000, hvilken af f\u00f8lgende matematiske opratorer, kan dette udsagn overs\u00e6ttes til?"
     },
     {
       "answers": [
@@ -183,9 +183,9 @@
     },
     {
       "answers": [
-        "At pr\u00e6miebetalingen i virkeligehden er mindst er 28.000,-, men man ender fejlagtigt med at konkludere pr\u00e6miebetalingen mindst er 28.000,-",
+        "At pr\u00e6miebetalingen i virkeligehden mindst er 28.000,-, men man ender fejlagtigt med at konkludere pr\u00e6miebetalingen mindst er 28.000,-",
         "At pr\u00e6miebetalingen i virkeligehden er mindre end 28.000,-, men man ender fejlagtigt med at konkludere pr\u00e6miebetalingen er mindre end 28.000,-",
-        "At pr\u00e6miebetalingen i virkeligehden er mindst er 28.000,-, men man ender fejlagtigt med at konkludere pr\u00e6miebetalingen er mindre end 28.000,-",
+        "At pr\u00e6miebetalingen i virkeligehden mindst er 28.000,-, men man ender fejlagtigt med at konkludere pr\u00e6miebetalingen er mindre end 28.000,-",
         "At pr\u00e6miebetalingen i virkeligehden er mindre end 28.000,-, men man ender fejlagtigt med at konkludere pr\u00e6miebetalingen mindst er 28.000,-"
       ],
       "correct": {

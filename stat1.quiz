@@ -130,9 +130,9 @@
 
 
 12) Et forsikringsselskab har gennemført et test vedr. den gennemsnitlige præmiebetaling, når kunderne har anmeldt skader på deres indboforsikring. Hypoteserne i testet var følgende:<br><br>		H<sub>0</sub>: &mu; &ge; 28.000,-<br> H<sub>1</sub>: &mu; < 28.000,-<br><br>Hvad vil en type 1 fejl betyde?
-	- At præmiebetalingen i virkeligehden er mindst er 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen mindst er 28.000,-
+	- At præmiebetalingen i virkeligehden mindst er 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen mindst er 28.000,-
 	- At præmiebetalingen i virkeligehden er mindre end 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen er mindre end 28.000,-
-	* At præmiebetalingen i virkeligehden er mindst er 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen er mindre end 28.000,-
+	* At præmiebetalingen i virkeligehden mindst er 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen er mindre end 28.000,-
 	- At præmiebetalingen i virkeligehden er mindre end 28.000,-, men man ender fejlagtigt med at konkludere præmiebetalingen mindst er 28.000,-
 (image) img/hand.gif
 	

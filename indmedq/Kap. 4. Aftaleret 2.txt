@@ -1,0 +1,31 @@
+1) Hvad betyder "opfordring til at gøre tilbud"?
+* "Opfordring til at gøre tilbud" er en ikke-bindende henvendelse til andre om at give tilbud.
+- "Opfordring til at gøre tilbud" er en bindende henvendelse til andre om at give tilbud. 
+- "Opfordring til at gøre tilbud" er en ikke-bindende henvendelse til andre om at give afbud.
+Ved ”en opfordring til at give et tilbud”, er der ikke indgået en bindende aftale, før sælgeren har accepteret køberens tilbud.
+
+2) Hvad menes der med "selverhvervelsesreglen"?
+- Personer under 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave.
+* Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave.
+- Personer over 16 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave.
+Personer over 15 år kan råde over deres egne penge som de selv har tjent, eller fået ved arv/gave, og hvad værgen har givet dem ved kontantkøb.
+
+3) Hvad betyder "pengereglen"?
+* En aftale med en umyndig, er gyldig, hvis sælger er i god tro og pengene modtages kontant.
+- En aftale med en umyndig, er ugyldig, hvis sælger er i god tro og pengene modtages kontant.
+- En aftale med en myndig, er gyldig, hvis sælger er i god tro om pengene modtages kontant.
+Pengereglen er en uskreven retsgrundsætning, hvorefter penge, der uberettiget er betalt af en umyndig, ikke kan forlanges tilbagebetalt fra en modtager.
+
+4) Hvad forstås der med "*Koncipistreglen"?  
+- Aftalen fortolkes til fordel for den, som har udarbejdet aftalen.
+* Aftalen fortolkes til skade for den, som har udarbejdet aftalen.
+- Aftalen fortolkes til skade for den, som modtager aftalen.
+Dette fortolkningsprincip kaldes også for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed.
+
+5) Hvad menes der med "minimumsreglen"?
+* Minimumsreglen betyder, at aftalen fortolkes til fordel for løftegiver. 
+- Minimumsreglen betyder, at aftalen fortolkes til fordel for løftemodtager. 
+- Minimumsreglen betyder, at aftalen fortolkes til fordel for tredjemand. 
+Hvis der er tvivl om, hvad løftegiveren har forpligtet sig til i aftalen, vælges den forståelse af aftalen, som er mest gunstig for løftegiveren.
+
+

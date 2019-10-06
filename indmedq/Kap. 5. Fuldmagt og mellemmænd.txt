@@ -1,0 +1,29 @@
+1) Hvad er en "adfærdsfuldmagt"?
+* En fuldmagt skabt ved passivitet kaldes en "adfærdsfuldmagt". 
+- En fuldmagt skabt ved aktivitet kaldes en "adfærdsfuldmagt". 
+- En fuldmagt skabt ved stillingsopslag kaldes en "adfærdsfuldmagt".
+Der foreligger ingen fuldmagt, men hovedmanden har ved sin adfærd givet grund til at tro, at „fuldmægtigen“ var bemyndiget til at disponere på hovedmandens vegne.
+ 
+2) Hvad betyder "bemyndigelse"?
+- Den interne instruks mellem tredjemand og fuldmægtig.
+- Den interne instruks mellem fuldmagtsgiver og tredjemand.
+* Den interne instruks mellem fuldmagtsgiver og fuldmægtig.
+Bemyndigelse eller beføjelse, som er den interne instruks mellem fuldmagtsgiver og fuldmægtig. Indholdet af denne instruks er som udgangspunkt ikke kendt for omverdenen.
+
+3) Hvad menes der med "legitimation"?
+* Den ydre fuldmagt er synlig og kendt for omverdenen.
+- Den ydre fuldmagt der er usynlig og ukendt for omverdenen.
+- Den ydre fuldmagt er synlig og kendt for fuldmægtigen.
+Fuldmagtsgivers signal til omverdenen om, hvordan fuldmægtigen kan binde fuldmagtsgiver.
+
+4) Hvem er den "fuldmægtige"?
+- Den der handler på egne vegne.
+- Den der handler på tredjemands vegne.
+* Den der handler på fundmagtsgivers vegne.
+*Fuldmægtigen/mellemmanden* er den der handler i hovedmandens navn.
+
+5) Hvad er en "§ 18-fuldmagt"?
+* Fuldmagt uden særlig tilværelse.
+- Fuldmagt med særlig tilværelse.
+- Fuldmagt uden specielt tilværelse.
+Hvor tredjemand ikke har modtaget anden erklæring end fuldmægtigens egne ord for, at denne er fuldmægtig for hovedmanden.

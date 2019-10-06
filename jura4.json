@@ -2,6 +2,20 @@
   "questions": [
     {
       "answers": [
+        "\"Opfordring til at g\u00f8re tilbud\" er en ikke-bindende henvendelse til andre om at give tilbud.",
+        "\"Opfordring til at g\u00f8re tilbud\" er en bindende henvendelse til andre om at give tilbud.",
+        "\"Opfordring til at g\u00f8re tilbud\" er en ikke-bindende henvendelse til andre om at give afbud."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Ved \u201den opfordring til at give et tilbud\u201d, er der ikke indg\u00e5et en bindende aftale, f\u00f8r s\u00e6lgeren har accepteret k\u00f8berens tilbud."
+      },
+      "image": "img/read1.gif",
+      "number": 1,
+      "prompt": "Hvad betyder \"opfordring til at g\u00f8re tilbud\"?"
+    },
+    {
+      "answers": [
         "H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub>",
         "H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub> <br>                                                          H<sub>1</sub>: &mu;<sub>1</sub> &ne; &mu;<sub>2</sub>",
         "H<sub>0</sub>: &sigma;<sub>1</sub> = &sigma;<sub>2</sub> = &sigma;<sub>3</sub> = &sigma;<sub>4</sub> <br>                                                          H<sub>1</sub>: &sigma;<sub>1</sub> &ne; &sigma;<sub>2</sub> &ne; &sigma;<sub>3</sub> &ne; &sigma;<sub>4</sub>",

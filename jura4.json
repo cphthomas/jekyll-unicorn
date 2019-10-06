@@ -82,7 +82,7 @@
       },
       "image": "img/read6.gif",
       "number": 6,
-      "prompt": "Er \"mundtlige aftaler\" bindende i dansk ret?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Er \"mundtlige aftaler\" bindende i dansk ret?"
     },
     {
       "answers": [
@@ -96,7 +96,7 @@
       },
       "image": "img/read7.gif",
       "number": 7,
-      "prompt": "Hvad er \"bristende foruds\u00e6tninger\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er \"bristende foruds\u00e6tninger\"?"
     },
     {
       "answers": [
@@ -110,7 +110,7 @@
       },
       "image": "img/read8.gif",
       "number": 8,
-      "prompt": "Hvad er \"Habilitetsmangler\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad er \"Habilitetsmangler\"?"
     },
     {
       "answers": [
@@ -124,7 +124,7 @@
       },
       "image": "img/read10.gif",
       "number": 10,
-      "prompt": "Hvad er \"de st\u00e6rke ugyldighedsgrunde\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er \"de st\u00e6rke ugyldighedsgrunde\"?"
     }
   ],
   "title": "Jura aftaleret",

@@ -114,6 +114,20 @@
     },
     {
       "answers": [
+        "Grov tvang, Svig, Udnyttelse, fejlskrift eller anden fejltagelse.",
+        "Simpel tvang, Svig, Udnyttelse, fejlskrift eller anden fejltagelse.",
+        "Simpel tvang, Svig, Udnyttelse af b\u00f8rn, fejlskrift eller anden fejltagelse."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "De svage ugyldighedsgrunde kan ikke g\u00f8res g\u00e6ldende over for en kontraktpart i god tro, og den godtroende part kan s\u00e5ledes fastholde aftalen trods ugyldighedsgrunden.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er \"de svage ugyldighedsgrunde\"?"
+    },
+    {
+      "answers": [
         "Falsk, forfalskning, forvanskning, voldelig tvang og umyndighed.",
         "Falsk, forfalskning, forvanskning, voldelig tvang og myndighed.",
         "Falsk, forfalskning, forvanskning, voldelig overgreb og umyndighed."

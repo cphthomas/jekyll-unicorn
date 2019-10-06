@@ -54,7 +54,7 @@
       },
       "image": "img/read4.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad forst\u00e5s der med \"*Koncipistreglen\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad forst\u00e5s der med \"Koncipistreglen\"?"
     },
     {
       "answers": [
@@ -69,6 +69,62 @@
       "image": "img/read5.gif",
       "number": 5,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad menes der med \"minimumsreglen\"?"
+    },
+    {
+      "answers": [
+        "Nej, det er kun skriftlige aftaler.",
+        "Ja, hvis de bliver indg\u00e5et telefonisk.",
+        "Mundtlige aftaler er lige s\u00e5 bindende som skriftlige."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Mundtlige aftaler er bindende, jf. Danske Lov, DL 5\u20131\u20132 og foruds\u00e6tningsvis aftalelovens \u00a7 3, stk. 2, som fastsl\u00e5r, at tilbud, der frems\u00e6ttes mundtligt skal accepteres straks.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read6.gif",
+      "number": 6,
+      "prompt": "Er \"mundtlige aftaler\" bindende i dansk ret?"
+    },
+    {
+      "answers": [
+        "Der er blevet \u00f8delagt noget i selve aftalen mellem parterne.",
+        "Nogle foruds\u00e6tninger, som ikke n\u00f8dvendigvis er blevet diskuteret eller udtrykt klart i en aftale.",
+        "Et l\u00f8fte som afgives p\u00e5 baggrund af nogle foruds\u00e6tninger, som er fastlagt n\u00e6rmere mellem parterne i en aftale."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Et l\u00f8fte afgives p\u00e5 baggrund af nogle foruds\u00e6tninger, som ikke n\u00f8dvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale og som senere brister.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read7.gif",
+      "number": 7,
+      "prompt": "Hvad er \"bristende foruds\u00e6tninger\"?"
+    },
+    {
+      "answers": [
+        "En af parterne mangler habilitet eller evne til at indg\u00e5 aftaler.",
+        "En af parterne mangler evnen til at betale forpligtelserne som f\u00f8lger efter aftalen.",
+        "En af parterne mangler fysisk habilitet til at fuldf\u00f8re aftalens ordlyd."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "En af parterne mangler habilitet eller evne til at indg\u00e5 aftaler, fx pga. umyndighed, sindssygdom, demens.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read8.gif",
+      "number": 8,
+      "prompt": "Hvad er \"Habilitetsmangler\"?"
+    },
+    {
+      "answers": [
+        "Falsk, forfalskning, forvanskning, voldelig tvang og umyndighed.",
+        "Falsk, forfalskning, forvanskning, voldelig tvang og myndighed.",
+        "Falsk, forfalskning, forvanskning, voldelig overgreb og umyndighed."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "De st\u00e6rke ugyldighedsgrunde kan g\u00f8res g\u00e6ldende ogs\u00e5 over for en kontraktpart, der var i god tro ved aftalens indg\u00e5else.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read10.gif",
+      "number": 10,
+      "prompt": "Hvad er \"de st\u00e6rke ugyldighedsgrunde\"?"
     }
   ],
   "title": "Jura aftaleret",

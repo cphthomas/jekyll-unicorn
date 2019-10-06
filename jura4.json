@@ -16,59 +16,59 @@
     },
     {
       "answers": [
-        "Den interne instruks mellem tredjemand og fuldm\u00e6gtig.",
-        "Den interne instruks mellem fuldmagtsgiver og tredjemand.",
-        "Den interne instruks mellem fuldmagtsgiver og fuldm\u00e6gtig."
+        "Personer under 15 \u00e5r kan r\u00e5de over deres egne penge som de selv har tjent, eller f\u00e5et ved arv/gave.",
+        "Personer over 15 \u00e5r kan r\u00e5de over deres egne penge som de selv har tjent, eller f\u00e5et ved arv/gave.",
+        "Personer over 16 \u00e5r kan r\u00e5de over deres egne penge som de selv har tjent, eller f\u00e5et ved arv/gave."
       ],
       "correct": {
-        "index": 2,
-        "text": "Bemyndigelse eller bef\u00f8jelse, som er den interne instruks mellem fuldmagtsgiver og fuldm\u00e6gtig. Indholdet af denne instruks er som udgangspunkt ikke kendt for omverdenen.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+        "index": 1,
+        "text": "Personer over 15 \u00e5r kan r\u00e5de over deres egne penge som de selv har tjent, eller f\u00e5et ved arv/gave, og hvad v\u00e6rgen har givet dem ved kontantk\u00f8b.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
       },
       "image": "img/read2.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad betyder \"bemyndigelse\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad menes der med \"selverhvervelsesreglen\"?"
     },
     {
       "answers": [
-        "Den ydre fuldmagt er synlig og kendt for omverdenen.",
-        "Den ydre fuldmagt der er usynlig og ukendt for omverdenen.",
-        "Den ydre fuldmagt er synlig og kendt for fuldm\u00e6gtigen."
+        "En aftale med en umyndig, er gyldig, hvis s\u00e6lger er i god tro og pengene modtages kontant.",
+        "En aftale med en umyndig, er ugyldig, hvis s\u00e6lger er i god tro og pengene modtages kontant.",
+        "En aftale med en myndig, er gyldig, hvis s\u00e6lger er i god tro om pengene modtages kontant."
       ],
       "correct": {
         "index": 0,
-        "text": "Fuldmagtsgivers signal til omverdenen om, hvordan fuldm\u00e6gtigen kan binde fuldmagtsgiver.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+        "text": "Pengereglen er en uskreven retsgrunds\u00e6tning, hvorefter penge, der uberettiget er betalt af en umyndig, ikke kan forlanges tilbagebetalt fra en modtager.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
       },
       "image": "img/read3.gif",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad menes der med \"legitimation\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad betyder \"pengereglen\"?"
     },
     {
       "answers": [
-        "Den der handler p\u00e5 egne vegne.",
-        "Den der handler p\u00e5 tredjemands vegne.",
-        "Den der handler p\u00e5 fundmagtsgivers vegne."
+        "Aftalen fortolkes til fordel for den, som har udarbejdet aftalen.",
+        "Aftalen fortolkes til skade for den, som har udarbejdet aftalen.",
+        "Aftalen fortolkes til skade for den, som modtager aftalen."
       ],
       "correct": {
-        "index": 2,
-        "text": "Fuldm\u00e6gtigen/mellemmanden er den der handler i hovedmandens navn.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+        "index": 1,
+        "text": "Dette fortolkningsprincip kaldes ogs\u00e5 for uklarhedsreglen og betyder, at den part som har konciperet (skrevet) kontrakten m\u00e5 b\u00e6re risikoen for tvetydighed.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
       },
       "image": "img/read4.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvem er den \"fuldm\u00e6gtige\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad forst\u00e5s der med \"*Koncipistreglen\"?"
     },
     {
       "answers": [
-        "Fuldmagt uden s\u00e6rlig tilv\u00e6relse.",
-        "Fuldmagt med s\u00e6rlig tilv\u00e6relse.",
-        "Fuldmagt uden specielt tilv\u00e6relse."
+        "Minimumsreglen betyder, at aftalen fortolkes til fordel for l\u00f8ftegiver.",
+        "Minimumsreglen betyder, at aftalen fortolkes til fordel for l\u00f8ftemodtager.",
+        "Minimumsreglen betyder, at aftalen fortolkes til fordel for tredjemand."
       ],
       "correct": {
         "index": 0,
-        "text": "Hvor tredjemand ikke har modtaget anden erkl\u00e6ring end fuldm\u00e6gtigens egne ord for, at denne er fuldm\u00e6gtig for hovedmanden.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+        "text": "Hvis der er tvivl om, hvad l\u00f8ftegiveren har forpligtet sig til i aftalen, v\u00e6lges den forst\u00e5else af aftalen, som er mest gunstig for l\u00f8ftegiveren.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
       },
       "image": "img/read5.gif",
       "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er en \"\u00a7 18-fuldmagt\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad menes der med \"minimumsreglen\"?"
     }
   ],
   "title": "Jura aftaleret",

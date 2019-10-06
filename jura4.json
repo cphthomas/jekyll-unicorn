@@ -8,7 +8,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Ved \u201den opfordring til at give et tilbud\u201d, er der ikke indg\u00e5et en bindende aftale, f\u00f8r s\u00e6lgeren har accepteret k\u00f8berens tilbud."
+        "text": "Ved \u201den opfordring til at give et tilbud\u201d, er der ikke indg\u00e5et en bindende aftale, f\u00f8r s\u00e6lgeren har accepteret k\u00f8berens tilbud.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
       },
       "image": "img/read1.gif",
       "number": 1,
@@ -209,6 +209,6 @@
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her.</a><br><br>Find det erhvervscenter i stikpr\u00f8ven, der havde den h\u00f8jeste standardafvigelse.<br>Hvad var standardafvigelsen i stikpr\u00f8ven for denne gruppe?"
     }
   ],
-  "title": "Jura aftaleret <br>Kapitel 4",
+  "title": "Jura aftaleret",
   "url": null
 }

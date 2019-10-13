@@ -1,5 +1,174 @@
 {
-  "questions": [],
+  "questions": [
+    {
+      "answers": [
+        "Nej det kr\u00e6ver bogstaver og tekst",
+        "Ja, hvis der er tale om en genkendelig person",
+        "Ja, hvis der er tale om en ukendelig person"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Ja, hvis det drejer sig om et billede af en genkendelig person, vil der v\u00e6re tale om en personoplysning omfattet af databeskyttelsesreglerne.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker1.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Betragtes et billede som en personoplysning?"
+    },
+    {
+      "answers": [
+        "Den der har k\u00f8bt persondataoplysningerne",
+        "Den der afg\u00f8re, hvilke oplysninger, der skal behandles",
+        "Den der s\u00e6lger persondataoplysningerne"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Databeskyttelsesforordningen definerer \u201dden dataansvarlige\u201d som den fysiske eller juridiske person, offentlige myndighed, institution mv., der alene eller sammen med andre afg\u00f8r, til hvilket form\u00e5l og med hvilke hj\u00e6lpemidler der m\u00e5 foretages behandling af oplysninger. Det afg\u00f8rende er, hvem der faktisk afg\u00f8r, hvordan oplysningerne skal behandles.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker2.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvem er den dataansvarlige?"
+    },
+    {
+      "answers": [
+        "Nej det er straffrit",
+        "Ja, men kun med b\u00f8de",
+        "Ja, med b\u00f8de og f\u00e6ngsel"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Ja. Man kan blive straffet med b\u00f8de eller f\u00e6ngsel i indtil 6 m\u00e5neder, hvis man overtr\u00e6der visse af databeskyttelsesreglerne.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker3.gif",
+      "number": 3,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Kan man blive straffet, hvis man ikke overholder den databeskyttelsesretlige lovgivning?"
+    },
+    {
+      "answers": [
+        "Foreningen m\u00e5 ikke registrere oplysninger om foreningens medlemmer",
+        "Foreningen m\u00e5 gerne registrere almindelige oplysninger",
+        "Foreningen m\u00e5 gerne registrere personf\u00f8lsomme oplysninger"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Foreningers registrering af oplysninger om medlemmerne er omfattet af databeskyttelsesreglerne. Det er i orden, at en forening registrerer almindelige oplysninger som f.eks. indmeldelsesdato, id-oplysninger, evt. tillids- eller hvervsposter m.m. En forening vil som udgangspunkt ogs\u00e5 kunne registrere oplysninger af mere speciel karakter som f.eks. oplysninger om et medlems bedste score, golfhandicap, certifikat niveau m.m.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker4.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvilke oplysninger m\u00e5 man registrere om foreningens medlemmer?"
+    },
+    {
+      "answers": [
+        "Foreningen m\u00e5 ikke videregive oplysninger om, hvem der er medlem af foreningen internt",
+        "Foreningen m\u00e5 ikke videregive oplysninger om, hvem der er medlem af foreningen internt som eksternt",
+        "Foreningen m\u00e5 gerne videregive oplysninger om, hvem der er medlem af foreningen internt"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Foreningen m\u00e5 som udgangspunkt gerne videregive s\u00e5danne oplysninger internt i foreningen, fx i form af en medlemsliste i et medlemsblad, der alene distribueres internt i foreningen, eller p\u00e5 en lukket internetside, hvor kun foreningens medlemmer har adgang. Det kr\u00e6ver dog et samtykke fra det enkelte medlem, hvis foreningen \u00f8nsker at offentligg\u00f8re en medlemsliste p\u00e5 det \u00e5bne internet. Efter Datatilsynets opfattelse er et medlemskab af en forening, uanset at denne m\u00e5tte v\u00e6re en ukontroversiel, fx en sportsforening, en privat sag.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>M\u00e5 foreningen videregive oplysninger om, hvem der er medlem af foreningen?"
+    },
+    {
+      "answers": [
+        "Det kr\u00e6ver Datatilsynets godkendelse",
+        "Ja",
+        "Nej"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Man kan g\u00f8re indsigelse mod behandling, fx en offentligg\u00f8relse, af oplysninger om \u00e9n. Man skal i f\u00f8rste omgang g\u00f8re indsigelse over for den private virksomhed, privatperson, offentlige myndighed mv., som har offentliggjort oplysninger om \u00e9n p\u00e5 en hjemmeside. Hvis man har sv\u00e6rt ved at finde ud af, hvem der st\u00e5r bag en hjemmeside, kan man eventuelt sl\u00e5 hjemmesiden op i DK Hostmasters WHOIS-database. Det er en database over alle registrerede, danske hjemmesider. Hvis den private virksomhed mv. ikke vil slette oplysningerne, kan man klage til Datatilsynet.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Kan man kr\u00e6ve, at oplysninger om \u00e9n bliver slettet fra en hjemmeside?"
+    },
+    {
+      "answers": [
+        "Nej",
+        "Det kr\u00e6ver Forbrugerombudsmandens godkendelse",
+        "Ja"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Efter databeskyttelsesreglerne har man krav p\u00e5, at forkerte oplysninger om \u00e9n bliver rettet eller slettet. Hvis man mener, at der er registreret forkerte oplysninger om \u00e9n hos en privat virksomhed, offentlig myndighed mv., skal man i f\u00f8rste omgang kontakte virksomheden, myndigheden mv. Hvis den private virksomhed, offentlige myndighed mv. ikke vil rette eller slette oplysningerne om \u00e9n, kan man klage til Datatilsynet. Der g\u00e6lder dog s\u00e6rlige regler for det offentlige. Kommuner og andre offentlige myndigheder er normalt forpligtet til at opbevare sagsoplysninger s\u00e5dan, at en sags forl\u00f8b kan dokumenteres. Datatilsynet har afgjort en r\u00e6kke sager, hvor det har betydet, at oplysninger hos en offentlig myndighed ikke kunne kr\u00e6ves slettet. Myndigheden skal notere ens protester ned, s\u00e5 det ses i sagen, at man har en anden opfattelse end myndigheden.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Kan man kr\u00e6ve, at forkerte oplysninger om \u00e9n bliver rettet eller slettet?"
+    },
+    {
+      "answers": [
+        "Ja, hvis man er i familie med hinanden",
+        "Det afh\u00e6nger af billedet",
+        "Ja hvis det er sort-hvid billede"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Det afh\u00e6nger af billedet. Ved offentligg\u00f8relse af billeder p\u00e5 internettet skelnes overordnet set mellem situationsbilleder og portr\u00e6tbilleder. Som altovervejende udgangspunkt kr\u00e6ver det personens samtykke at offentligg\u00f8re et portr\u00e6tbillede af vedkommende p\u00e5 internettet. Et situationsbillede kan som udgangspunkt offentligg\u00f8res uden samtykke, hvis det er harml\u00f8st.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker8.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>M\u00e5 man l\u00e6gge billeder af andre op p\u00e5 internettet uden deres samtykke?"
+    },
+    {
+      "answers": [
+        "Ja, personf\u00f8lsomme oplysninger",
+        "Nej der ytringsfrihed i henhold til grundloven",
+        "Ja almindelige oplysninger"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Ja. Visse oplysninger anses som f\u00f8lsomme oplysninger. Det kan fx v\u00e6re at en anden person lider af en bestemt sygdom, eller at en anden person har en bestemt politisk overbevisning. Man m\u00e5 normalt kun offentligg\u00f8re den slags oplysninger, hvis man har et klart og tydeligt samtykke fra den person, som oplysningerne vedr\u00f8rer, eller hvis oplysningerne tidligere er blevet offentliggjort af personen selv.<br><br><br>Oplysninger om race eller etnisk oprindelse, politisk, religi\u00f8s eller filosofisk overbevisning eller fagforeningsm\u00e6ssigt tilh\u00f8rsforhold, helbredsoplysninger eller oplysninger om seksuelle forhold eller seksuel orientering betragtes som f\u00f8lsomme personoplysninger. Tilsvarende betragtes genetisk og biometrisk data med det form\u00e5l entydigt at identificere en fysisk person som f\u00f8lsomme personoplysninger. V\u00e6r i \u00f8vrigt opm\u00e6rksom p\u00e5, at hvis det, man skriver, er meget kr\u00e6nkende, kan det v\u00e6re, at man overtr\u00e6der straffeloven.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Er der oplysninger om andre, som man ikke m\u00e5 offentligg\u00f8re p\u00e5 internettet?"
+    },
+    {
+      "answers": [
+        "Nej der er et total forbud i Danmark",
+        "Det kommer an p\u00e5, hvor der \u00f8nskes tv-overv\u00e5gning",
+        "Ja ved omr\u00e5der der benyttes til alminelig f\u00e6rdsel"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Det kommer f\u00f8rst og fremmest an p\u00e5, hvilke omr\u00e5der, du \u00f8nsker at tv-overv\u00e5ge. Private m\u00e5 ikke foretage tv-overv\u00e5gning af omr\u00e5der, der benyttes til almindelig f\u00e6rdsel. Det st\u00e5r i tv-overv\u00e5gningsloven.<br><br>For andre omr\u00e5der regulerer loven derimod ikke, hvorn\u00e5r tv-overv\u00e5gning er tilladt. For s\u00e5danne omr\u00e5der har tv-overv\u00e5gningsloven kun betydning for, om der er pligt til at oplyse om, at der sker tv-overv\u00e5gning.<br><br>Derudover skal tv-overv\u00e5gningsbilleder opbevares, slettes mv. i overensstemmelse med databeskyttelsesreglerne. Databeskyttelsesreglerne g\u00e6lder dog ikke for private personer, der foretager tv-overv\u00e5gning som led i rent personlige eller familiem\u00e6ssige aktiviteter. <br><br> Som eksempel p\u00e5 en rent personlig eller familiem\u00e6ssig aktivitet kan n\u00e6vnes: Efter gentagne indbrud vil en familie for at f\u00e5 billeder af tyvene s\u00e6tte kameraer op i haven og i indk\u00f8rslen til deres parcelhus. <br><br>Tv-overv\u00e5gningen er lovlig, da der ikke er tale om omr\u00e5der, som benyttes til almindelig f\u00e6rdsel. Kameraerne skal s\u00e6ttes op, s\u00e5 de ikke filmer uden for grunden, f.eks. fortovet. Familiens opbevaring af optagelserne er undtaget fra databeskyttelsesreglerne. Det er dog vigtigt at v\u00e6re opm\u00e6rksom p\u00e5, at tv-overv\u00e5gningen ikke l\u00e6ngere vil v\u00e6re som led i rent personlige eller familiem\u00e6ssige aktiviteter, hvis familien deler tv-overv\u00e5gningsbillederne med andre end politiet. Datatilsynet er ikke tilsynsmyndighed i forhold til tv-overv\u00e5gningsloven. Hvis man mener, at der er tale om overtr\u00e6delse af tv-overv\u00e5gningslovens regler, kan henvendelse ske til politiet.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker10.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>M\u00e5 man som privatperson ops\u00e6tte tv-overv\u00e5gning?"
+    },
+    {
+      "answers": [
+        "Ja, arbejdsgiver har ejendomsretten til bygningen, herunder arbejdsomr\u00e5det",
+        "Ja, hvis det ikke er til gene for naboerne",
+        "Ja med visse begr\u00e6nsninger"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Der g\u00e6lder visse begr\u00e6nsninger i arbejdsgiverens adgang til at indf\u00f8re kontrolforanstaltninger, herunder tv-overv\u00e5gning af ansatte. De vigtigste begr\u00e6nsninger er: Der skal foreligge et driftsm\u00e6ssigt form\u00e5l. Det m\u00e5 ikke v\u00e6re kr\u00e6nkende for de ansatte. Der skal s\u00f8ges opn\u00e5et en aftale med de ansatte. Enkeltmandskontorer m\u00e5 ikke tv-overv\u00e5ges uden den ansattes samtykke. Det f\u00f8lger af straffeloven. Den, der foretager tv-overv\u00e5gning af en arbejdsplads, skal ved skiltning eller p\u00e5 anden tydelig m\u00e5de oplyse om, at omr\u00e5det er tv-overv\u00e5get. Det f\u00f8lger af tv-overv\u00e5gningsloven. Ud over tv-overv\u00e5gningslovens krav om skiltning mv. skal arbejdsgiveren s\u00f8rge for at give medarbejdere og andre med regelm\u00e6ssig gang p\u00e5 arbejdspladsen, fx reng\u00f8ringspersonale, oplysninger som p\u00e5kr\u00e6vet efter databeskyttelsesreglerne. De ansatte skal bl.a. oplyses om form\u00e5let med tv-overv\u00e5gningen og om, i hvilke tilf\u00e6lde optagelserne vil blive gennemg\u00e5et og videregivet til politiet. Oplysningerne kan fx gives i retningslinjer for arbejdspladsen eller i en personaleh\u00e5ndbog.<br><br>Informationen skal v\u00e6re forudg\u00e5ende, s\u00e5 f.eks. nyansatte skal have besked i forbindelse med deres ans\u00e6ttelse, eller n\u00e5r de begynder at arbejde i tv-overv\u00e5gede lokaler. Datatilsynet er ikke tilsynsmyndighed i forhold til tv-overv\u00e5gningsloven. Hvis man mener, at der er tale om overtr\u00e6delse af tv-overv\u00e5gningslovens regler, kan henvendelse ske til politiet.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker11.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Kan en arbejdsgiver ops\u00e6tte tv-overv\u00e5gning p\u00e5 arbejdspladsen?"
+    },
+    {
+      "answers": [
+        "Nej, det strider mod straffelovens regler, medmindre der er givet samtykke",
+        "Ja, s\u00e5 l\u00e6nge, at Datatilsynet modtager en lydfil",
+        "Nej, det strider mod straffelovens regler"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Straffeloven forbyder bl.a. hemmelig aflytning eller optagelse af samtaler mellem andre. Forbuddet g\u00e6lder overalt og alts\u00e5 ogs\u00e5 fx p\u00e5 omr\u00e5der, som benyttes til almindelig f\u00e6rdsel (vej, sti, plads mv.), i butikker og befordringsmidler mv., p\u00e5 kontorer og arbejdspladser og i private hjem. Straffeloven indeb\u00e6rer, at det normalt vil v\u00e6re forbudt i tilknytning til en tv-overv\u00e5gning ogs\u00e5 at aflytte eller optage lyd, medmindre aflytningen eller optagelsen sker med samtykke fra mindst en af deltagerne i den samtale, der aflyttes eller optages.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/databeskyttelse-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om databeskyttelsesreglerne, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/databeskyttelse-premium.html</a><br>"
+      },
+      "image": "img/joker12.gif",
+      "number": 12,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 12</h2>M\u00e5 man optage lyd i forbindelse med tv-overv\u00e5gning?"
+    }
+  ],
   "title": "Jura Databeskyttelsesreglerne",
   "url": null
 }

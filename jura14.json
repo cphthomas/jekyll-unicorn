@@ -16,6 +16,20 @@
     },
     {
       "answers": [
+        "Det har ingen konsekvenser",
+        "Det har konsekvenser",
+        "Det kommer an p\u00e5, hvad der er blevet aftalt mellem kreditgiver og kreditmodtager"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Opfylder kreditgiver ikke oplysningspligten skal forbrugeren evt. betale f\u00e6rre omkostninger og fortrydelsesretten l\u00f8ber f\u00f8rst fra oplysningspligten er opfyldt, samt at kreditgiver kan blive p\u00e5lagt en b\u00f8de.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
+      },
+      "image": "img/really2.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Har det juridiske konsekvenser, hvis kreditgiver ikke opfylder oplysningspligten over for kreditmodtageren iht. kreditaftaleloven?"
+    },
+    {
+      "answers": [
         "Nej, det er frivilligt og p\u00e5 kreditgiverens egen risiko",
         "Der skal foretages en vurdering af forbrugerens kreditv\u00e6rdighed",
         "Det kommer helt an p\u00e5 kredittens st\u00f8rrelse",
@@ -46,6 +60,21 @@
     },
     {
       "answers": [
+        "Aftale om et ekstra r\u00e5dighedsbel\u00f8b",
+        "En speciel kasse, hvortil der kan gives kredit",
+        "En betegnelse for et kreditforbud som gives af Finanstilsynet",
+        "Et sted hvor det er forbrugeren der giver kredit til banken"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "En kassekredit er et l\u00e5n i et pengeinstitut, der g\u00f8r det muligt at have et ekstra r\u00e5dighedsbel\u00f8b, selvom kontoen skulle v\u00e6re tom.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
+      },
+      "image": "img/really5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er en kassekredit?"
+    },
+    {
+      "answers": [
         "Betegnelsen for, hvem der er direkt\u00f8r i et pengeinstitut",
         "Det betyder \u201d\u00e5geroplysninger\u201d",
         "Det betyder at forbrugeren er blevet insolvent",
@@ -58,6 +87,21 @@
       "image": "img/really6.gif",
       "number": 6,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder \u00c5OP?"
+    },
+    {
+      "answers": [
+        "Det har ingen civilretlige konsekvenser",
+        "S\u00e5 kan der ikke afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 5%",
+        "S\u00e5 kan der ikke afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 10%",
+        "S\u00e5 kan der ikke afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 115%"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Manglende opfyldelse af visse oplysningsforpligtelser, er civilretligt sanktioneret i KAL \u00a7 23, s\u00e5fremt der ikke er givet beh\u00f8rig oplysning om \u00c5OP og de samlede omkostninger, som forbrugeren skal betale, jf. KAL \u00a7 8, stk. 2, nr. 7, eller stk. 5, nr. 6, jf. KAL \u00a7 23, stk. 1, jf. dog \u00a7 23, stk. 3, at forbrugeren ikke kan afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 5 %, se fx Juridisk \u00c5rbog 1999, s. 188 (m\u00f8bler p\u00e5 kredit). KAL \u00a7 23, stk. 1, medf\u00f8rer s\u00e5ledes ikke blot en reduktion af den aftalte rente til en rente, der svarer til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 p.t. 5 %. Bestemmelsen medf\u00f8rer tillige, at kreditgiveren selv m\u00e5 afholde samtlige omkostninger, fx kurstab, provisioner, tinglysningsafgift og alle andre stiftelsesomkostninger, som har v\u00e6ret forbundet med at stifte kreditten, da forbrugeren kun er pligtig at betale l\u00e5nebel\u00f8bet. Sanktionsreglen i KAL \u00a7 23, stk. 1, g\u00e6lder ikke, hvis kreditgiveren kan godtg\u00f8re, at forbrugeren p\u00e5 trods af de manglende eller urigtige oplysninger har haft et forsvarligt grundlag for at bed\u00f8mme kreditomkostningerne, jf. KAL \u00a7 23, stk. 3. I betragtning af den h\u00f8je detaljeringsgrad, der er i lovens bestemmelser om kreditgiverens oplysningspligt, kan det ikke antages, at bestemmelsen i KAL \u00a7 23, stk. 3, har v\u00e6sentlig betydning. Det er desuden hensigten med bestemmelsen, at denne skal have et sn\u00e6vert anvendelsesomr\u00e5de, s\u00e5ledes at den altovervejende hovedregel er, at en tilsides\u00e6ttelse af oplysningspligten f\u00f8rer til, at der skal ske en regulering, jf. n\u00e6rmere pr\u00e6misserne i dommen **U 2004.317 H** om aftale om leje af videoapparat med ret til at k\u00f8be for 1 kr. efter 5 \u00e5r. Dette var i strid med kreditaftaleloven."
+      },
+      "image": "img/really7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvilke civilretlige konsekvenser har det, hvis kreditgiveren tilsides\u00e6tter sine oplysningsforpligtelser over for kreditmodtageren?"
     },
     {
       "answers": [

@@ -1,0 +1,78 @@
+1) Hvad er forskellen på en juridisk person og fysisk person?
+- Der er ingen juridisk forskel på de to personer 
+- Den juridiske person er myndig, den fysiske person er umyndig 
+* Den juridiske person er en organisation, den fysisk person er et biologisk væsen
+En juridisk person er en organisation, som har selvstændig retsevne, som f.eks. et selskab, en fond eller en forening. Fysiske personer af kød og blod anses ikke for juridiske personer. En juridisk person er en retlig enhed, der opstår af en sammenslutning af personer, fx et selskab, en andelsboligforening, fonde, kommunen, staten, en organisation, et konkursbo eller dødsbo. En juridisk person har således retsevne, dvs. har evnen til at være part i et retsforhold og agere i retssager. En juridisk person er adskilt fra enkeltpersoner. Hæfter for gæld med sine aktiver, fx aktiverne i et aktieselskab.
+
+2) Hvad menes der med personlig/ubegrænset hæftelse?
+- Man hæfter i forhold til sit udseende
+* Man hæfter for samtlige forpligtelser i virksomheden
+- Man hæfter med sin opsparing i banken
+- Man hæfter i forhold til sin alder og sit køn
+- Man hæfter med alt man har arvet fra sin mor og far
+Det betyder, at man hæfter for samtlige forpligtelser i virksomheden.
+Ved personlig hæftelse, stiller man sikkerhed med hele sin personlige formue, dvs. med alt, hvad man ejer og fremtidig erhverver.
+
+3) Hvad betyder solidarisk hæftelse for gælden?
+* At alle hæfter solidarisk for gælden
+- At den der er mest solidarisk hæfter for gælden
+- At den der først har skrevet under hæfter for gælden
+- At den der sidst har skrevet under hæfter for gælden
+Solidarisk hæftelse (in solidum) betyder: ”Én for alle og alle for én,” fx ved drift af interessentskab (I/S). Når flere personer driver en virksomhed sammen med solidarisk hæftelse og virksomheden ikke betaler sine regninger, kan kreditor kræve hele gælden betalt af én eller flere af de hæftende virksomhedsejere. Dem, der har ”blødt” kan herefter foretage regres over for dem der ikke har ”blødt”
+
+4) Hvad er pro-rata hæftelse?
+- At alle skyldnere hæfter lige meget for gælden
+- At en af skyldnerne ikke hæfter lige meget for gælden som de andre skyldnere
+- At alle myndige skyldnere hæfter lige meget, hvis de er myndige
+* At hver enkelt skyldner hæfter kun for en på forhånd fastsat andel af gældsforpligtelsen
+Pro-rata hæftelse betyder, at hver enkelt skyldner hæfter kun for en på forhånd fastsat andel af gældsforpligtelsen. Man kan kalde det forholdsmæssig hæftelse, hvor hver enkelt skyldner kun er forpligtet til at indfri egen andel af gælden og ikke kan forpligtes til at betale de andres.
+
+5) Hvad er en enkeltmandsvirksomhed?
+- At virksomheden ejes af en mand
+* At virksomheden kun ejes af én ejer
+- At virksomheden ejes af flere mænd
+- At virksomheden ikke kan ejes af kvinder
+- At virksomheden kun kan ejes af en myndig person
+Det betyder, at virksomheden ejes af én ejer, og ejeren tager alle nødvendige beslutninger om virksomhedens drift alene. Enkeltmandsvirksomheden tegnes af ejeren, men der kan udstedes prokura og fuldmagt til ansatte eller andre, der herefter kan handle og indgå aftaler på virksomhedens vegne. Eneejeren bærer tabet eller gevinsten alene. 
+
+6) Hvad består et Interessentskab af?
+- Af specielle interesser som det varetager
+- Af en ejer med specielle interesser
+* Af to eller flere ejere.
+- Af mænd og kvinder med sammenfaldende interesser
+Dermed menes, at Interessentskaber består af to eller flere ejere. 
+Ejerne hæfter personligt, hvorfor man skal være påpasselig med oprettelse af denne type selskab. Der er ingen stiftelseskrav ved oprettelse af et interessentskab og det kræver ingen form for startkapital. Dog kan det være en god idé at udarbejde en interessentskabsaftale parterne imellem - i samråd med en advokat. Dette for at sikre at reglerne imellem interessenterne overholdes.
+
+7) Hvordan hæfter ejerne af interessentskabet?
+* Ejerne af interessentskabet hæfter solidarisk
+- Ejerne af interessentskabet hæfter ikke solidarisk
+- De hæfter efter deres interesseområder
+- Den der har de største interesser hæfter mest
+- Den der har de mindste interesser hæfter mindst
+Om hæftelse i interessentskaber er det vigtigt at have en kontrakt med regler, da ejerne af interessentskabet hæfter solidarisk – altså efter ”de tre musketerer princippet”. At hæfte solidarisk vil sige, at hvis selskabet går konkurs, så har kreditorerne ret til selv at bestemme hvilken ejer de vil hente deres udestående hos. De kan vælge at hente lige meget fra alle parter, eller hente mere hos den ene end de resterende, hvis denne ene person nu besidder en stor personlig formue. 
+
+8) Hvad er en koncern?
+- Er et stort selskab som ikke må eje andre selskaber
+- Er et selskab som er kendetegnet ved at have koncentrerede interesser inden for landbruget og industrien
+- Er et stort selskab som ejes af et endnu større selskab
+* Et selskab som ejer store dele af andre selskaber
+Koncern er et moderselskab som er karakteriseret ved at selskabet ejer en stor del af aktierne eller anparterne i et andet selskab, som kaldes et datterselskab, jf. selskabslovens § 6. Hvert selskab inden for koncernen er en juridisk person, som har sit ”eget liv”. I koncerner hæfter de enkelte koncernselskaber ikke for hinandens forpligtelser. Dette gælder også med hensyn til modregning. Koncernforbundne selskaber kan indgå aftaler og handle med hinanden på sædvanlige vilkår.
+
+9) Hvad menes der med tegningsret?
+- Hvem der i en virksomhed, der har ret til at tegne virksomheden produkter
+* Hvilke personer der kan handle og indgå aftaler på kapitalselskabets vegne
+- Hvilke personer, der kan indgive ansøgerne om kapitalvirksomhedens patenter
+- Hvilke personer, der kan tegne virksomhedens inventar
+Dermed menes, hvilke personer der kan handle og indgå aftaler på kapitalselskabets vegne. En tegningsudskrift eller et sammenskrevet resumé fra Erhvervs- og Selskabsstyrelsen.
+
+10) Hvad er kontant indskuddet kapitalkravet for A/S of ApS?
+- ApS: 80.000 kr. og A/S: 300.000 kr.
+- ApS: 60.000 kr. og A/S: 500.000 kr.
+* ApS: 40.000 kr. og A/S: 400.000 kr.
+- ApS: 50.000 kr. og A/S: 400.000 kr.
+
+Kontant indskud – kapitalkrav, jf. selskabslovens § 4 er for ApS: 40.000 kr. og A/S: 400.000 kr.
+
+
+
+ 

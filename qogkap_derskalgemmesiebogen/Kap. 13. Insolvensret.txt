@@ -1,0 +1,139 @@
+1) Hvad menes der med individualforfølgning?
+- Kreditor forsøger at fremkalde betaling af sit tilgodehavende hos et pengeinstitut
+- Kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en anden kreditor
+* Kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en skyldner
+- kreditor forsøger at fremkalde betaling af sit tilgodehavende hos Forbrugerombudsmanden
+Med individualforfølgning menes, når én kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en skyldner f.eks. ved tvangsfuldbyrdelse via Fogedretten. Modsat universalforfølgning som f.eks. konkurs. De juridiske udfordringer for en individualforfølgning er
+udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, retsplejelovens kapitel 44a og § 478. Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 507-515. Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
+
+2) Hvad er universalforfølgning?
+- Når kreditorerne går hver for sig for at inddrive deres krav
+* Når kreditorerne går sammen for at inddrive deres krav
+- Når enkelte kreditorer går sammen for at inddrive deres krav
+- Når kreditorerne går sammen for at betale deres krav
+Universalforfølgning, er når kreditorerne går sammen for at inddrive deres krav (insolvensbehandling). Universalforfølgning afskærer individualforfølgning. Eksempler på universalforfølgning er konkurs, tvangsakkord og gældssanering. Ligelighedsprincippet er centralt. 
+Der er desuden mulighed for omstødelse iht. konkursloven (KL). 
+Modsat ved individualforfølgning. Formålet er at stille kreditorerne lige i konkursboet. Kun hvis skyldneren er insolvent, jf. KL § 17.
+
+3) Hvad betyder begrebet ”insolvent”?
+- Skyldneren kan betale sin gæld, efterhånden som den forfalder til betaling 
+- Kreditor ikke kan betale sin gæld, efterhånden som den forfalder til betaling
+* Skyldneren ikke kan betale sin gæld, efterhånden som den forfalder til betaling
+Defineret i KL § 17, at skyldneren ikke kan betale sin gæld, efterhånden som den forfalder til betaling. Skifteretten vurderer, om insolvensen er til stede. Hvis skyldner selv erklærer sig insolvent, forventes det at være rigtigt. Konkursprocessen kan kun indledes, hvis skyldneren er insolvent.
+
+4) Hvad betyder det, at kreditor skal have en *retlig interesse* i konkursbehandlingen?
+* At konkursbehandlingen kan tænkes at tilvejebringe aktiver for kreditor
+-
+-
+-
+Kreditor skal have en *retlig interesse* i konkursbehandlingen.
+Denne vil normalt bestå i, at der er udsigt til dividende. Det forhold, at kreditor aktuelt ikke kan forvente dividende i boet, udelukker ikke konkurs. Den retlige interesse kan bestå i, at konkursbehandlingen kan tænkes at tilvejebringe yderligere aktiver. Enhver fysisk person kan uanset (u)myndighed være »skyldner« i den anførte betydning i KL § 17. En juridisk person kan som »skyldner« erklæres konkurs, hvis enten ingen deltager i sammenslutningen hæfter personligt for sammenslutningens gæld, eller hvis samtlige personligt hæftende er under konkurs. Pengeinstitutter kan erklæres konkurs, men beskikkelse af kurator sker efter forhandling med Finanstilsynet, se lov om finansiel virksomhed § 246, stk. 3. Om forsikringsselskabers konkurs, se lov om finansiel virksomhed §§ 264-265, hvorefter bl.a. beskikkelse af kurator sker efter forhandling med Finanstilsynet. Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige interessenter er under konkurs.
+
+5) Hvad betyder ordet ”tvangsinddrivelse”?
+- Debitor (skyldneren) har taget psykisk skade af sin gæld og bliver indlagt på den lukkede afdeling
+* Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion
+- Debitor har mistet aktiv ved et tyveri
+- Debitor har mistet et aktiv ved et røveri
+Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion. Provenuet fra tvangsauktionen nedbringer skyldners gæld. Hvis man skylder penge, og man ikke betaler, kan kreditor bede fogedretten om at hjælpe med at indkræve pengene. 
+
+
+6) Hvad betyder ordet ”udlæg”?
+- Debitor har foretaget udlæg i forbindelse med en handel
+- Kreditor har foretaget udlæg i forbindelse med en handel
+* Fogedretten har foretaget udlæg i et eller flere af debitors aktiver
+- Staten har modtaget et udlæg fra debitor
+I fogedretten vil man blive spurgt, om man har mulighed for at betale pengene. Hvis man ikke kan betale, kan fogedretten foretage udlæg i et eller flere af ens aktiver. Det kan for eksempel være ens faste ejendom eller ens bil. Udlæg betyder, at kreditor kan forlange, at det aktiv, der er foretaget udlæg i, sælges på auktion, så kreditor kan få sine penge.
+Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andre ting af beskeden værdi, som er nødvendige for familiens erhverv eller uddannelse.
+
+7) Kan kreditor få udlæg i alle skyldnerens (debitors) aktiver?
+- Kreditor kan ikke få udlæg i skylderens aktiver
+* Kreditor kan få udlæg i alle skyldners aktiver, medmindre lovmæssige undtagelser
+- Kreditor kan kun udlæg i skyldnerens aktiver, hvis det er blevet aftalt med skyldneren
+HR: Kreditor kan få udlæg i alle skyldners aktiver, medmindre lovmæssige undtagelser:
+U1: Tredjemands rettigheder skal respekteres.
+U2: Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold.
+U3: Endnu ikke udbetalt løn, RPL § 511.
+U4: Udbetalt erstatning fx fra ulykkesforsikring, RPL § 513 Erstatningen skal være holdt adskilt fra øvrige midler.
+U5: Personlige aktiver med beskeden værdi, RPL § 515, stk. 1
+U6: Personlige hjælpemidler, RPL § 515, stk. 2
+U7: Båndlagte gaver, RPL § 514
+U8: Trangsbeneficiet, RPL § 509
+
+8) Hvad betyder ”trangsbeneficiet”, jf. RPL § 509?
+* At der ikke kan foretages udlæg i et beskedent hjem
+- At der godt kan foretages udlæg i et beskedent hjem
+- At der godt kan foretages udlæg i et beskedent hjem, hvis det er aftalt med skyldneren
+Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet.
+Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa. Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer. Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet. Spørgsmål er i et hvilket omfang der kan foretages udlæg i følgende genstande og værdier: 
+* Boliginventar (Opretholdelse af et beskedent hjem)
+* Bil
+* Kontanter (rede penge)
+* Indestående på konti
+* Depositum (lejebolig)
+* Kæledyr
+* Gaver
+* Værdier med affektionsværdi
+* Personskadeerstatning (Udbetalinger ved kritisk/ livstruende sygdom)
+* Feriepenge
+
+9) Hvad er en tvangsauktion?
+- Det betyder at man tvinger debitor til at være til stede på auktionen
+* En tvangsauktion er et tvangssalg
+- Politiet tvinger kreditor til at være tilstede på auktionen
+- Kreditor tvinger debitor til at være til stede på auktionen
+En tvangsauktion er et "tvangssalg". Tvangsauktionssagen kan iværksættes af en person, som har penge til gode hos ejeren af ejendommen eller genstanden. Det kan for eksempel være en panthaver, der ikke har modtaget terminsydelser. Tvangsauktion over fast ejendom: Alle tvangsauktioner over fast ejendom sker i fogedretten i den retskreds, hvor ejendommen ligger. Den, der har iværksat tvangsauktionen, skal lave en salgsopstilling over ejendommen med alle oplysninger om ejendommen. Salgsopstillingen og standardauktionsvilkårene danner grundlaget for tvangsauktionen.
+
+10) Hvad er en konkurs?
+- Det er en juridisk betegnelse for et nødlidende skibs søretning
+- Det er den fastsatte kurs på overvurderede aktier
+- At kreditor kan foretage modregning over for debitor
+* At skylderen kan erklæres konkurs, hvis denne er insolvent
+For at en skyldner - en person eller et selskab - kan erklæres konkurs, er det en betingelse, at skyldneren er insolvent. Man er insolvent, hvis man ikke kan betale sin gæld til tiden, og betalingsvanskelighederne ikke kun er midlertidige. Konkurs er en universalforfølgning, formålet er at dele skyldners aktiver ud til kreditorerne, så alle kreditorer stilles lige. Begæring kan indgives til skifteretten af skyldner eller kreditor, jf. KL § 17, stk. 1. Skyldner mister rådighed over sine aktiver ved dekretets afsigelse, jf. KL § 29. Skifteretten udpeger kurator (advokat), som handler på vegne af konkursboet. Annoncering i Statstidende - virkning for enhver, jf. KL § 30.
+
+11) Hvem kan indgive konkursbegæring?
+* En kreditor, der har penge til gode hos en skyldner, kan indgive konkursbegæring til skifteretten
+- Alle kan indgive en konkursbegæring mod en skyldner til skifteretten
+- En kreditor kan altid indgive konkursbegæring mod en skyldner til skifteretten
+En kreditor, der har penge til gode hos en skyldner, kan indgive konkursbegæring. Det er en betingelse, at årsagen til den manglende betaling er pengemangel og ikke manglende betalingsvilje, for eksempel utilfredshed med et udført arbejde. Er dette tilfældet, må der i stedet føres en retssag ved de almindelige domstole. Det samme gælder, hvis det er usikkert, om pengene skyldes. En person eller et selskab, der er insolvent, kan indgive konkursbegæring mod sig selv.
+
+12)
+Hvad menes der med ”konkursmassen”?
+* Konkursmassen er konkursboets aktiver og passiver
+- Konkursmassen er konkursboets aktiver
+- Konkursmassen er konkursboets passiver
+Konkursmassen er konkursboets samlede aktiver og passiver. Konkursmassen aktiver omfatter:
+HR: Alt hvad skyldner ejer ved konkursdekrets afsigelse og under konkursen tilfalder ham, jf. KL § 32
+U1: Aktiver, som kreditor ikke kan få udlæg i, jf. KL § 36. 
+U2: Skyldners arbejdsindtægter under konkursen. 
+U3: Separatistkrav (fx aktiver solgt med ejendomsforbehold).
+Konkursboets passiver omfatter:  
+Alle kreditorer kan anmelde deres krav, uanset om kravet er forfaldent, jf. KL § 38
+ 
+
+
+13) Hvad betyder ”konkursordenen”?
+- God skik for en konkursbehandling
+- Den titel som kurator har i forbindelse med behandlingen af konkursen
+* I hvilken rækkefølge der udloddes midler til kreditorerne
+Konkursordenen inddeler alle konkursboets kreditorer i klasser. Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse. Først dækkes omkostninger i forbindelse med konkursen (massekrav), og herefter de øvrige klasser. Hvis der ikke er dækning til hele klassen, fx de simple krav, bliver der udloddet en dividende. Efterstående konkursklasser får ingen dækning. De vigtigste niveauer i konkursordenen er i rækkefølge Konkurslovens kap. 10:
+Massekrav, dvs. krav, som er opstået ved selve konkursbehandlingen, fx kuratorsalær,
+Privilegerede krav, fx krav opstået under forsøg på at afværge en konkurs og lønkrav fra visse af skyldnerens ansatte, samt
+Simple krav, dvs. krav fra skyldnerens almindelige kreditorer og derfor i almindelighed den største post.
+
+14) Hvad er en ”konkurskarantæne”?
+
+- Konkurskarantæne betyder, at skyldneren i en periode ikke skal betale sin gæld
+- Konkurskarantæne betyder, at kreditor i en periode ikke kan opkræve sit tilgodehavende hos skyldneren
+* Konkurskarantæne betyder, at en person i en periode får et forbud mod at deltage i ledelsen af en virksomhed
+Konkurskarantæne betyder, at en person i en periode får et forbud mod at deltage i ledelsen af en virksomhed, hvori den pågældende ikke hæfter personligt og ubegrænset for virksomhedens forpligtelse (aktieselskaber, anpartsselskaber m.v.). En person kan pålægges konkurskarantæne, hvis personen på grund af groft uforsvarlig forretningsførelse vurderes uegnet til at deltage i ledelsen af en erhvervsvirksomhed.
+
+15) Hvilken funktion har ”omstødelsesreglerne” i konkurs?
+- Omstødelse medfører at konkursboet skal betale det omstødelige beløb tilbage til den begunstigede
+* Omstødelse medfører at den begunstigede skal betale det omstødelige beløb tilbage til konkursboet
+- Omstødelse medfører at den begunstigede skal betale det omstødelige beløb tilbage til staten
+Konkursens formål er at alle kreditorer stilles lige. Omstødelsesreglerne forhindrer, at kreditorer kan få en meget bedre retsstilling kort før konkursen indtræder. Omstødelse medfører at den begunstigede skal betale det omstødelige beløb tilbage. Fristdagen er den dag Skifteretten har modtaget begæring om:
+  +	Konkurs
+  +	Rekonstruktion
+  +	Gældssanering  
+Beregning af omstødelsesperioden tager udgangspunkt i fristdagen. En konkurs starter med, at konkursboet selv eller en kreditor indleverer begæring / konkursbegæring til skifteret. Fristdagen er derfor som udgangspunkt den dag, da skifteretten modtog begæring om rekonstruktion, konkurs eller gældssanering. Det er dagen hvor begæringen modtages, som er afgørende for fristdagen.
+

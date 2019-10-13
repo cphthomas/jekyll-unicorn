@@ -1,0 +1,1948 @@
+# Insolvensret
+
+```{r, echo=FALSE, results='asis'}
+# cat(readLines('np.html'))
+```
+
+
+![](img/insol1.jpg)
+
+
+
+---
+
+*Du skal som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af insolvensretten, herunder kreditorforfølgning:* 
+
+
+
+•	*Forskellen på individual- og universalforfølgning = vigtigt – herunder forskellen på tvangsauktion og konkurs*
+
+
+•	*Individualforfølgning:*
+
+---
+
+Med individualforfølgning menes:
+
+Når én kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en skyldner f.eks. ved tvangsfuldbyrdelse via Fogedretten. 
+
+Modsat universalforfølgning som f.eks. konkurs.
+
+---
+
+De juridiske udfordringer for en individualforfølgning er:
+
+Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, retsplejelovens kapitel 44a og § 478.
+  
+Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 507-515.
+
+---
+  
+*Universalforfølgning:*
+
+Når kreditorerne går sammen for at inddrive deres krav (insolvensbehandling). Universalforfølgning afskærer individualforfølgning. 
+
+Eksempler på universalforfølgning er konkurs, tvangsakkord og gældssanering. Ligelighedsprincippet er centralt. 
+
+Der er desuden mulighed for omstødelse iht. konkursloven (KL). 
+
+Modsat: *individualforfølgning*.
+
+---
+
+*De juridiske udfordringer ved universalforfølgning:*
+
+*Hæftelse:* Hæftelsestyper i enkeltmandsvirksomhed samt forskellige selskabsformer. 
+
+Emnet har relevans for opgørelse af aktivsiden i et konkursbo samt kreditors evt. tab af restfordringen.  
+  
+Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning: 
+  
+Konkursret – anmodning, 
+  
+Betingelser, KL § 17-21, 
+  
+Fristdag, KL § 1 
+
+Nærtstående, KL § 2, 
+
+Konkursordenen, KL kapitel 10, 
+  
+Separatister  og underpanthavere, KL §§ 82 og 86, 
+  
+omstødelse, KL kapitel 8 
+
+---				
+
+## Regler og definitioner
+
+*Retsplejeloven og Konkursloven regulerer:*
+
+*Individualforfølgning:*
+
+Hver kreditor for sig, den kreditor, der kommer først, bliver først betalt af skyldner
+  
+Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 2018) og omfatter bl.a. udlæg, tvangsauktion og tvangsbeneficeret (retten til et beskedent hjem).
+
+---
+  
+*Universalforfølgning:*
+
+Reguleret i konkursloven (KL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering.
+  
+Formålet er at stille kreditorerne lige i konkursboet.
+  
+Kun hvis skyldneren er insolvent, jf. KL § 17:
+  
+”Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver. 
+
+Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående”.
+ 
+
+Ordet *”insolvent”*
+
+![](img/insolvent2.jpg)
+
+Defineret i KL § 17.
+
+Skyldner kan ikke betale sin gæld, efterhånden som den forfalder til betaling.
+
+Skifteretten vurderer, om insolvensen er til stede.
+
+Hvis skyldner selv erklærer sig insolvent, forventes det at være rigtigt.
+
+---
+
+**Video om udlæg og trangsbeneficium**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/kxa-lYBFCDk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+  
+---
+
+Der må ved afgørelsen om skyldnerens insolvens, og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
+
+En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen **U 2001 2592 Ø** (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
+
+Det må kræves, at der består en fordring mod skyldneren, men ikke, at den er forfalden. 
+
+Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
+
+At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen i **U 1973 673 H**.
+
+---
+
+Kreditor skal have en *retlig interesse* i konkursbehandlingen. 
+
+Denne vil normalt bestå i, at der er udsigt til dividende. 
+
+Det forhold, at kreditor aktuelt ikke kan forvente dividende i boet, udelukker ikke konkurs. 
+
+Den retlige interesse kan bestå i, at konkursbehandlingen kan tænkes at tilvejebringe yderligere aktiver.
+
+Enhver fysisk person kan uanset (u)myndighed være »skyldner« i den anførte betydning i KL § 17.
+
+En juridisk person kan som »skyldner« erklæres konkurs, hvis enten ingen deltager i sammenslutningen hæfter personligt for sammenslutningens gæld, eller hvis samtlige personligt hæftende er under konkurs.
+
+Pengeinstitutter kan erklæres konkurs, men beskikkelse af kurator sker efter forhandling med Finanstilsynet, se lov om finansiel virksomhed § 246, stk. 3. 
+
+Om forsikringsselskabers konkurs, se lov om finansiel virksomhed §§ 264-265, hvorefter bl.a. beskikkelse af kurator sker efter forhandling med Finanstilsynet.
+
+Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige interessenter er under konkurs.
+
+![](img/insolvent3.jpg)
+
+
+Insolvens antages i almindelighed at foreligge efter KKL § 18, hvis:
+
+* skyldneren erkender at være insolvent, 
+
+* skyldneren er under rekonstruktionsbehandling,
+
+* skyldneren har standset sine betalinger eller
+
+* der ved udlæg inden for de sidste tre måneder før skifterettens modtagelse af konkursbegæringen ikke har kunnet opnås dækning hos skyldneren. 
+ 
+
+ 
+---
+
+![](img/inkasso3.jpg)
+
+## Inkasso
+
+Efter en rykkerprocedure med 3 rykkergebyrer, jf. rentelovens § 9 b, skal sagen overdrages til retlig inkasso:
+
+"§ 9 b
+For rykkerskrivelser vedrørende fordringer kan fordringshaveren kræve et gebyr, jf. stk. 2, såfremt skrivelsen er fremsendt med rimelig grund (rykkergebyr). Fordringshaveren kan endvidere kræve et gebyr, jf. stk. 3, for at anmode en anden om at inddrive fordringen på fordringshaverens vegne, såfremt dette er sket med rimelig grund (inkassogebyr).
+Stk. 2. Der kan kræves et rykkergebyr på højst 100 kr. for hver rykkerskrivelse, dog højst for 3 skrivelser vedrørende samme ydelse.  Har skyldneren inden for en sammenhængende periode til stadighed været i restance vedrørende samme skyldforhold, kan der uanset 1. pkt. højst kræves rykkergebyr for 3 skrivelser vedrørende restancerne i den pågældende periode. Der kan kun kræves gebyr for rykkerskrivelser, som er sendt med mindst 10 dages mellemrum".
+
+Den tredje rykkerskrivelse skal indeholde et inkassovarsel.
+
+![](img/ryk.jpg)
+
+
+
+
+Inkasso reguleres af Lovbekendtgørelse nr. 1018 af 9. september 2014 om inkassovirksomhed. 
+
+Formålet med inkassoloven er at sikre, at privat inkassovirksomhed, dvs. den inddrivelse af fordringer på andres vegne, der sker uden fogedretternes medvirken som led i privat inkassovirksomhed, foregår på en rimelig og forsvarlig måde. 
+
+Dette søges navnlig opnået ved en autorisationsordning for inkassofirmaer, ved krav om godkendelse af personale, der retter personlig henvendelse til skyldnere, og ved krav om, at inkassofirmaer mv. skal stille sikkerhed for pengekrav, som måtte opstå som følge af udøvelsen af deres virksomhed. 
+
+Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal udøves i overensstemmelse med god inkassoskik i forhold til både skyldnere og kunder, jf. inkassolovens § 9. 
+
+---
+
+<h3>Gode råd og gæld: Inkasso</h3>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/XbxO46Oeizw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+Inkassolovens indhold:
+
+Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
+
+Kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
+
+Kap. 3 fastsættes regler om godkendelse af personale, som retter personlige henvendelser til skyldnere. 
+
+Kap. 4 indeholder regler om, hvorledes inkassovirksomhed skal udøves. 
+
+Kap. 5 indeholder kompetence- og bemyndigelsesbestemmelser. 
+
+Kap. 6 fastsættes regler om tilbagekaldelse og bortfald af autorisation mv.
+
+Kap. 7 indeholder regler om tilsyn. 
+
+Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
+
+---
+
+### Inkassoprocessen
+
+![](img/insolvent4.jpg)
+
+
+
+Gælden sendes til inkasso, hvis skyldner ikke betaler, efter kreditor har sendt en eller flere rykkere (højst 3 stk.)
+
+Inkasso kan foretages af:
+
++	Kreditor selv
+
++	Inkassofirma
+
++	Advokat
+  
+Inkassobrev med diverse oplysninger sendes til skyldner.
+
+
+![](img/inkasso.jpg)
+
+Formålet med inkasso er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig.
+
+Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse.
+
+---
+
+![](img/inkasso2.png)
+
+---
+
+### Forenklet inkasso 
+
+
+*Hvad er den forenklede inkassoproces (betalingspåkrav)?*
+
+Den forenklede inkassoproces er en enkel måde at få rettens hjælp til at opkræve gæld på. Den samlede gæld må højst være på 100.000 kr. eksklusive renter og omkostninger.
+
+Det særlige ved den forenklede inkassoproces er, at man kun skal rette én henvendelse til fogedretten, som både tager sig af grundlaget for og gennemførelsen af et udlæg.
+
+Man kan bruge den forenklede inkasso i nogle tilfælde i stedet for at indgive en stævning.
+
+*Hvornår kan man vælge den forenklede inkassoproces?*
+
+Man kan vælge den forenklede inkassoproces, hvis man har en klar forventning om, at skyldneren er enig i kravet, og kravet ikke overstiger 100.000 kr. eksklusive renter og omkostninger.
+
+
+*Hvordan gør man?*
+
+Ønsker man at starte en forenklet inkassoproces, skal man udfylde og indlevere en *betalingspåkravsblanket* til fogedretten. Man kan finde blanketten her:
+
+http://www.domstol.dk/selvbetjening/blanketter/inkasso/Pages/default.aspx
+
+Betalingspåkravet har samme funktion som en stævning i civile sager og skal derfor indeholde næsten de samme oplysninger. Det er for eksempel parternes navne og adresse, ens krav og informationer om, hvordan kravet er opstået.
+
+*Hvad ender sagen med?*
+
+Hvis man i blanketten for betalingspåkravet har markeret, at man ønsker det, kan fogedretten automatisk:
+
+Sørge for, at betalingspåkravet får samme bindende virkning (retskraft) som en dom. Bagefter iværksætter fogedretten et udlæg mod den skyldner, som er enig i kravet. Her vil sagen normalt ende.
+
+Sende sagen til civilretten, hvis skyldneren – mod forventning – er uenig i kravet. Civilretten indleder derefter en retssag på grundlag af betalingspåkravet.
+
+*Hvad koster det?*
+
+Når man indleverer betalingspåkravet til fogedretten, skal man samtidig indbetale en retsafgift. Retsafgiften afhænger af kravets størrelse, ens valg i betalingspåkravet og sagens forløb.
+
+Man kan foretage en vejledende beregning af retsafgiften her:
+
+http://www.domstol.dk/selvbetjening/beregndinafgift/Pages/default.aspx
+
+---
+
+**Video: God inkassoskik**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/z8QQeRFvPGQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+**Video: Forældelsesfristen for gæld**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/krDpzh9ugJ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: Inkasso i hundesalonen**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/4p97-bt-mYk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+
+## Tvangsinddrivelse
+
+![](img/insolvent5.jpg)
+
+Ordet *”tvangsinddrivelse”:*
+
+Kreditor kan via fogedretten få udlæg i skyldners aktiver og sælge dem på tvangsauktion
+
+Provenuet fra tvangsauktionen nedbringer skyldners gæld
+
+---
+
+<h3>Mødet i fogedretten</h3>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ozjrbeuLrTU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+<h3>Gode råd om gæld: Fogedretten</h3>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/th9E-UvXijE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+Tvangsinddrivelse kræver et fundament, jf. RPL § 478 fx:
+
+* Dom eller retsforlig.
+
+* Frivillige forlig, hvis der står, det kan tvangsfuldbyrdes.
+
+* Pantebreve.
+
+* Afgørelser fra Forbrugerklagenævnet og de private godkendte tvistløsningsorganger efter 30 dage.
+
+* Krav fra offentlige myndigheder fx Skat.
+
+* Gældsbreve, hvis der står, det kan tvangsfuldbyrdes.
+
+---
+
+Se dommen i **U 2019.3219 V** Der kunne ikke ske tvangsfuldbyrdelse på grundlag af et digitalt gældsbrev, hvor underskriften ikke var tilføjet digitalt af den anførte debitor, men ifølge debitors forklaring af hendes daværende kæreste.
+
+---
+
+Se **U 2019.3313 Ø** Gældsbrev, der var underskrevet ved anvendelse af Bank NemID, kunne tvangsfuldbyrdes, jf. retsplejelovens § 478, stk. 1, nr. 5.
+
+---
+
+<h3>Gode råd og gæld: SKAT</h3>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/gNK1K_cpsSw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+<h3>Gode råd om gæld: Budget</h3>
+
+ 
+<div class="video-container"><iframe src="https://www.youtube.com/embed/V_ZxNcRklxE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+### Betalingspåkrav
+
+Hvis kreditor ikke har et fundament, skal kreditor:
+
+Have en dom for kravet eller
+
+Udfylde et betalingspåkrav, jf. RPL kap. 44a.
+
+Betalingspåkravet udfyldes af kreditor og indgives til Fogedretten.
+
+Betalingspåkravet kan kun anvendes hvis:
+
+  +	Kreditor har et pengekrav på højst 100.000 kr.
+  +	Kravet er ubetinget og ubestridt af skyldner
+  +	Skyldner har fået et ”inkassobrev”
+  
+Kan med Fogedrettens påtegning på betalingspåkravet anvendes som fundament
+ 
+
+### Udlæg
+
+![](img/insolvent6.jpg)
+
+Hvis man skylder penge, og man ikke betaler, kan kreditor bede fogedretten om at hjælpe med at indkræve pengene.
+
+I fogedretten vil man blive spurgt, om man har mulighed for at betale pengene. 
+
+Hvis man ikke kan betale, kan fogedretten foretage udlæg i et eller flere af ens aktiver. 
+
+Det kan for eksempel være ens faste ejendom eller ens bil. 
+
+Udlæg betyder, at kreditor kan forlange, at det aktiv, der er foretaget udlæg i, sælges på auktion, så kreditor kan få sine penge.
+
+Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andre ting af beskeden værdi, som er nødvendige for familiens erhverv eller uddannelse, se nærmere nedenfor.
+
+---
+
+*HR:* Kreditor kan få udlæg i alle skyldners aktiver, medmindre følgende undtagelser:
+
+*U1:* Tredjemands rettigheder skal respekteres.
+
+*U2:* Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold.
+
+*U3:* Endnu ikke udbetalt løn, RPL § 511.
+
+*U4:* Udbetalt erstatning fx fra ulykkesforsikring, RPL § 513 Erstatningen skal være holdt adskilt fra øvrige midler.
+
+*U5:* Personlige aktiver med beskeden værdi, RPL § 515, stk. 1
+
+*U6:* Personlige hjælpemidler, RPL § 515, stk. 2
+
+*U7:* Båndlagte gaver, RPL § 514
+
+*U8:* Trangsbeneficiet, RPL § 509
+
+
+---
+
+
+Se dommen i **U 2019.3256** om krav i henhold til gældsbrev var ikke fritaget fra udlæg i medfør af retsplejelovens § 513, stk. 1, om beskyttelse mod kreditorforfølgning af personskadeerstatning:
+"A blev i maj 2014 erklæret konkurs. I 2015 lånte A 600.000 kr. til B. Beløbet blev overført fra en konto, hvor indeståendet stammede fra As personskadeerstatning, og der var enighed om, at beløbet på kontoen var beskyttet mod kreditorforfølgning, jf. retsplejelovens § 513, stk. 1. Sagen angik, om beskyttelsen af beløbet som følge af udlånet til B ophørte, således at konkursboet kunne kræve, at B betalte de 600.000 kr. til boet. Højesteret fandt, at beløbet efter udbetalingen til B var blevet sammenblandet med andre midler, og at der herefter ikke var den fornødne sikkerhed for, at beløb, der senere betales til A fra B i henhold til gældsbrevet, hidrørte fra det udbetalte erstatningsbeløb. Højesteret bemærkede herved, at B efter sin forklaring havde videreudlånt beløbet til sin samlevers søn til brug for stiftelse af et anpartsselskab, som drives af samleveren, der er under konkurs. Højesteret tiltrådte på denne baggrund, at kravet i henhold til gældsbrevet ikke var fritaget fra udlæg efter § 513, stk. 1, og at B derfor skulle betale 600.000 kr. til konkursboet. Højesteret stadfæstede herved landsrettens dom".
+
+---
+
+**Video: Udlæg og trangsbeneficiet**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/kxa-lYBFCDk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+ 
+
+*Trangsbeneficiet, jf. RPL § 509:*
+
+![](img/beskeden.png)
+
+Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet.
+
+Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa.
+
+Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer.
+
+Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet.
+
+Spørgsmål er i et hvilket omfang, der kan foretages udlæg i følgende genstande og værdier: 
+
+* Boliginventar (Opretholdelse af et beskedent hjem)
+
+* Bil
+
+* Kontanter (rede penge)
+
+* Indestående på konti
+
+* Depositum (lejebolig)
+
+* Kæledyr
+
+* Gaver
+
+* Værdier med affektionsværdi
+
+* Personskadeerstatning (Udbetalinger ved kritisk/ livstruende sygdom)
+
+* Feriepenge
+
+---
+
+## Tvangsauktion
+
+<img src="img/gaden.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+
+*En tvangsauktion er et "tvangssalg"*. 
+
+Tvangsauktionssagen kan iværksættes af en person, som har penge til gode hos ejeren af ejendommen eller genstanden. 
+
+Det kan for eksempel være en panthaver, der ikke har modtaget terminsydelser.
+
+---
+
+### Tvangsauktion over fast ejendom
+
+Alle tvangsauktioner over fast ejendom sker i fogedretten i den retskreds, hvor ejendommen ligger. 
+
+Den, der har iværksat tvangsauktionen, skal lave en salgsopstilling over ejendommen med alle oplysninger om ejendommen. Salgsopstillingen og standardauktionsvilkårene danner grundlaget for tvangsauktionen.
+
+Vejledning i brug af salgsopstilling og Justitsministeriets tvangsauktionsvilkår findes her.
+
+Salgsopstillingen bliver inden auktionen sendt til ejeren og til alle, der har pantebreve i ejendommen.
+
+---
+
+### Tvangsauktion over landbrugsejendom
+
+Landbrugsstyrelsen har udformet vejledningen ”Endelig adkomst på landbrugsejendomme erhvervet på tvangsauktion”, som kan findes ved dette link:
+
+https://www.domstol.dk/saadangoerdu/tvangsauktion/Documents/Endelig%20adkomst%20p%C3%A5%20landbrugsejendomme%20erhvervet%20p%C3%A5%20tvangsauktion.pdf
+
+Formålet er at vejlede køber. 
+
+Vejledningen indeholder blandt andet information om, at det ved erhvervelse af en landbrugsejendom på tvangsauktion er landbrugslovens regler, der gælder, samt vejledning om opfyldelse af erhvervelsesbetingelserne.
+
+---
+
+### Tvangsauktion over løsøre 
+
+Tvangsauktioner over løsøre kan efter henvisning af fogeden afholdes ved en auktionsleder. 
+
+Tvangsauktioner over registrerede skibe og luftfartøjer samt gældsbreve og andre fordringer afholdes af fogedretten, mens aktier og andre værdipapirer realiseres ved tvangssalg efter forudgående autorisation fra fogedretten af en værdipapirhandler, typisk et pengeinstitut.
+
+En liste over beskikkede auktionsledere fordelt på de enkelte retskredse findes på dette link:
+
+http://www.justitsministeriet.dk/arbejdsomr%C3%A5der/civilret/beskikkelse-af-auktionsledere
+
+
+Auktionslederne kan også benyttes til frivillige offentlige auktioner.
+
+Tvangsauktioner er offentlige. 
+
+Alle, der møder, kan afgive bud på auktionen. 
+
+Kan man ikke selv møde, kan man lade en advokat byde for én. 
+
+Man kan også give en skriftlig fuldmagt til en anden person, der så kan byde for én.
+ 
+---
+
+![](img/gaden1.jpg)
+
+
+---
+
+**Video om tvangsauktion**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/drN8QtdRsfk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+
+## Konkurs
+
+
+
+![](img/insolvent7.jpg)
+
+For at en skyldner - en person eller et selskab - kan erklæres konkurs, er det en betingelse, at skyldneren er insolvent. 
+
+Man er insolvent, hvis man ikke kan betale sin gæld til tiden, og betalingsvanskelighederne ikke kun er midlertidige. 
+
+Konkurs er en universalforfølgning, formålet er at dele skyldners aktiver ud til kreditorerne, så alle kreditorer stilles lige.
+
+Begæring kan indgives til skifteretten af skyldner eller kreditor, jf. KL § 17, stk. 1.
+
+Skyldner mister rådighed over sine aktiver ved dekretets afsigelse, jf. KL § 29
+
+Skifteretten udpeger kurator (advokat), som handler på vegne af konkursboet
+
+Annoncering i Statstidende - virkning for enhver, jf. KL § 30.
+
+---
+ 
+### Hvem kan indgive konkursbegæring?
+
+En kreditor, der har penge til gode hos en skyldner, kan indgive konkursbegæring. 
+
+Det er en betingelse, at årsagen til den manglende betaling er pengemangel og ikke manglende betalingsvilje, for eksempel utilfredshed med et udført arbejde. 
+
+Er dette tilfældet, må der i stedet føres en retssag ved de almindelige domstole. 
+
+Det samme gælder, hvis det er usikkert, om pengene skyldes.
+
+En person eller et selskab, der er insolvent, kan indgive konkursbegæring mod sig selv.
+
+Generelt må det anbefales at kontakte en advokat, inden man indgiver en konkursbegæring.
+
+---
+
+Se Pengeinstituankenævnets sagsnr.: **289/2009** om krav om erstatning begrundet i manglende advarsel om brug af dankort på Internettet ved køb af flybilletter kunne medfører tab ved flyselskabets eventuelle konkurs: "... Ankenævnet finder ikke, at Danske Bank har pådraget sig et erstatningsansvar over for klageren ved at have undladt i sine regler for brug af dankort at gøre opmærksom på, at en kortindehaver risikerer at lide tab som følge af en betalingsmodtagers senere konkurs i situationer, hvor der sker forudbetaling af en tjenesteydelse".
+
+---
+
+
+
+### Hvad koster det at indgive konkursbegæring?
+
+Retsafgiften for at indgive en konkursbegæring er 750 kr.
+
+Den, der indgiver konkursbegæringen, skal normalt stille sikkerhed for betaling af omkostningerne ved konkursbehandlingen. 
+
+Sikkerhedens størrelse fastsættes af skifteretten og skal stilles, inden skifteretten træffer afgørelse om konkurs. 
+
+Omkostningerne ved konkursboets behandling dækkes altid først af konkursboets midler. 
+
+Hvis der ikke kommer nogen - eller ikke tilstrækkelige - midler frem under bobehandlingen, kommer den, der har indgivet konkursbegæringen, til at betale omkostningerne.
+
+Er det en lønmodtager, der ikke har fået udbetalt løn eller feriepenge, der indgiver konkursbegæringen, skal der ikke stilles sikkerhed for omkostningerne. 
+
+Statskassen betaler da omkostninger, som ikke kan dækkes af boets midler.
+
+---
+
+### Hvad skal der stå i begæringen?
+
+Konkursbegæringen skal være skriftlig. 
+
+I konkursbegæringen skal man skrive navn og adresse på skyldneren og eventuelt CVR-nummer. 
+
+Man skal også skrive, hvilket beløb der skyldes, og lidt om, hvad beløbet skyldes for. 
+
+Man skal også skrive sit eget navn, adresse og telefonnummer.
+
+Hvis en skyldner begærer sig selv taget under konkursbehandling, skal skyldner vedlægge en opgørelse over sine aktiver og passiver og en liste over sine kreditorer .
+
+---
+
+### Hvor skal man indgive begæringen? 
+
+Hvis skyldneren har en erhvervsvirksomhed, skal begæringen indgives til skifteretten i den retskreds, hvor erhvervsvirksomheden ligger. 
+
+Driver skyldneren ikke erhvervsvirksomhed, skal begæringen indgives til skifteretten i den retskreds, hvor skyldneren bor.
+
+Er det i Storkøbenhavn (København, Lyngby, Glostrup og Frederiksberg  retskreds), indgives begæringen til Sø- og Handelsretten i København.
+
+---
+
+### Konkursbehandling
+
+![](img/konkurs.jpg) 
+
+
+*Under konkursbehandlingen sker der følgende:*
+
+Separatistkrav bliver fyldestgjort før konkursmassen gøres op
+
+Kurator skal sælge og opgøre alle konkursboets aktiver
+
+Konkursboet skal overveje, om det vil indtræde i gensidigt bebyrdende aftaler
+
+Konkursboet vurderer, om der kan være omstødelige dispositioner
+
+Kurator opgør alle kreditorernes krav og placerer dem i konkursordenen
+
+Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjort efter konkursordenen
+
+---
+
+### Konkursmassen
+
+Konkursmassen er konkursboets samlede aktiver og passiver.
+
+Konkursboets aktiver (konkursmassen) omfatter:
+
+*HR:*	Alt hvad skyldner ejer ved konkursdekrets afsigelse og under konkursen tilfalder ham, jf. KL § 32
+
+*U1:*	Aktiver, som kreditor ikke kan få udlæg i, jf. KL § 36. 
+
+*U2:*	Skyldners arbejdsindtægter under konkursen. 
+
+*U3:*	Separatistkrav (fx aktiver solgt med ejendomsforbehold).
+
+---
+
+
+Boets passiver omfatter:  
+
+Alle kreditorer kan anmelde deres krav, uanset om kravet er forfaldent, jf. KL § 38
+ 
+De vigtigste niveauer i konkursordenen er i rækkefølge Konkurslovens kap. 10:
+
+*Massekrav*, dvs. krav, som er opstået ved selve konkursbehandlingen, fx kuratorsalær,
+
+*Privilegerede krav*, fx krav opstået under forsøg på at afværge en konkurs og lønkrav fra visse af skyldnerens ansatte, samt
+
+*Simple krav*, dvs. krav fra skyldnerens almindelige kreditorer og derfor i  almindelighed den største post.
+
+---
+ 
+### Konkursordenen
+
+Konkursordenen inddeler alle konkursboets kreditorer i klasser.
+
+Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse.
+
+Først dækkes omkostninger i forbindelse med konkursen (massekrav), og herefter de øvrige klasser.
+
+* Hvis der ikke er dækning til hele klassen, fx de simple krav, bliver der udloddet en dividende. Efterstående konkursklasser får ingen dækning.
+
+---
+ 
+### Udlodning af dividende
+
+En dividende på 10 % til simple krav betyder, at kreditor med et krav på 100.000 kr. får en dækning på 10.000 kr.
+
+*Udækket gæld:*
+
+Kreditor har stadig et restkrav på 90.000 kr. efter konkursen er afsluttet.
+
+Kreditorernes udækkede gæld følger skyldner, hvis skyldner er en fysisk person.
+
+Hvis skyldner er et selskab har kreditor ingen at rette kravet mod efter konkursen. Den udækkede gæld kan ikke blive fyldestgjort.
+
+---
+ 
+###	Konkurskarantæne
+
+![](img/karantane.jpg)
+
+---
+
+### Hvad er en konkurskarantæne?
+
+Konkurskarantæne betyder, at en person i en periode får et forbud mod at deltage i ledelsen af en virksomhed, hvori den pågældende ikke hæfter personligt og ubegrænset for virksomhedens forpligtelse (aktieselskaber, anpartsselskaber m.v.)
+
+En person kan pålægges konkurskarantæne, hvis personen på grund af groft uforsvarlig forretningsførelse vurderes uegnet til at deltage i ledelsen af en erhvervsvirksomhed.
+
+
+---
+
+*Hvem kan blive pålagt konkurskarantæne?*
+
+Personer, som har været medlem af ledelsen i en virksomhed, der er gået konkurs, kan pålægges konkurskarantæne.
+
+*Hvor lang tid varer en konkurskarantæne?*
+
+Konkurskarantænen vil som udgangspunkt blive pålagt for en periode på 3 år.
+
+---
+
+### Overtrædelse af konkurskarantæne
+
+Hvis en person overtræder en konkurskarantæne, kan skifteretten efter omstændighederne pålægge personen en ny karantæne. 
+
+I den forbindelse kan karantænen udvides til et forbud mod deltagelse i enhver form for erhvervsvirksomhed, herunder den pågældendes egen personligt drevne virksomhed.
+
+En overtrædelse af karantænen kan også medføre, at personen hæfter personligt på objektivt grundlag for selskabets forpligtelser, hvis det går konkurs.
+
+Endvidere kan en overtrædelse af en konkurskarantæne straffes med bøde eller fængsel indtil 6 måneder efter straffelovens § 131.
+
+---
+
+*Hvem kan starte en sag om konkurskarantæne?*
+
+Det er kurator eller rekonstruktør, der starter en sag om konkurskarantæne.
+
+Kuratorer og rekonstruktører vurderer i alle konkursboer og rekonstruktionssager, om der er grundlag for at indlede en sag om konkurskarantæne.
+
+---
+
+### Konkurskarantæneregistret
+
+Den, der bliver pålagt konkurskarantæne, registreres i et konkurskarantæneregister. 
+
+Personer i dette register kan ikke blive registreret som medlem af ledelsen i et erhvervsdrivende selskab og kan ikke i strid med karantænen blive momsregistreret eller registreret som arbejdsgiver hos SKAT.
+
+*Hvem har adgang til konkurskarantæneregistret?*
+
+Der er ikke offentlig adgang til konkurskarantæneregistret.
+
+Skifteretten kan videregive oplysninger fra registret til en kurator eller rekonstruktør, når skifteretten vurderer, at det er nødvendigt for kuratorens eller rekonstruktørens varetagelse af sit hverv.
+
+---
+
+Se **U 2019.3164 V**, hvor en direktør i konkursramt selskab blev pålagt konkurskarantæne i 3 år. Sagen drejede sig om, hvorvidt der var grundlag for at pålægge A, der havde været direktør i et selskab, som var gået konkurs, konkurskarantæne. Det blev lagt til grund, at A havde deltaget i selskabets ledelse inden for fristen på 1 år i konkurslovens § 157, stk. 1. Det blev endvidere lagt til grund, at bogføringen og afregning af selskabsskat i selskabet havde været utilstrækkelig, og at A havde stået bag betydelige betalinger, hævninger og udlæg fra selskabet, uden at disse havde været begrundet i selskabets forhold. Der var anmeldt krav i boet for 745.186 kr., og der var ikke udsigt til udbetaling af dividende af betydning. Det blev endelig lagt til grund, at A ikke havde efterkommet forpligtelsen til at samarbejde med kurator og til at videregive regnskabs- og bilagsmaterialet til kurator. Landsretten fandt, at A ved sin manglende vilje til at samarbejde med kurator, herunder undladelse af at udlevere det fuldstændige bogførings- og regnskabsmateriale, groft havde tilsidesat sine forpligtelser som dirketør i selskabet. På denne baggrund var betingelserne for at anse A for uegnet til at deltage i ledelsen af en erhvervsvirksomhed og pålægge ham konkurskarantæne opfyldt, jf. konkurslovens § 157, stk. 1, og 2. Efter en samlet vurdering fandtes der ikke grundlag for at fravige udgangspunktet om at pålægge konkurskarantæne i 3 år, jf. konkurslovens § 158, stk. 1.
+
+---
+
+### Omstødelse
+
+Konkursens formål er at alle kreditorer stilles lige
+
+Omstødelsesreglerne forhindrer, at kreditorer kan få en meget bedre retsstilling kort før konkursen indtræder
+
+Omstødelse medfører at den begunstigede skal betale det omstødelige beløb tilbage.
+
+Fristdagen er den dag Skifteretten har modtaget begæring om:
+
+  +	Konkurs
+  +	Rekonstruktion
+  +	Gældssanering
+  
+Beregning af omstødelsesperioden tager udgangspunkt i fristdagen 
+
+En konkurs starter med, at konkursboet selv eller en kreditor indleverer begæring / konkursbegæring til skifteret.
+
+Fristdagen er derfor som udgangspunkt den dag, da skifteretten modtog begæring om rekonstruktion, konkurs eller gældssanering. 
+
+Det er dagen hvor begæringen modtages, som er afgørende for fristdagen.
+
+---
+
+
+
+```{r kaution, echo=FALSE,fig.height=5}
+
+mydf <- data.frame(
+  S1 = c(
+"Omstødelse",
+"Gaver" ,
+"Løn til nærtstående",
+"Betaling af gæld", 
+"Pant for gammel gæld", 
+"Udlæg",
+"Utilbørlige dispositioner"
+),
+  S2 = c(
+    "Hovedregel for hvornår handlingen skal være foretaget, regnet tilbage fra fristdagen",
+    "6 måneder",
+    "6 måneder",
+    "3 måneder",
+    "3 måneder",
+    "3 måneder",
+    "Ingen grænse"
+),
+  S3 = c(
+    "Hvis debitor er insolvent på tidspunktet for handlingens foretagelse, og handlingen er til fordel for en nærtstående, regnes fristen tilbage fra fristdagen",
+"2 år",
+"2 år",
+"2 år",
+"2 år",
+"2 år",
+"Ingen grænse"
+)
+  
+)
+names(mydf) <- NULL
+
+mydf %>%
+  kable("html", escape = FALSE,caption = "Sammenligning mellem privat kaution og erhvervskaution") %>%
+  kable_styling(full_width = T,font_size = 10,bootstrap_options = c("responsive","bordered","striped")) %>%
+  column_spec(1, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(2, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  column_spec(3, bold = T, border_right = T, color = "black", background = "lightgrey") %>%
+  row_spec(1,italic = T,bold = T,font_size = 12,color = "white", background = "darkgrey")
+  # row_spec(1,italic = T,bold = T,font_size = 12)
+  # column_spec(0, angle = -45)%>%
+  # scroll_box(width = "500px") %>%
+  # footnote(general = "Databeskyttelsesforordningen",general_title = "Kilde:")
+```
+
+
+---
+
+
+```{r, echo=FALSE, result=TRUE ,fig.height=5,fig.cap=("Omstødelsesperiode for gaver")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:5,
+  content = c("6 måneder fra 2019-02-01 til 2019-08-01", "Omstødelsesperiode<br>starter<br>2019-02-01",
+              "Overdragelse<br>af gave<br>2019-05-01", "Fristdag<br>2019-08-01","Konkursdekret<br>2019-08-22"),
+  start   = c("2019-02-01", "2019-02-01",
+              "2019-05-01", "2019-08-01","2019-08-22"),
+  end     = c("2019-08-01", NA, NA, NA,NA) )
+timevis(data, showZoom = FALSE)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
+
+
+---
+
+
+
+
+```{r, echo=FALSE, result=TRUE ,fig.height=3,fig.cap=("Modregning før fristdag")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:4,
+  content = c("Fristdag",
+              "Skyldners (konkursboets hovedkrav på kreditor opstår", "Kreditors modkrav opstår","Konkursdekret"),
+  start   = c("2019-08-02",
+              "2019-11-01", "2020-02-01","2020-02-25"),
+  end     = c( NA, NA, NA,NA) )
+timevis(data, showZoom = FALSE)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
+
+---
+
+
+```{r, echo=FALSE, result=TRUE ,fig.height=3,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:4,
+  content = c("Fristdag",
+              "Skyldners (konkursboets hovedkrav på kreditor er opstået", "Kreditors modkrav er opstået","Konkursdekret"),
+  start   = c("2019-08-02",
+              "2019-11-01", "2020-02-01","2020-02-25"),
+  end     = c( NA, NA, NA,NA) )
+timevis(data, showZoom = FALSE)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
+
+---
+
+
+
+```{r, echo=FALSE, result=TRUE ,fig.height=4,fig.cap=("Modregning mellem fristdag og konkursdekret")}
+library(timevis)
+
+data <- data.frame(
+  id      = 1:5,
+  content = c("A får lavet køkken<br>Snedkers krav opstår",
+              "Trælastens krav<br>på snedker opstår", "A køber<br>fordring","3 måneder","Fristdag"),
+  start   = c("2019-08-02",
+              "2019-11-01", "2020-02-01","2020-02-01","2020-02-25"),
+  end     = c( NA, NA, NA,"2020-02-25",NA) )
+timevis(data, showZoom = FALSE)%>%
+  setOptions(list(editable = FALSE)) %>%
+  setSelection("5") %>%
+  fitWindow(list(animation = TRUE))
+```
+
+---
+
+Se dommen i **U 2019.3119 V** Overdragelse af selskabs biler til selskabets direktør kort før konkursen, hvorved selskabets gæld til direktøren blev nedbragt ved modregning, omstødt i medfør af konkurslovens § 67, stk. 1, jf. § 69.
+
+---
+
+**Video: Hvad er forskellen på frivillig gældssanering og konkurs?**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/-x0_B732-Pw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+### Eksamensopgavesæt i konkurs og virksomhedsformer mv.
+
+*Ejendomsmæglerens konkurs*
+
+
+![](img/konkurs5.jpg)
+
+Karla Kamilla Kyrel drev ejendomsmæglerfirmaet K3 v/ Karla Kamilla Kyrel. Virksomheden, der var startet i maj 2014, havde haft svært ved at få foden indenfor på markedet og de huse, man rent faktisk havde fået til salg, havde vist sig vanskelige at sælge. 
+
+D. 11. august 2015 modtog Retten i Odense Bank Skt. Knuds konkursbegæring mod Karla Kamilla Kyrel personligt og d. 14. august 2015 afsagde Retten i Odense konkursdekret. 
+
+Bank Skt. Knud havde oprindeligt stillet en usikret kassekredit på 300.000 kr. til rådighed for Ejendomsmæglerfirmaet K3 v/Karla Kamilla Kyrel, men kassekreditten var blevet udvidet til 500.000 kr. d. 15. maj 2015. 
+
+På udvidelsestidspunktet var den eksisterende kassekredit udnyttet fuldt ud. 
+
+I forbindelse med udvidelsen havde Bank Skt. Knud fået pant for alle 500.000 kr. i Karla Kamilla Kyrels ubehæftede sommerhus, der senere – under konkursen – indbragte 1.300.000 kr. Pantet var sendt til tinglysning samme dag som aftalen om udvidelsen var lavet. 
+
+Da banken anmeldte sit krav i konkursboet, meddelte kurator, at banken sikkerhed efter hans opfattelse kunne omstødes og at bankens krav skulle indgå i konkursordenen på lige fod med de i øvrigt anmeldte krav. Ved konkursen var K3s konto overtrukket en smule - der var trukket præcis 525.000 kr. på kontoen.
+
+*Eksamensspørgsmålet:*
+
+1. Giv en kort begrundet redegørelse for, hvilken virksomhedstype, der er tale om og hvorfor det er Karla Kamilla Kyrel, der personligt bliver ramt af konkursen? (5%) 
+
+*Vejledende løsning*
+
+Lovgrundlag: Lov om erhvervsdrivende virksomheder (erhvervsvirksomhedsloven)
+
+Område: Selskabsret (virksomhedsformer)
+
+Læringsmål: Den studerende har forståelse for grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
+
+*Svaret*
+
+Der er tale om en enkeltmandsvirksomhed – derfor hæftes personligt og ubegrænset, jf. EVL §3 modsætningsvis og derfor er det Karla Kamilla Kyrel personligt, der rammes af konkursen. 
+
+
+*Eksamensspørgsmål:*
+
+2. Giv en kort begrundet redegørelse for, hvilken dag der er fristdagen. (5%) 
+
+*Vejledende løsning:*
+
+
+Lovgrundlag: Konkursloven (Kl)
+
+Område: Konkursret
+
+Læringsmål: Anvende relevante regler om konkurs, rekonstruktion og individualforfølgning samt vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
+
+*Løsning*
+
+Det følger af KL § 1, at fristdagen er den dag, da skifteretten modtog begæring om rekonstruktionsbehandling, konkurs eller gældssanering. I den konkrete sag modtog Retten konkursbegæringen d. 11. august 2015, der derfor er fristdagen.
+
+*Eksamensspørgsmål:*
+
+3. Giv en begrundet redegørelse for, om bankens sikkerhed helt eller delvist kan omstødes. (25%)
+
+*Vejledende løsning*
+
+Lovgrundlag: Konkursloven
+
+Område: Konkursret - omstødelse
+
+Læringsmål: Anvende relevante regler om konkurs, rekonstruktion og individualforfølgning samt vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
+
+Pant for gammel gæld – KL § 70. Omstødelse fsva. den del af pantet, der ikke er tilsagt i forbindelse med gældens stiftelse – altså de 300.000 kr. Fristen for omstødelse er 3 måneder fra sikringsakten er foretaget. De resterende 200.000 kr. kan ikke omstødes. 
+
+*Eksamensspørgsmål:*
+
+4. Giv en kort begrundet redegørelse for, hvor i konkursordenen den usikrede del af bankens krav skal placeres. (5%) 
+
+*Vejledende løsning*
+
+
+Lovgrundlag: Konkursloven
+
+Område: Konkursret - konkursordenen
+
+Læringsmål: Anvende relevante regler om konkurs, rekonstruktion og individualforfølgning samt vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
+
+Den usikrede del af gælden er et simpelt krav, jf. KL § 97. 
+Fiona, der havde været ansat som ejendomsmægler hos K3, blev i stedet ansat som ejendomsmægler hos mæglerfirmaet VillaVillaKulla A/S, der udelukkende formidlede eksklusive huse. 
+
+Det blev aftalt, at Fiona ville få 50% af alle salærer VillaVillaKulla A/S fik ind fra formidlingsaftaler hun skaffede firmaet. VillaVillaKulla A/S´ indehaver, Ulla Nielsen, var imidlertid meget interesserede i at fastholde firmaets eksklusive profil. 
+
+Ud over løn og ansættelsesvilkår blev det derfor pointeret, at selvom det at indgå formidlingsaftaler var en helt normal del af en mæglers arbejde, så var det den faste regel i VillaVillaKulla, at man ikke måtte indgå formidlingsaftaler det første år af ansættelsen. Alle nye aftaler skulle i den periode indgås af Ulla.
+
+Fiona var meget entusiastisk i forhold til sit nye arbejde og ville rigtigt gerne vise, at det i hvert fald ikke var hendes skyld, at K3 gik konkurs. 
+
+Til den ugentlige træning i den lokale karateklub fortalte Fiona derfor glædestrålende om sit nye job og reklamerede voldsomt for VillaVillaKulla. Særligt over for holdkammeraten Tyra, der lå i skilsmisse, fik den hele armen og allerede et par dage efter var der bid. 
+
+Tyra kontakte Fiona og bad hende besigtige Tyras rækkehus, hvilket skete samme dag. Da Fiona dagen efter gav Tyra om besked om, at hun mente, at huset kunne sælges for 1,4 mio. slog Tyra straks til. 
+
+Samme aften kørte Fiona forbi Tyra på vej hjem fra kontoret og både Tyra og Fiona underskrev aftalen.
+
+Næste dag da Fiona glædestrålende fortalte sin Ulla, at hun havde skaffet sin første kunde til virksomheden, blev Ulla ikke helt så glad som Fiona havde håbet. 
+
+Faktisk gjorde Ulla det meget klart, at hun ikke ville have ”den slags huse” til salg og ringede straks Tyra op og gav hende samme besked. Tyra fastholdt, at de havde en aftale. 
+
+*Eksamensspørgsmålet*
+
+5. Er VillaVillaKulla A/S er forpligtede til at formidle salget af Tyras bolig? (20%)
+
+*Vejledende løsning*
+
+Lovgrundlag: Aftaleloven
+
+Område: Aftaleindgåelse - fuldmagter
+
+Læringsmål: Anvende centrale aftaleregler om aftalers indgåelse og fuldmagter, med udgangspunkt i den finansielle sektor
+
+Fiona har som følge af sin ansættelse i VillaVillaKulla A/S en stillingsfuldmagt, jf. aftalelovens § 10, stk. 2. 
+
+De studerende skal forholde sig til, hvad Fiona er legitimeret til i kraft af sin stilling (herunder hvordan man finder ud af, hvor langt en stillingsfuldmagt rækker) og hvad hun er bemyndiget til som følge af aftalen med Ulla. 
+
+Det afgørende for de studerendes pointudbytte er, at de viser forståelse for reglerne og deres konkrete anvendelse. 
+
+Det må antages at VillaVillaKulla forpligtes af aftalen. Fiona er klart uden for bemyndigelsen, men inden for legitimationen. 
+
+erfor bliver den afgørende diskussion om hvorvidt Tyra er i god tro, hvilket der ikke er noget, der tyder på, hun ikke er. 
+
+Et par dage efter den uheldige situation med Tyra kaldte Ulla Fiona ind på sit kontor og bad hende være ”købermægler” for en af sine gode venner Palle Sætter. 
+
+Palle havde i noget tid drevet en mindre robotvirksomhed, OmniRobots ApS, der producerede robotter der kunne automatisere processer inden for samling, maling, svejsning og pakning. 
+
+Virksomheden blomstrede og da de var ved at vokse ud af de lokaler, de indtil da havde lejet sig ind i, var de på udkig efter noget større, de kunne købe. 
+
+Oven på situationen med Tyra gjorde Fiona sig yderst umage med det resultat, at OmniRobots ApS i løbet af kort tid fik købt en fabriksejendom for 5 mio. kr. 
+
+Beliggenheden var helt igennem ideel og selvom ejendommen krævede en del tilpasning for at kunne bruge til netop OmniRobots produktion, kunne de 4 måneder senere, d. 1. december 2015, flytte deres produktionsmaskiner til den nye location.  
+
+I forbindelse med købet af ejendommen optog OmniRobots ApS et afdragsfrit lån på 3.0 mio. kr. i Realkredit Syd, der fik pant i ejendommen for beløbet. 
+
+Realkredit Syds pantebrev blev anmeldt til tinglysning d. 2. november 2015. Den resterende del af købesummen samt pengene til ombygningen blev skaffet ved at bruge godt 1,7 mio. kr. 
+
+OmniRobots havde stående i likvide midler samt at trække 1,2 mio. kr. på en kassekredit OmniRobots havde haft i Bank Skt. Knud, siden de købte deres produktionsmaskiner i februar 2014. 
+
+Til sikkerhed for kassekreditten havde Bank Skt. Knud fået virksomhedspant i alle de kategorier, det er muligt at få virksomhedspant i og der var d. 13. februar 2014 tinglyst skadesløsbrev på virksomhedens blad i tingbogen. 
+
+D. 1. november 2017 går OmniRobots ApS konkurs og de eneste aktiver på konkursboet er:
+
+Ejendommen – værdi 2,2 mio. kr. 
+
+Driftsmateriel, herunder de nævnte produktionsmaskiner – værdi 0,6 mio. kr.  
+
+Tilgodehavender hos kunder – værdi 0,3 mio. kr.
+
+En lastbil, Volvo FH 12 480 årg. 2009 – værdi 0,1 mio. kr. 
+
+Der skyldes fortsat 3,0 mio. kr. til Realkredit Syd og 
+
+1,2 mio. kr. til Bank Skt. Knud. 
+
+Realkredit Syd gør med henvisning til deres pant i ejendommen krav på værdien af ejendommen, produktionsmaskinerne og lastbilen. 
+
+Bank Skt. Knud gør med henvisning til deres virksomhedspant krav på alle fire aktiver. Konkursboet vil bare gerne have mest muligt til de øvrige kreditorer.
+
+*Eksamensspørgsmålet:*
+
+6. Hvem har krav på værdien af hvilke aktiver? (30%)
+
+*Vejledende løsning*
+
+Lovgrundlag: Tinglysningsloven (TL)
+
+Område: Kreditsikring – pant 
+
+Læringsmål: Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder
+
+Selve værdien af ejendommen tilfalder Realkredit Syd som primær panthaver. 
+
+Ejendomspant ctr. virksomhedspant. De studerende skal indledningsvis slå fast, at ejendommen er omfattet af TL § 37, da den er varigt indrettet med en særlig virksomhed for øje. 
+
+Dermed omfatter Realkredit Syds pant i den faste ejendom ligeledes driftsinventar og driftsmateriel – i denne sammenhæng produktionsmaskinerne. 
+
+Det følger af TL § 47c, stk. 4, at ejendomspantet vinder over virksomhedspantet uagtet, at virksomhedspantet er tinglyst før ejendomspantet. 
+
+Realkredit Syd har derfor krav på værdien af ejendommen samt værdien af produktionsmaskinerne. 
+
+Det fremgår af opgaven, at virksomhedspantet omfatter alle de mulige kategorier og det følger derfor af TL § 47c, stk. 3, nr. 1, at virksomhedspantet omfatter fordringer hidrørende fra salg af varer og tjenesteydelser. 
+
+Værdien af kundetilgodehavenderne tilfalder derfor Bank. Skt. Knud. 
+
+Virksomhedspantet omfatter derimod ikke de i § 42c nævnte køretøjer, der har været indregistreret, jf. § 47c, stk. 3, nr. 3 modsætningsvis, og da OmniRobots ApS ikke er professionel forhandler af lastbiler, jf. §47c, stk. 3, nr. 8. 
+
+Lastbilen er derfor ikke omfattet af pantet og værdien tilfalder derfor konkursboet. 
+
+Uanset hvad du har svaret i opgave 6, skal du nu lægge til grund, at Bank Skt. Knuds virksomhedspant giver dem ret til værdien af tilgodehavenderne – 300.000 kr. Forestil dig, at banken d. 6. juni 2017 havde fået besked om, at en af OmniRobots andre kreditorer, Kreditech, d. 5. juni 2017 havde fået et udlæg på 70.000 kr. i tilgodehavenderne. 
+
+*Eksamensspørgsmål*
+
+7. Giv en begrundet redegørelse for hvor meget af de 300.000 kr. Kreditech og Bank Skt. Knud hver ville have krav på? (10%)
+
+*Vejledende løsning*
+
+Lovgrundlag: Tinglysningsloven
+
+Område: Kreditsikring – pant 
+
+Læringsmål: Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder
+
+Det følger af TL § 47c, at tinglyst virksomhedspant skal respektere senere udlæg, hvis udlægshaveren senest 3 hverdage efter udlæggets foretagelse har givet meddelelse til virksomhedspanthaver om udlægget. 
+
+Da udlægget er meddelt mindre end 3 hverdage efter udlæggets foretagelse, vil udlægshaver have krav på de 70.000 kr. 
+
+De resterende 230.000 kr. vil fortsat tilfalde banken. 
+
+Det bemærkes for en god ordens skyld, at der er fra udlæggets foretagelse til fristdagen er gået mere end 3 måneder, hvorfor udlægget ikke bortfalder efter KL § 71. 
+
+
+---
+
+
+
+![](img/konkurs6.jpg)
+
+
+
+ 
+
+*Hvilke dispositioner kan fx omstødes:*
+
+![](img/gaver1.jpg)
+
+*Gaver, der ikke er lejlighedsgaver, jf. KL § 64*
+
+
+![](img/gald1.jpg)
+
+*Betaling af gæld, jf. KL § 67, hvis betaling er sket*:
+
++	I omstødelsesperioden og
++	Betalingen ikke er ordinær 
+  
+Derudover skal betaling enten være:
+  
++	Med usædvanlige betalingsmidler eller
++	Sket før normal forfaldstid eller
++	Med et beløb der afgørende har forringet skyldners betalingsevne.
+
+---
+ 
+
+Pant for gammel gæld, jf. KL § 70:
+
++	Pant for samtidig stiftet gæld er ok, hvis sikringsakten er foretaget med det samme
+  
+Udlæg, jf. KL § 71:
+
++	alle udlæg, hvor sikringsakten er foretaget de seneste 3 måneder før fristdagen, kan omstødes
+  
+*Utilbørlige dispositioner*, jf. KL § 74, hvis den begunstigede er i ond tro om:
+
++	Skyldners insolvens og
++	Utilbørligheden
+ 
+Med kravet om utilbørlighed er det markeret, at en kreditorbegunstigelse eller en forringende disposition kan savne det anstødelige præg, som er en betingelse for omstødelse. 
+
+Ved denne bedømmelse må der dog også tages hensyn til, hvor kritisk skyldnerens situation er. 
+
+Står konkursen for døren, indsnævres hans (og tredjemands) handlefrihed stærkt. 
+
+Vides det, at konkursbegæring vil blive indgivet i løbet af de nærmeste dage, vil de fleste af de dispositioner, som efter begæringens indgivelse vil kunne rammes efter KL § 72, være omstødelige efter KL § 74.^[Jf. *Lars Lindencrone Petersen* elektroniske Karnovkommentar til konkursloven, note 414 KarnovGroup.]  
+
+---
+
+## Rekonstruktion 
+
+
+![](img/rekon.jpg)
+ 
+### Hvad er en rekonstruktion?
+
+En person eller et selskab, der er insolvent, kan på begæring tages under rekonstruktionsbehandling.
+
+Formålet med rekonstruktion kan være at udskille levedygtige virksomheder, at opnå en akkord, eller at afvikle en drift.
+
+Skifteretten udnævner en rekonstruktør – der typisk vil være advokat – til at stå for rekonstruktionen, og der skal også udpeges en regnskabskyndig tillidsmand.
+
+Det er vigtigt at være opmærksom på, at en begæring om rekonstruktion ikke kan hæves eller kaldes tilbage, når den er taget til følge. 
+
+En indledt sag om rekonstruktion kan kun ende med akkord, konkurs, eller med at skyldneren bliver solvent.
+
+
+
+![](img/rekon1.jpg)
+
+---
+
+### Hvem kan indgive begæring om rekonstruktionsbehandling?
+
+Begæring om rekonstruktionsbehandling kan indgives af skyldneren selv (egenbegæring) eller af dennes kreditorer
+
+*Hvor skal begæringen indgives?*
+
+En begæring om rekonstruktion indgives til skifteretten i den retskreds, hvor skyldneren har sin forretning eller driver sin virksomhed. 
+
+Hvis skyldneren ikke driver virksomhed, skal begæringen indgives til skifteretten i den retskreds, hvor skyldneren har bopæl eller – hvis det er selskab - hjemsted.
+
+I Storkøbenhavn skal man indgive begæringen til Sø- og Handelsretten i København.
+
+---
+
+*Hvad skal begæringen indeholde?*
+
+En begæring om rekonstruktion skal være skriftlig og indeholde:
+
+Navn og adresse på skyldneren, skyldnerens erhvervsgren og CVR-nr., og navnet hvorunder virksomheden drives forslag til, hvem der skal være rekonstruktør samt tillidsmand.
+
+Ved kreditorbegæringer de omstændigheder, som begæringen støttes på.
+
+Hvis begæringen fremsættes af en kreditor og sendes med post, skal den indgives i to eksemplarer.
+
+---
+
+*Begæringen skal være vedlagt:*
+
+Erklæringer med underskrifter fra den foreslåede rekonstruktør og tillidsmand om, at de er villige til at tage opgaven, og 
+
+at de opfylder habilitetsbetingelserne i konkurslovens § 238, for selskaber – tegningsudskrift fra Erhvervsstyrelsen, som ikke må være mere end tre måneder gammel, og
+
+750 kr. i retsafgift, medmindre beløbet overføres til skifterettens konto. Hvis beløbet overføres, skal det fremgå af begæringen.
+
+Ved egenbegæringer en liste over aktiver og passiver og en liste over kreditorerne
+
+Sikkerhed for omkostningerne ved en eventuel senere konkurs. 
+
+Hvis begæringen indgives af en kreditor, kan sikkerheden dog stilles på det møde, hvor begæringen skal behandles. 
+
+Sikkerheden fastsættes normalt til 30.000 kr., dog alene 15.000 kr., hvis der er virksomhedspant.
+
+Hvis der ikke er forslag til rekonstruktør og tillidsmand, eller s disses erklæringer mangler, er begæringen uden virkning.
+
+Er en eller flere af de andre betingelser ikke opfyldt, kan skifteretten afvise begæringen, eller meddele en kort frist til at rette manglerne.
+
+---
+
+*Hvordan forløber en rekonstruktion?*
+
+Er begæringen om rekonstruktion indgivet af skyldneren, indleder skifteretten straks ved modtagelsen rekonstruktionsbehandling, hvis betingelserne er opfyldt. 
+
+Det samme gælder, når begæringen kommer fra en kreditor, og der er givet samtykke fra skyldneren.
+
+
+Hvis skyldneren er en fysisk person, og såfremt skyldneren ikke samtykker i begæringen senest på mødet - for eksempel derved, at skyldneren udebliver - konverteres rekonstruktionsbegæringen til en konkursbegæring, der straks behandles.
+
+Hvis skyldneren er et selskab (juridisk person), og selskabet ikke samtykker senest på mødet, kan skifteretten tage rekonstruktionsforslaget til følge mod ledelsens vilje. 
+
+I de tilfælde bestemmes det samtidigt, at rekonstruktøren overtager ledelsen af selskabet.
+
+Hvis skyldneren er et selskab, kan rekonstruktionsbegæringen der imod ikke konverteres til en konkursbegæring. 
+
+Ønskes selskabet erklæret konkurs i tilfælde, hvor en begæring ikke er taget til følge, må der indgives en lovformelig konkursbegæring. 
+
+Begæringer om rekonstruktion og konkurs mod et selskab kan sagtens indgives samtidigt, og indkaldelse kan ske til samme tidspunkt.
+
+Når rekonstruktionsbehandlingen er indledt, kan begæringen ikke tilbagekaldes.        
+
+*Så længe en begæring om rekonstruktion er under behandling, og så længe en rekonstruktionssag verserer, kan en konkursbegæring ikke behandles*.
+
+---
+
+Skifteretten skal ved indledningen af rekonstruktionsbehandlingen beskikke en eller flere rekonstruktører og en regnskabskyndig tillidsmand for skyldneren. 
+
+Skifteretten bestemmer, hvem der skal beskikkes, og er ikke bundet af de forslag, som er anført i begæringen.  
+
+Samtidig fastsætter skifteretten tidspunktet for et møde med kreditorerne (planmøde). 
+
+Dette planmøde skal holdes inden fire uger efter rekonstruktionsbehandlingens indledning. 
+
+Skifteretten indrykker i den forbindelse en bekendtgørelse i Statstidende, hvori rekonstruktionsbehandlingens indledning offentliggøres, og kreditorerne indkaldes til planmødet.
+
+På planmødet behandles et af rekonstruktøren udarbejdet forslag til en rekonstruktionsplan, der skal være accepteret af skyldneren, og som skal indeholde:
+
+En begrundet redegørelse for hvilken type forslag til rekonstruktion der agtes fremsat, og en vurdering af, om der er væsentlige forhold, som kan hindre en gennemførelse af denne rekonstruktion,
+
+så vidt muligt oplysning om skyldnerens regnskabsmæssige balance pr. dagen for indledningen af rekonstruktionsbehandlingen,
+
+oplysning om, hvorvidt der efter tillidsmandens opfattelse er mangler ved skyldnerens seneste årsrapport, og
+
+en redegørelse for de væsentligste skridt, der agtes foretaget under rekonstruktionsbehandlingen.
+
+Vedtager kreditorerne ikke en rekonstruktionsplan på mødet, ophører rekonstruktionsbehandlingen, hvorefter skyldner tages under konkursbehandling. 
+
+Vedtages en rekonstruktionsplan, og sker der efterfølgende væsentlige ændringer i forudsætningerne for den vedtagne plan, indkaldes der igen til retsmøde i skifteretten, hvor der tages stilling til det videre forløb. 
+
+Senest seks måneder efter planmødet, skal der holdes et afstemningsmøde i skifteretten. 
+
+På dette møde skal kreditorerne stemme om – og skifteretten skal stadfæste – et af rekonstruktøren udarbejdet rekonstruktionsforslag. 
+
+Forslaget kan indeholde en tvangsakkord og/eller en virksomhedsoverdragelse.  
+
+Hvis kreditorerne ikke vedtager forslaget, eller hvis skifteretten nægter at stadfæste det, ophører rekonstruktionsbehandlingen, og skyldneren tages under konkursbehandling.
+
+Rekonstruktøren kan ved et møde i skifteretten – og i samråd med kreditorerne – anmode om udsættelse af afstemningsmødet med indtil to måneder ad gangen, dog ikke ud over fire måneder.
+
+En rekonstruktionsbehandling varer typisk i syv måneder og kan maksimalt vare et år. 
+
+Er skyldneren fortsat insolvent ved rekonstruktionsbehandlingens ophør, indledes automatisk konkursbehandling.
+
+---
+
+## Tvangsakkord
+
+![](img/tvangsakkord.jpg)
+
+Tvangsakkord, er en gældsordning, der er et alternativ til konkurs, jf. konkurslovens §§ 10 og 10a:
+
+"§ 10
+En rekonstruktion skal indeholde mindst et af følgende elementer:
+Tvangsakkord, jf. § 10 a.
+Virksomhedsoverdragelse, jf. § 10 b. 
+
+§ 10 a
+En tvangsakkord kan gå ud på procentvis nedsættelse eller bortfald af fordringerne mod skyldneren. En tvangsakkord kan endvidere gå ud på betalingsudsættelse. 
+
+En tvangsakkord kan betinges af, at skyldnerens formue eller en del af denne fordeles mellem fordringshaverne...". 
+
+Ved en tvangsakkord kan skyldneren blive frigjort for sine gældsforpligtelser ved at betale en procentdel af gælden eller opnå udsættelse med betalingen af gælden (moratorium)". 
+
+Ved en almindelig tvangsakkord nedsættes gælden som udgangspunkt procentvis; ved en likvidationsakkord fordeles skyldnerens formue mellem kreditorerne, hvorefter skyldneren er frigjort for den resterende gæld. 
+
+En ren moratorieordning er sjælden, men en betalingsudsættelse vil ofte indgå som led i almindelig tvangsakkord. 
+
+En skyldner, der anmoder skifteretten om åbning af akkordforhandling, skal have udarbejdet et akkordforslag og indhentet to fagkyndige tillidsmænds statusrapport, hvori bl.a. samtlige aktivers værdi samt passiver skal fremgå. 
+
+Det er en betingelse for åbning af tvangsakkord, at mindst 40% af kreditorerne såvel efter antal som efter fordringernes størrelse tiltræder akkordforslaget. 
+
+En tvangsakkord kan som hovedregel ikke gennemføres, hvis fordringerne nedsættes til mindre end 25%. 
+
+Vedtagelse af en tvangsakkord kræver tilslutning fra mindst 60% af de deltagende fordringshavere efter antal. 
+
+De fordringshavere, der tiltræder akkorden, skal endvidere repræsentere en bestemt andel af det samlede beløb, der giver stemmeret; andelen afhænger af akkordforslagets indhold, men udgør mindst 60%.
+
+--- 
+
+*Eksamensopgavesæt i forbrugerret, pant, handel med fast ejendom, modregning og rekonstruktion mv.*
+
+
+*Grosistens bekymringer*
+
+![](img/kin.jpg)
+
+"Kineserhviskeren" kalder man Vagn Vig, i gave og indbo branchen. 
+
+Allerede mens han gik på erhvervsakademiet i Kolding, var han blevet venner med nogle af de kinesiske medstuderende, senere havde han fået en kinesisk kæreste, havde tilegnet sig noget af sproget og havde rejst i Kina. 
+
+Han havde en særlig evne til at kommunikere med kinesere, som han nu udnyttede til at importere en bred vifte af gaveartikler, nips og pynt til hjemmet, som han solgte til en lang række detailforretninger i Nordeuropa.
+
+Under en drøftelse med sin salgschef, Rikke Mortensen, om mulighederne for at markedsføre noget af sortimentet direkte til forbrugerne via en webshop, bemærker Vagn, at han har hørt noget om at sælgeren står rigtig dårligt over for køberen, hvis han ikke oplyser om fortrydelsesretten.
+
+
+*Eksamensspørgsmålet:*
+
+1.	Hvad er det for nogle retsvirkninger han henviser til? (15%)
+
+*Vejledende løsning:*
+
+Læringsmål: Anvende og formidle juridiske regler og praktis for forbrugeraftalers indgåelse og ugyldighed i relation til forskellige finansielle aftaler, herunder den erhvervsdrivendes markedsføringsbegrænsninger og oplysningspligt samt forbrugerens fortrydelsesret.
+
+*Svar:* I henhold til Forbrugeraftalelovens § 8, stk. 1, nr. 9 skal den erhvervsdrivende inden der indgås aftale om en vare ved fjernesalg på en klar og forståelig måde give forbrugeren oplysning om hvorvidt der er en fortrydelsesret, og i givet fald, betingelser, tidsfrist og procedurer for at gøre fortrydelsesretten gældende, jf. forbrugeraftalelovens § 20.
+
+Fortrydelsesfristen for forbrugere ved fjernsalg er 14 dage jf. Forbrugeraftalelovens § 19, stk. 1. 
+
+Vagn henviser til at fortrydelsesfristen for forbrugeren udvides fra 14 dage til op til 12 måneder og 14 dage, hvis oplysninger om fortrydelsesfristen ikke gives INDEN fjernsalgsaftale indgås, jf. forbrugeraftaleloven § 19, stk. 4. 
+
+Fortrydelsesfristen begynder at løbe fra det tidspunkt, hvor oplysningerne gives til forbrugeren. 
+
+Endvidere mister den handlende muligheden for at gøre forbrugeren ansvarlig for en eventuel forringelse af af varen, hvis den erhvervsdrivende ikke har givet meddelelse om fortrydelsesretten, jf. forbrugeraftalelovens § 8, stk. 1, nr. 9.
+
+*Slut på svaret*
+
+Markedsføringen  over for detaijlforretningerne varetages af to salgschefer. Den ene, Rikke, varetager Jylland og Fyn, og den anden, Ole Svane, dækker Sjælland og øerne. 
+
+På en tur til operaen i Hamburg, stopper Ole Svane i Aabenraa, hvor han kommer tilfældigt ind i en boligindretningsbutik, og bemærker, at man ikke fører nogen af Vagn Vigs produkter. 
+
+Han henter hurtigt et katalog fra bilen, præsenterer sig med sit visitkort, og indgår en sædvanlig salgsaftale med butikkens indehaver.
+
+Desværre viser det sig, at Vagn tidligere har mistet penge i forbindelse med indehaverens konkurs, med en anden forretning, nogle år tidligere, og derfor ikke ønsker at gøre forretninger med ham igen. Han meddeler derfor tilbage, at aftalen er ugyldig, da Ole Svane har overskredet sin fuldmagt, i det Aabenraa ligger uden for hans område.
+
+*Eksamensspørgsmålet:*
+
+2.	Har han ret i det? (10%)
+
+*Vejledende løsning*:
+
+Læringsmål: Anvende centrale aftaleregler om aftalers indgåelse og fuldmagter, med udgangspunkt i den finansielle sektor.
+
+*Svar:* Den studerende skal gøre rede for at der er tale om en stillingsfuldmagt i henhold til aftalelovens § 10, stk. 2, og i den forbindelse for fuldmagt med særlig tilværelse. 
+
+Den studerende skal redegøre for hvorvidt Ole handler helt uden for fuldmagtens grænse, idet Aabenraa er uden for Oles distrikt, hvilket næppe er tilfældet, hvorfor den studerende skal redegøre for betydningen af bemyndigelsen og fuldmagtens grænse og hvorvidt 3. mand her er i ond tro – samt konsekvensen heraf. 
+
+Ole handler udenfor sin bemyndigelse, men indenfor fuldmagtens grænse, derfor er det afgørende for resultatet om 3. mand er i ond tro, jf. aftalelovens § 11, stk. 1. 
+
+Indehaveren kender nok ikke til den interne instruks om områdefordelingen, hvorfor denne må være i god tro. Vagn kan derfor ikke træde tilbage fra aftalen.
+
+*Eksamensspørgsmålet*
+
+3.	Hvis aftalen er ugyldig, kan Ole så holdes ansvarlig af indehaveren? (10%)
+
+*Vejledende løsning:*
+
+Læringsmål: Anvende centrale aftaleregler om aftalers indgåelse og fuldmagter, med udgangspunkt i den finansielle sektor.
+
+*Svar:* Det er fuldmægtigens objektive ansvar at fuldmagten rent faktisk eksisterer, jf. Aftl. § 25. 
+
+Fuldmægtigen kan ifalde erstatningsansvar over for en godtroende 3. mand, såfremt fuldmagten ikke eksisterer. 
+
+Det er omdiskuteret, om en ansat kan ifalde et ansvar efter denne bestemmelse. 
+
+Hvorvidt 3. mand her er i god tro, afhænger af den studerendes konklusion i spm. 2. 
+
+Relevente betragtninger i relation til spørgsmålet såvel som, om betydningen af at være ansat i denne sammenhæng skal honoreres.
+
+*Svar slut*.
+
+I forbindelse med planerne om etablering af en eventuel webshop overvejer Vagn, om han selv skal etablere lager og pakkeri, eller om det bedre kan betale sig at outsource denne del af virksomheden. 
+
+I Trekandtområdet har han fundet en passende bygning til salg, tæt på motorvejen. 
+
+Den nye bygning skal i givet fald også rumme de eksisterende lagerfunktioner og derudover ledes og administreres virksomheden fra lejede lokaler i det centrale Kolding.
+
+Under en drøftelse om finansieringen med revisoren, foreslår denne, at et banklån til delvis finansiering af købet af den nye lagerbygning/pakkeri, samt til etableringen af webshoppen, ud over pant i ejendommen, sikkert vil kræve enten et virksomhedspant eller et fordringspant.
+
+*Eksamensspørgsmålet:*
+
+4.	Hvilke forskelle er der på hhv. virksomheds- og fordringspant? (15%)
+
+*Vejledende løsning:*
+
+Læringsmål: Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private- og erhvervskunder.
+
+*Svar:* Begge dele er flydende pantformer, hvilket betyder, at også aktiver som kommer til efter pantets indgåelse er indheholdt i pantet. 
+
+Begge pantformer er således en undtagelse til forbuddet mod tingsindbegreb og generalpant. 
+
+Fordringspant oprettes ved tinglysning af et skadesløsbrev i personbogen jf. TL § 47 d, stk. 1 og 2. Virksomhedspant oprettes ved tinglysning af et skadesløsbrev eller et ejerpantebrev i personbogen jf. TL § 47 c, stk. 1 og 2. 
+
+Den største forskel ligger i hvilke aktiver, der er omfattet af pantet, og efter hvilke bestemmelser panterettighederne er tinglyst. Virksomhedspant kan indeholde følgende i henhold til TL § 47 c, stk. 3: 
+
+Simple fordringer, der stammer fra salg af varer og tjenesteydelser, lagre af råvarer, halvfabrikata og færdigvarer, køretøjer som ikke er indregistreret, driftsinventar og driftsmateriel, drivmidler og andre hjælpestoffer, besætning, goodwill, domænenavne og rettigheder i henhold til patentloven m.v., indregistrerede køretøjer, hvis pantsætter driver virksomhed med køb og salg af disse. 
+
+I fordringspant er kun kundefordringer indeholdt. Fordringspant kan ikke være tinglyst samtidig med virksomhedspant jf. TL § 47 e, stk. 2.
+
+Sidst men ikke mindst, er der den forskel, at virksomhedspant jf. TL § 47 c, stk. 5, viger for senere udlæg, hvilket ikke er tilfældet med fordringspant, som derfor udgør en bedre sikkerhed.
+
+*Svar slut*
+
+En af Vagns vigtigste kunder, en stor landsdækkende møbelkæde, har likviditetsmæssige problemer, og betaler ikke sine regninger for leverede varer. Vagn er løsningsorienteret, og aftaler med møbelkæden, at de kan levere nogle af de købte varer tilbage, som ikke sælger så godt. Idet der så modregnes på de udestående fordringer.
+
+Godt to måneder senere modtager han et brev, der fortæller, at møbelkæden er kommet under rekonstruktion.
+
+*Eksamensspørgsmålet:*
+
+5.	Er der noget Vagn måske skal være opmærksom på i relation til modregningsaftalen? (15%)
+
+*Vejledende løsning:*
+
+Læringsmål: Anvende relevante regler om konkurs, rekonstruktion og individualforfølgning samt vurdere deres betydning for dne finansielle sektors risiko- og kreditvurdering.
+
+*Svar*: Vagn skal være opmærksom på, at der i forbindelse med en rekonstruktionsbehandling kan ske omstødelse i henhold til KL § 12. 
+
+I henhold til KL § 12j, stk. 3 har rekonstruktøren også mulighed for at sælge retten til at gøre et krav på omstødelse gældende. 
+
+Vagn skal være opmærksom på, at en usædvanlig måde at blive betalt på, kan være grundlag for omstødelse af dispositionen.
+
+Hvorvidt der er grundlag for omstødelse af modregningen i denne situation skal vurderes af den studerende. 
+
+Vagn ved, at møbelkæden er i likviditetsmæssige problemer, og det er netop derfor han accepterer modregning som betaling. 
+
+Her bør den studerende se på KL (konkursloven) § 67 om skyldneres usædvanlige betalinger de sidste tre måneder før fristdagen. 
+
+Den studerende skal kunne vurdere hvornår der er fristdag og, hvorvidt der i dette tilfælde er tale om en – for møbelkæden – usædvanlig betaling.
+
+*Svar slut*
+
+Kun to dage forinden har Vagn og sælgeren begge underskrevet aftalen om køb af den kombinerede lagerbygning/pakkeri, og han overvejer nu, i lyset af denne udvikling, om han har ret til at fortryde købet.
+
+*Eksamensspørgsmålet:*
+
+6.	Har han det? (10%)
+
+*Vejledende løsning:*
+
+Læringsmål: At anvende og formidle centrale regler og praksis for køb og salg af fast ejendom med fokus på forbrugerbeskyttelse, samt  anvende centrale aftaleregler om aftalers indgåelse og fuldmagter, med udgangspunkt i den finansielle sektor.
+
+*Svar:* 
+
+Den studerende skal se, at der ikke er tale om et køb af en ejendom, som skal benyttes til bolig for Vagn, hvorfor fortrydelsesretten i LFFE § 7 i henhold til LFFE § 6 ikke kan bruges her. 
+
+Andre relevente bemærkninger om aftalens status belønnes. 
+
+Der er kun få ubehæftede aktiver i møbelkæden og stor usikret gæld til alle leverandørerne. 
+
+Rekonstruktionsforslaget nævner, at de almindelige usikrede kreditorer, i tilfælde af en konkurs, står til at modtage en dividente på under 5%. 
+
+Problemerne skyldes en meget uheldig valutadisposition og rekonstruktøren mener, at virksomheden kan og bør reddes, og foreslår, at Vagn og de andre leverandører, går med til at akkordere deres tilgodehavender med 65%.
+
+*Eksamsspørgsmålet:*
+
+7.	Hvilke elementer kan der indgå i en rekonstruktion? (10%)
+
+*Vejledende løsning:*
+
+Læringsmål: Anvende relevante regler om konkurs, rekonstruktion og individualforfølgning samt vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
+
+*Svar:* I henhold til KL § 10 skal rekonstruktion indeholde mindst en tvangsakkord eller et salg af virksomheden. 
+
+Andre overvejelser om rekonstruktionens mulige elementer belønnes.
+
+*Eksamensspørgsmålet:*
+
+8.	Hvilke overvejelser bør Vagn gøre sig i relation til rekonstruktionsforslaget? (15%)
+
+*Vejledende løsning:*
+
+
+Læringsmål: Anvende relevante regler om konkurs, rekonstruktion og individualforfølgning samt vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
+
+*Svar:* Det er rekonstruktørens vurdering, at Vagn vil opnå langt større dækning af sit tilgodehavende, såfremt han går med til en akkord på 65%. 
+
+Selv med en akkord vil der nok gå noget tid, før han modtager sit tilgodehavende, da debitor skal afdrage det akkorderede beløb, hvorimod en konkurs vil betyde en betaling af dividende i forbindelse med afslutningen af konkursbehandlingen. 
+<
+Den studerende bør afveje udsigten til at modtage under 5% overfor håbet om at modtage 35%, hvilket også virker sansynligt, henset til årsagen til likviditetsproblemerne blot er en uheldig valutadisposition.
+
+Den studerende skal honoreres for relevante overvejelser, demonstrering af kendskab til formålet med rekonstruktion og forskellene på rekonstruktion og konkurs.
+
+*Svar slut.*
+
+
+---
+
+## Gældssanering
+
+
+<img src="img/gald.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+Gældssanering er en ordning, hvor ens gæld kan blive slettet eller sat ned. 
+
+Hvis gælden bliver sat ned, bliver der lavet en afdragsordning for resten af gælden. 
+
+---
+
+### Hvad er gældssanering?  
+
+![](img/h.jpg)
+
+Gældssanering er en ordning, hvor man får nedsat en stor og håbløs gæld til et beløb, som man er i stand til at betale.
+
+Skifteretten nedsætter ens gæld til en procentdel af den oprindelige gæld, og som udgangspunkt omfatter en gældssanering alle ens kreditorer. 
+
+Betalingen sker som en afdragsordning, hvor man skal betale beløbet med månedlige afdrag over en periode på normalt 5 år.
+
+Man skal indsætte det månedlige afdrag på en særlig konto, og én gang om året fordeles beløbet til ens kreditorer i forhold til deres tilgodehavende.
+
+Beløbet, som man skal betale, fastsættes, så man har et bestemt rådighedsbeløb og et beløb til dækning af faste udgifter til f.eks. til husleje, el, vand og varme, bidrag til a-kasse, børnepasning og medicin.  
+
+Hvis ens rådighedsbeløb og husleje m.v. svarer til ens indtægter, kan skifteretten træffe afgørelse om, at gælden helt bortfalder. 
+
+Mankan læse reglerne om gældssanering i konkurslovens kapitel 25-29.
+
+---
+
+*Hvem kan søge?*
+
+Personer kan søge gældssanering. 
+
+Derimod kan selskaber, foreninger og lignende ikke søge gældssanering.
+
+---
+
+### Hvad er betingelserne for gældssanering?
+
+Det er for det første en betingelse, at man ikke har mulighed for at betale ens gæld fuldt ud inden for en rimelig årrække, og at en gældssanering vil føre til en varig forbedring af ens økonomi.
+
+Det er for det andet en betingelse, at ens forhold og omstændighederne i øvrigt taler for gældssanering. 
+
+Det betyder navnlig, at gældens alder, omstændighederne ved gældens stiftelse og den hidtidige afvikling af gælden skal tale for gældssanering.
+
+Mankan læse mere om betingelserne for gældssanering ved brug af dette her link:
+
+http://www.domstol.dk/saadangoerdu/gaeld/gaeldssanering/betingelser/Pages/default.aspx
+
+---
+
+### Hvordan søger man?
+
+![](img/galdsan.jpg)
+
+Manudfylder og underskriver ansøgningsskemaet.
+
+Ansøgningsskemaet finder man på dette her link:
+
+http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Gaeldsanering.pdf
+
+
+---
+
+Man kan også hente ansøgningsskemaet i skifteretten. 
+
+Man finder en vejledning til at udfylde ansøgningsskemaet her:
+
+http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Gaeldssanering%20-%20vejledning.pdf
+
+---
+
+Ansøgningsskemaet indleverer man herefter til skifteretten.
+
+Ansøgningsskemaet kan indleveres elektronisk.
+
+Sammen med ansøgningsskemaet skal man indlevere:
+
+* kopi af årsopgørelser fra SKAT for de seneste 3 år
+
+* kopi af forskudsopgørelser for de seneste 2 år
+
+* lønsedler/pensionsmeddelelser eller anden dokumentation for de seneste 3 måneders indtægt
+
+Man skal indlevere de samme bilag for ens eventuelle ægtefælle/samlever/registreret partner. 
+
+Hvis begge søger gældssanering, skal man udfylde hver sit ansøgningsskema.
+
+Skifteretten kan vejlede om betingelserne for gældssanering og fremgangsmåden ved ansøgning om gældssanering.
+
+---
+
+### Hvor søger man?
+
+Man skal søge om gældssanering i den retskreds, hvor man bor. 
+
+Hvis man bor i en af følgende retskredse: Københavns Byret, Retten på Frederiksberg, Retten i Lyngby eller Retten i Glostrup, skal man søge i Sø- og Handelsretten. 
+
+Man kan få hjælp til at finde ens retskreds her:
+
+http://www.domstol.dk/FIND/Pages/findminretskreds.aspx
+
+---
+
+
+### Hvad sker der under sagen?
+
+Når man har indleveret ansøgningen til skifteretten, indkalder skifteretten én normalt til et møde. 
+
+Hvis man vil forberede sig på mødet, kan man her finde en liste over spørgsmål, som skifteretten typisk vil stille under mødet:
+
+http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Gaeldssanering%20-%20spoergsm%C3%A5l.pdf
+
+---
+
+Man kan læse mere om gældssaneringssagens forløb her: 
+
+http://www.domstol.dk/saadangoerdu/gaeld/gaeldssanering/Pages/Sagensgang.aspx
+
+
+---
+
+
+### Hvad omfatter gældssaneringen?
+
+Gældssaneringen omfatter al den gæld, som man har til sine kreditorer den dag, hvor skifteretten træffer afgørelse om at indlede gældssanering for én. 
+
+Skifteretten kan dog bestemme, at gældssaneringen kun omfatter gæld, der er stiftet før en bestemt dato forud for indledningen.
+
+Gæld, der er sikret ved pant i for eksempel en bil eller i fast ejendom eller sikret ved ejendomsforbehold, kan ikke gældssaneres.
+
+Hvis andre har kautioneret for ens gæld, vil gældssaneringen ikke medføre, at kravet mod kautionisten bortfalder eller bliver sat ned. 
+
+Man skal derfor være forberedt på, at gældssaneringssagen vil medføre, at kreditor henvender sig til kautionisten og afkræver kautionisten beløbet.  
+
+Kautionisten kan så anmelde sit krav under gældssaneringssagen på samme måde som ens andre kreditorer.
+
+---
+
+### Hvad koster det?
+
+Det er gratis at indgive ansøgning om gældssanering til skifteretten. Udgifterne til skifterettens medhjælper – en advokat – vil normalt blive betalt af statskassen.
+
+Hvis man har henvendt sig til en advokat, en revisor eller en anden privat rådgiver for at få hjælp i sagen, skal man selv betale udgiften hertil.
+
+Hvis man under sagen får behov for at få sin egen advokat (ikke at forveksle med skifterettens medhjælper), skal man også selv betale. Skifteretten kan dog beskikke en advokat for én, når visse betingelser er opfyldt.
+
+
+---
+
+**Video: Gældssanering ja eller nej**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/lWPR4f96Hng" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: Advokatråd om gældssanering**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/eUtA_eE8acg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video om reglerne for gældssanering**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/PzVeVWnCsSw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+
+---
+
+*Eksamenssæt om kreditforfølgning, aftaler, fuldmagt og forbrugerkøb, mv.*
+
+
+*LOTTOGEVINSTEN*
+
+![](img/lotto1.jpg)
+
+
+19-årige Karl er en drømmer, og det er hans overbevisning, at han en dag nok skal vinde et stort beløb i Lotto – så han køber hver uge en lottokupon eller to, og en lørdag aften tjekker han ugens kupon og kan se, at han har så mange tal rigtige at han står til en gevinst på 1.245.324,00 kr.
+
+Karl ringer straks rundt til sine venner og inviterer dem i byen til en fejring af den store gevinst. 
+
+Det bliver en vild omgang og Karl er gavmild, så regningen for fejringen lyder på 35.500 kr., som Karl har fået skrevet på det lokale diskotek ”Til den lyse morgen”, efter at have fortalt diskoteksejeren, Lone, om gevinsten.
+
+Søndag har Karl det meget dårligt efter fejringen, så han kommer ikke ud af sengen før mandag morgen og i stedet for at tage i skole tager han på indkøb. 
+
+Karl køber sig en komplet garderobe hos butikken ”Når mænd er bedst”. Han betaler med sit dankort – regningen lyder på 84.000,00 kr., da det er ret dyre mærker Karl bedst kan lide. 
+
+Der står ikke nogen penge på hans konto, så det bliver et overtræk, men det tænker Karl jo dækkes ind, når gevinsten udbetales. 
+
+Karl føler også stor trang til at købe sig en passende bil – han tager derfor direkte fra ”Når mænd er bedst” til BMW forhandleren. 
+
+Her forelsker han sig i en rigtig fin bil til 354.000,00 kr. 
+
+Karl beslutter sig straks for købet og beder forhandleren klargøre bilen med det samme, så han kan komme ud at køre i løbet af et par dage. 
+
+Han fortæller om gevinsten, og at han derfor ikke har brug for finansiering, og underskriver en købsaftale, hvorefter han skal betale hele beløbet inden 30 dage.
+
+Onsdag tænker Karl, at han nok hellere må se at få talt med banken, og med Danske Spil om at få gevinsten udbetalt – desværre kan han ikke længere finde sin lottokupon.
+
+
+*Eksamensspørgsmål:*
+
+1: Hvilke muligheder har Lone for at opkrævet de skyldige 35.500 kr. fra Karl? (15%)
+
+Læringsmål: Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
+
+*Svar:* Lone er henvist til individualforfølgning i form af rykkere og evt. incasso, hvilket hvis det ikke lykkes, kan føres videre med retlige skridt. 
+
+Der foreligger næppe noget eksekutionsgrundlag, så hvis hun ikke kan få Karl til at erkende fordringen, kan hun forsøge med et betalingspåkrav, som i givet fald kan føre til en sag efter småsagsproceduren. 
+
+Herefter skulle fogedretten kunne inddrive gælden.
+
+*Svar slut*
+
+Karl ringer til ”Når mænd er bedst” og siger, at han har fortrudt sit indkøb og gerne vil have sine penge tilbage. 
+
+Af butikken får han at vide, at de gerne tager tøjet retur, men de giver ikke pengene tilbage – han kan få et tilgodebevis. 
+
+Han beder om at tale med indehaveren, Jens, men han giver ham samme besked.
+
+Karl vil ikke have et tilgodebevis, så han går ikke ned i butikken for at aflevere tøjet.
+
+*Eksamensspørgsmål:*
+
+Spm. 2: Har Karl ret til at få pengene retur? (5%)
+
+Læringsmål: Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske område.
+
+*Svar:* Som udgangspunkt er der ikke fortrydelsesret ved almindelige forbrugerkøb. Dog tilbyder nogle butikker bytte og/eller returret, som en del af deres service. 
+
+Så når butikken her kun tilbyder bytte, så er det deres ret. 
+
+Spørgsmålet er på kanten af pensum, og allerede fornuftige overvejelser i relation til emnet skal belønnes.
+
+
+Karl mener ikke længere, at de forudsætninger han havde for at købe bilen er til stede, og han siger derfor til BMW forhandleren, at han ikke ser sig bundet af købsaftalen. 
+
+BMW forhandleren er ikke enig, specielt fordi bilen er ved at være klargjort med alle de lækre tilkøb som Karl har bestilt.
+
+*Eksamensspørgsmål:*
+
+3: Kan Karl fortryde sit køb af bilen og træde tilbage fra købsaftalen på grund af bristede forudsætninger? (10%)
+
+Læringsmål: Anvende centrale aftaleregler om aftalers indgåelse og fuldmagter, med udgangspunkt i den finansielle sektor.
+
+Anvende og formidle juridiske regler og praksis for forbrugeraftalers indgåelse og ugyldighed i relation til forskellige finanselle aftaler, herunder den erhvervsdrivendes markedsføringsbegrænsninger og oplysningspligt samt fortrydelsesret.
+
+*Svar:* Spørgsmålet kan besvares så vel ud fra forudsætningslæren som med henvisning til AFTL § 36. 
+
+Forudsætningen i form af lotto gevinsten, er nok både væsentlig og kendt af forhandleren, men risikoen for dens brist, kan ikke naturligt lægges på forhandleren. 
+
+Der ses heller ikke at være sådanne, eller andre, elementer ved aftalens indgåelse eller indhold, der kunne retfærdiggøre anvendelsen af AFTL§ 36.
+
+*Svar slut*
+
+BMW forhandleren fastholder, at købsaftalen er bindende, men bliver nervøs for, hvorvidt Karl kan betale for bilen i det lange løb, men han tænker, at han er sikret af det ejendomsforbehold, som står som standard i købsaftalen.
+
+Karl har ikke nogen penge at betale bilen med.
+
+
+*Eksamensspørgsmål:*
+
+4: Vil BMW forhandleren kunne søge sig fyldestgjort i bilen, på baggrund af det foretagne ejendomsforbehold? (16%)
+
+Læringsmål: Vurdere, vælge og formidle reglerne om rettigheder og pligter i forbindelse med kreditaftaler, herunder ejendomsforbehold.
+
+Den studerende har færdighed i at afdække den finansielle sektors behov for og gennemførelsen af en given sikkerhedsstillelse.
+
+Den studerende har kompetence i at rådgive såvel private som erhvervskunder i forhold til sikkerheds-stillelse på et lovligt og etisk forsvarligt grundlag (god skik).
+
+Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder.
+
+*Svar*: Da Karl tilsyneladende ikke har opfyldt kravet i KAL (kreditaftalelovens) § 34, stk. 1. 4), om en udbetaling på 20 %, er aftalen om ejendomsforbehold ikke gyldig, og kan ikke umiddelbart danne grundlag for fyldestgørelse. 
+
+Dog kan den ugyldige aftale, efter omstændighederne, når der ikke er særlige interesser, der taler imod det, lade fogedretten henvise til fyldestgørelse ved tilbagetagelse af det solgte jf. KAL § 30.
+
+*Svar slut.*
+
+Karl tænker, at hvis han er bundet af aftalen, så må han hellere få bilen finansieret gennem banken. 
+
+Han beder derfor om et banklån, så han kan betale bilen. 
+
+Banken vil gerne hjælpe ham med et lån på 354.000,00, men med en rente på 25% pr. år, og sikkerhed i form af kaution. 
+
+Karls forældre indvilger i at kautionere for lånet, men Karl har bedt banken om ikke at fortælle om ”Lottogevinsten”, og de får heller ikke anden oplysning, end at der er tale om selvskyldnerkaution for et billån på 354.000,00 kr.
+
+
+*Eksamensspørgsmål:*
+
+5: Under hvilke betingelser kan banken få udbetalt kautionsbeløbet fra Karls forældre? (16%)
+
+Læringsmål: Forståelse for kaution i både private og erhvervsforhold.
+
+Den studerende har færdighed i at afdække den finansielle sektors behov for og gennemførelsen af en given sikkerhedsstillelse.
+
+Den studerende har kompetence i at rådgive såvel private som erhvervskunder i forhold til sikkerheds-stillelse på et lovligt og etisk forsvarligt grundlag (god skik).
+
+Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder.
+
+*Svar:* Ved selvskyldnerkaution indtræder kautionistens betalingforpligtelse så snart hovedmanden misligholder. 
+
+Da der er tale om privatkaution, og da banken ikke har opfyldt sin oplysningspligt jf. FIL § 48, stk. 1, kan banken dog jF. FIL § 48, stk. 2, kun gøre kautionsforpligtelsen gældende, såfremt kautionisten på anden vis har haft et forsvarligt grundlag for at bedømme risikoen.
+
+*Svar slut.*
+
+”Når mænd er bedst” er en personligt ejet virksomhed. Jens sidder selv med regnskaberne, og ser, at banken nægter at udbetale de 84.000 kr. for tøjkøbet med den begrundelse, at der ikke er dækning på Karls konto. 
+
+Jens har i nogen tid haft svært ved at få omsat sine varer, og nu hvor han ikke ved, om og hvornår han får de 84.000 kr. for Karls indkøb af tøj, bliver han rigtig nervøs for, om en af leverandørerne, eller evt. banken, som har virksomhedspant til sikkerhed for en kassekredit, som på nuværende tidspunkt er trukket til 540.000,00 – 40.000,00 over det bevilgede maxbeløb, vil begære ham konkurs.
+
+I virksomheden, som drives fra lejede lokaler, er der aktiver i form af et varelaget til en samlet værdi af ca. 100.000 kr., inventar til en værdi af ca. 40.000 kr., It-udstyr for omtrent 10.000 kr. samt en varevogn. 
+
+Specielt er Jens bekymret for, at en konkurs vil betyde, at den faste ejendom, som han ejer sammen med sin hustru, hvor han bor med sin familie og hvorfra hustruen driver sin frisørsalon, risikerer at blive solgt som følge af en konkurs.
+
+Jens ejer også en motorcykel.
+
+
+*Eksamensspørgsmål:*
+
+6: Giv en begrundet redegørelse for Jens situation i tilfælde af, at han bliver begæret konkurs. (16%)
+
+Læringsmål: Forståelse for Grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret. 
+
+*Svar:* Med et personselskab hæfter Jens direkte og personligt for virksomhedens gæld. 
+
+Det betyder at han med få undtagelser, hæfter med alt hvad han ejer, herunder sin andel af den faste ejendom og sin motorcykel samt aktiverne i virksomheden.
+
+*Svar slut*.
+
+
+*Eksamensspørgsmål:*
+
+7: Hvordan havde Jens situation i tilfælde af en konkurs været anderledes, hvis hans virksomhed var drevet som et ApS? (10 %)
+
+Læringsmål: Forståelse for grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
+
+*Svar*: Så havde der været begrænset hæftelse, således at selskabets kreditorer ville være henvist til kun at søge sig fyldestgjort i selskabets aktiver: 
+
+Varelager, inventar, it-udstyr og varevogn, mens Jens hus og motorcykel ikke ville blive berørt.
+
+
+*Eksamensspørgsmål:*
+
+8: Hvad betyder det for leverandørernes krav, at banken har et virksomhedspant? (12%)
+
+Læringsmål: Den studerende har færdighed i at afdække den finansielle sektors behov for og gennemførelsen af en given sikkerhedsstillelse.
+
+Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder.
+
+*Svar:* Det betyder at banken har pant i varelager, inventar og it-udstyr i henhold til TL § 47 c, stk. 3, og dermed som separatist skal tilgodeses først, for hele sit tilgodehavende, inden de usikrede kreditorer, herunder leverandørerne, får del i disse aktivers værdi. 
+
+Varevognen er ikke en del af virksomhedspantet, da den ikke er omfattet af TL § 47c, stk. 3. 
+
+Værdien af vognen kan derfor i det omfang den i øvrigt er ubehæftet, tjene til dækning af de usikrede kreditorers krav.
+
+*Svar slut*.
+
+---
+
+
+

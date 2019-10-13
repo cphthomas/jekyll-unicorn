@@ -1,0 +1,85 @@
+1) Hvem er kreditgiver i forhold til kreditaftaleloven?
+- Den person der gives kredit til 
+* Den erhvervsdrivende, der giver kredit 
+- Den der formidler kreditten mellem banken og forbrugeren
+En »kreditgiveren« forstås som forbrugerens modpart. Kreditgiver er først og fremmest den (typisk juridiske person), der i forhold til forbrugeren yder kredit. Ved aftaler om ydelse af pengelån/kredit, der skal tilbagebetales, er långiver kreditgiver. De finansielle institutioners udlån til forbrugere er derfor omfattet af loven (pengeinstitutter, kreditinstitutter, finansieringsselskaber, realkreditinstitutter, låneforeninger, livsforsikringsselskaber (policelån), pensionskasser, erhvervsdrivende udlånsfonde osv.).
+
+2) Har det juridiske konsekvenser, hvis kreditgiver ikke opfylder oplysningspligten over for kreditmodtageren iht. kreditaftaleloven 
+- Det har ingen konsekvenser
+* Det har konsekvenser
+- Det kommer an på, hvad der er blevet aftalt mellem kreditgiver og kreditmodtager
+Opfylder kreditgiver ikke oplysningspligten skal forbrugeren evt. betale færre omkostninger og fortrydelsesretten løber først fra oplysningspligten er opfyldt, samt at kreditgiver kan blive pålagt en bøde.
+
+3) Skal kreditgiver foretage en kreditvurdering af forbrugeren før der kan indgås en kreditaftale?
+- Nej, det er frivilligt og på kreditgiverens egen risiko
+* Der skal foretages en vurdering af forbrugerens kreditværdighed
+- Det kommer helt an på kredittens størrelse
+- Ja, hvis kreditten overstiger 10.000 kr.
+Før en kreditgiver indgår en kreditaftale med en forbruger, skal kreditgiveren ifølge KAL § 7 c foretage en vurdering af forbrugerens kreditværdighed. Vurderingen skal ske på grundlag af fyldestgørende oplysninger, der, hvor det er relevant, indhentes hos forbrugeren og, hvor det er nødvendigt, ved søgning i relevante databaser; det vil i praksis sige hos et kreditoplysningsbureau. Kreditvurderingspligten har til formål at beskytte forbrugeren og skal som følge heraf foretages med sigte på at vurdere, om forbrugeren på baggrund af dennes økonomiske situation ved hjælp af fx løbende indtægter, låneomlægning eller realisation af aktiver vil være i stand til at betale de forudsatte ydelser på kreditten – og altså ikke med henblik på at vurdere kreditgiverens risiko for tab.  
+
+4) Er der formkrav til kreditaftalen?
+- Nej. Der er aftalefrihed og mundtlige aftaler er også gældende
+* Ja, der gælder et skriftlighedskrav
+- Forbrugeren kan acceptere, at der ikke gælder nogle formkrav
+- Kreditgiveren kan bestemme i hver enkelt kreditaftale, at der ikke gælder nogen formkrav
+En kreditaftale skal ifølge KAL § 8, stk. 1, udfærdiges på papir eller på et andet varigt medium. Endvidere er det et krav, at alle aftalens parter skal have et eksemplar af aftalen.  
+
+5) Hvad er en kassekredit?
+. Aftale om et ekstra rådighedsbeløb
+- En speciel kasse, hvortil der kan gives kredit
+- En betegnelse for et kreditforbud som gives af Finanstilsynet
+- Et sted hvor det er forbrugeren der giver kredit til banken
+En kassekredit er et lån i et pengeinstitut, der gør det muligt at have et ekstra rådighedsbeløb, selvom kontoen skulle være tom.
+
+6) Hvad betyder ÅOP?
+- Betegnelsen for, hvem der er direktør i et pengeinstitut
+- Det betyder ”ågeroplysninger”
+- Det betyder at forbrugeren er blevet insolvent
+* De samlede årlige omkostninger for lånet i procent
+Ved de årlige omkostninger i procent (også betegnet som **ÅOP**) forstås ifølge KAL § 16, stk. 1, en procentsats, der på årsbasis svarer til nutidsværdien af alle fremtidige eller eksisterende forpligtelser i form af udnyttede kreditmuligheder, tilbagebetalinger og omkostninger, der er aftalt mellem kreditgiveren og forbrugeren. Sagt med andre ord betyder ÅOP, hvor meget det samlet koster at låne 100 kr. i ét år. "kiloprisen for lånet".
+
+7) Hvilke civilretlige konsekvenser har det, hvis kreditgiveren tilsidesætter sine oplysningsforpligtelser over for kreditmodtageren
+- Det har ingen civilretlige konsekvenser
+* Så kan der ikke afkræves andre kreditomkostninger end en årlig rente svarende til den officielle udlånsrente med et tillæg på 5 %
+- Så kan der ikke afkræves andre kreditomkostninger end en årlig rente svarende til den officielle udlånsrente med et tillæg på 10 %
+- Så kan der ikke afkræves andre kreditomkostninger end en årlig rente svarende til den officielle udlånsrente med et tillæg på 115 %
+Manglende opfyldelse af visse oplysningsforpligtelser, er civilretligt sanktioneret i KAL § 23, såfremt der ikke er givet behørig oplysning om ÅOP og de samlede omkostninger, som forbrugeren skal betale, jf. KAL § 8, stk. 2, nr. 7, eller stk. 5, nr. 6, jf. KAL § 23, stk. 1, jf. dog § 23, stk. 3, at forbrugeren ikke kan afkræves andre kreditomkostninger end en årlig rente svarende til den officielle udlånsrente med et tillæg på 5 %, se fx Juridisk Årbog 1999, s. 188 (møbler på kredit). KAL § 23, stk. 1, medfører således ikke blot en reduktion af den aftalte rente til en rente, der svarer til den officielle udlånsrente med et tillæg på p.t. 5 %. Bestemmelsen medfører tillige, at kreditgiveren selv må afholde samtlige omkostninger, fx kurstab, provisioner, tinglysningsafgift og alle andre stiftelsesomkostninger, som har været forbundet med at stifte kreditten, da forbrugeren kun er pligtig at betale lånebeløbet. Sanktionsreglen i KAL § 23, stk. 1, gælder ikke, hvis kreditgiveren kan godtgøre, at forbrugeren på trods af de manglende eller urigtige oplysninger har haft et forsvarligt grundlag for at bedømme kreditomkostningerne, jf. KAL § 23, stk. 3. I betragtning af den høje detaljeringsgrad, der er i lovens bestemmelser om kreditgiverens oplysningspligt, kan det ikke antages, at bestemmelsen i KAL § 23, stk. 3, har væsentlig betydning. Det er desuden hensigten med bestemmelsen, at denne skal have et snævert anvendelsesområde, således at den altovervejende hovedregel er, at en tilsidesættelse af oplysningspligten fører til, at der skal ske en regulering, jf. nærmere præmisserne i dommen **U 2004.317 H** om aftale om leje af videoapparat med ret til at købe for 1 kr. efter 5 år. Dette var i strid med kreditaftaleloven.
+Undtagelser i kreditaftaleloven skal således fortolkes indskrænkende grundet lovens forbrugerbeskyttende hensigt.
+
+8) Hvad menes der med et ”oprindeligt trepartsforhold”?
+- Forbrugeren betaler en udbetaling 1/3 af kreditkøbet
+- Kreditgiveren giver en kredit på 1/3 af kreditkøbet
+- Kreditgiveren har taget et gyldigt ejendomsforbehold
+* Tre aftaleparter er involveret i kreditten til forbrugeren 
+I det ”oprindelige trepartsforhold” er der fra starten tre aftaleparter involveret, idet forbrugeren dels indgår aftale med en sælger eller tjenesteyder om køb eller om præstation af en tjenesteydelse, dels indgår aftale med långiver (finansieren) om ydelse af lån til betaling af vederlaget. Der foreligger dog kun et oprindeligt trepartsforhold, hvis der tillige foreligger en aftalerelation mellem finansieren og sælgeren eller tjenesteyderen, således at kreditten ydes på grundlag heraf, jf. KAL § 4, nr. 15, litra b, jf. KAL § 33, stk. 4, for så vidt angår tjenesteydelser. Som eksempel på oprindelige trepartsforhold kan nævnes de eksterne kontosystemer, hvor en særlig kontoorganisation – kontoring eller lignende – ved aftale med en række handlende mv. har forpligtet sig til gennem ydelse af kredit at finansiere de aftaler, som kunder, der er tilsluttet organisationen, og som typisk er udstyret med et særligt kontokort, foretager hos de pågældende handlende mv.
+
+9) Hvad er et ”oprindeligt trepartsforhold”?
+- De tilfælde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen ikke kan tiltransporteres til en tredjemand
+* De tilfælde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen tiltransporteres til en tredjemand
+- Betyder fordelingen af gælden mellem de oprindelige kreditorer og debitorer 
+- Omfatter de tilfælde, hvor de tre oprindelige aftaleparter skal betale gælden
+Begrebet ”efterfølgende trepartsforhold” omfatter de tilfælde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen tiltransporteres en tredjemand. Begrebet er en kreditaftaleretlig term, der dækker over begreber som factoring, kontraktbelåning, kontraktsdiscontering o.lign. Begrebets materielle indhold er reguleret ved reglerne om personskifte i skyldforhold, herunder navnlig reglerne om kreditorskifte. Mens det oprindelige trepartsforhold er kendetegnet ved, at tredjemanden finansierer forbrugeren, er det efterfølgende trepartsforhold kendetegnet ved, at tredjemanden finansierer sælgeren.
+Forholdet mellem forbrugeren i et kreditkøb og tredjemanden i det efterfølgende trepartsforhold reguleres dels ved de almindelige regler om kreditorskifte i skyldforhold, dels ved kreditaftalelovens §§ 31-33.
+Forholdet mellem sælgeren/kreditgiveren i det oprindelige trepartsforhold og tredjemanden i det efterfølgende trepartsforhold er navnlig, men ikke kun, reguleret ved gældsbrevslovens §§ 9 og 10 og ved gældsbrevslovens §§ 29-31 samt den righoldige retspraksis, der foreligger vedrørende factoring, *fakturabelåning* og selskabsopsplitning mv.
+
+10) Hvad betyder begrebet ”fritstående lån”?
+- Det betyder, at man som forbruger er fritstillet med hensyn til hvor man kan optage et lån
+- Det betyder, at man som forbruger er fritstillet med hensyn til, hvilket lån man kan optage i sit pengeinstitut
+- Det er et lån som forbrugeren optager hos en anden privat person
+* Det er et lån hos kreditgiver, som ikke har nogen forbindelse til sælgeren eller tjenesteyderen
+Det er et lån hos kreditgiver, som ikke har nogen forbindelse til sælgeren eller tjenesteyderen. Såfremt et køb eller en tjenesteydelse finansieres ved, at forbrugeren opnår et lån hos kreditgiver, som ikke har nogen forbindelse til sælgeren eller tjenesteyderen, foreligger der ikke et oprindeligt trepartsforhold, men derimod et såkaldt ”fritstående lån”. En sådan kreditaftale omfattes nok af kreditaftalelovens generelle bestemmelser om oplysningspligt, forbrugerens betalinger, efterfølgende trepartsforhold, mv., hvorimod lovens bestemmelser vedrørende oprindeligt trepartsforhold og kreditkøb ikke finder anvendelse. Finansieres et køb eller tjenesteydelse ved et fritstående lån, har kreditaftaleloven således ingen betydning for retsforholdet mellem forbrugeren og sælgeren eller tjenesteyderen. Når det skal afgøres, om der foreligger et fritstående lån eller et kreditkøb (oprindeligt trepartsforhold), som er omfattet af KAL § 4, nr. 15, litra b, er det efter lovforarbejderne afgørende, om der foreligger en sådan grad af forbindelse – et sådant samvirke mellem køb og lån – mellem sælger og långiver, at forholdet med rimelighed bør anses for et kreditkøb med de i loven angivne konsekvenser, mens lovteksten i KAL § 4, nr. 15, litra b kræver en aftale om finansiering mellem sælger og tredjemand. Der skal ikke efter retspraksis meget til før at en sådan aftale foreligger mellem sælgeren og tredjemand, hør om U 1995.192/2 H (Vandsengedommen):
+
+11) Har forbrugerens adgang til at fremsætte indsigelser over for anden kreditor i et trepartsforhold?
+* Forbrugerens adgang til at fremsætte indsigelser over for anden kreditor
+- Forbrugerens har ikke adgang til at fremsætte indsigelser over for anden kreditor
+- Det kommeran på, hvad der nærmere er aftalt mellem sælgeren og tredjemand
+- Det kommeran på, hvad der nærmere er aftalt mellem sælgeren og forbrugeren
+Forbrugerens adgang til at fremsætte indsigelser over for anden kreditor fx en køberetlig mangel. I KAL kapitel 9 om kreditorskifte er der fastsat regler til beskyttelse af forbrugeren i trepartsforhold. Når en kreditgiver har overdraget sine rettigheder i henhold til en kreditaftale til tredjemand, har forbrugeren ifølge KAL § 33, stk. 1, over for erhververen ret til at gøre enhver indsigelse gældende, som forbrugeren kunne gøre gældende over for den oprindelige kreditgiver. Erhververen har de samme rettigheder og forpligtelser over for forbrugeren, som den oprindelige kreditgiver. Ifølge KAL § 33, stk. 2, skal forbrugeren underrettes om en sådan overdragelse efter stk. 1. Dette gælder ikke, hvis den oprindelige kreditgiver efter aftale med erhververen fortsat står for kreditten i forhold til forbrugeren. I tilfælde af kreditorskifte (ved det efterfølgende trepartsforhold) er reglen en gentagelse af princippet i gældsbrevslovens § 27, men reglen i KAL § 33 kan – i modsætning til gældsbrevslovens § 27 – ikke fraviges ved aftale, jf. KAL § 7.
+
+12) Hvad er et køb med ejendomsforbehold?
+
+- Når man køber fast ejendom
+- Når man sælger sin faste ejendom
+- Når der er mangler ved fast ejendom
+* Hvor sælger forbeholder sig ejendomsretten indtil varen er betalt
+Ejendomsforbehold er en aftale mellem køber og sælger om, at sælger kan tage varen tilbage, hvis køber ikke betaler afdrag efter kreditaftalen, jf. KAL § 34, stk. 1. Ejendomsforbehold kan være en del af kreditaftalen, men sælger kan også vælge ikke at tage ejendomsforbehold. I aftaler om kreditkøb er det udelukkende muligt at bruge ejendomsforbehold, der kan ikke tages underpant i varen.

@@ -47,9 +47,9 @@
     {
       "answers": [
         "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe aktiver for kreditor",
-        "Forkert",
-        "Forkert",
-        "Forkert"
+        "At konkursbehandlingen ikke kan t\u00e6nkes at tilvejebringe passiver for debitor",
+        "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe passiver for kreditor",
+        "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe aktiver og passiver for kreditor"
       ],
       "correct": {
         "index": 0,
@@ -97,7 +97,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "HR: Kreditor kan f\u00e5 udl\u00e6g i alle skyldners aktiver, medmindre lovm\u00e6ssige undtagelser:"
+        "text": "HR: Kreditor kan f\u00e5 udl\u00e6g i alle skyldners aktiver, medmindre lovm\u00e6ssige undtagelser:<br>U1: Tredjemands rettigheder skal respekteres.<br>U2: S\u00e6rlige indl\u00e5n i pengeinstitut fx bil k\u00f8bt p\u00e5 afbetaling som et kreditk\u00f8b med ejendomsforbehold.<br>U3: Endnu ikke udbetalt l\u00f8n, RPL \u00a7 511.<br>U4: Udbetalt erstatning fx fra ulykkesforsikring, RPL \u00a7 513 Erstatningen skal v\u00e6re holdt adskilt fra \u00f8vrige midler.<br>U5: Personlige aktiver med beskeden v\u00e6rdi, RPL \u00a7 515, stk. 1"
       },
       "image": "img/read7.gif",
       "number": 7,
@@ -111,11 +111,26 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Kreditor kan ikke f\u00e5 udl\u00e6g i aktiver omfattet af trangsbeneficiet."
+        "text": "Kreditor kan ikke f\u00e5 udl\u00e6g i aktiver omfattet af trangsbeneficiet.<br>Omfatter aktiver, der h\u00f8rer til et beskedent hjem, fx seng, bord, stol, sofa. Almindelig hvidevarer h\u00f8rer til et beskedent hjem, fx k\u00f8leskab, fryser, almindeligt tv og almindelig computer. Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre v\u00e6rdifulde aktiver er ikke omfattet af trangsbeneficiet. Sp\u00f8rgsm\u00e5l er i et hvilket omfang der kan foretages udl\u00e6g i f\u00f8lgende genstande og v\u00e6rdier:<br><br>&#9679; Boliginventar (Opretholdelse af et beskedent hjem)<br>&#9679; Bil<br>&#9679; Kontanter (rede penge)<br>&#9679; Indest\u00e5ende p\u00e5 konti<br>&#9679; Depositum (lejebolig)<br>&#9679; K\u00e6ledyr<br>&#9679; Gaver<br>&#9679; V\u00e6rdier med affektionsv\u00e6rdi<br>&#9679; Personskadeerstatning (Udbetalinger ved kritisk/ livstruende sygdom)<br>&#9679; Feriepenge"
       },
       "image": "img/read8.gif",
       "number": 8,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad betyder \u201dtrangsbeneficiet\u201d, jf. RPL \u00a7 509?"
+    },
+    {
+      "answers": [
+        "Det betyder at man tvinger debitor til at v\u00e6re til stede p\u00e5 auktionen",
+        "En tvangsauktion er et tvangssalg",
+        "Politiet tvinger kreditor til at v\u00e6re tilstede p\u00e5 auktionen",
+        "Kreditor tvinger debitor til at v\u00e6re til stede p\u00e5 auktionen"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "En tvangsauktion er et \"tvangssalg\". Tvangsauktionssagen kan iv\u00e6rks\u00e6ttes af en person, som har penge til gode hos ejeren af ejendommen eller genstanden. Det kan for eksempel v\u00e6re en panthaver, der ikke har modtaget terminsydelser. Tvangsauktion over fast ejendom: Alle tvangsauktioner over fast ejendom sker i fogedretten i den retskreds, hvor ejendommen ligger. Den, der har iv\u00e6rksat tvangsauktionen, skal lave en salgsopstilling over ejendommen med alle oplysninger om ejendommen. Salgsopstillingen og standardauktionsvilk\u00e5rene danner grundlaget for tvangsauktionen.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
+      },
+      "image": "img/read9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er en tvangsauktion?"
     },
     {
       "answers": [
@@ -131,6 +146,20 @@
       "image": "img/read10.gif",
       "number": 10,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er en konkurs?"
+    },
+    {
+      "answers": [
+        "En kreditor, der har penge til gode hos en skyldner, kan indgive konkursbeg\u00e6ring til skifteretten",
+        "Alle kan indgive en konkursbeg\u00e6ring mod en skyldner til skifteretten",
+        "En kreditor kan altid indgive konkursbeg\u00e6ring mod en skyldner til skifteretten"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "En kreditor, der har penge til gode hos en skyldner, kan indgive konkursbeg\u00e6ring. Det er en betingelse, at \u00e5rsagen til den manglende betaling er pengemangel og ikke manglende betalingsvilje, for eksempel utilfredshed med et udf\u00f8rt arbejde. Er dette tilf\u00e6ldet, m\u00e5 der i stedet f\u00f8res en retssag ved de almindelige domstole. Det samme g\u00e6lder, hvis det er usikkert, om pengene skyldes. En person eller et selskab, der er insolvent, kan indgive konkursbeg\u00e6ring mod sig selv.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
+      },
+      "image": "img/read11.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvem kan indgive konkursbeg\u00e6ring?"
     },
     {
       "answers": [

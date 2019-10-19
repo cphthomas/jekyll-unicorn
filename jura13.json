@@ -2,14 +2,14 @@
   "questions": [
     {
       "answers": [
-        "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos et pengeinstitut",
-        "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos en anden kreditor",
-        "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos en skyldner",
-        "kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos Forbrugerombudsmanden"
+        "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos et pengeinstitut.",
+        "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos en anden kreditor.",
+        "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos en skyldner.",
+        "kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos Forbrugerombudsmanden."
       ],
       "correct": {
         "index": 2,
-        "text": "Med individualforf\u00f8lgning menes, n\u00e5r \u00e9n kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos en skyldner f.eks. ved tvangsfuldbyrdelse via Fogedretten. Modsat universalforf\u00f8lgning som f.eks. konkurs. De juridiske udfordringer for en individualforf\u00f8lgning er"
+        "text": "Med individualforf\u00f8lgning menes, n\u00e5r \u00e9n kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos en skyldner (debitor) f.eks. ved tvangsfuldbyrdelse via Fogedretten. Modsat universalforf\u00f8lgning som f.eks. konkurs. De juridiske udfordringer for en individualforf\u00f8lgning er udl\u00e6gsgrundlag (eksekutionsgrundlag) \u2013 herunder betalingsp\u00e5krav, retsplejelovens kapitel 44a og \u00a7 478. Udl\u00e6ggets genstand (trangsbeneficiet m.m.), retsplejelovens \u00a7 507-515. Hver kreditor for sig, den kreditor, der kommer f\u00f8rst, bliver f\u00f8rst betalt af skyldneren.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
       },
       "image": "img/read1.gif",
       "number": 1,
@@ -17,10 +17,10 @@
     },
     {
       "answers": [
-        "N\u00e5r kreditorerne g\u00e5r hver for sig for at inddrive deres krav",
-        "N\u00e5r kreditorerne g\u00e5r sammen for at inddrive deres krav",
-        "N\u00e5r enkelte kreditorer g\u00e5r sammen for at inddrive deres krav",
-        "N\u00e5r kreditorerne g\u00e5r sammen for at betale deres krav"
+        "N\u00e5r kreditorerne g\u00e5r hver for sig for at inddrive deres krav.",
+        "N\u00e5r kreditorerne g\u00e5r sammen for at inddrive deres krav.",
+        "N\u00e5r enkelte kreditorer g\u00e5r sammen for at inddrive deres krav.",
+        "N\u00e5r kreditorerne g\u00e5r sammen for at betale deres krav."
       ],
       "correct": {
         "index": 1,
@@ -28,17 +28,17 @@
       },
       "image": "img/read2.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er universalforf\u00f8lgning?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>HHvad er universalforf\u00f8lgning?"
     },
     {
       "answers": [
-        "Skyldneren kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling",
-        "Kreditor ikke kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling",
-        "Skyldneren ikke kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling"
+        "Skyldneren kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling.",
+        "Kreditor ikke kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling.",
+        "Skyldneren ikke kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling."
       ],
       "correct": {
         "index": 2,
-        "text": "Defineret i KL \u00a7 17, at skyldneren ikke kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling. Skifteretten vurderer, om insolvensen er til stede. Hvis skyldner selv erkl\u00e6rer sig insolvent, forventes det at v\u00e6re rigtigt. Konkursprocessen kan kun indledes, hvis skyldneren er insolvent.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
+        "text": "Skyldneren ikke kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling. Defineret i KL \u00a7 17, at skyldneren ikke kan betale sin g\u00e6ld, efterh\u00e5nden som den forfalder til betaling. Skifteretten vurderer, om insolvensen er til stede. Hvis skyldner selv erkl\u00e6rer sig insolvent, forventes det at v\u00e6re rigtigt. Konkursprocessen kan kun indledes, hvis skyldneren er insolvent.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
       },
       "image": "img/read3.gif",
       "number": 3,
@@ -46,25 +46,25 @@
     },
     {
       "answers": [
-        "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe aktiver for kreditor",
-        "At konkursbehandlingen ikke kan t\u00e6nkes at tilvejebringe passiver for debitor",
-        "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe passiver for kreditor",
-        "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe aktiver og passiver for kreditor"
+        "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe aktiver for kreditor.",
+        "At konkursbehandlingen ikke kan t\u00e6nkes at tilvejebringe aktiver for kreditor.",
+        "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe aktiver for debitor.",
+        "At konkursbehandlingen ikke kan t\u00e6nkes at tilvejebringe aktiver for debitor."
       ],
       "correct": {
         "index": 0,
-        "text": "Kreditor skal have en *retlig interesse* i konkursbehandlingen."
+        "text": "At konkursbehandlingen kan t\u00e6nkes at tilvejebringe aktiver for kreditor. Kreditor skal s\u00e5ledes have en \u201dretlig interesse\u201d i konkursbehandlingen."
       },
       "image": "img/read4.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betyder det, at kreditor skal have en *retlig interesse* i konkursbehandlingen?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betyder det, at kreditor skal have en \u201dretlig interesse\u201d i konkursbehandlingen?"
     },
     {
       "answers": [
-        "Debitor (skyldneren) har taget psykisk skade af sin g\u00e6ld og bliver indlagt p\u00e5 den lukkede afdeling",
-        "Kreditor kan via fogedretten f\u00e5 udl\u00e6g i skyldners aktiver og s\u00e6lge dem p\u00e5 tvangsauktion",
-        "Debitor har mistet aktiv ved et tyveri",
-        "Debitor har mistet et aktiv ved et r\u00f8veri"
+        "Debitor (skyldneren) har taget psykisk skade af sin g\u00e6ld og bliver indlagt p\u00e5 den lukkede afdeling.",
+        "Kreditor kan via fogedretten f\u00e5 udl\u00e6g i skyldners aktiver og s\u00e6lge dem p\u00e5 tvangsauktion.",
+        "Debitor har mistet aktiv ved et tyveri.",
+        "Debitor har mistet et aktiv ved et r\u00f8veri."
       ],
       "correct": {
         "index": 1,
@@ -76,14 +76,14 @@
     },
     {
       "answers": [
-        "Debitor har foretaget udl\u00e6g i forbindelse med en handel",
-        "Kreditor har foretaget udl\u00e6g i forbindelse med en handel",
-        "Fogedretten har foretaget udl\u00e6g i et eller flere af debitors aktiver",
-        "Staten har modtaget et udl\u00e6g fra debitor"
+        "Debitor har foretaget udl\u00e6g i forbindelse med en handel.",
+        "Kreditor har foretaget udl\u00e6g i forbindelse med en handel.",
+        "Fogedretten har foretaget udl\u00e6g i et eller flere af debitors aktiver.",
+        "Staten har modtaget et udl\u00e6g fra debitor."
       ],
       "correct": {
         "index": 2,
-        "text": "I fogedretten vil man blive spurgt, om man har mulighed for at betale pengene. Hvis man ikke kan betale, kan fogedretten foretage udl\u00e6g i et eller flere af ens aktiver. Det kan for eksempel v\u00e6re ens faste ejendom eller ens bil. Udl\u00e6g betyder, at kreditor kan forlange, at det aktiv, der er foretaget udl\u00e6g i, s\u00e6lges p\u00e5 auktion, s\u00e5 kreditor kan f\u00e5 sine penge."
+        "text": "Fogedretten har foretaget udl\u00e6g i et eller flere af debitors aktiver. I fogedretten vil man blive spurgt, om man har mulighed for at betale pengene. Hvis man ikke kan betale, kan fogedretten foretage udl\u00e6g i et eller flere af ens aktiver. Det kan for eksempel v\u00e6re ens faste ejendom eller ens bil. Udl\u00e6g betyder, at kreditor kan forlange, at det aktiv, der er foretaget udl\u00e6g i, s\u00e6lges p\u00e5 auktion, s\u00e5 kreditor kan f\u00e5 sine penge.<br><br>Der kan ikke foretages udl\u00e6g i sm\u00e5 pengebel\u00f8b, s\u00e6dvanligt indbo eller i andre ting af beskeden v\u00e6rdi, som er n\u00f8dvendige for familiens erhverv eller uddannelse.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
       },
       "image": "img/read6.gif",
       "number": 6,
@@ -91,9 +91,9 @@
     },
     {
       "answers": [
-        "Kreditor kan ikke f\u00e5 udl\u00e6g i skylderens aktiver",
-        "Kreditor kan f\u00e5 udl\u00e6g i alle skyldners aktiver, medmindre lovm\u00e6ssige undtagelser",
-        "Kreditor kan kun udl\u00e6g i skyldnerens aktiver, hvis det er blevet aftalt med skyldneren"
+        "Kreditor kan ikke f\u00e5 udl\u00e6g i skylderens aktiver.",
+        "Kreditor kan f\u00e5 udl\u00e6g i alle skyldners aktiver, medmindre der er lovm\u00e6ssige undtagelser.",
+        "Kreditor kan kun udl\u00e6g i skyldnerens aktiver, hvis det er blevet aftalt med skyldneren."
       ],
       "correct": {
         "index": 1,
@@ -105,9 +105,9 @@
     },
     {
       "answers": [
-        "At der ikke kan foretages udl\u00e6g i et beskedent hjem",
-        "At der godt kan foretages udl\u00e6g i et beskedent hjem",
-        "At der godt kan foretages udl\u00e6g i et beskedent hjem, hvis det er aftalt med skyldneren"
+        "At der ikke kan foretages udl\u00e6g i et beskedent hjem.",
+        "At der godt kan foretages udl\u00e6g i et beskedent hjem.",
+        "At der godt kan foretages udl\u00e6g i et beskedent hjem, hvis det er aftalt med skyldneren."
       ],
       "correct": {
         "index": 0,
@@ -119,10 +119,10 @@
     },
     {
       "answers": [
-        "Det betyder at man tvinger debitor til at v\u00e6re til stede p\u00e5 auktionen",
-        "En tvangsauktion er et tvangssalg",
-        "Politiet tvinger kreditor til at v\u00e6re tilstede p\u00e5 auktionen",
-        "Kreditor tvinger debitor til at v\u00e6re til stede p\u00e5 auktionen"
+        "Det betyder at man tvinger debitor til at v\u00e6re til stede p\u00e5 auktionen.",
+        "En tvangsauktion er et tvangssalg.",
+        "Politiet tvinger kreditor til at v\u00e6re tilstede p\u00e5 auktionen.",
+        "Kreditor tvinger debitor til at v\u00e6re til stede p\u00e5 auktionen."
       ],
       "correct": {
         "index": 1,
@@ -134,14 +134,14 @@
     },
     {
       "answers": [
-        "Det er en juridisk betegnelse for et n\u00f8dlidende skibs s\u00f8retning",
-        "Det er den fastsatte kurs p\u00e5 overvurderede aktier",
-        "At kreditor kan foretage modregning over for debitor",
-        "At skylderen kan erkl\u00e6res konkurs, hvis denne er insolvent"
+        "Det er en juridisk betegnelse for et n\u00f8dlidende skibs s\u00f8retning.",
+        "Det er den fastsatte kurs p\u00e5 overvurderede aktier.",
+        "At kreditor kan foretage modregning over for debitor.",
+        "At skylderen kan erkl\u00e6res konkurs, hvis denne er insolvent."
       ],
       "correct": {
         "index": 3,
-        "text": "For at en skyldner - en person eller et selskab - kan erkl\u00e6res konkurs, er det en betingelse, at skyldneren er insolvent. Man er insolvent, hvis man ikke kan betale sin g\u00e6ld til tiden, og betalingsvanskelighederne ikke kun er midlertidige. Konkurs er en universalforf\u00f8lgning, form\u00e5let er at dele skyldners aktiver ud til kreditorerne, s\u00e5 alle kreditorer stilles lige. Beg\u00e6ring kan indgives til skifteretten af skyldner eller kreditor, jf. KL \u00a7 17, stk. 1. Skyldner mister r\u00e5dighed over sine aktiver ved dekretets afsigelse, jf. KL \u00a7 29. Skifteretten udpeger kurator (advokat), som handler p\u00e5 vegne af konkursboet. Annoncering i Statstidende - virkning for enhver, jf. KL \u00a7 30.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
+        "text": "At skylderen kan erkl\u00e6res konkurs, hvis denne er insolvent. For at en skyldner - en person eller et selskab - kan erkl\u00e6res konkurs, er det en betingelse, at skyldneren er insolvent. Man er insolvent, hvis man ikke kan betale sin g\u00e6ld til tiden, og betalingsvanskelighederne ikke kun er midlertidige. Konkurs er en universalforf\u00f8lgning, form\u00e5let er at dele skyldners aktiver ud til kreditorerne, s\u00e5 alle kreditorer stilles lige. Beg\u00e6ring kan indgives til skifteretten af skyldner eller kreditor, jf. KL \u00a7 17, stk. 1. Skyldner mister r\u00e5dighed over sine aktiver ved dekretets afsigelse, jf. KL \u00a7 29. Skifteretten udpeger kurator (advokat), som handler p\u00e5 vegne af konkursboet. Annoncering i Statstidende - virkning for enhver, jf. KL \u00a7 30.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
       },
       "image": "img/read10.gif",
       "number": 10,
@@ -149,9 +149,9 @@
     },
     {
       "answers": [
-        "En kreditor, der har penge til gode hos en skyldner, kan indgive konkursbeg\u00e6ring til skifteretten",
-        "Alle kan indgive en konkursbeg\u00e6ring mod en skyldner til skifteretten",
-        "En kreditor kan altid indgive konkursbeg\u00e6ring mod en skyldner til skifteretten"
+        "En kreditor, der har penge til gode hos en skyldner, kan indgive konkursbeg\u00e6ring til skifteretten.",
+        "Alle kan indgive en konkursbeg\u00e6ring mod en skyldner til skifteretten.",
+        "En kreditor kan altid indgive konkursbeg\u00e6ring mod en skyldner til skifteretten."
       ],
       "correct": {
         "index": 0,
@@ -163,13 +163,13 @@
     },
     {
       "answers": [
-        "Konkursmassen er konkursboets aktiver og passiver",
-        "Konkursmassen er konkursboets aktiver",
-        "Konkursmassen er konkursboets passiver"
+        "Konkursmassen er konkursboets samlede aktiver og passiver.",
+        "Konkursmassen er konkursboets aktiver.",
+        "Konkursmassen er konkursboets passiver."
       ],
       "correct": {
         "index": 0,
-        "text": "Konkursmassen er konkursboets samlede aktiver og passiver. Konkursmassen aktiver omfatter:"
+        "text": "Konkursmassen er konkursboets samlede aktiver og passiver. Konkursmassen aktiver omfatter:<br>"
       },
       "image": "img/read12.gif",
       "number": 12,
@@ -177,13 +177,13 @@
     },
     {
       "answers": [
-        "God skik for en konkursbehandling",
-        "Den titel som kurator har i forbindelse med behandlingen af konkursen",
-        "I hvilken r\u00e6kkef\u00f8lge der udloddes midler til kreditorerne"
+        "God skik for en konkursbehandling.",
+        "Den titel som kurator har i forbindelse med behandlingen af konkursen.",
+        "I hvilken r\u00e6kkef\u00f8lge der udloddes midler til kreditorerne."
       ],
       "correct": {
         "index": 2,
-        "text": "Konkursordenen inddeler alle konkursboets kreditorer i klasser. Hver konkursklasse bliver fyldestgjort fuldt ud, f\u00f8r der udloddes til n\u00e6ste klasse. F\u00f8rst d\u00e6kkes omkostninger i forbindelse med konkursen (massekrav), og herefter de \u00f8vrige klasser. Hvis der ikke er d\u00e6kning til hele klassen, fx de simple krav, bliver der udloddet en dividende. Efterst\u00e5ende konkursklasser f\u00e5r ingen d\u00e6kning. De vigtigste niveauer i konkursordenen er i r\u00e6kkef\u00f8lge Konkurslovens kap. 10:"
+        "text": "I hvilken r\u00e6kkef\u00f8lge der udloddes midler til kreditorerne. Konkursordenen inddeler alle konkursboets kreditorer i klasser. Hver konkursklasse bliver fyldestgjort fuldt ud, f\u00f8r der udloddes til n\u00e6ste klasse. F\u00f8rst d\u00e6kkes omkostninger i forbindelse med konkursen (massekrav), og herefter de \u00f8vrige klasser. Hvis der ikke er d\u00e6kning til hele klassen, fx de simple krav, bliver der udloddet en dividende. Efterst\u00e5ende konkursklasser f\u00e5r ingen d\u00e6kning. De vigtigste niveauer i konkursordenen er i r\u00e6kkef\u00f8lge konkurslovens kap. 10:<br>\u201dMassekrav\u201d, dvs. krav, som er opst\u00e5et ved selve konkursbehandlingen, fx kuratorsal\u00e6r,<br>\u201dPrivilegerede krav\u201d, fx krav opst\u00e5et under fors\u00f8g p\u00e5 at afv\u00e6rge en konkurs og l\u00f8nkrav fra visse af skyldnerens ansatte, samt<br>\u201dSimple krav\u201d, dvs. krav fra skyldnerens almindelige kreditorer og derfor i almindelighed den st\u00f8rste post."
       },
       "image": "img/read13.gif",
       "number": 13,
@@ -191,9 +191,9 @@
     },
     {
       "answers": [
-        "Konkurskarant\u00e6ne betyder, at skyldneren i en periode ikke skal betale sin g\u00e6ld",
-        "Konkurskarant\u00e6ne betyder, at kreditor i en periode ikke kan opkr\u00e6ve sit tilgodehavende hos skyldneren",
-        "Konkurskarant\u00e6ne betyder, at en person i en periode f\u00e5r et forbud mod at deltage i ledelsen af en virksomhed"
+        "Konkurskarant\u00e6ne betyder, at skyldneren i en periode ikke skal betale sin g\u00e6ld.",
+        "Konkurskarant\u00e6ne betyder, at kreditor i en periode ikke kan opkr\u00e6ve sit tilgodehavende hos skyldneren.",
+        "Konkurskarant\u00e6ne betyder, at en person i en periode f\u00e5r et forbud mod at deltage i ledelsen af en virksomhed."
       ],
       "correct": {
         "index": 2,
@@ -205,19 +205,19 @@
     },
     {
       "answers": [
-        "Omst\u00f8delse medf\u00f8rer at konkursboet skal betale det omst\u00f8delige bel\u00f8b tilbage til den begunstigede",
-        "Omst\u00f8delse medf\u00f8rer at den begunstigede skal betale det omst\u00f8delige bel\u00f8b tilbage til konkursboet",
-        "Omst\u00f8delse medf\u00f8rer at den begunstigede skal betale det omst\u00f8delige bel\u00f8b tilbage til staten"
+        "Omst\u00f8delse medf\u00f8rer at konkursboet skal betale det omst\u00f8delige bel\u00f8b tilbage til den begunstigede.",
+        "Omst\u00f8delse medf\u00f8rer at den begunstigede skal betale det omst\u00f8delige bel\u00f8b tilbage til konkursboet.",
+        "Omst\u00f8delse medf\u00f8rer at den begunstigede skal betale det omst\u00f8delige bel\u00f8b tilbage til staten."
       ],
       "correct": {
         "index": 1,
-        "text": "Konkursens form\u00e5l er at alle kreditorer stilles lige. Omst\u00f8delsesreglerne forhindrer, at kreditorer kan f\u00e5 en meget bedre retsstilling kort f\u00f8r konkursen indtr\u00e6der. Omst\u00f8delse medf\u00f8rer at den begunstigede skal betale det omst\u00f8delige bel\u00f8b tilbage. Fristdagen er den dag Skifteretten har modtaget beg\u00e6ring om:"
+        "text": "Konkursens form\u00e5l er at alle kreditorer stilles lige. Omst\u00f8delsesreglerne forhindrer, at kreditorer kan f\u00e5 en meget bedre retsstilling kort f\u00f8r konkursen indtr\u00e6der. Omst\u00f8delse medf\u00f8rer at den begunstigede skal betale det omst\u00f8delige bel\u00f8b tilbage. Fristdagen er den dag Skifteretten har modtaget beg\u00e6ring om:<br>Konkurs<br>  Rekonstruktion<br>G\u00e6ldssanering<br><br>Beregning af omst\u00f8delsesperioden tager udgangspunkt i fristdagen. En konkurs starter med, at konkursboet selv eller en kreditor indleverer beg\u00e6ring / konkursbeg\u00e6ring til skifteret. Fristdagen er derfor som udgangspunkt den dag, da skifteretten modtog beg\u00e6ring om rekonstruktion, konkurs eller g\u00e6ldssanering. Det er dagen hvor beg\u00e6ringen modtages, som er afg\u00f8rende for fristdagen.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/insolvensret.html\" target=\"_blank\">Du kan l\u00e6se mere om insolvensret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/insolvensret.html</a><br>"
       },
       "image": "img/read7.gif",
       "number": 15,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 15</h2>Hvilken funktion har \u201domst\u00f8delsesreglerne\u201d i konkurs?"
     }
   ],
-  "title": "Jura Insolvensret",
+  "title": "Insolvensret",
   "url": null
 }

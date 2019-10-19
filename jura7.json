@@ -2,89 +2,75 @@
   "questions": [
     {
       "answers": [
-        "Uskyld.",
-        "Uskyldig.",
-        "Skyld."
+        "At forbrugeraftaleloven kan fraviges til skade for forbrugeren.",
+        "At forbrugeren ikke kan stilles bedre end forbrugeraftaleloven.",
+        "At forbrugeraftaleloven ikke kan fraviges til skade for forbrugeren."
       ],
       "correct": {
         "index": 2,
-        "text": "Culpa, er den grundl\u00e6ggende betingelse for at p\u00e5l\u00e6gge erstatningsansvar uden for kontraktforhold, hvis skadevolder har handlet enten fors\u00e6tligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
+        "text": "At forbrugeraftaleloven ikke kan fraviges til skade for forbrugeren. Loven kan dermed ikke fraviges til skade for forbrugeren, men forbrugeren kan godt stilles bedre end, hvad loven tilsiger.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
       },
       "image": "img/joker1.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad betyder det latinske ord: \"culpa\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad betyder det, at forbrugeraftaleloven er \"beskyttelsespr\u00e6ceptiv\"?"
     },
     {
       "answers": [
-        "At man er ansvarlig for skaden.",
-        "At man ikke er ansvarlig for skaden.",
-        "At der ikke er tale om et uheld."
+        "Den erhvervsdrivende.",
+        "Forbrugeren.",
+        "Domstolene."
       ],
       "correct": {
-        "index": 1,
-        "text": "Er skaden forvoldt ved et *h\u00e6ndeligt uheld*, har vedkommende ikke gjort noget forkert og er ikke ansvarlig for skaden og skal ikke erstatte noget.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
+        "index": 0,
+        "text": "Den erhvervsdrivende, som p\u00e5st\u00e5r aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. forbrugeraftalelovens \u00a7 2, stk. 2.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
       },
       "image": "img/joker2.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad menes der med et \"h\u00e6ndeligt uheld\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>HHvem har bevisbyrden for, at der ikke er tale om en forbrugeraftale?"
     },
     {
       "answers": [
-        "Nej.",
-        "Ja.",
-        "Kommeran p\u00e5 hvor gammel man er."
+        "Nej, medmindre at det aftales.",
+        "Ja, der g\u00e6lder en almindelig fortrydelsesret p\u00e5 14 dage.",
+        "Ja, der g\u00e6lder en almindelig returret p\u00e5 24 timer."
       ],
       "correct": {
         "index": 0,
-        "text": "Skadevolder har handlet mere sk\u00f8desl\u00f8st, end hvad en almindelig fornuftig personen ville have handlet i den samme situation, skadevolder er erstatningsansvarlig.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
+        "text": "Nej, medmindre at det aftales mellem s\u00e6lgeren og forbrugerk\u00f8beren.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
       },
       "image": "img/joker3.gif",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Er man ansvarlig ved \"simpel uagtsomhed\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Har forbrugeren fortrydelsesret i den fysiske handel ved k\u00f8b i en butik?"
     },
     {
       "answers": [
-        "Ja, man er erstatningsansvarlig for disse skader.",
-        "Nej, man er ikke erstatningsansvarlig for disse skader.",
-        "Det af\u00f8rende for et evt. erstatningsansvar er skadevolders alder."
+        "Der er 14 dages fortrydelsesret ved aftaler om individuel pensionsordning.",
+        "Der er 30 dages fortrydelsesret ved aftaler om individuel pensionsordning.",
+        "Der er ingen fortrydelsesret ved aftaler om individuel pensionsordning."
       ],
       "correct": {
         "index": 1,
-        "text": "Ved g\u00e6stebudsskader er g\u00e6sten normalt ikke erstatningsansvarlig. V\u00e6rten har derfor ikke krav p\u00e5 erstatning fra g\u00e6sten.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
+        "text": "Ja, der er 30 dages fortrydelsesret ved aftaler om individuel pensionsordning. Fristen p\u00e5 de 30 dage skal beregnes i kalenderdage.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
       },
       "image": "img/joker4.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Er man ansvarlig for \"g\u00e6stebudskader\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Er der fortrydelsesret ved aftaler om individuel pensionsordning?"
     },
     {
       "answers": [
-        "\u00c5rsagssammenh\u00e6ng.",
-        "Saltindholdet.",
-        "Sammenh\u00e6ngskraft."
+        "En forbruger kan ikke blive bundet ved sin passivitet.",
+        "En forbruger kan blive bundet ved sin passivitet.",
+        "En forbruger kan blive bundet ved sin aktivitet."
       ],
       "correct": {
         "index": 0,
-        "text": "Der er \u00e5rsagssammenh\u00e6ng - kausalitet - mellem den skete skade og det lidte tab, dvs., at tabet er en direkte f\u00f8lge af skaden.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
+        "text": "En forbruger kan ikke blive bundet ved sin passivitet. Hvis en forbruger modtager en vare fra en virksomhed, som forbrugeren ikke har bestilt, og det ikke skyldes en fejl, kan forbrugeren beholde varen uden at skulle betale.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
       },
       "image": "img/joker5.gif",
       "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad betyder ordet \"kausalitet\"?"
-    },
-    {
-      "answers": [
-        "En oversv\u00f8mmet tunnel.",
-        "Et hul i vejen.",
-        "P\u00e5regnelighed."
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Der er p\u00e5regnelighed - ad\u00e6kvans - mellem skaden og tabet, dvs., at skadevolder burde kunne forudse, at skaden ville ske.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html</a><br>"
-      },
-      "image": "img/joker6.gif",
-      "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad menes der med \"ad\u00e6kvans\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad betyder forbudet mod \"negativ aftalebinding\"?"
     }
   ],
-  "title": "Jura Erstatningsreglerne og den forsikringsm\u00e6ssige afd\u00e6kning",
+  "title": "Erstatningsreglerne og den forsikringsm\u00e6ssige afd\u00e6kning",
   "url": null
 }

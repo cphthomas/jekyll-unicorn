@@ -36,7 +36,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Fuldmagtsgivers signal til omverdenen om, hvordan fuldm\u00e6gtigen kan binde fuldmagtsgiver.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html</a><br>"
+        "text": "Den ydre fuldmagt er synlig og kendt for omverdenen. Det er fuldmagtsgivers signal til omverdenen om, hvordan fuldm\u00e6gtigen kan binde fuldmagtsgiver.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html</a><br>"
       },
       "image": "img/marx3.gif",
       "number": 3,
@@ -50,7 +50,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Fuldm\u00e6gtigen/mellemmanden* er den der handler i hovedmandens navn.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html</a><br>"
+        "text": "Den der handler p\u00e5 fuldmagtsgivers vegne. Fuldm\u00e6gtigen/mellemmanden er s\u00e5ledes den, der handler i hovedmandens navn.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html</a><br>"
       },
       "image": "img/marx4.gif",
       "number": 4,
@@ -64,13 +64,13 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Hvor tredjemand ikke har modtaget anden erkl\u00e6ring end fuldm\u00e6gtigens egne ord for, at denne er fuldm\u00e6gtig for hovedmanden.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html</a><br>"
+        "text": "Fuldmagt uden s\u00e6rlig tilv\u00e6relse. Hvor tredjemand ikke har modtaget anden erkl\u00e6ring end fuldm\u00e6gtigens egne ord for, at denne er fuldm\u00e6gtig for hovedmanden/fuldmagtsgiveren.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/fuldmagter-og-mellemmnd.html</a><br>"
       },
       "image": "img/marx5.gif",
       "number": 5,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er en \"\u00a7 18-fuldmagt\"?"
     }
   ],
-  "title": "Jura Fuldmagter og mellemm\u00e6nd",
+  "title": "Fuldmagter og mellemm\u00e6nd",
   "url": null
 }

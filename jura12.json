@@ -2,9 +2,9 @@
   "questions": [
     {
       "answers": [
-        "Der er ingen juridisk forskel p\u00e5 de to personer",
-        "Den juridiske person er myndig, den fysiske person er umyndig",
-        "Den juridiske person er en organisation, den fysisk person er et biologisk v\u00e6sen"
+        "Der er ingen juridisk forskel p\u00e5 de to personer.",
+        "Den juridiske person er myndig, den fysiske person er umyndig.",
+        "Den juridiske person er en organisation, den fysisk person er et biologisk v\u00e6sen."
       ],
       "correct": {
         "index": 2,
@@ -16,15 +16,15 @@
     },
     {
       "answers": [
-        "Man h\u00e6fter i forhold til sit udseende",
-        "Man h\u00e6fter for samtlige forpligtelser i virksomheden",
-        "Man h\u00e6fter med sin opsparing i banken",
-        "Man h\u00e6fter i forhold til sin alder og sit k\u00f8n",
-        "Man h\u00e6fter med alt man har arvet fra sin mor og far"
+        "Man h\u00e6fter i forhold til sit udseende.",
+        "Man h\u00e6fter for samtlige forpligtelser i virksomheden.",
+        "Man h\u00e6fter med sin opsparing i banken.",
+        "Man h\u00e6fter i forhold til sin alder og sit k\u00f8n.",
+        "Man h\u00e6fter med alt man har arvet fra sin mor og far."
       ],
       "correct": {
         "index": 1,
-        "text": "Det betyder, at man h\u00e6fter for samtlige forpligtelser i virksomheden."
+        "text": "Det betyder, at man h\u00e6fter for samtlige forpligtelser i virksomheden.<br><br>Ved personlig h\u00e6ftelse, stiller man sikkerhed med hele sin personlige formue, dvs. med alt, hvad man ejer og fremtidig erhverver.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html\" target=\"_blank\">Du kan l\u00e6se mere om virksomhedsformer og h\u00e6ftelser, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html</a><br>"
       },
       "image": "img/fear2.gif",
       "number": 2,
@@ -32,14 +32,14 @@
     },
     {
       "answers": [
-        "At alle h\u00e6fter solidarisk for g\u00e6lden",
-        "At den der er mest solidarisk h\u00e6fter for g\u00e6lden",
-        "At den der f\u00f8rst har skrevet under h\u00e6fter for g\u00e6lden",
-        "At den der sidst har skrevet under h\u00e6fter for g\u00e6lden"
+        "At alle h\u00e6fter solidarisk for g\u00e6lden.",
+        "At den der er mest solidarisk h\u00e6fter for g\u00e6lden.",
+        "At den der f\u00f8rst har skrevet under h\u00e6fter for g\u00e6lden.",
+        "At den der sidst har skrevet under h\u00e6fter for g\u00e6lden."
       ],
       "correct": {
         "index": 0,
-        "text": "Solidarisk h\u00e6ftelse (in solidum) betyder: \u201d\u00c9n for alle og alle for \u00e9n,\u201d fx ved drift af interessentskab (I/S). N\u00e5r flere personer driver en virksomhed sammen med solidarisk h\u00e6ftelse og virksomheden ikke betaler sine regninger, kan kreditor kr\u00e6ve hele g\u00e6lden betalt af \u00e9n eller flere af de h\u00e6ftende virksomhedsejere. Dem, der har \u201dbl\u00f8dt\u201d kan herefter foretage regres over for dem der ikke har \u201dbl\u00f8dt\u201d<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html\" target=\"_blank\">Du kan l\u00e6se mere om virksomhedsformer og h\u00e6ftelser, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html</a><br>"
+        "text": "Solidarisk h\u00e6ftelse (in solidum) betyder: \u201d\u00c9n for alle og alle for \u00e9n,\u201d fx ved drift af interessentskab (I/S). N\u00e5r flere personer driver en virksomhed sammen med solidarisk h\u00e6ftelse og virksomheden ikke betaler sine regninger, kan kreditor kr\u00e6ve hele g\u00e6lden betalt af \u00e9n eller flere af de h\u00e6ftende virksomhedsejere. Dem, der har \u201dbl\u00f8dt\u201d kan herefter foretage regres over for dem der ikke har \u201dbl\u00f8dt\u201d.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html\" target=\"_blank\">Du kan l\u00e6se mere om virksomhedsformer og h\u00e6ftelser, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html</a><br>"
       },
       "image": "img/fear3.gif",
       "number": 3,
@@ -47,10 +47,10 @@
     },
     {
       "answers": [
-        "At alle skyldnere h\u00e6fter lige meget for g\u00e6lden",
-        "At en af skyldnerne ikke h\u00e6fter lige meget for g\u00e6lden som de andre skyldnere",
-        "At alle myndige skyldnere h\u00e6fter lige meget, hvis de er myndige",
-        "At hver enkelt skyldner h\u00e6fter kun for en p\u00e5 forh\u00e5nd fastsat andel af g\u00e6ldsforpligtelsen"
+        "At alle skyldnere h\u00e6fter lige meget for g\u00e6lden.",
+        "At en af skyldnerne ikke h\u00e6fter lige meget for g\u00e6lden som de andre skyldnere.",
+        "At alle myndige skyldnere h\u00e6fter lige meget, hvis de er myndige.",
+        "At hver enkelt skyldner h\u00e6fter kun for en p\u00e5 forh\u00e5nd fastsat andel af g\u00e6ldsforpligtelsen."
       ],
       "correct": {
         "index": 3,
@@ -62,11 +62,11 @@
     },
     {
       "answers": [
-        "At virksomheden ejes af en mand",
-        "At virksomheden kun ejes af \u00e9n ejer",
-        "At virksomheden ejes af flere m\u00e6nd",
-        "At virksomheden ikke kan ejes af kvinder",
-        "At virksomheden kun kan ejes af en myndig person"
+        "At virksomheden ejes af en mand.",
+        "At virksomheden kun ejes af \u00e9n ejer.",
+        "At virksomheden ejes af flere m\u00e6nd.",
+        "At virksomheden ikke kan ejes af kvinder.",
+        "At virksomheden kun kan ejes af en myndig person."
       ],
       "correct": {
         "index": 1,
@@ -78,14 +78,14 @@
     },
     {
       "answers": [
-        "Af specielle interesser som det varetager",
-        "Af en ejer med specielle interesser",
+        "Af specielle interesser som det varetager.",
+        "Af en ejer med specielle interesser.",
         "Af to eller flere ejere.",
-        "Af m\u00e6nd og kvinder med sammenfaldende interesser"
+        "Af m\u00e6nd og kvinder med sammenfaldende interesser."
       ],
       "correct": {
         "index": 2,
-        "text": "Dermed menes, at Interessentskaber best\u00e5r af to eller flere ejere."
+        "text": "Dermed menes, at Interessentskaber best\u00e5r af to eller flere ejere. Ejerne h\u00e6fter personligt, hvorfor man skal v\u00e6re p\u00e5passelig med oprettelse af denne type selskab. Der er ingen stiftelseskrav ved oprettelse af et interessentskab og det kr\u00e6ver ingen form for startkapital. Dog kan det v\u00e6re en god id\u00e9 at udarbejde en interessentskabsaftale parterne imellem - i samr\u00e5d med en advokat. Dette for at sikre at reglerne imellem interessenterne overholdes.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html\" target=\"_blank\">Du kan l\u00e6se mere om virksomhedsformer og h\u00e6ftelser, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html</a><br>"
       },
       "image": "img/fear6.gif",
       "number": 6,
@@ -93,11 +93,11 @@
     },
     {
       "answers": [
-        "Ejerne af interessentskabet h\u00e6fter solidarisk",
-        "Ejerne af interessentskabet h\u00e6fter ikke solidarisk",
-        "De h\u00e6fter efter deres interesseomr\u00e5der",
-        "Den der har de st\u00f8rste interesser h\u00e6fter mest",
-        "Den der har de mindste interesser h\u00e6fter mindst"
+        "Ejerne af interessentskabet h\u00e6fter solidarisk.",
+        "Ejerne af interessentskabet h\u00e6fter ikke solidarisk.",
+        "De h\u00e6fter efter deres interesseomr\u00e5der.",
+        "Den der har de st\u00f8rste interesser h\u00e6fter mest.",
+        "Den der har de mindste interesser h\u00e6fter mindst."
       ],
       "correct": {
         "index": 0,
@@ -109,10 +109,10 @@
     },
     {
       "answers": [
-        "Er et stort selskab som ikke m\u00e5 eje andre selskaber",
-        "Er et selskab som er kendetegnet ved at have koncentrerede interesser inden for landbruget og industrien",
-        "Er et stort selskab som ejes af et endnu st\u00f8rre selskab",
-        "Et selskab som ejer store dele af andre selskaber"
+        "Er et stort selskab som ikke m\u00e5 eje andre selskaber.",
+        "Er et selskab som er kendetegnet ved at have koncentrerede interesser inden for landbruget og industrien.",
+        "Er et stort selskab som ejes af et endnu st\u00f8rre selskab.",
+        "Et selskab som ejer store dele af andre selskaber."
       ],
       "correct": {
         "index": 3,
@@ -124,10 +124,10 @@
     },
     {
       "answers": [
-        "Hvem der i en virksomhed, der har ret til at tegne virksomheden produkter",
-        "Hvilke personer der kan handle og indg\u00e5 aftaler p\u00e5 kapitalselskabets vegne",
-        "Hvilke personer, der kan indgive ans\u00f8gerne om kapitalvirksomhedens patenter",
-        "Hvilke personer, der kan tegne virksomhedens inventar"
+        "Hvem der i en virksomhed, der har ret til at tegne virksomheden produkter.",
+        "Hvilke personer der kan handle og indg\u00e5 aftaler p\u00e5 kapitalselskabets vegne.",
+        "Hvilke personer, der kan indgive ans\u00f8gerne om kapitalvirksomhedens patenter.",
+        "Hvilke personer, der kan tegne virksomhedens inventar."
       ],
       "correct": {
         "index": 1,
@@ -153,6 +153,6 @@
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er kontant indskuddet kapitalkravet for A/S of ApS?"
     }
   ],
-  "title": "Jura Virksomhedsformer og h\u00e6ftelser",
+  "title": "Virksomhedsformer og h\u00e6ftelser",
   "url": null
 }

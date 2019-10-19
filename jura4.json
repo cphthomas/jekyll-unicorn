@@ -1,5 +1,132 @@
 {
-  "questions": [],
-  "title": "2Aftaleret",
+  "questions": [
+    {
+      "answers": [
+        "Nej, det er kun skriftlige aftaler.",
+        "Ja, hvis de bliver indg\u00e5et telefonisk.",
+        "Mundtlige aftaler er lige s\u00e5 bindende som skriftlige."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Mundtlige aftaler er bindende, jf. Danske Lov, DL 5\u20131\u20132 og foruds\u00e6tningsvis aftalelovens \u00a7 3, stk. 2, som fastsl\u00e5r, at tilbud, der frems\u00e6ttes mundtligt skal accepteres straks. Der skal s\u00e5ledes f\u00f8res bevis for den mundtlige aftales indg\u00e5else af den der p\u00e5ber\u00e5ber sig at der er indg\u00e5et en mundtlig aftale. Der er her tale om en ligefrem bevisbyrde. Den, der vil g\u00f8re noget g\u00e6ldende har ogs\u00e5 bevisbyrden herfor.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read1.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Er \"mundtlige aftaler\" bindende i dansk ret?"
+    },
+    {
+      "answers": [
+        "Der er blevet \u00f8delagt noget i selve aftalen mellem parterne.",
+        "Nogle foruds\u00e6tninger, som ikke n\u00f8dvendigvis er blevet diskuteret eller udtrykt klart i en aftale.",
+        "Et l\u00f8fte som afgives p\u00e5 baggrund af nogle foruds\u00e6tninger, som er fastlagt n\u00e6rmere mellem parterne i en aftale."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Et l\u00f8fte afgives p\u00e5 baggrund af nogle foruds\u00e6tninger, som ikke n\u00f8dvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale og som senere brister.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read2.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er \"bristende foruds\u00e6tninger\"?"
+    },
+    {
+      "answers": [
+        "Grov tvang, svig, udnyttelse, fejlskrift eller anden fejltagelse.",
+        "Simpel tvang, svig, udnyttelse, fejlskrift eller anden fejltagelse.",
+        "Simpel tvang, svig, udnyttelse af b\u00f8rn, fejlskrift eller anden fejltagelse."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "De svare ugyldighedsgrunde i aftaleloven er simpel tvang, svig, udnyttelse, fejlskrift eller anden fejltagelse. De svage ugyldighedsgrunde kan ikke g\u00f8res g\u00e6ldende over for en kontraktpart i god tro, og den godtroende part kan s\u00e5ledes fastholde aftalen trods ugyldighedsgrunden.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read4.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betegner n\u00e6rmere \"de svage ugyldighedsgrunde\"?"
+    },
+    {
+      "answers": [
+        "Falsk, forfalskning, forvanskning, voldelig tvang og umyndighed.",
+        "Falsk, forfalskning, forvanskning, voldelig tvang og myndighed.",
+        "Falsk, forfalskning, forvanskning, voldelig overgreb og umyndighed."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Efter aftaleloven og v\u00e6rgem\u00e5lsloven er de st\u00e6rke ugyldighedsgrunde falsk, forfalskning, forvanskning, voldelig tvang og umyndighed. De st\u00e6rke ugyldighedsgrunde kan g\u00f8res g\u00e6ldende ogs\u00e5 over for en kontraktpart, der var i god tro ved aftalens indg\u00e5else.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad menes der med \"de st\u00e6rke ugyldighedsgrunde\"?"
+    },
+    {
+      "answers": [
+        "\"Opfordring til at g\u00f8re tilbud\" er en ikke-bindende henvendelse til andre om at give tilbud.",
+        "\"Opfordring til at g\u00f8re tilbud\" er en bindende henvendelse til andre om at give tilbud.",
+        "\"Opfordring til at g\u00f8re tilbud\" er en ikke-bindende henvendelse til andre om at give afbud."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "\"Opfordring til at g\u00f8re tilbud\" er en ikke-bindende henvendelse til andre om at give tilbud. Ved \u201den opfordring til at give et tilbud\u201d, er der ikke indg\u00e5et en bindende aftale, f\u00f8r s\u00e6lgeren har accepteret k\u00f8berens tilbud, fx n\u00e5r forsikringsselskabet accepterer en kundes beg\u00e6ring om at ville tegne en forsikring.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder \"opfordring til at g\u00f8re tilbud\"?"
+    },
+    {
+      "answers": [
+        "Personer under 15 \u00e5r kan r\u00e5de over deres egne penge som de selv har tjent, eller f\u00e5et ved arv/gave.",
+        "Personer over 15 \u00e5r kan r\u00e5de over deres egne penge som de selv har tjent, eller f\u00e5et ved arv/gave.",
+        "Personer over 16 \u00e5r kan r\u00e5de over deres egne penge som de selv har tjent, eller f\u00e5et ved arv/gave."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Personer over 15 \u00e5r kan r\u00e5de over deres egne penge som de selv har tjent, eller f\u00e5et ved arv/gave, og hvad v\u00e6rgen har givet dem ved kontantk\u00f8b.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad menes der med \"selverhvervelsesreglen\"?"
+    },
+    {
+      "answers": [
+        "En aftale med en umyndig, er gyldig, hvis s\u00e6lger er i god tro og pengene modtages kontant.",
+        "En aftale med en umyndig, er ugyldig, hvis s\u00e6lger er i god tro og pengene modtages kontant.",
+        "En aftale med en myndig, er gyldig, hvis s\u00e6lger er i god tro om pengene modtages kontant."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "En aftale med en umyndig, er gyldig, hvis s\u00e6lger er i god tro og pengene modtages kontant. Pengereglen er en uskreven retsgrunds\u00e6tning, hvorefter penge, der uberettiget er betalt af en umyndig, ikke kan forlanges tilbagebetalt fra en modtager.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read8.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad betyder \"pengereglen\"?"
+    },
+    {
+      "answers": [
+        "Aftalen fortolkes til fordel for den, som har udarbejdet aftalen.",
+        "Aftalen fortolkes til skade for den, som har udarbejdet aftalen.",
+        "Aftalen fortolkes til skade for den, som modtager aftalen."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Aftalen fortolkes til skade for den, som har udarbejdet aftalen. Dette fortolkningsprincip kaldes ogs\u00e5 for uklarhedsreglen og betyder, at den part (den erhvervsdrivende) som har konciperet (skrevet) kontrakten m\u00e5 b\u00e6re risikoen for tvetydighed.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad forst\u00e5s der med \"*Koncipistreglen\"?"
+    },
+    {
+      "answers": [
+        "Minimumsreglen betyder, at aftalen fortolkes til fordel for l\u00f8ftegiver.",
+        "Minimumsreglen betyder, at aftalen fortolkes til fordel for l\u00f8ftemodtager.",
+        "Minimumsreglen betyder, at aftalen fortolkes til fordel for tredjemand."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Minimumsreglen betyder, at aftalen fortolkes til fordel for l\u00f8ftegiver Hvis der s\u00e5ledes er tvivl om, hvad l\u00f8ftegiveren har forpligtet sig til i aftalen, v\u00e6lges den forst\u00e5else af aftalen, som er mest gunstig for l\u00f8ftegiveren.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/aftaleret.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/aftaleret.html</a><br>"
+      },
+      "image": "img/read10.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad menes der med \"minimumsreglen\"?"
+    }
+  ],
+  "title": "Aftaleret",
   "url": null
 }

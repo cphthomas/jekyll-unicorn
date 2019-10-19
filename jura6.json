@@ -8,7 +8,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Loven kan ikke fraviges til skade for forbrugeren, men forbrugeren kan godt stilles bedre end, hvad loven tilsiger.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
+        "text": "At forbrugeraftaleloven ikke kan fraviges til skade for forbrugeren. Loven kan dermed ikke fraviges til skade for forbrugeren, men forbrugeren kan godt stilles bedre end, hvad loven tilsiger.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
       },
       "image": "img/marx6.gif",
       "number": 1,
@@ -22,7 +22,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Den erhvervsdrivende, som p\u00e5st\u00e5r aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL \u00a7 2, stk. 2.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
+        "text": "Den erhvervsdrivende, som p\u00e5st\u00e5r aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. forbrugeraftalelovens \u00a7 2, stk. 2.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
       },
       "image": "img/marx7.gif",
       "number": 2,
@@ -30,16 +30,17 @@
     },
     {
       "answers": [
-        "Nej, medmindre det aftales mellem den erhvervsdrivende og forbrugeren.",
+        "Nej, medmindre at det aftales.",
         "Ja, der g\u00e6lder en almindelig fortrydelsesret p\u00e5 14 dage.",
         "Ja, der g\u00e6lder en almindelig returret p\u00e5 24 timer."
       ],
       "correct": {
-        "text": "Elgiganten en aftalt returret p\u00e5 14 dage i sine fysiske butikker, som ikke m\u00e5 forveksles med den lovpligte fortrydelsesret efter forbrugeraftaleloven.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
+        "index": 0,
+        "text": "Nej, medmindre at det aftales mellem s\u00e6lgeren og forbrugerk\u00f8beren.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
       },
       "image": "img/marx8.gif",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Har forbrugeren fortrydelsesret i den fysiske handel?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Har forbrugeren fortrydelsesret i den fysiske handel ved k\u00f8b i en butik?"
     },
     {
       "answers": [
@@ -49,11 +50,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Ja, fristen p\u00e5 de 30 dage skal beregnes i kalenderdage.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
+        "text": "Ja, der er 30 dages fortrydelsesret ved aftaler om individuel pensionsordning. Fristen p\u00e5 de 30 dage skal beregnes i kalenderdage."
       },
       "image": "img/marx9.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Er der fortrydelsesret ved aftaler om individuel pensionordning?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Er der fortrydelsesret ved aftaler om individuel pensionsordning?"
     },
     {
       "answers": [
@@ -63,13 +64,13 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Hvis en forbruger modtager en vare fra en virksomhed, som forbrugeren ikke har bestilt, og det ikke skyldes en fejl, kan forbrugeren beholde varen uden at skulle betale.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
+        "text": "En forbruger kan ikke blive bundet ved sin passivitet. Hvis en forbruger modtager en vare fra en virksomhed, som forbrugeren ikke har bestilt, og det ikke skyldes en fejl, kan forbrugeren beholde varen uden at skulle betale.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html\" target=\"_blank\">Du kan l\u00e6se mere om aftaleret, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html</a><br>"
       },
       "image": "img/marx10.gif",
       "number": 5,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad betyder forbudet mod \"negativ aftalebinding\"?"
     }
   ],
-  "title": "Jura Forbrugeraftaler og forbrugerbeskyttelse",
+  "title": "Forbrugeraftaler og forbrugerbeskyttelse",
   "url": null
 }

@@ -1,0 +1,83 @@
+1) Hvilke civilretlige konsekvenser har det når en finansiel virksomhed overtræder god-skik reglerne på et givent område?
+* Det har ingen umiddelbare civilretlige virkninger.
+- Det har umiddelbare civilretlige virkninger.
+- Det kommer an på, hvad der er aftalt mellem parterne.
+-
+En overtrædelse af reglerne om god skik indebærer således ikke uden videre, at den konkrete aftale mellem finansiel virksomhed og kunden er ugyldig eller uvirksom. Manglende overholdelse vil dog kunne have en afsmittende virkning på visse civilretlige forhold, jf. fx. i forhold til aftalelovens §§ 38c, jf. 36. Disse spørgsmål afgøres af de private godkendte finansielle ankenævn, såsom Det Finansielle Ankenævn og Ankenævnet for Forsikring, og i den sidste ende af domstolene.
+
+2) Hvad betyder det, at en finansiel virksomhed skal ”handle redeligt og loyalt” over for sine kunder.
+- Virksomheden må gerne anvende vildledende eller urigtige angivelser eller udelade væsentlige informationer, hvis dette er egnet til mærkbart at forvride kundernes økonomiske adfærd på markedet.
+- At kunder altid har ret.
+- At kunderne skal behandles med respekt.
+* Virksomheden må ikke anvende vildledende eller urigtige angivelser eller udelade væsentlige informationer, hvis dette er egnet til mærkbart at forvride kundernes økonomiske adfærd på markedet.
+En finansiel virksomhed, som et forsikringsselskab, må ikke anvende vildledende eller urigtige angivelser eller udelade væsentlige informationer, hvis dette er egnet til mærkbart at forvride kundernes økonomiske adfærd på markedet. Markedsføring, som i sit indhold, sin form eller den anvendte fremgangsmåde er vildledende, aggressiv eller udsætter kunderne for en utilbørlig påvirkning, og som er egnet til mærkbart at forvride deres økonomiske adfærd, er ikke tilladt.
+
+3) Kan et pengeinstitut nægte at oprette en basal indlånskonto til en privatkunde?
+* Et pengeinstitut kan ikke uden en individuel og saglig begrundelse nægte at oprette en basal indlånskonto til en privatkunde.
+- Ja, et pengeinstitut kan nægte at oprette en basal indlånskonto til en privatkunde.
+- Ja, et pengeinstitut kan nægte at oprette en basal indlånskonto til en privatkunde, hvis kunden ikke har et dansk statsborgerskab.
+- Ja, et pengeinstitut kan nægte at oprette en basal indlånskonto til en privatkunde, hvis kunden ikke vil modtage pengeinstituttet markedsføringsmateriale.
+Efter godskik-bekendtgørelsens § 15 kan et pengeinstitut ikke uden en individuel og saglig begrundelse nægte at oprette en basal indlånskonto til en privatkunde.
+
+4) Hvad skal en ”basal indlånskonto” bl.a. indeholde?
+* Mulighed for at indsætte og hæve kontanter.
+- Muligheden for at skrive private noter på kontoen.
+- Muligheden for at kunne opnå kassekredit.
+- Muligheden for at kunne få et checkhæfte.
+En basal indlånskonto skal som minimum omfatte følgende funktioner: Mulighed for at indsætte og hæve kontanter. Mulighed for at gennemføre betalingstransaktioner med et debetkort med saldokontrol.	Mulighed for indgående kredittransaktioner.
+
+5) Hvilken myndighed træffer afgørelse om overholdelse af godskik for de finansielle virksomheder?
+* Finanstilsynet
+- Forbrugerombudsmanden.
+- Erhvervsstyrelsen.
+- Erhvervsministeriet.
+Når Finanstilsynet træffer en afgørelse om, at en finansiel virksomhed har overtrådt reglerne om god skik på virksomhedsområdet, vil Finanstilsynet pålægge finansiel virksomhed at berigtige forholdet. 
+Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet snarest muligt at ændre den kritisable handlemåde, og at finansiel virksomhed indretter fremtidig praksis i overensstemmelse med Finanstilsynets afgørelse, jf. Lov om finansiel virksomhed (FIL) § 348, stk. 2. Undladelse heraf er sanktioneret med bøde, jf. Lov om finansiel virksomhed § 373, stk. 3.
+
+6) Hvilke rådgivningspligter har en boligrådgiver før indgåelse af en boligkreditaftale? 
+- Fremsende sine sidste 3 måneders lønsedler.
+- Fremsende sin årsopgørelse.
+- Hvorvidt der ydes boliglån til låntageren.
+* Hvorvidt der ydes eller kan ydes rådgivning til låntageren.
+Efter boligkreditbekendtgørelsens § 17, skal en boligkreditgiver eller boligkreditformidler inden indgåelse af en boligkreditaftale udtrykkeligt meddele låntageren, hvorvidt der ydes eller kan ydes rådgivning til låntageren. En boligkreditgiver eller boligkreditformidler skal inden ydelsen af rådgivning eller i givet fald inden indgåelsen af en aftale om ydelse af rådgivning på varigt medium give låntageren følgende oplysninger: 1. hvorvidt rådgivningen udelukkende ydes på grundlag af eget produktudvalg i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4, nr. 2, eller på grundlag af andre produkter på markedet i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 5, så låntageren kan forstå grundlaget for anbefalingen, og 2. størrelsen på det gebyr, låntageren eventuelt skal betale for rådgivningen eller, hvis beløbet ikke kan fastlægges på meddelelsestidspunktet, den anvendte metode til beregningen heraf. Oplysningerne kan gives til låntageren i form af yderligere oplysninger forud for aftaleindgåelsen.
+
+7) Hvad forstås der med ”finansiel rådgivning”?
+- Det nærmere indhold er forskellig fra hvilken finansiel virksomhed der er tale om.
+- Det kommer an på, hvad der nærmere er aftalt mellem parterne om kundens rådgivningsbehov.
+* Anbefalinger, vejledninger, herunder oplysninger om risici forbundet med en disposition.
+Ved rådgivning forstås anbefalinger, vejledninger, herunder oplysninger om risici forbundet med en disposition, og oplysninger om umiddelbare konsekvenser af kundens valgmuligheder, jf. godskik-bekendtgørelsens § 8. En finansiel virksomhed skal yde rådgivning, hvis kunden anmoder herom. Endvidere skal virksomheden af egen drift yde rådgivning, hvor omstændighederne tilsiger, at der er behov herfor. Rådgivningen skal tilgodese kundens interesser og give kunden et godt grundlag for at træffe sin beslutning. Rådgivningen skal være relevant, retvisende og fyldestgørende. Den finansielle virksomhed. skal orientere om de risici, der er relevante for kunden. En finansiel virksomhed, der yder rådgivning, skal oplyse kunden om, at rådgivningen ikke er uafhængig, og at rådgivningen kun omfatter de produkter, som den finansielle virksomhed udbyder. Dette gælder dog ikke, hvis den finansielle virksomhed kan dokumentere, at rådgivningen er uafhængig. En finansiel virksomhed kan udbyde produkter med standardiseret information med lille eller ingen tilknyttet individuel rådgivning. I så fald skal den finansielle virksomhed gøre særskilt opmærksom på dette. Bestemmelsen gælder ikke for lån med sikkerhed i fast ejendom.
+
+8) Hvad skal en finansiel virksomhed anmode om hos kunden før rådgivningen?
+* Sin økonomiske situation.
+- Sine familiemæssige forhold.
+- Om kunden er tidligere straffet.
+- Om kunden er dansk statsborger.
+Før en finansiel virksomhed rådgiver, skal virksomheden anmode kunden om at oplyse om sin økonomiske situation, sin erfaring med de relevante finansielle ydelser, sit formål med at få ydelsen leveret samt om sin risikovillighed, jf. godskik-bekendtgørelsens § 9. Omfanget og karakteren af de oplysninger, der indhentes, kan afpasses efter den viden, som kunden besidder og de oplysninger, som den finansielle virksomhed allerede har modtaget. Den finansielle virksomhed kan lægge kundens oplysninger til grund, medmindre de er åbenbart urigtige.
+
+9) Hvad er ”Fintech”?
+* Fintech er teknologi, der anvendes til at levere finansielle services.
+- Det er et teknisk selskab.
+- Det er en forsikringsordning, som dækker ingeniørernes professionelle ansvar. 
+- Det er når et produktionsselskab går konkurs.
+Fintech er teknologi, der anvendes til at levere finansielle services (fintech er en sammenlægning af de engelske ord “financial” og “techonology”). Fintech-virksomheder er finansielle virksomheder, der leverer alternative løsninger til den etablerede finansielle industri.
+Processer og workflow, der tidligere blev håndteret i manuelle eller analoge processer, tilbydes og gennemføres nu i større og større omfang via digitale interfaces – fintech.
+
+10) Hvad menes der med ”Blockchain”?
+- Det er en del af tilvækstlæren ved fast ejendom.
+- Det er en betalingsform på internettet
+- Er en kædereaktion på internettet.
+* Blockchain er i essensen et samlet offentligt register over transaktioner.
+Blockchain er i essensen et samlet offentligt register over transaktioner. Hver gennemført transaktion registreres med et tidstempel og et link til den forrige udførte transaktion med det aktiv, der overføres, og med angivelse af de involverede parter. Registreret føres af personer på tusinder af computere online rundt omkring i verden efter fastsatte matematiske principper og formler. 
+
+Dette vanskeliggør svindel med registrerede transaktioner, herunder sikrer ejerskab til et aktiv i registeret, da et forsøg på at påvirke registeret ét sted, vil medføre, at registeret ikke stemmer overens med den kopi af registeret, som føres de øvrige steder i verden.
+Blockchain er særligt interessant for den finansielle industri, da det er teknologien, som kryptovaluta, herunder bitcoin, bygger på.
+
+11)Hvad er ”Bitcoin”?
+- Bitcoin er den del af en koreansk møntenhed.
+- Bitcoin er mønter som er udarbejdet i plastik.
+* Bitcoin er en kryptovaluta og et betalingssystem.
+- Bitcoin er en falsk møntenhed.
+Bitcoin er en kryptovaluta og et betalingssystem. Mange associerer fortsat bitcoin med et digitalt betalingsmiddel, der anvendes som betalingsmiddel på sorte markeder og til køb af ulovlige varer.
+Sikkerheden bag bitcoin og andre kryptovalutaer stiger dog, og i 2016 blev den første transaktion med Bitcoin foretaget. En bitcoin kan traditionelt opdeles i 100.000.000 dele, som hver kan indkodes med hvilket som helst aktiv, hvad end det er 1 krone eller en aktie i et selskab. Derfor kan de fleste transaktioner foretages med bitcoins (eller “satoshis”, som en 100 milliontedel af en bitcoin populært kaldes, der er den mindste nuværende opdeling svarende til 0,00000001 BTC). Det er fortsat uvist, hvor stor betydning en udvikling i brugen af kryptovalutaer kommer til at få for den finansielle industri. I dag foretages der kun et begrænset antal transaktioner med kryptovalutaer.
+Selvom det er meget usandsynligt, at kryptovalutaer kommer til at erstatte nationale eller internationale valutaer, eftersom disse ikke er centraliserede fra stater eller banker, og der således ikke kan betales f.eks. skat med valutaerne, er der risiko for, at udvidet brug af kryptovalutaer kan ramme den finansielle sektor hårdt. Kendetegnet ved kryptovalutaer og blockchain er, at man skærer en mellemmand ud, som man med gængse valutaer normalt vil anvende til at verificere eller bistå med transaktionens gennemførsel, f.eks. en bank, revisor, advokat eller notar. Denne proces foretages i stedet af parterne selv, og de mange personer, som fører den identiske blockchain rundt omkring i verden.
+

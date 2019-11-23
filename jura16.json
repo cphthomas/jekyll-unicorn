@@ -1,0 +1,165 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "En fordring er et andet udtryk for en befordring med en gyldig billet.",
+        "En fordring er et krav p\u00e5 en tjenesteydelse.",
+        "En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor)."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "En fordring er et krav, som en person eller et selskab (kreditor) har mod en anden part (debitor). Debitor er blot en anden betegnelse for skyldner. En fordring best\u00e5r typisk i et pengebel\u00f8b, men den kan ogs\u00e5 best\u00e5 i andet. Den kan fx best\u00e5 i, at debitor skylder en arbejdsydelse, eller i at der skal leveres en ting. Et gavel\u00f8fte betyder, at gavegiver skal give den lovede gave, som fx kan v\u00e6re en ting.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west20.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er en \u0094fordring\u0094?"
+    },
+    {
+      "answers": [
+        "En skriftlig erkl\u00e6ring, hvorved der skyldes penge.",
+        "En skriftlig erkl\u00e6ring, hvorved der skyldes en tjenesteydelse.",
+        "En skriftlig erkl\u00e6ring, hvorved der skyldes konvolutter.",
+        "En skriftlig erkl\u00e6ring, hvorved der skyldes flere penge."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "En skriftlig erkl\u00e6ring, hvorved der skyldes penge. Et g\u00e6ldsbrev er en skriftlig skylderkl\u00e6ring, hvor udstederen erkender, at der p\u00e5hviler ham eller hende en ensidig ubetinget forpligtelse til at betale et bestemt pengebel\u00f8b. \u0094En skriftlig erkl\u00e6ring, der hjemler en i Hovedsagen, ubetinget, ensidig fordring p\u00e5 et bestemt pengebel\u00f8b\u0094.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west19.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er et \u0094g\u00e6ldsbrev\u0094?"
+    },
+    {
+      "answers": [
+        "En sikringsakt er afl\u00e5sning af en indsat i et f\u00e6ngsel.",
+        "Sikringsakten er den handling (akt), man skal foretage, for at ens pant er retsbeskyttet over for kreditorer eller aftaleerhververe.",
+        "En sikringsakt er en indg\u00e5else af et \u00e6gteskab uden for Danmarks territoriale gr\u00e6nser."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Sikringsakten er den handling (akt), man skal foretage, for at ens pant er retsbeskyttet over for kreditorer eller aftaleerhververe. Sikringsakten kan v\u00e6re, at man skal give meddelelse (denunciere), jf. Gbl. \u00a7 31, eller s\u00f8rge for tinglysning eller anden registrering eller foretage r\u00e5dighedsber\u00f8velse.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west18.gif",
+      "number": 3,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad er en \u0094sikringsakt\u0094?"
+    },
+    {
+      "answers": [
+        "Det betyder, at kreditor har mistet sin ret.",
+        "Det betyder at debitor har mistet sin ret.",
+        "Det betyder underretning."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Betyder underretning - meddelelse. Er i nogle tilf\u00e6lde en betingelse for at sikre sin ret efter en aftale over for den anden parts kreditorer.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west17.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betyder \u0094denunciation\"?"
+    },
+    {
+      "answers": [
+        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for et \u0094 simpelt g\u00e6ldsbrev\u0094.",
+        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for et \u0094g\u00e6ttebrev g\u00e6ldsbrev\u0094.",
+        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \u0094g\u00e6kkebrev\u0094.",
+        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \u0094negotiable g\u00e6ldsbreve\u0094. Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \u0094negotiable g\u00e6ldsbreve\u0094. Hvis et g\u00e6ldsbrev ikke er et oms\u00e6tningsg\u00e6ldsbrev, er det et simpelt g\u00e6ldsbrev. I forbindelse med indf\u00f8relsen af reglerne om digital tinglysning blev der i tinglysningsloven indsat regler om oms\u00e6tningsg\u00e6ldsbreve."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "img/west16.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad kalder man ogs\u00e5 \u0094oms\u00e6tningsg\u00e6ldsbreve\u0094 for?"
+    },
+    {
+      "answers": [
+        "Debitor kan med frig\u00f8rende virkning betale til den person som har betalingslegitimation.",
+        "Kreditor kan med frig\u00f8rende virkning betale til den person som har betalingslegitimation.",
+        "Enken kan med frig\u00f8rende virkning betale til den person som har overlevet arveladeren.",
+        "Debitor kan ikke med frig\u00f8rende virkning betale til den person som har betalingslegitimation."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Debitor kan med frig\u00f8rende virkning betale til den person som har betalingslegitimation.\u0094 Betalingslegitimation\u0094 er ogs\u00e5 kaldet legitimationsvirkningen. Den korte forklaring: Hvem kan skyldner betale til med frig\u00f8rende virkning, n\u00e5r fordringen er overdraget \u0096 eller udtrykt p\u00e5 en anden m\u00e5de: Debitor kan med frig\u00f8rende virkning betale til den person som har betalingslegitimation. Som udgangspunkt frig\u00f8res debitor ved betaling i god tro, til den der er berettiget efter GBL \u00a7 13, jf. GBL \u00a7 19.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west15.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad menes der med \u0094betalingslegitimation\u0094?"
+    },
+    {
+      "answers": [
+        "Dobbeltoverdragelse er, hvis flere fordringer er overdraget to gange til forskellige erhververe.",
+        "Dobbeltoverdragelse er, hvis den samme fordring er overdraget \u00e9n gang til forskellige erhververe.",
+        "Dobbeltoverdragelse er, hvis den samme fordring er overdraget to gange til forskellige erhververe."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Dobbeltoverdragelse er hvis den samme fordring er overdraget to gange til forskellige erhververe.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west14.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er en \u0094dobbeltoverdragelse\u0094?"
+    },
+    {
+      "answers": [
+        "En overdragelse af alle virksomhedens krav til et finansieringsselskab.",
+        "En overdragelse af alle virksomhedens krav til en kunde.",
+        "En overdragelse af alle virksomhedens krav til et konkursbo.",
+        "En overdragelse af alle virksomhedens krav til et d\u00f8dsbo."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Factoring er typisk overdragelse af alle virksomhedens krav til et finansieringsselskab.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west13.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad menes der med \u0094factoring\u0094?"
+    },
+    {
+      "answers": [
+        "Skyldner kan ikke g\u00f8re samme indsigelser g\u00e6ldende overfor erhverver, som skyldneren kunne g\u00f8re g\u00e6ldende over for kreditor.",
+        "Skyldner kan g\u00f8re samme indsigelser g\u00e6ldende overfor erhverver, som skyldneren kunne g\u00f8re g\u00e6ldende over for kreditor.",
+        "Overdrageren kan g\u00f8re samme indsigelser g\u00e6ldende overfor erhverver, som overdrageren kunne g\u00f8re g\u00e6ldende over for kreditor."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Skyldner kan g\u00f8re samme indsigelser g\u00e6ldende overfor erhverver, som skyldneren kunne g\u00f8re g\u00e6ldende over for kreditor Erhververen f\u00e5r som hovedregel ikke st\u00f8rre ret end overdrageren havde, dvs. der indtr\u00e6der ikke ekstinktion (udslettelse) af indsigelser eller rettigheder. Skyldner kan g\u00f8re samme indsigelser g\u00e6ldende overfor erhverver, som skyldneren kunne g\u00f8re g\u00e6ldende over for kreditor (overdrageren), jf. GBL \u00a7 27.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west12.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad sker der med skyldners indsigelser, n\u00e5r kreditor har overdraget fordringen til erhverver?"
+    },
+    {
+      "answers": [
+        "At det ikke er et oms\u00e6tningsg\u00e6ldsbrev, men et simpelt g\u00e6ldsbrev.",
+        "At man ikke kan bestemme som panthaver, hvor stor g\u00e6lden er.",
+        "At der er tale om et oms\u00e6tningsg\u00e6ldsbrev.",
+        "At en pants\u00e6tter ikke kan p\u00e5l\u00e6gges forpligtelser efter g\u00e6ldsbrevet."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "At det ikke er et oms\u00e6tningsg\u00e6ldsbrev, men et simpelt g\u00e6ldsbrev. Hvis g\u00e6ldsbrevet indeholder ordene \"ikke til ordre\" eller tilsvarende klart forbehold, en s\u00e5kaldt \"rektaklausul\", er det ikke et oms\u00e6tningsg\u00e6ldsbrev, men derimod et simpelt g\u00e6ldsbrev.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west11.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvilken betydning har det at et g\u00e6ldsbrev indeholder ordene \u0094ikke til ordre\u0094?"
+    },
+    {
+      "answers": [
+        "Et simpelt pantebrev som er negotiabelt og efter reglerne om simple g\u00e6ldsbreve kan overdrages.",
+        "Et simpelt pantebrev som omfatter en v\u00e6rdi under 100.000 kr.",
+        "Et simpelt pantebrev som er unegotiabelt og efter reglerne om simple g\u00e6ldsbreve ikke kan overdrages.",
+        "Et simpelt pantebrev er et dokument med et begr\u00e6nset antal ord."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Ved tinglyste digitale simple g\u00e6ldsbreve forst\u00e5s dels pantebreve, der giver pant i fast ejendom, og som indeholder en rektaklausul, jf. tinglysningslovens \u00a7 27, stk. 2, dvs. en klausul med ordene \"ikke til ordre\". Klausulen medf\u00f8rer, at dokumentet er unegotiabelt og efter reglerne om simple g\u00e6ldsbreve ikke kan overdrages.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+      },
+      "image": "img/west10.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er et \u0094simpelt pantebrev\u0094 med en klausul med ordene \"ikke til ordre\"?"
+    }
+  ],
+  "title": "Fordringer, g\u00e6ldsbreve og pantebreve",
+  "url": null
+}

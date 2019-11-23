@@ -1,0 +1,216 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Pant er sikkerhed for at en flaske bliver tilbageleveret.",
+        "Pant er sikkerhed for at en g\u00e6ld bliver betalt tilbage.",
+        "Pant er sikkerhed for at en g\u00e6ld ikke bliver betalt tilbage.",
+        "Pant er usikkerhed for at en g\u00e6ld ikke bliver betalt tilbage."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Pant er sikkerhed for at en g\u00e6ld bliver betalt tilbage. Pant i et aktiv giver kreditor st\u00f8rre sikkerhed for, at en g\u00e6ld betales tilbage. Panthaver kan tvangss\u00e6lge aktivet p\u00e5 tvangsauktion. Er der flere panthaver i samme aktiv opst\u00e5r en prioritetsstilling.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap20.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er form\u00e5let med \u0094pant\u0094?"
+    },
+    {
+      "answers": [
+        "Pants\u00e6tter (ejer) skal ikke passe p\u00e5 det pantsatte aktiv.",
+        "Panthaver skal passe p\u00e5 det pantsatte aktiv.",
+        "Kun hvis det er aftalt med banken.",
+        "Pants\u00e6tter (ejer) skal passe p\u00e5 det pantsatte aktiv."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Pants\u00e6tter (ejer) skal passe p\u00e5 det pantsatte aktiv. Pants\u00e6tteren skal s\u00f8rge for almindelig vedligeholdelse af det pantsatte aktiv. Der m\u00e5 ikke ske forringe pantets v\u00e6rdi ud over s\u00e6dvanlig slid og \u00e6lde, fx: V\u00e6rdiforringende \u00e6ndringer. Fjerne aktiver fra pantet. Pants\u00e6tter skal ofte s\u00f8rge for at aktivet er forsikret mod tyveri og brand.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap19.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Skal pants\u00e6tter passe p\u00e5 det \u0094pantsatte aktiv\u0094?"
+    },
+    {
+      "answers": [
+        "Det er alt det man kan have i h\u00e5nden, som kan pants\u00e6ttes.",
+        "H\u00e5ndpant er en pants\u00e6tningsform ved l\u00f8s\u00f8re og oms\u00e6tningspapirer.",
+        "H\u00e5ndpant er en pants\u00e6tningsform ved fast ejendom.",
+        "H\u00e5ndpant er at miste h\u00e5nden ved tyveri, som det er fastsat i det gamle testamente."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "H\u00e5ndpant er en pants\u00e6tningsform ved l\u00f8s\u00f8re og oms\u00e6tningspapirer (fx. kunst og smykker, kaldet \"pretiosa\"; som kostbarheder, is\u00e6r smykker), hvor der er fare for, at pants\u00e6tter vil forringe aktivet eller pants\u00e6tter s\u00e6lger aktivet. Sikringsakten er, at pants\u00e6tteren er ber\u00f8vet fysisk r\u00e5dighed over det pantsatte. Det kr\u00e6ver s\u00e5ledes en r\u00e5dighedsber\u00f8velse af aktivet fra pants\u00e6tteren.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap18.gif",
+      "number": 3,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad er \u0094h\u00e5ndpant\u0094?"
+    },
+    {
+      "answers": [
+        "Begrebet \"viljesbestemt pant\" er pant stiftet ved aftale.",
+        "Begrebet \"viljesbestemt pant\" er pant der ikke er stiftet ved aftale.",
+        "Begrebet \"viljesbestemt pant\" er pant stiftet ved en dom.",
+        "Begrebet \"viljesbestemt pant\" er pant stiftet ved lov."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Begrebet \"viljesbestemt pant\" er pant stiftet ved aftale - i mods\u00e6tning til retspant, fx et udl\u00e6g.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap17.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad menes der med \"viljesbestemt pant\"?"
+    },
+    {
+      "answers": [
+        "Et realkreditpantebrev giver pant i l\u00f8s\u00f8re.",
+        "Et realkreditpantebrev giver pant i en kobes\u00e6tning.",
+        "Et realkreditpantebrev giver pant i et fly.",
+        "Et realkreditpantebrev giver pant i en ejendom."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Et realkreditpantebrev, der b\u00e5de giver pant i en ejendom og er et g\u00e6ldsbrev, hvor k\u00f8ber erkender at skylde et bel\u00f8b til realkreditinstituttet.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap16.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er et \u0094realkreditpantebrev\u0094?"
+    },
+    {
+      "answers": [
+        "Ejerpantebreve, hvor ejeren af en fast ejendom reserverer et pant i sin ejendom.",
+        "Ejerpantebreve, hvor banken reserverer et pant i debitors ejendom.",
+        "Ejerpantebreve, hvor realkreditinstituttet reserverer et pant i debitors ejendom.",
+        "Ejerpantebreve, hvor staten reserverer et pant i debitors ejendom."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Ejerpantebreve, hvor ejeren af en fast ejendom reserverer et pant i sin ejendom og underpants\u00e6tter dette fx til sin bank. Ejerpantebreve anvendes typisk som sikkerhed for l\u00e5n i pengeinstitutter med tinglyst prioritetsstilling, men indeb\u00e6rer ikke i sig selv en pligt til forrentning og afdrag af et bestemt l\u00e5nt bel\u00f8b.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap15.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad menes der med et \u0094ejerpantebrev\u0094?"
+    },
+    {
+      "answers": [
+        "Skadesl\u00f8sbrev, hvor en lejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom.",
+        "Skadesl\u00f8sbrev, hvor en ejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom.",
+        "Skadesl\u00f8sbrev, hvor en ejer af en fast ejendom giver alle kreditorer sikkerhed i sin ejendom.",
+        "Skadesl\u00f8sbrev, hvor en fremlejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Skadesl\u00f8sbreve, hvor en ejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom, n\u00e5r st\u00f8rrelsen af g\u00e6lden ikke er endeligt fastlagt. Skadesl\u00f8sbrevet kan stilles som sikkerhed for et bestemt engagement - fx en kassekredit eller lignende.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap14.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er et \u0094skadesl\u00f8sbrev\u0094?"
+    },
+    {
+      "answers": [
+        "Det giver b\u00e5de pant i en ejendom og er et g\u00e6ldsbrev, hvor k\u00f8ber ikke erkender at skylde et bel\u00f8b til kreditor (s\u00e6lger).",
+        "Det er et pantebrev som s\u00e6lges p\u00e5 en tvangsauktion.",
+        "Det er et pantebrev som s\u00e6lges i Statstidende.",
+        "Det er et pantebrev med b\u00e5de pant i en ejendom og er et g\u00e6ldsbrev, hvor k\u00f8ber erkender at skylde et bel\u00f8b til kreditor (s\u00e6lger)."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "\u0094S\u00e6lgerpantebreve\u0094, der b\u00e5de giver pant i en ejendom og er et g\u00e6ldsbrev, hvor k\u00f8ber erkender at skylde et bel\u00f8b til kreditor (s\u00e6lger).<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap13.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad er et \u0094s\u00e6lgerpantebrev\u0094?"
+    },
+    {
+      "answers": [
+        "At man dermed sikre sine arvinger og b\u00f8rn mod tyveri.",
+        "At staten sikre sig, at der betales skat af afkastet.",
+        "At kreditorerne sikre, at debitorerne ikke g\u00e5r p\u00e5 tvangsauktion.",
+        "At det giver prioritetskonstaterende virkning. offentligg\u00f8rende virkning. r\u00e5dighedsindskr\u00e6nkende virkning."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Form\u00e5let med sikringsakten er: 1. Prioritetskonstaterende virkning: Er der flere panthaver i samme aktiv opst\u00e5r en prioritetsstilling i mellem panthaverne. 2. Offentligg\u00f8rende virkning: Tinglysning af en rettighed medf\u00f8rer, at det bliver offentliggjort. Alle har ret til at sl\u00e5 op i tingb\u00f8gerne og se ejerskab, pant mv. 3. R\u00e5dighedsindskr\u00e6nkende virkning:<<br>H\u00e5ndpants\u00e6tning medf\u00f8rer, at pants\u00e6tter ikke l\u00e6ngere har adgang til aktivet. Andre pantformer indskr\u00e6nker pants\u00e6tter ret til at r\u00e5de over aktivet.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap12.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er form\u00e5let med \u0094sikringsakten\u0094?"
+    },
+    {
+      "answers": [
+        "N\u00e5r et l\u00f8s\u00f8regenstanden vokser ind i ejendommens pant.",
+        "Det pant, der kan tages i en skov og i dets beplantning.",
+        "Det pant, der kan tages i markens afgr\u00f8der.",
+        "N\u00e5r et l\u00f8s\u00f8regenstanden vokser ud af ejendommens pant."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "N\u00e5r et l\u00f8s\u00f8regenstanden \u0094vokser ind\u0094 i ejendommens pant. N\u00e5r en genstand anbringes i en ejendom p\u00e5 en s\u00e5dan m\u00e5de, at det beskadiger ejendommen at fjerne genstanden, kan genstanden blive omfattet af ejendommens pant. Tilv\u00e6kstl\u00e6ren omfatter s\u00e5ledes l\u00f8s\u00f8reaktiver, som ikke kan fjernes fra ejendommen uden at g\u00f8re skade p\u00e5 den. Det omfatter fx nedgravede kabler, kloaknet, vinduer, tag \u0096 alt der er \u0094vokser\u0094 ind i bygningen/ejendommen.<<br>L\u00f8s\u00f8re omfattet af tilv\u00e6kstl\u00e6ren er en del af ejendommen og ingen kan have en s\u00e6rskilt ret over det. Det vokser s\u00e5 og sige ind i ejendommens pant. Dette g\u00e6lder ogs\u00e5, selvom ejeren ikke selv har betalt for l\u00f8s\u00f8ret.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap11.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad betyder \"tilv\u00e6kstl\u00e6ren\u0094?"
+    },
+    {
+      "answers": [
+        "De pantebreve man h\u00f8ster i l\u00f8bet af \u00e5ret som kreditor.",
+        "De pantebreve der bliver for\u00e6ldet i l\u00f8bet af \u00e5ret.",
+        "Det er pant i alle dele af en ejendom, herunder grunden.",
+        "Det er pant i alle afgr\u00f8der, der h\u00f8stes p\u00e5 ejendommen det p\u00e5g\u00e6ldende \u00e5r."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "\"H\u00f8stpant\u0094 er pant i alle afgr\u00f8der, der h\u00f8stes p\u00e5 ejendommen det p\u00e5g\u00e6ldende \u00e5r, hvis det vedr\u00f8rer leverancer af r\u00e5- og hj\u00e6lpestoffer, i tiden 01.01-31.07, og ellers afgr\u00f8derne, der h\u00f8stes det f\u00f8lgende \u00e5r.<<br>Ejeren eller brugeren af en landbrugsejendom kan stifte pant i ejendommens afgr\u00f8der til sikkerhed for betalingen af g\u00e6ld opst\u00e5et i forbindelse med k\u00f8b af de r\u00e5- og hj\u00e6lpestoffer, jf. h\u00f8stpantebrevslovens \u00a7 1, stk. 1, H\u00f8stpanterbrevsloven indeb\u00e6rer bl.a., at en ejer eller en bruger af en landbrugsejendom kan stifte panteret i ejendommens kommende h\u00f8st til sikkerhed for betalingen af g\u00e6ld i forbindelse med opk\u00f8b af visse r\u00e5- og hj\u00e6lpestoffer. H\u00f8stpantebrevsordningen blev i sin tid indf\u00f8rt som en hj\u00e6lpeforanstaltning over for landbruget i en helt speciel n\u00f8dsituation, og landbrugets \u00f8konomiske situation og landm\u00e6ndenes faktiske udnyttelse af ordningen begrundede senere, at ordningen blev gjort permanent.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap10.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er \u0094h\u00f8stpant\u0094?"
+    },
+    {
+      "answers": [
+        "H\u00e6vd er en strafferetlig handling eller undladelse, det kaldes ogs\u00e5 for \u0094selvt\u00e6gt\u0094.",
+        "H\u00e6vd eller blod h\u00e6vd, er vold i familien.",
+        "H\u00e6vd er er n\u00e5r en person h\u00e6vder sig p\u00e5 andres bekostning.",
+        "H\u00e6vd er en s\u00e6rlig erhvervelsesm\u00e5de, hvor retten stiftes ved en uhjemlet (ikke lovm\u00e6ssig) r\u00e5den i 20 \u00e5r eller i alderstid."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "\"H\u00e6vd\" er en s\u00e6rlig erhvervelsesm\u00e5de, hvor retten stiftes ved en uhjemlet (ikke lovm\u00e6ssig) r\u00e5den i 20 \u00e5r eller i alderstid. Danske Lov 5-5-1 lyder s\u00e5ledes: \"Hvis Gods og Ejendom nogen haver haft i Haand og H\u00e6vd i tyve Aar Ulast og Uk\u00e6rt til Tinge, det beholder hand, uden anden Adkomst at fremvise, angerl\u00f8st og Uafvundet, medmindre det bevisis, at hand hafde det, enten til pant eller i Forl\u00e6ning, eller i Forsvar\". H\u00e6vd er s\u00e5ledes en s\u00e6rlig form for erhvervelse af ejendomsret. H\u00e6vd erhverves ved kontinuerlig uretm\u00e6ssig brug af en ejendom. Brugen af ejendommen m\u00e5 s\u00e5ledes ikke ske i overensstemmelse med aftale med ejeren af ejendommen.<<br>H\u00e6vd kan opn\u00e5s af en eller flere personer og der kan ske udskiftning i personkredsen undervejs i h\u00e6vdsperioden. Erhvervelse af h\u00e6vd foruds\u00e6tter, at den uretm\u00e6ssige r\u00e5den er forl\u00f8bet over en l\u00e6ngere \u00e5rr\u00e6kke. Der skal mindst v\u00e6re tale om en kontinuerlig r\u00e5den i 20 \u00e5r og i visse tilf\u00e6lde op mod 40-50 \u00e5r. Den 20-\u00e5rige r\u00e5den kaldes ordin\u00e6r h\u00e6vd mens den l\u00e6ngere r\u00e5dighedsperiode kaldes alderstidsh\u00e6vd. R\u00e5digheden afbrydes, hvis ejeren opstiller en fysisk hindring eller foretager retslige skridt mod den eller de personer, der bruger ejendommen. N\u00e5r der vindes h\u00e6vd f\u00e5r den eller de, der har brugt ejendommen, ejendomsret i overensstemmelse med den r\u00e5den, der er udvist. Hvis den skete r\u00e5den er begr\u00e6nset, bliver der kun h\u00e6vd som bruger af ejendommen. H\u00e6vd skal tinglyses p\u00e5 samme m\u00e5de som servitutter, for at blive beskyttet. H\u00e6vd eksisterer s\u00e5 l\u00e6nge h\u00e6vden er tinglyst og kan oph\u00f8re p\u00e5 samme m\u00e5de som servitutter, alts\u00e5 ved aftale og passivitet m.v.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap9.gif",
+      "number": 12,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 12</h2>Hvad menes der med \u0094h\u00e6vd\u0094?"
+    },
+    {
+      "answers": [
+        "Det betyder, at der ikke andre betingelser end k\u00f8besummens betaling.",
+        "Det betyder, at der ikke kan skrives mere p\u00e5 sk\u00f8det.",
+        "Det betyder, at k\u00f8besummen ikke kan forh\u00f8jes mere.",
+        "Det betyder, at huset ikke kan besigtes mere."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Endeligt sk\u00f8de: Ikke andre betingelser end k\u00f8besummens betaling.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap8.gif",
+      "number": 13,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 13</h2>Hvad er et \u0094endeligt sk\u00f8de\u0094?"
+    },
+    {
+      "answers": [
+        "Endelig overdragelse er ikke gjort betinget af andre forhold end k\u00f8besummens betaling.",
+        "Endelig overdragelse kan ikke ske til k\u00f8beren.",
+        "Endelig overdragelse er gjort betinget af andre forhold end k\u00f8besummens betaling.",
+        "S\u00e6lgeren kan ikke fortryde salget af ejendommen."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Betinget sk\u00f8de: Endelig overdragelse er gjort betinget af andre forhold end k\u00f8besummens betaling.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+      },
+      "image": "img/chap7.gif",
+      "number": 14,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 14</h2>Hvad menes der med \u0094betinget sk\u00f8de\u0094?"
+    }
+  ],
+  "title": "Pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant",
+  "url": null
+}

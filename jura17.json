@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Det er en m\u00e5de at regne p\u00e5 n\u00e5r man skal k\u00f8be fast ejendom.",
+        "Modregning er en m\u00e5de at opfylde/afslutte krav p\u00e5.",
+        "Det er en m\u00e5de, at udregne \u00c5OP ved et kreditk\u00f8b.",
+        "Det er afregningsmetoden ved en flytning af indbo."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "\u0094"
+      },
+      "image": "img/west1.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er en \u0094modregning\u0094?"
+    },
+    {
+      "answers": [
+        "Modregning kan som udgangspunkt kun ske n\u00e5r hovedkrav og modkrav er mellem de samme personer.",
+        "Modregning kan som udgangspunkt kun ske n\u00e5r hovedkrav og modkrav ikke er mellem de samme personer.",
+        "Modregning kan som udgangspunkt kun ske n\u00e5r hovedkrav og modkrav er mellem de samme personer i en familie.",
+        "Modregning kan ikke ske hovedkrav og modkrav er mellem de samme personer."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Modregning kan som udgangspunkt kun ske n\u00e5r hovedkrav og modkrav er mellem de samme personer. Se det g\u00e6ldende hovedprincip om modregningsadgang fra romerretten: \"inter easdem personas\u0094.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west2.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er udgangspunktet ved \u0094modregning\u0094?"
+    },
+    {
+      "answers": [
+        "Hovedkrav og modkrav udspringer fra samme person.",
+        "Hovedkrav og modkrav udspringer af samme retsforhold.",
+        "Hovedkrav og modkrav udspringer ikke af samme retsforhold.",
+        "Hovedkrav og medkrav udspringer af samme retsforhold."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Hovedkrav og modkrav udspringer af samme retsforhold. \u0094Konneksitet\u0094 betyder, at der er tale om krav, som har f\u00e6lles oprindelse. Konneks anvendes om fordringer, der udspringer af samme retsforhold, dvs. hovedkrav og modkrav udspringer af det samme retsforhold. Fx, at forbrugeren skylder afdrag (hovedkravet) i forbindelse med k\u00f8b af en bil, og at der er konstateret mangler ved bilen, som k\u00f8beren vil modregne (modkravet) i de afdrag, der skyldes p\u00e5 bilen over for s\u00e6lgerne. Der er en udvidet adgang til modregning med konnekse modfordringer.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west3.gif",
+      "number": 3,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad betyder \u0094konneks modregningsadgang\u0094?"
+    },
+    {
+      "answers": [
+        "Hovedkrav og modkrav udspringer af samme retsforhold.",
+        "Hovedkrav og modkrav udspringer fra samme person.",
+        "Hovedkrav og modkrav udspringer ikke af samme retsforhold.",
+        "Hovedkrav og hovedkravet udspringer ikke af samme retsforhold."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Hovedkrav og modkrav udspringer ikke af samme retsforhold. \u0094Tvungen ikke-konneks modregningsafgang\", dvs. at hovedkrav og modkrav udspringer ikke af samme retsforhold. For at tvungen ikke-konneks modregning m\u00e5 finde sted, er der en r\u00e6kke betingelser, der skal v\u00e6re opfyldte. Disse betingelser skal alle v\u00e6re opfyldte p\u00e5 det tidspunkt, hvor den tvungne ikke-konnekse modregning iv\u00e6rks\u00e6ttes. Betingelserne er f\u00f8lgende: 1. Kravene er udj\u00e6vnelige. 2. Kravene er afviklingsmodne. 3. Kravene er gensidige. 4. Modkravet er retskraftigt.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west4.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betyder \u0094tvungen ikke-konneks modregningsadgang\"?"
+    },
+    {
+      "answers": [
+        "At kravene ikke kan benyttes til korrekt opfyldelse af hinanden.",
+        "At kravene ikke kan vindiceres",
+        "At kravene kan benyttes til korrekt opfyldelse af hinanden.",
+        "At kravene ikke kan ekstinkveres."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Betingelsen om udj\u00e6vnelighed betyder, at kravene kan benyttes til korrekt opfyldelse af hinanden. Betingelsen om udj\u00e6vnelighed er opfyldt, n\u00e5r b\u00e5de hovedfordringen og modfordringen er pengefordringer. Dvs. krav om \"komputable\"; sammenregnelig. Det er en betingelse for modregning, at hovedfordring og modfordring er komputable, fx. 2 krav p\u00e5 penge. Hovedkravet er penge og modkravet er penge. Kravene beh\u00f8ver ikke at v\u00e6re lige store, for at tvungen modregning m\u00e5 gennemf\u00f8res. Blot kravene er delelige, m\u00e5 der modregnes over for en hovedfordring, der er st\u00f8rre end modfordringen, og modregnes med en modfordring, der er st\u00f8rre end hovedfordringen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad betyder betingelsen om \u0094udj\u00e6vnelighed\u0094 for adgangen til tvungen ikke-konneks modregning?"
+    },
+    {
+      "answers": [
+        "Modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frig\u00f8relsestidspunkt skal v\u00e6re kommet.",
+        "Modfordringens forfaldstidspunkt er ikke kommet, mens hovedfordringens frig\u00f8relsestidspunkt skal v\u00e6re kommet.",
+        "Modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frig\u00f8relsestidspunkt ikke er kommet.",
+        "Modfordringens forfaldstidspunkt er ikke kommet, og hovedfordringens frig\u00f8relsestidspunkt er ikke kommet."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "At kravene er afviklingsmodne betyder, at modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frig\u00f8relsestidspunkt skal v\u00e6re kommet. Forfaldstidspunktet er det tidspunkt, hvor kreditor kan kr\u00e6ve, at debitor betaler, hvad debitor skylder. Frig\u00f8relsestidspunktet er det tidspunkt, hvor debitor har ret til at frig\u00f8re sig ved at betale, hvad debitor skylder. Denne betingelse er begrundet i, at en kreditor kan kr\u00e6ve betaling, n\u00e5r forfaldstidspunktet er kommet, mens en debitor kan frig\u00f8re sig fra sin g\u00e6ld, n\u00e5r frig\u00f8relsestidspunktet er kommet. Med \"forfaldstidspunkt\" menes sidste rettidige betalingsdag, da betaling som udgangspunkt ikke m\u00e5 kr\u00e6ves f\u00f8r da.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder betingelsen om \u0094afviklingsmodne\u0094 for adgangen til tvungen ikke-konneks modregning?"
+    },
+    {
+      "answers": [
+        "Modregning kan ske, selvom to personer (fysiske og/eller juridiske personer) ikke har krav p\u00e5 hinanden.",
+        "Modregning m\u00e5 kun ske, hvor tre personer (fysiske og/eller juridiske personer) har krav p\u00e5 hinanden.",
+        "Modregning m\u00e5 kun ske, hvor to personer (fysiske og/eller juridiske personer) har krav p\u00e5 hinanden.",
+        "Modregning m\u00e5 kun ske, hvor fire personer (fysiske og/eller juridiske personer) har krav p\u00e5 hinanden."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Kravene er gensidige betyder, at modregning kun m\u00e5 ske, hvor to personer (fysiske og/eller juridiske personer) har krav p\u00e5 hinanden, s\u00e5ledes at debitor efter den ene fordring er kreditor efter den anden fordring.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad betyder betingelsen om \u0094kravene er gensidige\u0094 for adgangen til tvungen ikke-konneks modregning?"
+    },
+    {
+      "answers": [
+        "At modkravet er",
+        "At modfordringen ikke m\u00e5 v\u00e6re bortfaldet.",
+        "At modfordringen m\u00e5 gerne v\u00e6re bortfaldet."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "At modkravet skal v\u00e6re retskraftigt betyder, at modfordringen ikke m\u00e5 v\u00e6re bortfaldet, fx ved \u0094for\u00e6ldelse\u0094 eller \u0094pr\u00e6klusion\u0094. En ret kan oph\u00f8re ved pr\u00e6klusion, hvis retten ikke g\u00f8res g\u00e6ldende rettidigt fx en kreditors krav, n\u00e5r der indrykkes et proklama i et d\u00f8dsbo. Hvis modfordringen er bortfaldet, er modregning udelukket.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west8.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad betyder betingelsen om \u0094modkravet er retskraftigt\u0094 for adgangen til tvungen ikke-konneks modregning?"
+    },
+    {
+      "answers": [
+        "Forpligtelsen oph\u00f8rer helt med at eksistere.",
+        "Forpligtelsen oph\u00f8rer ikke, hvis det p\u00e5 forh\u00e5nd er er aftalt med forbrugeren.",
+        "Der er ikke nogen retsvirkninger."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "N\u00e5r for\u00e6ldelsen faktisk indtr\u00e6der, oph\u00f8rer forpligtelsen helt med at eksistere \u0096 uanset om de involverede parter har kendskab til fordringen eller ej, eller om de med vilje ikke har betalt. Det er heller ikke n\u00f8dvendigt at meddele modparten, at kravet er for\u00e6ldet. Man kan forholde sig passiv. Renter mv. af en for\u00e6ldet fordring bliver for\u00e6ldede samtidig med selve fordringen, uanset hvorn\u00e5r de er opst\u00e5et. Det er i mange situationer muligt at aftale, at for\u00e6ldelsen ikke skal indtr\u00e6de. Dog kan for\u00e6ldelsesfristerne i for\u00e6ldelsesloven ikke p\u00e5 forh\u00e5nd fraviges til skade for en forbruger.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er retsvirkningerne af, at der er indtr\u00e5dt \u0094for\u00e6ldelse af fordringen\u0094?"
+    },
+    {
+      "answers": [
+        "Den er 2 \u00e5r.",
+        "Den er 1 \u00e5r.",
+        "Den er 3 \u00e5r.",
+        "Den er 4 \u00e5r."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "For\u00e6ldelseslovens opbygning er lavet s\u00e5dan, at der er en almindelig for\u00e6ldelsesfrist p\u00e5 3 \u00e5r. Det fremg\u00e5r af for\u00e6ldelseslovens \u00a7 3, stk. 1. For\u00e6ldelsesloven indeholder s\u00e6rlige frister for visse fordringer, der har s\u00e6rlig interesse for pengeinstitutter. For pengel\u00e5n og overtr\u00e6k er for\u00e6ldelsesfristen 10 \u00e5r. For renter og gebyrer heraf dog kun 3 \u00e5r, jf. for\u00e6ldelseslovens \u00a7 6. For indl\u00e5n i pengeinstitutter er for\u00e6ldelsesfristen 20 \u00e5r fra seneste kontobev\u00e6gelse jf. for\u00e6ldelseslovens \u00a7 7. N\u00e5r en fordring er sikret ved kaution, for\u00e6ldes kautionen ligesom den fordring, der kautioneres for. Det vil sige, at kaution for pengel\u00e5n for\u00e6ldes efter 10 \u00e5r.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west10.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er den almindelige for\u00e6ldelsesfrist?"
+    },
+    {
+      "answers": [
+        "At debitor kan forf\u00f8lge sit krav over for kreditor.",
+        "At kreditor ikke l\u00e6ngere kan forf\u00f8lge sit krav over for debitor.",
+        "At kreditor kan forf\u00f8lge sit krav over en anden kreditor.",
+        "At kreditor kan forf\u00f8lge sit krav over for debitor."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "At kreditor ikke l\u00e6ngere kan forf\u00f8lge sit krav over for debitor. Der g\u00e6lder s\u00e5ledes en almindelig uskreven passivitetsgrunds\u00e6tning i dansk ret. Passivitetsgrunds\u00e6tninger hviler p\u00e5 sp\u00f8rgsm\u00e5let om, hvorvidt kreditor ved at forholde sig passiv i en l\u00e6ngere periode har givet debitor en berettiget forventning om, at kreditor ikke har til hensigt at forf\u00f8lge sit krav. Hvis man som debitor vil p\u00e5ber\u00e5be sig en ulovf\u00e6stet passivitetsgrunds\u00e6tning som grundlag for, at kreditor ikke l\u00e6ngere har en ret til at kr\u00e6ve betaling skal der udover at v\u00e6re passeret en l\u00e6ngere rum tid ogs\u00e5 v\u00e6re nogle andre forhold der g\u00f8r, at debitor ikke l\u00e6ngere regnede med, at kreditor havde til hensigt at forf\u00f8lge sit krav: 1. Er debitor i god tro? 2. Skyldes vildfarelsen vedr\u00f8rende betaling overvejende kreditors forhold? 3. Er fejlen opdaget og rettet hurtigt?<<br>Andre forhold skal vurderes ud fra den konkrete situation.<<br>Det kan s\u00e5ledes ikke udelukkes, at domstolene i en konkret situation finder, at kreditor har fortabt sin ret til at kr\u00e6ve betaling p\u00e5 baggrund af passivitetsbetragtninger.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/ophr-af-fordringer.html\" target=\"_blank\">Du kan l\u00e6se mere om oph\u00f8r af fordringer, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/ophr-af-fordringer.html</a><br>"
+      },
+      "image": "img/west11.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad betyder den ulovf\u00e6stede \u0094passivitetsgrunds\u00e6tning\u0094?"
+    }
+  ],
+  "title": "Oph\u00f8r af fordringer",
+  "url": null
+}

@@ -1,5 +1,5 @@
-Kap. 24 Arveretten 
-1) "Parentelsystemet", hvad menes der med det? 
+Kap. 24 Arveretten
+1) "Parentelsystemet", hvad menes der med det?
 - Med parentelsystemet menes der opdeling af køn i arveklasser.
 - Med parentelsystemet menes der opdeling af børnene i arveklasser.
 *  Med parentelsystemet menes der opdeling af slægten i arveklasser.
@@ -11,14 +11,14 @@ Vores arvesystem kaldes også for "parentelsystemet" med opdeling af slægten i ar
 - At arvingen er 4 år.
 * At arvingen har overlevet arveladeren.
 En betingelse for at arve er, at arvingen har overlevet arveladeren.
-Bevis for arveladerens død vil i almindelighed let kunne føres ved fremlæggelse af en dødsattest. Hvis en sådan ikke kan tilvejebringes, kan en domstol undertiden statuere, at en person er død eller må anses for død (såkaldt dødsformodningsdom). Beviset for, at arvingen har overlevet den afdøde, kan give vanskeligheder i visse tilfælde. Er der ikke vished for, at en bortebleven person har overlevet afdøde, afsættes kun arv til den pågældende, hvis der er nogen sandsynlighed for, at han/hun er i live. Er der vished for, at arvingen har overlevet afdøde, afsættes derimod arvelod, uanset om arvingens opholdssted måtte være ukendt. Hvis to personer, som havde arveret efter hinanden, er døde, uden at det vides, hvem der er død først, anses den ene ikke for at have overlevet den anden. Reglen har praktisk betydning fx ved trafikulykker, hvor ægtefæller omkommer. Et barn, som er avlet forinden dødsfaldet og senere fødes levende, har også arveret. Den gravide kvindes foster er således arveberettiget. Det siges, at "arven er faldet", når kravet på arv kan overføres ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens død eller indgå i arvingens eventuelle separations- eller skilsmissebo. Dette tidspunkt indtræder som regel ved arveladers død. 
+Bevis for arveladerens død vil i almindelighed let kunne føres ved fremlæggelse af en dødsattest. Hvis en sådan ikke kan tilvejebringes, kan en domstol undertiden statuere, at en person er død eller må anses for død (såkaldt dødsformodningsdom). Beviset for, at arvingen har overlevet den afdøde, kan give vanskeligheder i visse tilfælde. Er der ikke vished for, at en bortebleven person har overlevet afdøde, afsættes kun arv til den pågældende, hvis der er nogen sandsynlighed for, at han/hun er i live. Er der vished for, at arvingen har overlevet afdøde, afsættes derimod arvelod, uanset om arvingens opholdssted måtte være ukendt. Hvis to personer, som havde arveret efter hinanden, er døde, uden at det vides, hvem der er død først, anses den ene ikke for at have overlevet den anden. Reglen har praktisk betydning fx ved trafikulykker, hvor ægtefæller omkommer. Et barn, som er avlet forinden dødsfaldet og senere fødes levende, har også arveret. Den gravide kvindes foster er således arveberettiget. Det siges, at "arven er faldet", når kravet på arv kan overføres ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens død eller indgå i arvingens eventuelle separations- eller skilsmissebo. Dette tidspunkt indtræder som regel ved arveladers død.
 
 3) Hvor mange arveklasser finder dér?
 - Arven fordeles til arveklasse 1, 2, 3 eller 4.
 * Arven fordeles til arveklasse 1, 2 eller 3.
 - Arven fordeles til arveklasse 1 eller 2.
 - Arven fordeles til arveklasse 1, 2, 3, 4 eller 5.
-Arven fordeles til arveklasse 1, 2 eller 3. Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3. Ægtefælle har også legal arveret. Arvelader kan selv få indflydelse på fordeling af arven ved at oprette testamente. 
+Arven fordeles til arveklasse 1, 2 eller 3. Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3. Ægtefælle har også legal arveret. Arvelader kan selv få indflydelse på fordeling af arven ved at oprette testamente.
 
 4) Hvad sker der med arven, hvis der ikke er nogen arvinger?
 - Er der ingen arvinger efter arvelov eller testamente tilfalder arven Kattens Værn.
@@ -34,7 +34,7 @@ Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen
 - Den består af alle arvingerne.
 Arveklasse 1 er "livsarvinger", som er børn, børnebørn, oldebørn osv., jf. AL § 1. Børnene arver lige. Er et af børnene døde, træder dette barns livsarvinger i stedet og arver lige ¼ af arven er tvangsarv, jf. AL § 5.
 Børns arv kan begrænses til 1 mio. kr., jf. AL § 5, stk. 2. (1.290.000 kr. i 2019). AL § 1 omhandler således arv til 1. arveklasse, dvs. arveladerens livsarvinger (tvangsarvinger), som er arveladerens nærmeste slægtsarvinger. Børnelinjen omfatter børn, børnebørn, oldebørn osv. Slægtskab foreligger mellem en mor og hendes barn og mellem barnet og den mand, der er barnets retlige far. Det er en forudsætning at faderskabet er fastslået inden dødsfaldet eller efterfølgende bliver det. arver lige.
-Er et barn død, træder dets børn i dets sted og arver indbyrdes lige. På tilsvarende måde arver fjernere livsarvinger. 
+Er et barn død, træder dets børn i dets sted og arver indbyrdes lige. På tilsvarende måde arver fjernere livsarvinger.
 
 6) Hvad betyder ”Stirpalgrundsætningen”?
 - Det betyder, at arven inden for hver arveklasse fordeles i »hoveder« og ikke efter »stammer«.
@@ -42,9 +42,9 @@ Er et barn død, træder dets børn i dets sted og arver indbyrdes lige. På tilsvar
 * Det betyder, at arven inden for hver arveklasse fordeles i »stammer« og ikke efter »hoveder«.
 - Det betyder, at arven tilfalder arveladeren.
 Denne såkaldte "stirpal-grundsætning" betyder, at arven inden for hver arveklasse fordeles i »stammer« og ikke efter »hoveder«. Stirpalgrundsætningen fordelingen af arven efter stammer og linjér (in stirpes et lineas). Hvis fx arveladeren efterlader sig en datter og en afdød søns 2 børn, arver datteren halvdelen af boet, mens de 2 børnebørn skal dele den anden halvdel med en fjerdedel til hver. Hvis man delte efter antal hoveder (in capita), ville de hver arve en tredjedel.
-Børnebørn arver således ikke, så længe barnet lever. Når børnebørnene arver, må de »deles« om det afdøde barns arv - det såkaldte »repræsentationsprincip«. På tilsvarende måde arver fjernere livsarvinger (oldebørn mv.). 
+Børnebørn arver således ikke, så længe barnet lever. Når børnebørnene arver, må de »deles« om det afdøde barns arv - det såkaldte »repræsentationsprincip«. På tilsvarende måde arver fjernere livsarvinger (oldebørn mv.).
 
-7) Hvem består ”arveklasse 2” af?  
+7) Hvem består ”arveklasse 2” af?
 - Arveklasse 2 er arveladers venner.
 - Arveklasse 2 er arveladers tidligere kærester.
 * Arveklasse 2 er arveladers forældre og disses efterkommere.
@@ -56,8 +56,8 @@ Arveklasse 2 er arveladers forældre, og disses efterkommere jf. AL § 2. Forældre
 * Arveklasse 3 er arveladers bedsteforældre.
 - Arveklasse 3 er arveladers oldeforældre.
 - Arveklasse 3 er arveladers debitorer.
-Arveklasse 3 er arveladers bedsteforældre, jf. AL § 3. Arven fordeles med halvdelen til moderens forældre og halvdelen til faderens forældre. Er en af bedsteforældrene døde, træder dennes børn (arveladers faster, moster osv.) i stedet og arver lige. Bedsteforældre børnebørn (fætre og kusiner) arver ikke. Arveklasse 3 er ikke tvangsarvinger. Lever alle 4 bedsteforældre deles arven i 4 portioner. Er en af bedsteforældrene død, træder dennes børn i stedet efter ”repræsentationsprincippet”. Arveladers farbrødre, fastre, mostre og morbrødre kan således være legale arvinger. 
-Er farfaren død og efterlader sig to børn, arver disse således 1/8. Derimod falder arven ikke videre til fjernere livsarvinger. Arveladerens kusiner og fætre samt deres børn er således ikke legale arvinger. Arven mellem bedsteforældrelinien på fædrene side og bedsteforældrene på mødrene side sker efter stirpal-grundsætningen i § 2, og fordeles således ud i 1/4 til hhv. farfaren eller dennes børn, farmoren eller dennes børn, mormoren eller dennes børn samt morfaren eller dennes børn. Er der kun arvinger på fædrene eller mødrene side, deles arven ud med ½ til hver af disse eller deres børn. Efterlades en mormor og to fastre, arver mormoren således ½ og fastrene 1/4, mens fætre og kusiner ikke arver.  
+Arveklasse 3 er arveladers bedsteforældre, jf. AL § 3. Arven fordeles med halvdelen til moderens forældre og halvdelen til faderens forældre. Er en af bedsteforældrene døde, træder dennes børn (arveladers faster, moster osv.) i stedet og arver lige. Bedsteforældre børnebørn (fætre og kusiner) arver ikke. Arveklasse 3 er ikke tvangsarvinger. Lever alle 4 bedsteforældre deles arven i 4 portioner. Er en af bedsteforældrene død, træder dennes børn i stedet efter ”repræsentationsprincippet”. Arveladers farbrødre, fastre, mostre og morbrødre kan således være legale arvinger.
+Er farfaren død og efterlader sig to børn, arver disse således 1/8. Derimod falder arven ikke videre til fjernere livsarvinger. Arveladerens kusiner og fætre samt deres børn er således ikke legale arvinger. Arven mellem bedsteforældrelinien på fædrene side og bedsteforældrene på mødrene side sker efter stirpal-grundsætningen i § 2, og fordeles således ud i 1/4 til hhv. farfaren eller dennes børn, farmoren eller dennes børn, mormoren eller dennes børn samt morfaren eller dennes børn. Er der kun arvinger på fædrene eller mødrene side, deles arven ud med ½ til hver af disse eller deres børn. Efterlades en mormor og to fastre, arver mormoren således ½ og fastrene 1/4, mens fætre og kusiner ikke arver.
 
 9) Hvad er et ”notartestamente”?
 - Et testamente oprettet foran en notar hos kommunen.
@@ -79,5 +79,3 @@ Et vidnetestamente er et testamente, der underskrives under tilstedeværelse af t
 * Et nødtestamente oprettet uden vidner, men skrevet og underskrevet egenhændigt af testator.
 - Et nødtestamente oprettet uden vidner, men ikke underskrevet egenhændigt af testator.
 ”Holografisk testamente”, i dansk ret et nødtestamente oprettet uden vidner, men skrevet og underskrevet egenhændigt af testator. Betingelser ved oprettelsen af et nødtestamente: Kræver en nødsituation. Ingen formkrav. Bortfalder efter tre måneder. En nødsituation kunne f.eks. blodprop eller umiddelbart før en stor operation. Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslutning om selvmord.
-
-

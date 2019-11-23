@@ -31,6 +31,21 @@
     },
     {
       "answers": [
+        "Arven fordeles til arveklasse 1, 2, 3 eller 4.",
+        "Arven fordeles til arveklasse 1, 2 eller 3.",
+        "Arven fordeles til arveklasse 1 eller 2.",
+        "Arven fordeles til arveklasse 1, 2, 3, 4 eller 5."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Arven fordeles til arveklasse 1, 2 eller 3. Er der ingen arvinger i arveklasse 1 g\u00e5r man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3. \u00c6gtef\u00e6lle har ogs\u00e5 legal arveret. Arvelader kan selv f\u00e5 indflydelse p\u00e5 fordeling af arven ved at oprette testamente.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+      },
+      "image": "img/elvis3.gif",
+      "number": 3,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvor mange arveklasser finder d\u00e9r?"
+    },
+    {
+      "answers": [
         "Er der ingen arvinger efter arvelov eller testamente tilfalder arven Kattens V\u00e6rn.",
         "Er der ingen arvinger efter arvelov eller testamente tilfalder arven Kongehuset.",
         "Er der ingen arvinger efter arvelov eller testamente tilfalder arven Rigsf\u00e6llesskabet.",
@@ -43,6 +58,108 @@
       "image": "img/elvis4.gif",
       "number": 4,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad sker der med arven, hvis der ikke er nogen arvinger?"
+    },
+    {
+      "answers": [
+        "Den best\u00e5r af arveladeren.",
+        "Den best\u00e5r af \"livsarvinger\", som er b\u00f8rn, b\u00f8rneb\u00f8rn, oldeb\u00f8rn osv.",
+        "Den best\u00e5r af nuv\u00e6rende og evt. tidligere \u00e6gtef\u00e6ller.",
+        "Den best\u00e5r af alle arvingerne."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Arveklasse 1 er \"livsarvinger\", som er b\u00f8rn, b\u00f8rneb\u00f8rn, oldeb\u00f8rn osv., jf. AL \u00a7 1. B\u00f8rnene arver lige. Er et af b\u00f8rnene d\u00f8de, tr\u00e6der dette barns livsarvinger i stedet og arver lige \u00bc af arven er tvangsarv, jf. AL \u00a7 5.<br>B\u00f8rns arv kan begr\u00e6nses til 1 mio. kr., jf. AL \u00a7 5, stk. 2. (1.290.000 kr. i 2019). AL \u00a7 1 omhandler s\u00e5ledes arv til 1. arveklasse, dvs. arveladerens livsarvinger (tvangsarvinger), som er arveladerens n\u00e6rmeste sl\u00e6gtsarvinger. B\u00f8rnelinjen omfatter b\u00f8rn, b\u00f8rneb\u00f8rn, oldeb\u00f8rn osv. Sl\u00e6gtskab foreligger mellem en mor og hendes barn og mellem barnet og den mand, der er barnets retlige far. Det er en foruds\u00e6tning at faderskabet er fastsl\u00e5et inden d\u00f8dsfaldet eller efterf\u00f8lgende bliver det. arver lige.<<br>Er et barn d\u00f8d, tr\u00e6der dets b\u00f8rn i dets sted og arver indbyrdes lige. P\u00e5 tilsvarende m\u00e5de arver fjernere livsarvinger.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+      },
+      "image": "img/elvis5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvem best\u00e5r \u0094arveklasse 1\u0094 af?"
+    },
+    {
+      "answers": [
+        "Det betyder, at arven inden for hver arveklasse fordeles i \u00bbhoveder\u00ab og ikke efter \u00bbstammer\u00ab.",
+        "Det betyder, at arven tilfalder statskassen.",
+        "Det betyder, at arven inden for hver arveklasse fordeles i \u00bbstammer\u00ab og ikke efter \u00bbhoveder\u00ab.",
+        "Det betyder, at arven tilfalder arveladeren."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Denne s\u00e5kaldte \"stirpal-grunds\u00e6tning\" betyder, at arven inden for hver arveklasse fordeles i \u00bbstammer\u00ab og ikke efter \u00bbhoveder\u00ab. Stirpalgrunds\u00e6tningen fordelingen af arven efter stammer og linj\u00e9r (in stirpes et lineas). Hvis fx arveladeren efterlader sig en datter og en afd\u00f8d s\u00f8ns 2 b\u00f8rn, arver datteren halvdelen af boet, mens de 2 b\u00f8rneb\u00f8rn skal dele den anden halvdel med en fjerdedel til hver. Hvis man delte efter antal hoveder (in capita), ville de hver arve en tredjedel.<<br>B\u00f8rneb\u00f8rn arver s\u00e5ledes ikke, s\u00e5 l\u00e6nge barnet lever. N\u00e5r b\u00f8rneb\u00f8rnene arver, m\u00e5 de \u00bbdeles\u00ab om det afd\u00f8de barns arv - det s\u00e5kaldte \u00bbrepr\u00e6sentationsprincip\u00ab. P\u00e5 tilsvarende m\u00e5de arver fjernere livsarvinger (oldeb\u00f8rn mv.).<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+      },
+      "image": "img/elvis6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder \u0094Stirpalgrunds\u00e6tningen\u0094?"
+    },
+    {
+      "answers": [
+        "Arveklasse 2 er arveladers venner.",
+        "Arveklasse 2 er arveladers tidligere k\u00e6rester.",
+        "Arveklasse 2 er arveladers for\u00e6ldre og disses efterkommere.",
+        "Arveklasse 2 er arveladers kreditorer."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Arveklasse 2 er arveladers for\u00e6ldre, og disses efterkommere jf. AL \u00a7 2. For\u00e6ldrene arver lige. Er en af for\u00e6ldrene d\u00f8d, tr\u00e6der dennes b\u00f8rn (arveladers s\u00f8skende) i stedet og arver lige. Der bliver p\u00e5 denne m\u00e5de forskel p\u00e5 hel- og halvs\u00f8skende. Arveklasse 2 er ikke tvangsarvinger, s\u00e5 kan arvelader selv bestemme ved testamente hvad der skal ske med formuen. Hvis der ikke er oprettet testamente s\u00e5 f\u00f8lger arven arveklasserne. Bestemmelsen i AL \u00a7 2 omhandler s\u00e5ledes arv til 2. arveklasse - for\u00e6ldrelinjen. Hvis arveladeren ikke efterlader sig livsarvinger, tilfalder arven anden arveklasse, som ogs\u00e5 kaldes \"udarvinger\"; som er arveladerens arveberettigede sl\u00e6gtninge, bortset fra arveladerens livsarvinger, fx afd\u00f8des for\u00e6ldre, s\u00f8skende og s\u00f8skendeb\u00f8rn. Arveklasse 2 udg\u00f8res s\u00e5ledes af afd\u00f8des for\u00e6ldre og disses efterkommere, dvs. arveladerens s\u00f8skende, nev\u00f8er og niecer osv. Et \"kollateralt sl\u00e6gtskab\" er et sl\u00e6gtskab i sidelinien, dvs. hvor personer har f\u00e6lles ophav, fx s\u00f8skende. Lever begge arveladerens for\u00e6ldre, arver de hver halvdelen, hvis arvelader ikke efterlader sig nogen livsarvinger.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+      },
+      "image": "img/elvis7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvem best\u00e5r \u0094arveklasse 2\u0094 af?"
+    },
+    {
+      "answers": [
+        "Arveklasse 3 er arveladers husdyr.",
+        "Arveklasse 3 er arveladers bedstefor\u00e6ldre.",
+        "Arveklasse 3 er arveladers oldefor\u00e6ldre.",
+        "Arveklasse 3 er arveladers debitorer."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Arveklasse 3 er arveladers bedstefor\u00e6ldre, jf. AL \u00a7 3. Arven fordeles med halvdelen til moderens for\u00e6ldre og halvdelen til faderens for\u00e6ldre. Er en af bedstefor\u00e6ldrene d\u00f8de, tr\u00e6der dennes b\u00f8rn (arveladers faster, moster osv.) i stedet og arver lige. Bedstefor\u00e6ldre b\u00f8rneb\u00f8rn (f\u00e6tre og kusiner) arver ikke. Arveklasse 3 er ikke tvangsarvinger. Lever alle 4 bedstefor\u00e6ldre deles arven i 4 portioner. Er en af bedstefor\u00e6ldrene d\u00f8d, tr\u00e6der dennes b\u00f8rn i stedet efter \u0094repr\u00e6sentationsprincippet\u0094. Arveladers farbr\u00f8dre, fastre, mostre og morbr\u00f8dre kan s\u00e5ledes v\u00e6re legale arvinger.<<br>Er farfaren d\u00f8d og efterlader sig to b\u00f8rn, arver disse s\u00e5ledes 1/8. Derimod falder arven ikke videre til fjernere livsarvinger. Arveladerens kusiner og f\u00e6tre samt deres b\u00f8rn er s\u00e5ledes ikke legale arvinger. Arven mellem bedstefor\u00e6ldrelinien p\u00e5 f\u00e6drene side og bedstefor\u00e6ldrene p\u00e5 m\u00f8drene side sker efter stirpal-grunds\u00e6tningen i \u00a7 2, og fordeles s\u00e5ledes ud i 1/4 til hhv. farfaren eller dennes b\u00f8rn, farmoren eller dennes b\u00f8rn, mormoren eller dennes b\u00f8rn samt morfaren eller dennes b\u00f8rn. Er der kun arvinger p\u00e5 f\u00e6drene eller m\u00f8drene side, deles arven ud med \u00bd til hver af disse eller deres b\u00f8rn. Efterlades en mormor og to fastre, arver mormoren s\u00e5ledes \u00bd og fastrene 1/4, mens f\u00e6tre og kusiner ikke arver.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+      },
+      "image": "img/elvis8.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvem best\u00e5r \u0094arveklasse 3\u0094 af?"
+    },
+    {
+      "answers": [
+        "Et testamente oprettet foran en notar hos kommunen.",
+        "Et testamente oprettet foran en notar i byretten.",
+        "Et testamente oprettet foran en notar p\u00e5 en offentlig auktion.",
+        "Et testamente oprettet foran en notar i kirken."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Et testamente oprettet foran en notar i byretten. Notaren (i Byretten) p\u00e5tegner testamentet og kontrollerer testators identitet, fornuft, mv. Registrerer testamentet i Centralregistret for testamenter. Notartestamentet er sv\u00e6rt at anf\u00e6gte i praksis. En \"bortkomstklausul\" er en klausul i et notartestamente om, at den underskrevne genpart af testamentet, som opbevares i skifteretten, skal have samme gyldighed som originaleksemplaret. Ved underskrift af testamente skal man ud over originalen medbringe en kopi af testamentet. Man skal medbringe billedlegitimation med cpr.nr. Notaren skal sikre sig, at man forst\u00e5r testamentets betydning. Det kan for eksempel ske ved at tale om testamentets indhold. Det er ikke notarens opgave at godkende testamentet. B\u00e5de originalen og kopien skal skrives under hos notaren.<<br>Retsafgiften er 300 kr. Retten beholder kopien og underretter et centralt register om, at testamentet er oprettet.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+      },
+      "image": "img/elvis9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er et \u0094notartestamente\u0094?"
+    },
+    {
+      "answers": [
+        "* Et vidnetestamente er et testamente, der underskrives under tilstedev\u00e6relse af to uvildige vidner.",
+        "Et vidnetestamente er et testamente, der underskrives under tilstedev\u00e6relse af to n\u00e6rtst\u00e5ende vidner.",
+        "Et vidnetestamente er et testamente, der underskrives under tilstedev\u00e6relse af tre uvildige vidner."
+      ],
+      "correct": {
+        "text": "Et vidnetestamente er et testamente, der underskrives under tilstedev\u00e6relse af to uvildige vidner. I den tilh\u00f8rende vidnep\u00e5tegning skal vidnerne skrive under p\u00e5, at de sammen har overv\u00e6ret underskrivelsen af testamentet samt at testator var fornuftsm\u00e6ssig i stand til at r\u00e5de over sin formue ved testamente. To vitterlighedsvidner, som ikke selv m\u00e5 v\u00e6re begunstiget i testamentet. Vidnerne kontrollerer testators underskrift, fornuft mv. En person kan s\u00e5ledes ikke v\u00e6re testamentsvidne, hvis:<<br>Testamentet begunstiger den p\u00e5g\u00e6ldende eller dennes \u00e6gtef\u00e6lle, samlever, besl\u00e6gtede eller besvogrede i op- eller nedstigende linje, s\u00f8skende eller andre n\u00e6rst\u00e5ende. (Forlovede vil sammen med k\u00e6rester og - efter en konkret vurdering - fjernere besl\u00e6gtede blive anset for at v\u00e6re n\u00e6rst\u00e5ende), Testamentet begunstiger en person eller institution, som den p\u00e5g\u00e6ldende ved testamentets oprettelse har en s\u00e5dan tilknytning til, at testamentsvidnet har haft en s\u00e6rlig interesse i begunstigelsen, eller Der i \u00f8vrigt foreligger omst\u00e6ndigheder, som er egnede til at v\u00e6kke tvivl om den p\u00e5g\u00e6ldendes habilitet. Hvis et testamentsvidne har medvirket til oprettelse af et testamente i strid med AL \u00a7 64, stk. 3, nr. 1-3, er testamentet s\u00e5ledes anf\u00e6gteligt. Bevisbyrden p\u00e5hviler den, der vil arve, hvis testamentet tilsides\u00e6ttes.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+      },
+      "image": "img/elvis10.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er et \u0094vidnetestamente\u0094?"
+    },
+    {
+      "answers": [
+        "Et n\u00f8dtestamente oprettet med vidner, men ogs\u00e5 skrevet og underskrevet egenh\u00e6ndigt af testator.",
+        "Et n\u00f8dtestamente oprettet uden vidner, men skrevet og underskrevet egenh\u00e6ndigt af testator.",
+        "Et n\u00f8dtestamente oprettet uden vidner, men ikke underskrevet egenh\u00e6ndigt af testator."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "\u0094Holografisk testamente\u0094, i dansk ret et n\u00f8dtestamente oprettet uden vidner, men skrevet og underskrevet egenh\u00e6ndigt af testator. Betingelser ved oprettelsen af et n\u00f8dtestamente: Kr\u00e6ver en n\u00f8dsituation. Ingen formkrav. Bortfalder efter tre m\u00e5neder. En n\u00f8dsituation kunne f.eks. blodprop eller umiddelbart f\u00f8r en stor operation. Andre n\u00f8dstilf\u00e6lde kan v\u00e6re et synkende skib, en naturkatastrofe, samt beslutning om selvmord.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+      },
+      "image": "img/elvis11.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er et \u0094n\u00f8dtestamente\u0094?"
     }
   ],
   "title": "Arveretten",

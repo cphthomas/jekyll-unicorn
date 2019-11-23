@@ -2,20 +2,6 @@
   "questions": [
     {
       "answers": [
-        "Med parentelsystemet menes der opdeling af k\u00f8n i arveklasser.",
-        "Med parentelsystemet menes der opdeling af b\u00f8rnene i arveklasser.",
-        "Med parentelsystemet menes der opdeling af sl\u00e6gten i arveklasser."
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Vores arvesystem kaldes ogs\u00e5 for \"parentelsystemet\" med opdeling af sl\u00e6gten i arveklasser. F\u00f8rste parentel er arveladerens livsarvinger, hvis der ikke er nogen, s\u00e5 g\u00e5r arven videre til: Andet parentel er arveladerens for\u00e6ldre og disses livsarvinger, hvis der ikke er nogen, s\u00e5 g\u00e5r arven videre til: Tredje parentel er arveladerens bedstefor\u00e6ldre og disses livsarvinger.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
-      },
-      "image": "img/elvis1.gif",
-      "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>\"Parentelsystemet\", hvad menes der med det?"
-    },
-    {
-      "answers": [
         "Uanset \u00e6gteskabets indg\u00e5else s\u00e5 r\u00e5der manden stadig over de aktiver, som den p\u00e5g\u00e6ldende st\u00e5r som ejer af.",
         "Uanset \u00e6gteskabets indg\u00e5else s\u00e5 r\u00e5der kvinden stadig over de aktiver, som den p\u00e5g\u00e6ldende st\u00e5r som ejer af.",
         "Uanset \u00e6gteskabets indg\u00e5else s\u00e5 r\u00e5der \u00e6gtef\u00e6llerne stadig over de aktiver, som den p\u00e5g\u00e6ldende st\u00e5r som ejer af, hvis der ikke er b\u00f8rn i \u00e6gteskabet.",

@@ -2,238 +2,153 @@
   "questions": [
     {
       "answers": [
-        "Med parentelsystemet menes der opdeling af k\u00f8n i arveklasser.",
-        "Med parentelsystemet menes der opdeling af b\u00f8rnene i arveklasser.",
-        "Med parentelsystemet menes der opdeling af sl\u00e6gten i arveklasser."
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Vores arvesystem kaldes ogs\u00e5 for \"parentelsystemet\" med opdeling af sl\u00e6gten i arveklasser. F\u00f8rste parentel er arveladerens livsarvinger, hvis der ikke er nogen, s\u00e5 g\u00e5r arven videre til: Andet parentel er arveladerens for\u00e6ldre og disses livsarvinger, hvis der ikke er nogen, s\u00e5 g\u00e5r arven videre til: Tredje parentel er arveladerens bedstefor\u00e6ldre og disses livsarvinger.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
-      },
-      "image": "img/elvis1.gif",
-      "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>\"Parentelsystemet\", hvad menes der med det?"
-    },
-    {
-      "answers": [
-        "Uanset \u00e6gteskabets indg\u00e5else s\u00e5 r\u00e5der manden stadig over de aktiver, som den p\u00e5g\u00e6ldende st\u00e5r som ejer af.",
-        "Uanset \u00e6gteskabets indg\u00e5else s\u00e5 r\u00e5der kvinden stadig over de aktiver, som den p\u00e5g\u00e6ldende st\u00e5r som ejer af.",
-        "Uanset \u00e6gteskabets indg\u00e5else s\u00e5 r\u00e5der \u00e6gtef\u00e6llerne stadig over de aktiver, som den p\u00e5g\u00e6ldende st\u00e5r som ejer af, hvis der ikke er b\u00f8rn i \u00e6gteskabet.",
-        "Uanset \u00e6gteskabets indg\u00e5else s\u00e5 r\u00e5der hver \u00e6gtef\u00e6lle stadig over de aktiver, som den p\u00e5g\u00e6ldende st\u00e5r som ejer af."
-      ],
-      "correct": {
-        "index": 3,
-        "text": "S\u00e6rr\u00e5den betyder, at uanset \u00e6gteskabets indg\u00e5else s\u00e5 r\u00e5der hver \u00e6gtef\u00e6lle stadig over de aktiver, som den p\u00e5g\u00e6ldende st\u00e5r som ejer af. St\u00e5r bilen i mandens navn kan manden alts\u00e5 frit s\u00e6lge den uden at sp\u00f8rge sin \u00e6gtef\u00e6lle. St\u00e5r bilen derimod i hans \u00e6gtef\u00e6lles navn er det kun hans \u00e6gtef\u00e6lle, der kan s\u00e6lge bilen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
-      },
-      "image": "img/elvis1.gif",
-      "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad menes der med at \u00e6gtef\u00e6llerne har \u0094s\u00e6rr\u00e5den\u0094?"
-    },
-    {
-      "answers": [
-        "At hver \u00e6gtef\u00e6lle, uanset \u00e6gteskabets indg\u00e5else, alene h\u00e6fter for sin egen g\u00e6ld.",
-        "At manden, uanset \u00e6gteskabets indg\u00e5else, alene h\u00e6fter for sin egen g\u00e6ld.",
-        "At kvinden, uanset \u00e6gteskabets indg\u00e5else, alene h\u00e6fter for sin egen g\u00e6ld.",
-        "Hvis der ikke er b\u00f8rn i \u00e6gteskabet, skal hver \u00e6gtef\u00e6lle, uanset \u00e6gteskabets indg\u00e5else, alene h\u00e6fter for sin egen g\u00e6ld."
+        "Det har ingen umiddelbare civilretlige virkninger.",
+        "Det har umiddelbare civilretlige virkninger.",
+        "Det kommer an p\u00e5, hvad der er aftalt mellem parterne."
       ],
       "correct": {
         "index": 0,
-        "text": "Princippet om s\u00e6rh\u00e6ften betyder, at hver \u00e6gtef\u00e6lle, uanset \u00e6gteskabets indg\u00e5else, alene h\u00e6fter for sin egen g\u00e6ld. Det, at man indg\u00e5r \u00e6gteskab betyder alts\u00e5 som klart udgangspunkt ikke, at man kommer til at h\u00e6fte for sin \u00e6gtef\u00e6lles g\u00e6ld. En enkelt generel undtagelse fra denne hovedregel er dog skatteg\u00e6ld, som den ene part opbygger under \u00e6gteskabet. Her er den anden part medh\u00e6ftende p\u00e5 grund af princippet om sambeskatning af \u00e6gtef\u00e6ller. I alle \u00f8vrige forhold har det til geng\u00e6ld stor betydning hvem af \u00e6gtef\u00e6llerne der st\u00e5r som ejer af de enkelte aktiver og hvem der h\u00e6fter for g\u00e6lden.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "text": "En overtr\u00e6delse af reglerne om god skik indeb\u00e6rer s\u00e5ledes ikke uden videre, at den konkrete aftale mellem finansiel virksomhed og kunden er ugyldig eller uvirksom. Manglende overholdelse vil dog kunne have en afsmittende virkning p\u00e5 visse civilretlige forhold, jf. fx. i forhold til aftalelovens \u00a7\u00a7 38c, jf. 36. Disse sp\u00f8rgsm\u00e5l afg\u00f8res af de private godkendte finansielle anken\u00e6vn, s\u00e5som Det Finansielle Anken\u00e6vn og Anken\u00e6vnet for Forsikring, og i den sidste ende af domstolene.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om god skid, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html</a><br>"
       },
-      "image": "img/elvis2.gif",
-      "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad betyder det at \u00e6gtef\u00e6llerne har \u0094s\u00e6rh\u00e6ften\u0094?"
+      "image": "img/dans20.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvilke civilretlige konsekvenser har det n\u00e5r en finansiel virksomhed overtr\u00e6der god-skik reglerne p\u00e5 et givent omr\u00e5de?"
     },
     {
       "answers": [
-        "\u00c6gtef\u00e6ller kan under \u00e6gteskabet indg\u00e5 aftaler med hinanden, give hinanden gaver og p\u00e5drage sig forpligtelser over for hinanden.<<br>- Nej, \u00e6gtef\u00e6ller kan ikke under \u00e6gteskabet indg\u00e5 aftaler med hinanden, give hinanden gaver og p\u00e5drage sig forpligtelser over for hinanden, medmindre Familieretshuset giver tilladelse.",
-        "Ja, \u00e6gtef\u00e6ller kan under \u00e6gteskabet indg\u00e5 aftaler med hinanden, give hinanden gaver og p\u00e5drage sig forpligtelser over for hinanden, hvis der er b\u00f8rn i \u00e6gteskabet.",
-        "Nej, \u00e6gtef\u00e6ller kan under \u00e6gteskabet indg\u00e5 aftaler med hinanden, give hinanden gaver og p\u00e5drage sig forpligtelser over for hinanden, medmindre domstolene giver tilladelse."
+        "Et pengeinstitut kan ikke uden en individuel og saglig begrundelse n\u00e6gte at oprette en basal indl\u00e5nskonto til en privatkunde.",
+        "Ja, et pengeinstitut kan n\u00e6gte at oprette en basal indl\u00e5nskonto til en privatkunde.",
+        "Ja, et pengeinstitut kan n\u00e6gte at oprette en basal indl\u00e5nskonto til en privatkunde, hvis kunden ikke har et dansk statsborgerskab.",
+        "Ja, et pengeinstitut kan n\u00e6gte at oprette en basal indl\u00e5nskonto til en privatkunde, hvis kunden ikke vil modtage pengeinstituttet markedsf\u00f8ringsmateriale."
       ],
       "correct": {
         "index": 0,
-        "text": "\u00c6gtef\u00e6llernes adgang til at indg\u00e5 aftaler og p\u00e5drage sig forpligtelser over for hinanden reguleres af \u00c6L \u00a7 2. Efter \u00a7 2, stk. 1, kan \u00e6gtef\u00e6ller under \u00e6gteskabet indg\u00e5 aftaler med hinanden, give hinanden gaver og p\u00e5drage sig forpligtelser over for hinanden med de undtagelser, der f\u00f8lger af \u00c6L \u00a7 2, stk. 2 og 3 samt konkurslovens \u00a7 64. Der kan f.eks. ske overdragelse af aktiver fra den ene \u00e6gtef\u00e6lle til den anden \u00e6gtef\u00e6lle, leje af hinandens aktiver, ydelse af l\u00e5n og ans\u00e6ttelse af den ene \u00e6gtef\u00e6lle i den anden \u00e6gtef\u00e6lles virksomhed. Det g\u00e6lder, uanset om de har s\u00e6reje eller delingsformue, at de fx med juridisk gyldighed kan k\u00f8be hinandens ting eller pants\u00e6tte dem til hinanden, indg\u00e5 lejeaftaler og arbejdsaftaler mv., se dommene U 1943 947, U 1931 294 H og U 1930 1 H."
+        "text": "Efter godskik-bekendtg\u00f8relsens \u00a7 15 kan et pengeinstitut ikke uden en individuel og saglig begrundelse n\u00e6gte at oprette en basal indl\u00e5nskonto til en privatkunde.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om god skik, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html</a><br>"
       },
-      "image": "img/elvis3.gif",
+      "image": "img/dans18.gif",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Kan \u00e6gtef\u00e6ller under \u00e6gteskabet indg\u00e5 aftaler med hinanden, give hinanden gaver og p\u00e5drage sig forpligtelser over for hinanden?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Kan et pengeinstitut n\u00e6gte at oprette en basal indl\u00e5nskonto til en privatkunde?"
     },
     {
       "answers": [
-        "Ja, \u00e6gtef\u00e6ller kan p\u00e5drage hinanden erstatningsansvar, hvis de har b\u00f8rn sammen.",
-        "Ja, \u00e6gtef\u00e6ller kan p\u00e5drage hinanden erstatningsansvar.",
-        "Nej, \u00e6gtef\u00e6ller Kan ikke p\u00e5drage hinanden erstatningsansvar"
+        "Mulighed for at inds\u00e6tte og h\u00e6ve kontanter.",
+        "Muligheden for at skrive private noter p\u00e5 kontoen.",
+        "Muligheden for at kunne opn\u00e5 kassekredit.",
+        "Muligheden for at kunne f\u00e5 et checkh\u00e6fte."
       ],
       "correct": {
-        "index": 1,
-        "text": "\u00c6gtef\u00e6llerne kan ogs\u00e5 p\u00e5drage sig forpligtelser over for hinanden uden aftale, fx som f\u00f8lge af, at en \u00e6gtef\u00e6lle uagtsomt eller fors\u00e6tligt forvolder skade p\u00e5 den anden \u00e6gtef\u00e6lles ejendele eller person.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "index": 0,
+        "text": "En basal indl\u00e5nskonto skal som minimum omfatte f\u00f8lgende funktioner: Mulighed for at inds\u00e6tte og h\u00e6ve kontanter. Mulighed for at gennemf\u00f8re betalingstransaktioner med et debetkort med saldokontrol.\tMulighed for indg\u00e5ende kredittransaktioner.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om god skik, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html</a><br>"
       },
-      "image": "img/elvis4.gif",
+      "image": "img/dans17.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Kan \u00e6gtef\u00e6ller p\u00e5drage hinanden kontraktsforpligtelser og erstatningsansvar?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad skal en \u0094basal indl\u00e5nskonto\u0094 bl.a. indeholde?"
     },
     {
       "answers": [
-        "Nej, hvis der ikke er b\u00f8rn i \u00e6gteskabet.",
-        "Ja, hvis der er b\u00f8rn i \u00e6gteskabet.",
-        "Nej, der g\u00e6lder s\u00e6rh\u00e6ften i \u00e6gteskabet.",
-        "Ja, for den anden \u00e6gtef\u00e6lles skatteg\u00e6ld under visse betingelser."
+        "Finanstilsynet",
+        "Forbrugerombudsmanden.",
+        "Erhvervsstyrelsen.",
+        "Erhvervsministeriet."
       ],
       "correct": {
-        "index": 3,
-        "text": "H\u00e6ftelse for den anden \u0094\u00e6gtef\u00e6lles g\u00e6ld\u0094 kan ogs\u00e5 f\u00f8lge af lovgivningen, bl.a. \u00a7 12 i lov om inddrivelse af g\u00e6ld til det offentlige, hvorefter en \u00e6gtef\u00e6lle under visse betingelser h\u00e6fter for den anden \u00e6gtef\u00e6lles skatteg\u00e6ld, og \u00a7 92, stk. 2, i aktivloven, hvorefter \u00e6gtef\u00e6ller h\u00e6fter solidarisk for krav p\u00e5 tilbagebetaling af hj\u00e6lp til betaling af renter og afdrag p\u00e5 l\u00e5n i fast ejendom, selv om kun den ene \u00e6gtef\u00e6lle er ejer af ejendommen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "index": 0,
+        "text": "N\u00e5r Finanstilsynet tr\u00e6ffer en afg\u00f8relse om, at en finansiel virksomhed har overtr\u00e5dt reglerne om god skik p\u00e5 virksomhedsomr\u00e5det, vil Finanstilsynet p\u00e5l\u00e6gge finansiel virksomhed at berigtige forholdet."
       },
-      "image": "img/elvis5.gif",
+      "image": "img/dans16.gif",
       "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Kan en \u00e6gtef\u00e6lle komme til at h\u00e6fte for den andens \u00e6gtef\u00e6lles g\u00e6ld?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvilken myndighed tr\u00e6ffer afg\u00f8relse om overholdelse af godskik for de finansielle virksomheder?"
     },
     {
       "answers": [
-        "Nej, der er ingen retlig forpligtelse mellem \u00e6gtef\u00e6llerne.",
-        "Ja, der er tale om en retlig forpligtelse mellem \u00e6gtef\u00e6llerne.",
-        "Hvis der er b\u00f8rn i \u00e6gteskabet g\u00e6lder der en retlig forpligtelse mellem \u00e6gtef\u00e6llerne."
+        "Fremsende sine sidste 3 m\u00e5neders l\u00f8nsedler.",
+        "Fremsende sin \u00e5rsopg\u00f8relse.",
+        "Hvorvidt der ydes boligl\u00e5n til l\u00e5ntageren.",
+        "Hvorvidt der ydes eller kan ydes r\u00e5dgivning til l\u00e5ntageren."
       ],
       "correct": {
-        "index": 1,
-        "text": "Der er tale om en egentlig \u0094retlig forpligtelse\u0094. Det er imidlertid i h\u00f8j grad overladt til \u00e6gtef\u00e6llerne selv at indrette deres indbyrdes fors\u00f8rgelse efter \u00f8nsker, behov og evner. \u00c6gtef\u00e6llerne aftaler s\u00e5ledes selv den indbyrdes fordeling af familiens udgifter og af fors\u00f8rgelsens form. En \u00e6gtef\u00e6lle kan s\u00e5ledes opfylde sin fors\u00f8rgelsespligt ved pengeydelser, ved arbejde i hjemmet, pasning af b\u00f8rnene eller arbejde i en virksomhed, som den anden \u00e6gtef\u00e6lle ejer, ligesom der kan v\u00e6re tale om forbrug af formue. Fors\u00f8rgelsespligten omfatter i almindelighed navnlig mad, bolig, transport, forsikringer, almindelige forbrugsgoder m.v."
+        "index": 3,
+        "text": "Efter boligkreditbekendtg\u00f8relsens \u00a7 17, skal en boligkreditgiver eller boligkreditformidler inden indg\u00e5else af en boligkreditaftale udtrykkeligt meddele l\u00e5ntageren, hvorvidt der ydes eller kan ydes r\u00e5dgivning til l\u00e5ntageren. En boligkreditgiver eller boligkreditformidler skal inden ydelsen af r\u00e5dgivning eller i givet fald inden indg\u00e5elsen af en aftale om ydelse af r\u00e5dgivning p\u00e5 varigt medium give l\u00e5ntageren f\u00f8lgende oplysninger: 1. hvorvidt r\u00e5dgivningen udelukkende ydes p\u00e5 grundlag af eget produktudvalg i overensstemmelse med boligkreditbekendtg\u00f8relsens \u00a7 17, stk. 4, nr. 2, eller p\u00e5 grundlag af andre produkter p\u00e5 markedet i overensstemmelse med boligkreditbekendtg\u00f8relsens \u00a7 17, stk. 5, s\u00e5 l\u00e5ntageren kan forst\u00e5 grundlaget for anbefalingen, og 2. st\u00f8rrelsen p\u00e5 det gebyr, l\u00e5ntageren eventuelt skal betale for r\u00e5dgivningen eller, hvis bel\u00f8bet ikke kan fastl\u00e6gges p\u00e5 meddelelsestidspunktet, den anvendte metode til beregningen heraf. Oplysningerne kan gives til l\u00e5ntageren i form af yderligere oplysninger forud for aftaleindg\u00e5elsen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om god skik, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html</a><br>"
       },
-      "image": "img/elvis6.gif",
+      "image": "img/dans15.gif",
       "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>G\u00e6lder der en egentlig \u0094gensidig fors\u00f8rgelsespligt\u0094 mellem \u00e6gtef\u00e6ller?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvilke r\u00e5dgivningspligter har en boligr\u00e5dgiver f\u00f8r indg\u00e5else af en boligkreditaftale?"
     },
     {
       "answers": [
-        "Den privatretlige fors\u00f8rgelsespligt g\u00e5r forud for den offentligretlig fors\u00f8rgelse.",
-        "Den privatretlige fors\u00f8rgelsespligt g\u00e5r ikke forud for offentligretlig fors\u00f8rgelse.",
-        "Den privatretlige fors\u00f8rgelsespligt g\u00e5r forud for den offentligretlig fors\u00f8rgelse, hvis der er b\u00f8rn i \u00e6gteskabet."
+        "Det n\u00e6rmere indhold er forskellig fra hvilken finansiel virksomhed der er tale om.",
+        "Det kommer an p\u00e5, hvad der n\u00e6rmere er aftalt mellem parterne om kundens r\u00e5dgivningsbehov.",
+        "Anbefalinger, vejledninger, herunder oplysninger om risici forbundet med en disposition."
       ],
       "correct": {
-        "index": 0,
-        "text": "Den privatretlige fors\u00f8rgelsespligt g\u00e5r forud for den offentligretlig fors\u00f8rgelse. Det betyder, at de socialretlige regler f\u00f8rst bliver relevante, hvis der ikke er mulighed for, at fors\u00f8rgelsen kan rummes \u00e6gtef\u00e6llerne imellem. Den offentligretlige fors\u00f8rgelse er reguleret i aktivlovens \u00a7\u00a7 2 og 97. Fors\u00f8rgelsen af \u00e6gtef\u00e6llernes f\u00e6lles b\u00f8rn er (fortsat) reguleret af reglerne i lov om b\u00f8rns fors\u00f8rgelse.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "index": 2,
+        "text": "Ved r\u00e5dgivning forst\u00e5s anbefalinger, vejledninger, herunder oplysninger om risici forbundet med en disposition, og oplysninger om umiddelbare konsekvenser af kundens valgmuligheder, jf. godskik-bekendtg\u00f8relsens \u00a7 8. En finansiel virksomhed skal yde r\u00e5dgivning, hvis kunden anmoder herom. Endvidere skal virksomheden af egen drift yde r\u00e5dgivning, hvor omst\u00e6ndighederne tilsiger, at der er behov herfor. R\u00e5dgivningen skal tilgodese kundens interesser og give kunden et godt grundlag for at tr\u00e6ffe sin beslutning. R\u00e5dgivningen skal v\u00e6re relevant, retvisende og fyldestg\u00f8rende. Den finansielle virksomhed. skal orientere om de risici, der er relevante for kunden. En finansiel virksomhed, der yder r\u00e5dgivning, skal oplyse kunden om, at r\u00e5dgivningen ikke er uafh\u00e6ngig, og at r\u00e5dgivningen kun omfatter de produkter, som den finansielle virksomhed udbyder. Dette g\u00e6lder dog ikke, hvis den finansielle virksomhed kan dokumentere, at r\u00e5dgivningen er uafh\u00e6ngig. En finansiel virksomhed kan udbyde produkter med standardiseret information med lille eller ingen tilknyttet individuel r\u00e5dgivning. I s\u00e5 fald skal den finansielle virksomhed g\u00f8re s\u00e6rskilt opm\u00e6rksom p\u00e5 dette. Bestemmelsen g\u00e6lder ikke for l\u00e5n med sikkerhed i fast ejendom.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om god skik, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html</a><br>"
       },
-      "image": "img/elvis7.gif",
+      "image": "img/dans13.gif",
       "number": 7,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>G\u00e5r de den privatretlige fors\u00f8rgelsespligt mellem \u00e6gtef\u00e6llerne forud for offentligretlig fors\u00f8rgelse?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad forst\u00e5s der med \u0094finansiel r\u00e5dgivning\u0094?"
     },
     {
       "answers": [
-        "Ja, hvis der er n\u00e6rmere aftalt mellem \u00e6gtef\u00e6llerne",
-        "Lejeren m\u00e5 gerne uden sin \u00e6gtef\u00e6lles samtykke opsige lejem\u00e5l.",
-        "Lejeren m\u00e5 ikke uden sin \u00e6gtef\u00e6lles samtykke opsige lejem\u00e5l.",
-        "Ja, hvis der er n\u00e6rmere aftalt mellem \u00e6gtef\u00e6llerne og der er b\u00f8rn i \u00e6gteskabet."
+        "Sin \u00f8konomiske situation.",
+        "Sine familiem\u00e6ssige forhold.",
+        "Om kunden er tidligere straffet.",
+        "Om kunden er dansk statsborger."
       ],
       "correct": {
-        "index": 2,
-        "text": "Lejebolig er ogs\u00e5 beskyttet, jf. lejelovens \u00a7 81, stk. 2*: \u0094Lejeren m\u00e5 dog ikke uden sin \u00e6gtef\u00e6lles samtykke opsige lejem\u00e5l om familiens bolig eller om lokaler, hvortil \u00e6gtef\u00e6llernes eller den anden \u00e6gtef\u00e6lles virksomhed er knyttet\u0094. Denne bestemmelse er ufravigelig, jf. lejelovens \u00a7 92, stk. 2.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "index": 0,
+        "text": "F\u00f8r en finansiel virksomhed r\u00e5dgiver, skal virksomheden anmode kunden om at oplyse om sin \u00f8konomiske situation, sin erfaring med de relevante finansielle ydelser, sit form\u00e5l med at f\u00e5 ydelsen leveret samt om sin risikovillighed, jf. godskik-bekendtg\u00f8relsens \u00a7 9. Omfanget og karakteren af de oplysninger, der indhentes, kan afpasses efter den viden, som kunden besidder og de oplysninger, som den finansielle virksomhed allerede har modtaget. Den finansielle virksomhed kan l\u00e6gge kundens oplysninger til grund, medmindre de er \u00e5benbart urigtige.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om god skik, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html</a><br>"
       },
-      "image": "img/elvis8.gif",
+      "image": "img/dans12.gif",
       "number": 8,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Er lejeboligen beskyttet i \u00e6gteskabet, hvis kun den ene \u00e6gtef\u00e6lle er p\u00e5 lejekontrakten?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad skal en finansiel virksomhed anmode om hos kunden f\u00f8r r\u00e5dgivningen?"
     },
     {
       "answers": [
-        "Fors\u00f8rgelsespligten oph\u00f8rer ved utroskab.",
-        "Fors\u00f8rgelsespligten oph\u00f8rer ved vold.",
-        "Fors\u00f8rgelsespligten oph\u00f8rer ved den anden \u00e6gtef\u00e6lles manglende sexlyst.",
-        "Fors\u00f8rgelsespligten g\u00e6lder kun under \u00e6gteskabet og oph\u00f8rer ved separation, skilsmisse og d\u00f8d."
+        "Fintech er teknologi, der anvendes til at levere finansielle services.",
+        "Det er et teknisk selskab.",
+        "Det er en forsikringsordning, som d\u00e6kker ingeni\u00f8rernes professionelle ansvar.",
+        "Det er n\u00e5r et produktionsselskab g\u00e5r konkurs."
       ],
       "correct": {
-        "index": 3,
-        "text": "Fors\u00f8rgelsespligten g\u00e6lder kun under \u00e6gteskabet og oph\u00f8rer ved separation, skilsmisse og d\u00f8d. Der er i \u00c6L \u00a7 56, stk. 3, indf\u00f8rt en begr\u00e6nset udvidelse af fors\u00f8rgelsespligten, idet adgangen til at f\u00e5 fastsat bidrag ogs\u00e5 skal g\u00e6lde under behandlingen af en sag om separation og skilsmisse, indtil sp\u00f8rgsm\u00e5let om bidragspligt efter separation eller skilsmisse er endeligt afgjort.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "index": 0,
+        "text": "Fintech er teknologi, der anvendes til at levere finansielle services (fintech er en sammenl\u00e6gning af de engelske ord \u0093financial\u0094 og \u0093techonology\u0094). Fintech-virksomheder er finansielle virksomheder, der leverer alternative l\u00f8sninger til den etablerede finansielle industri."
       },
-      "image": "img/elvis9.gif",
+      "image": "img/dans11.gif",
       "number": 9,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvorn\u00e5r oph\u00f8rer den gensidige fors\u00f8rgelsespligt mellem \u00e6gtef\u00e6llerne?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er \u0094Fintech\u0094?"
     },
     {
       "answers": [
-        "Der er s\u00e6rejevirkning under \u00e6gteskabet, ved separation og skilsmisse, samt ved en eller begge \u00e6gtef\u00e6llers d\u00f8d.",
-        "Der er s\u00e6rejevirkning ved separation og skilsmisse, samt ved en eller begge \u00e6gtef\u00e6llers d\u00f8d.",
-        "Der er s\u00e6rejevirkning ved en eller begge \u00e6gtef\u00e6llers d\u00f8d.",
-        "Der er s\u00e6rejevirkning under \u00e6gteskabet."
-      ],
-      "correct": {
-        "index": 0,
-        "text": "Hvis man har aftalt et fuldst\u00e6ndigt s\u00e6reje, indeb\u00e6rer dette at der er s\u00e6rejevirkning under \u00e6gteskabet, ved separation og skilsmisse, samt ved en eller begge \u00e6gtef\u00e6llers d\u00f8d. Med andre ord betyder det, at det man har som sit fuldst\u00e6ndige s\u00e6reje ikke skal deles med den anden \u00e6gtef\u00e6lle i forbindelse med skilsmisse. Har man ikke oprettet s\u00e6reje vil det betyde, at i forbindelse med en skilsmisse skal der ske en deling og derved skal hver part opg\u00f8re sin bodel i form af aktiver fratrukket passiver. Af sin positive bodel skal man give halvdelen til sin \u00e6gtef\u00e6lle \u0096 begge parter ender derved med at g\u00e5 ud af \u00e6gteskabet med lige mange penge, forudsat at begge parter har en positiv bodel og derfor ikke er insolvente. Har man oprettet fuldst\u00e6ndigt s\u00e6reje vil denne deling i form af bodele ikke ske hverken i tilf\u00e6lde af skilsmisse eller d\u00f8d. Hvis \u00e6gteskabet oph\u00f8rer ved d\u00f8d vil den l\u00e6ngstlevende \u00e6gtef\u00e6lle dog stadig modtage arv af det fuldst\u00e6ndige s\u00e6reje. Det skal dog bem\u00e6rkes, at den l\u00e6ngstlevende \u00e6gtef\u00e6lle ikke har mulighed for at sidde i uskiftet bo med de midler der er fuldst\u00e6ndigt s\u00e6reje.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
-      },
-      "image": "img/elvis10.gif",
-      "number": 10,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er \u0094fuldst\u00e6ndig s\u00e6reje\u0094?"
-    },
-    {
-      "answers": [
-        "Der er s\u00e6rejevirkninger under \u00e6gteskabet.",
-        "Der er s\u00e6rejevirkninger ved separation og skilsmisse.",
-        "Der er s\u00e6rejevirkninger under \u00e6gteskabet, samt ved separation og skilsmisse, men f\u00e6llesejevirkninger ved d\u00f8d."
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Skilsmisses\u00e6rejet er en kombination af de to formueretlige grundformer f\u00e6lleseje og fuldst\u00e6ndigt s\u00e6reje. Der er s\u00e6rejevirkninger under \u00e6gteskabet, samt ved separation og skilsmisse, men f\u00e6llesejevirkninger ved d\u00f8d, uanset hvem af \u00e6gtef\u00e6llerne, der d\u00f8r f\u00f8rst. Der er mulighed for at sidde i uskiftet bo. Ulempen ved skilsmisses\u00e6rejet er, at f\u00e6llesejet opst\u00e5r uanset hvem af \u00e6gtef\u00e6llerne, der d\u00f8r f\u00f8rst. Dette kan v\u00e6re uheldigt i de tilf\u00e6lde, hvor det er den \u00e6gtef\u00e6lle med megen g\u00e6ld, der d\u00f8r som den f\u00f8rste. Den l\u00e6ngstlevende \u00e6gtef\u00e6lle er nemlig i denne situation forpligtet til at lade sin formue indg\u00e5 i delingen med den f\u00f8rstafd\u00f8de \u00e6gtef\u00e6lles kreditorer eller s\u00e6rarvinger. Derfor b\u00f8r man normalt aldrig bruge et rent skilsmisses\u00e6reje, men derimod aftale et \u00e6gtef\u00e6llebegunstigende kombinationss\u00e6reje.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
-      },
-      "image": "img/elvis11.gif",
-      "number": 11,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad menes der med \u0094skilsmisses\u00e6reje\u0094?"
-    },
-    {
-      "answers": [
-        "Kombinationss\u00e6reje er en kombination af en \u00e6gtepagt og et testamente.",
-        "Kombinationss\u00e6reje er en kombination af en forlovelse og et \u00e6gteskab.",
-        "Kombinationss\u00e6reje er en kombination af en \u00e6gtepagt og et arrangeret bryllup.",
-        "Kombinationss\u00e6reje er en kombination af skilsmisses\u00e6reje og fuldst\u00e6ndigt s\u00e6reje."
+        "Det er en del af tilv\u00e6kstl\u00e6ren ved fast ejendom.",
+        "Det er en betalingsform p\u00e5 internettet",
+        "Er en k\u00e6dereaktion p\u00e5 internettet.",
+        "Blockchain er i essensen et samlet offentligt register over transaktioner."
       ],
       "correct": {
         "index": 3,
-        "text": "Kombinationss\u00e6reje er en kombination af skilsmisses\u00e6reje og fuldst\u00e6ndigt s\u00e6reje. Ved kombinationss\u00e6reje er der altid s\u00e6reje ved separation og skilsmisse (skilsmisses\u00e6reje), og dette skilsmisses\u00e6reje bliver i bestemte situationer s\u00e6reje ved en \u00e6gtef\u00e6lles d\u00f8d (dvs. fuldst\u00e6ndigt s\u00e6reje). \u00c6gtef\u00e6llerne kan aftale, i hvilke situationer der skal v\u00e6re s\u00e6reje ved en \u00e6gtef\u00e6lles d\u00f8d afh\u00e6ngigt af, hvem af \u00e6gtef\u00e6llerne der d\u00f8r f\u00f8rst. Skilsmisses\u00e6reje kan s\u00e5ledes kombineres med s\u00e6reje ved d\u00f8d p\u00e5 en r\u00e6kke forskellige m\u00e5der. Kombinationss\u00e6rejets betydning p\u00e5 et d\u00f8dsboskifte afh\u00e6nger derfor dels af den valgte kombination af skilsmisses\u00e6reje og fuldst\u00e6ndigt s\u00e6reje og dels af, hvem af \u00e6gtef\u00e6llerne der d\u00f8r f\u00f8rst. Valget af, i hvilke situationer der skal v\u00e6re s\u00e6reje ved en \u00e6gtef\u00e6lles d\u00f8d, afh\u00e6nger af, om \u00e6gtef\u00e6llerne \u00f8nsker at begunstige den ene af \u00e6gtef\u00e6llerne ved d\u00f8dsfaldet frem for f\u00f8rstafd\u00f8des eller l\u00e6ngstlevendes arvinger (\u00e6gtef\u00e6llebegunstigende kombinationss\u00e6reje), eller om de \u00f8nsker at begunstige deres arvinger (arvingsbegunstigende kombinationss\u00e6reje).<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "text": "Blockchain er i essensen et samlet offentligt register over transaktioner. Hver gennemf\u00f8rt transaktion registreres med et tidstempel og et link til den forrige udf\u00f8rte transaktion med det aktiv, der overf\u00f8res, og med angivelse af de involverede parter. Registreret f\u00f8res af personer p\u00e5 tusinder af computere online rundt omkring i verden efter fastsatte matematiske principper og formler. <<br>Dette vanskeligg\u00f8r svindel med registrerede transaktioner, herunder sikrer ejerskab til et aktiv i registeret, da et fors\u00f8g p\u00e5 at p\u00e5virke registeret \u00e9t sted, vil medf\u00f8re, at registeret ikke stemmer overens med den kopi af registeret, som f\u00f8res de \u00f8vrige steder i verden.<<br>Blockchain er s\u00e6rligt interessant for den finansielle industri, da det er teknologien, som kryptovaluta, herunder bitcoin, bygger p\u00e5.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om god skik, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret-premium.html</a><br>"
       },
-      "image": "img/elvis12.gif",
-      "number": 12,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 12</h2>Hvad er \u201dKombinationss\u00e6reje\u201d?"
+      "image": "img/dans10.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad menes der med \u0094Blockchain\u0094?"
     },
     {
       "answers": [
-        "Der er ikke s\u00e6reje i tilf\u00e6lde af separation og skilsmisse. Men n\u00e5r den f\u00f8rste \u00e6gtef\u00e6lle d\u00f8r, bliver dennes s\u00e6reje til f\u00e6lleseje.",
-        "At \u00e6gtef\u00e6llen giver sit s\u00e6reje til den \u00e6gtef\u00e6lle vederlagsfrit",
-        "Der er s\u00e6reje i tilf\u00e6lde af separation og skilsmisse. Men n\u00e5r den f\u00f8rste \u00e6gtef\u00e6lle d\u00f8r, bliver dennes s\u00e6reje til f\u00e6lleseje."
+        "Bitcoin er den del af en koreansk m\u00f8ntenhed.",
+        "Bitcoin er m\u00f8nter som er udarbejdet i plastik.",
+        "Bitcoin er en kryptovaluta og et betalingssystem.",
+        "Bitcoin er en falsk m\u00f8ntenhed."
       ],
       "correct": {
         "index": 2,
-        "text": "For de fleste er det mest fordelagtige at aftale et s\u00e5kaldt \u00e6gtef\u00e6llebegunstigende kombinationss\u00e6reje. Dette indeb\u00e6rer, at der er s\u00e6reje i tilf\u00e6lde af separation og skilsmisse. Men n\u00e5r den f\u00f8rste \u00e6gtef\u00e6lle d\u00f8r, bliver dennes s\u00e6reje til f\u00e6lleseje og skal s\u00e5ledes deles med den l\u00e6ngstlevende. Den l\u00e6ngstlevende \u00e6gtef\u00e6lles s\u00e6reje opretholdes imidlertid og bliver alts\u00e5 til fuldst\u00e6ndigt s\u00e6reje. Det er derfor kun f\u00f8rstafd\u00f8des skilsmisses\u00e6reje, der bliver til f\u00e6lleseje ved d\u00f8d. Det \u00e6gtef\u00e6llebegunstigende kombinationss\u00e6reje er en s\u00e6rejeform, der tiltaler de fleste, idet formen kombinerer fordelene ved skilsmisses\u00e6reje og fuldst\u00e6ndigt s\u00e6reje, s\u00e5ledes at den l\u00e6ngstlevende \u00e6gtef\u00e6lle sikres bedst muligt i forhold til f\u00f8rstafd\u00f8des arvinger og eventuelle kreditorer. \u00c6gtef\u00e6llebegunstigende kombinationss\u00e6reje anvendes s\u00e5ledes i tilf\u00e6lde, hvor \u00e6gtef\u00e6llerne \u00f8nsker at tilgodese den l\u00e6ngstlevende \u00e6gtef\u00e6lle frem for \u00e6gtef\u00e6llernes s\u00e6r- og/eller f\u00e6llesb\u00f8rn. \u00c6gtef\u00e6ller aftaler ofte et \u00e6gtef\u00e6llebegunstigende kombinationss\u00e6reje, hvor \u00e6gtef\u00e6llerne har skilsmisses\u00e6reje, der skal v\u00e6re fuldst\u00e6ndigt s\u00e6reje for l\u00e6ngstlevende ved f\u00f8rstafd\u00f8des d\u00f8d, uanset hvem af \u00e6gtef\u00e6llerne der d\u00f8r f\u00f8rst. Dette indeb\u00e6rer, at f\u00f8rstafd\u00f8des formue er delingsformue. Fordelene for den l\u00e6ngstlevende er, at l\u00e6ngstlevende har mulighed for enten at sidde i uskiftet bo med f\u00f8rstafd\u00f8des formue eller modtage boslod og arv af f\u00f8rstafd\u00f8des formue, samtidig med at l\u00e6ngstlevendes egen formue bliver s\u00e6reje og dermed ikke skal deles med f\u00f8rstafd\u00f8des arvinger, navnlig f\u00f8rstafd\u00f8des s\u00e6rb\u00f8rn og \u00e6gtef\u00e6llernes f\u00e6llesb\u00f8rn.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "text": "Bitcoin er en kryptovaluta og et betalingssystem. Mange associerer fortsat bitcoin med et digitalt betalingsmiddel, der anvendes som betalingsmiddel p\u00e5 sorte markeder og til k\u00f8b af ulovlige varer."
       },
-      "image": "img/elvis13.gif",
-      "number": 13,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 13</h2>Hvad menes der med \u0094\u00e6gtef\u00e6llebegunstigende kombinationss\u00e6reje\u0094?"
-    },
-    {
-      "answers": [
-        "Ved en aftale mellem \u00e6gtef\u00e6llerne.",
-        "Ved en gavehandling",
-        "Ved oprettelse af en \u00e6gtepagt.",
-        "Ved oprettelsen af en bankkonto."
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Udgangspunktet er, at man automatisk f\u00e5r f\u00e6lleseje ved indg\u00e5else af \u00e6gteskab. Derfor er det n\u00f8dvendigt at oprette en \u00e6gtepagt, hvis man \u00f8nsker s\u00e6reje. S\u00e6reje kan ogs\u00e5 opst\u00e5, hvis det er bestemt af en gavegiver eller I forbindelse med et arveforskud, hvor det s\u00e6rskilt bestemmes at arveforskuddet skal v\u00e6re s\u00e6reje. En arvelader kan ogs\u00e5 i et testamente bestemme, at arven skal tilfalde arvingen som s\u00e6reje. Dette kan g\u00e6lde b\u00e5de tvangsarv og friarv. Endelig kan man ogs\u00e5 i en begunstigelsesklausul i livs- og ulykkesforsikringer inds\u00e6tte s\u00e6rejebestemmelser.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
-      },
-      "image": "img/elvis14.gif",
-      "number": 14,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 14</h2>Hvordan etableres der et \u0094s\u00e6reje\u0094?"
-    },
-    {
-      "answers": [
-        "Rimelige pensionsrettigheder.",
-        "urimelige pensionsrettigheder.",
-        "Husdyr.",
-        "Alle pensionsrettigheder."
-      ],
-      "correct": {
-        "index": 0,
-        "text": "Pensioner. En \u00e6gtef\u00e6lles *rimelige pensionsrettigheder* indg\u00e5r ikke i formuedelingen, jf. \u00c6L \u00a7 34. Skal boet deles i tilf\u00e6lde af d\u00f8d, kan l\u00e6ngstlevende \u00e6gtef\u00e6lle udtage sine pensioner forlods, jf. \u00c6L \u00a7 52."
-      },
-      "image": "img/elvis15.gif",
-      "number": 15,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 15</h2>Hvilke aktiver indg\u00e5r ikke i formuedelingen under f\u00e6lleseje?"
+      "image": "img/dans9.gif",
+      "number": 11,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er \u0094Bitcoin\u0094?"
     }
   ],
-  "title": "Familieretten",
+  "title": "God skik for finansielle virksomheder",
   "url": null
 }

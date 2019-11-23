@@ -2,183 +2,49 @@
   "questions": [
     {
       "answers": [
-        "Den person der gives kredit til.",
-        "Den erhvervsdrivende, der giver kredit.",
-        "Den der formidler kreditten mellem banken og forbrugeren."
+        "Med parentelsystemet menes der opdeling af k\u00f8n i arveklasser.",
+        "Med parentelsystemet menes der opdeling af b\u00f8rnene i arveklasser.",
+        "Med parentelsystemet menes der opdeling af sl\u00e6gten i arveklasser."
       ],
       "correct": {
-        "index": 1,
-        "text": "Den erhvervsdrivende, der giver kredit. En \u201dkreditgiveren\u201d forst\u00e5s som forbrugerens modpart. Kreditgiver er f\u00f8rst og fremmest den (typisk juridiske person), der i forhold til forbrugeren yder kredit. Ved aftaler om ydelse af pengel\u00e5n/kredit, der skal tilbagebetales, er l\u00e5ngiver kreditgiver. De finansielle institutioners udl\u00e5n til forbrugere er derfor omfattet af loven (pengeinstitutter, kreditinstitutter, finansieringsselskaber, realkreditinstitutter, l\u00e5neforeninger, livsforsikringsselskaber (policel\u00e5n), pensionskasser, erhvervsdrivende udl\u00e5nsfonde osv.).<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
+        "index": 2,
+        "text": "Vores arvesystem kaldes ogs\u00e5 for \"parentelsystemet\" med opdeling af sl\u00e6gten i arveklasser. F\u00f8rste parentel er arveladerens livsarvinger, hvis der ikke er nogen, s\u00e5 g\u00e5r arven videre til: Andet parentel er arveladerens for\u00e6ldre og disses livsarvinger, hvis der ikke er nogen, s\u00e5 g\u00e5r arven videre til: Tredje parentel er arveladerens bedstefor\u00e6ldre og disses livsarvinger.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
       },
-      "image": "img/really1.gif",
+      "image": "img/elvis1.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvem er kreditgiver i forhold til kreditaftaleloven?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>\"Parentelsystemet\", hvad menes der med det?"
     },
     {
       "answers": [
-        "Det har ingen konsekvenser.",
-        "Det har konsekvenser.",
-        "Det kommer an p\u00e5, hvad der er blevet aftalt mellem kreditgiver og kreditmodtager."
+        "At arvingen ikke har overlevet arveladeren.",
+        "At arvingen ikke er over 70 \u00e5r.",
+        "At arvingen er 4 \u00e5r.",
+        "At arvingen har overlevet arveladeren."
       ],
       "correct": {
-        "index": 1,
-        "text": "Det har konsekvenser. Opfylder kreditgiver ikke oplysningspligten skal forbrugeren evt. betale f\u00e6rre omkostninger og fortrydelsesretten l\u00f8ber f\u00f8rst fra oplysningspligten er opfyldt, samt at kreditgiver kan blive p\u00e5lagt en b\u00f8de.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
+        "index": 3,
+        "text": "En betingelse for at arve er, at arvingen har overlevet arveladeren.<<br>Bevis for arveladerens d\u00f8d vil i almindelighed let kunne f\u00f8res ved freml\u00e6ggelse af en d\u00f8dsattest. Hvis en s\u00e5dan ikke kan tilvejebringes, kan en domstol undertiden statuere, at en person er d\u00f8d eller m\u00e5 anses for d\u00f8d (s\u00e5kaldt d\u00f8dsformodningsdom). Beviset for, at arvingen har overlevet den afd\u00f8de, kan give vanskeligheder i visse tilf\u00e6lde. Er der ikke vished for, at en bortebleven person har overlevet afd\u00f8de, afs\u00e6ttes kun arv til den p\u00e5g\u00e6ldende, hvis der er nogen sandsynlighed for, at han/hun er i live. Er der vished for, at arvingen har overlevet afd\u00f8de, afs\u00e6ttes derimod arvelod, uanset om arvingens opholdssted m\u00e5tte v\u00e6re ukendt. Hvis to personer, som havde arveret efter hinanden, er d\u00f8de, uden at det vides, hvem der er d\u00f8d f\u00f8rst, anses den ene ikke for at have overlevet den anden. Reglen har praktisk betydning fx ved trafikulykker, hvor \u00e6gtef\u00e6ller omkommer. Et barn, som er avlet forinden d\u00f8dsfaldet og senere f\u00f8des levende, har ogs\u00e5 arveret. Den gravide kvindes foster er s\u00e5ledes arveberettiget. Det siges, at \"arven er faldet\", n\u00e5r kravet p\u00e5 arv kan overf\u00f8res ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens d\u00f8d eller indg\u00e5 i arvingens eventuelle separations- eller skilsmissebo. Dette tidspunkt indtr\u00e6der som regel ved arveladers d\u00f8d.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
       },
-      "image": "img/really2.gif",
+      "image": "img/elvis2.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Har det juridiske konsekvenser, hvis kreditgiver ikke opfylder oplysningspligten over for kreditmodtageren iht. kreditaftaleloven?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvilken betingelser er der for at en arving kan arve arvelader?"
     },
     {
       "answers": [
-        "Nej, det er frivilligt og p\u00e5 kreditgiverens egen risiko.",
-        "Der skal foretages en vurdering af forbrugerens kreditv\u00e6rdighed.",
-        "Det kommer helt an p\u00e5 kredittens st\u00f8rrelse.",
-        "Ja, hvis kreditten overstiger 10.000 kr."
+        "Er der ingen arvinger efter arvelov eller testamente tilfalder arven Kattens V\u00e6rn.",
+        "Er der ingen arvinger efter arvelov eller testamente tilfalder arven Kongehuset.",
+        "Er der ingen arvinger efter arvelov eller testamente tilfalder arven Rigsf\u00e6llesskabet.",
+        "Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen"
       ],
       "correct": {
-        "index": 1,
-        "text": "Der skal foretages en vurdering af forbrugerens kreditv\u00e6rdighed. F\u00f8r en kreditgiver indg\u00e5r en kreditaftale med en forbruger, skal kreditgiveren if\u00f8lge KAL \u00a7 7 c foretage en vurdering af forbrugerens kreditv\u00e6rdighed. Vurderingen skal ske p\u00e5 grundlag af fyldestg\u00f8rende oplysninger, der, hvor det er relevant, indhentes hos forbrugeren og, hvor det er n\u00f8dvendigt, ved s\u00f8gning i relevante databaser; det vil i praksis sige hos et kreditoplysningsbureau. Kreditvurderingspligten har til form\u00e5l at beskytte forbrugeren og skal som f\u00f8lge heraf foretages med sigte p\u00e5 at vurdere, om forbrugeren p\u00e5 baggrund af dennes \u00f8konomiske situation ved hj\u00e6lp af fx l\u00f8bende indt\u00e6gter, l\u00e5neoml\u00e6gning eller realisation af aktiver vil v\u00e6re i stand til at betale de forudsatte ydelser p\u00e5 kreditten \u2013 og alts\u00e5 ikke med henblik p\u00e5 at vurdere kreditgiverens risiko for tab.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
+        "index": 3,
+        "text": "Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen, (p\u00e5 latin; \"fiscus\"), jf. n\u00e6rmere AL \u00a7 95, stk. 1: \"Er der ingen arvinger efter loven eller testamente, tilfalder afd\u00f8des formue staten\".<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
       },
-      "image": "img/really3.gif",
-      "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Skal kreditgiver foretage en kreditvurdering af forbrugeren f\u00f8r der kan indg\u00e5s en kreditaftale?"
-    },
-    {
-      "answers": [
-        "Nej. Der er aftalefrihed og mundtlige aftaler er ogs\u00e5 g\u00e6ldende.",
-        "Ja, der g\u00e6lder et skriftlighedskrav.",
-        "Forbrugeren kan acceptere, at der ikke g\u00e6lder nogle formkrav.",
-        "Kreditgiveren kan bestemme i hver enkelt kreditaftale, at der ikke g\u00e6lder nogen formkrav."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "Ja, der g\u00e6lder et skriftlighedskrav. En kreditaftale skal if\u00f8lge KAL \u00a7 8, stk. 1, udf\u00e6rdiges p\u00e5 papir eller p\u00e5 et andet varigt medium. Endvidere er det et krav, at alle aftalens parter skal have et eksemplar af aftalen.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
-      },
-      "image": "img/really4.gif",
+      "image": "img/elvis4.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Er der formkrav til kreditaftalen?"
-    },
-    {
-      "answers": [
-        "Aftale om et ekstra r\u00e5dighedsbel\u00f8b.",
-        "En speciel kasse, hvortil der kan gives kredit.",
-        "En betegnelse for et kreditforbud som gives af Finanstilsynet.",
-        "Et sted hvor det er forbrugeren der giver kredit til banken."
-      ],
-      "correct": {
-        "index": 0,
-        "text": "Aftale om et ekstra r\u00e5dighedsbel\u00f8b. En kassekredit er et l\u00e5n i et pengeinstitut, der g\u00f8r det muligt at have et ekstra r\u00e5dighedsbel\u00f8b, selvom kontoen skulle v\u00e6re tom.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
-      },
-      "image": "img/really5.gif",
-      "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er en kassekredit?"
-    },
-    {
-      "answers": [
-        "Betegnelsen for, hvem der er direkt\u00f8r i et pengeinstitut.",
-        "Det betyder \u201d\u00e5geroplysninger\u201d.",
-        "Det betyder at forbrugeren er blevet insolvent.",
-        "De samlede \u00e5rlige omkostninger for l\u00e5net i procent."
-      ],
-      "correct": {
-        "index": 3,
-        "text": "De samlede \u00e5rlige omkostninger for l\u00e5net i procent (ogs\u00e5 betegnet som \u201d\u00c5OP\u201d) forst\u00e5s if\u00f8lge KAL \u00a7 16, stk. 1, som en procentsats, der p\u00e5 \u00e5rsbasis svarer til nutidsv\u00e6rdien af alle fremtidige eller eksisterende forpligtelser i form af udnyttede kreditmuligheder, tilbagebetalinger og omkostninger, der er aftalt mellem kreditgiveren og forbrugeren. Sagt med andre ord betyder \u00c5OP, hvor meget det samlet koster at l\u00e5ne 100 kr. i \u00e9t \u00e5r. Eller udtrykt som \"kiloprisen for l\u00e5net\".<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
-      },
-      "image": "img/really6.gif",
-      "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder \u00c5OP?"
-    },
-    {
-      "answers": [
-        "Det har ingen civilretlige konsekvenser.",
-        "S\u00e5 kan der ikke afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 5 %.",
-        "S\u00e5 kan der ikke afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 10 %.",
-        "S\u00e5 kan der ikke afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 115 %."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "S\u00e5 kan der ikke afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 5 %. Manglende opfyldelse af visse oplysningsforpligtelser, er civilretligt sanktioneret i KAL \u00a7 23, s\u00e5fremt der ikke er givet beh\u00f8rig oplysning om \u00c5OP og de samlede omkostninger, som forbrugeren skal betale, jf. KAL \u00a7 8, stk. 2, nr. 7, eller stk. 5, nr. 6, jf. KAL \u00a7 23, stk. 1, jf. dog \u00a7 23, stk. 3, at forbrugeren ikke kan afkr\u00e6ves andre kreditomkostninger end en \u00e5rlig rente svarende til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 5 %, se fx Juridisk \u00c5rbog 1999, s. 188 (m\u00f8bler p\u00e5 kredit). KAL \u00a7 23, stk. 1, medf\u00f8rer s\u00e5ledes ikke blot en reduktion af den aftalte rente til en rente, der svarer til den officielle udl\u00e5nsrente med et till\u00e6g p\u00e5 p.t. 5 %. Bestemmelsen medf\u00f8rer tillige, at kreditgiveren selv m\u00e5 afholde samtlige omkostninger, fx kurstab, provisioner, tinglysningsafgift og alle andre stiftelsesomkostninger, som har v\u00e6ret forbundet med at stifte kreditten, da forbrugeren kun er pligtig at betale l\u00e5nebel\u00f8bet. Sanktionsreglen i KAL \u00a7 23, stk. 1, g\u00e6lder ikke, hvis kreditgiveren kan godtg\u00f8re, at forbrugeren p\u00e5 trods af de manglende eller urigtige oplysninger har haft et forsvarligt grundlag for at bed\u00f8mme kreditomkostningerne, jf. KAL \u00a7 23, stk. 3. I betragtning af den h\u00f8je detaljeringsgrad, der er i lovens bestemmelser om kreditgiverens oplysningspligt, kan det ikke antages, at bestemmelsen i KAL \u00a7 23, stk. 3, har v\u00e6sentlig betydning. Det er desuden hensigten med bestemmelsen, at denne skal have et sn\u00e6vert anvendelsesomr\u00e5de, s\u00e5ledes at den altovervejende hovedregel er, at en tilsides\u00e6ttelse af oplysningspligten f\u00f8rer til, at der skal ske en regulering, jf. n\u00e6rmere pr\u00e6misserne i dommen U 2004.317 H om aftale om leje af videoapparat med ret til at k\u00f8be for 1 kr. efter 5 \u00e5r. Dette var i strid med kreditaftaleloven.<br>Undtagelser i kreditaftaleloven skal s\u00e5ledes fortolkes indskr\u00e6nkende grundet lovens forbrugerbeskyttende hensigt.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
-      },
-      "image": "img/really7.gif",
-      "number": 7,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvilke civilretlige konsekvenser har det, hvis kreditgiveren tilsides\u00e6tter sine oplysningsforpligtelser over for kreditmodtageren?"
-    },
-    {
-      "answers": [
-        "Forbrugeren betaler en udbetaling 1/3 af kreditk\u00f8bet.",
-        "Kreditgiveren giver en kredit p\u00e5 1/3 af kreditk\u00f8bet.",
-        "Kreditgiveren har taget et gyldigt ejendomsforbehold.",
-        "Tre aftaleparter er involveret i kreditten til forbrugeren."
-      ],
-      "correct": {
-        "index": 3,
-        "text": "Tre aftaleparter er involveret i kreditten til forbrugeren. I det \u201doprindelige trepartsforhold\u201d er der fra starten tre aftaleparter involveret, idet forbrugeren dels indg\u00e5r aftale med en s\u00e6lger eller tjenesteyder om k\u00f8b eller om pr\u00e6station af en tjenesteydelse, dels indg\u00e5r aftale med l\u00e5ngiver (finansieren) om ydelse af l\u00e5n til betaling af vederlaget. Der foreligger dog kun et oprindeligt trepartsforhold, hvis der tillige foreligger en aftalerelation mellem finansieren og s\u00e6lgeren eller tjenesteyderen, s\u00e5ledes at kreditten ydes p\u00e5 grundlag heraf, jf. KAL \u00a7 4, nr. 15, litra b, jf. KAL \u00a7 33, stk. 4, for s\u00e5 vidt ang\u00e5r tjenesteydelser. Som eksempel p\u00e5 oprindelige trepartsforhold kan n\u00e6vnes de eksterne kontosystemer, hvor en s\u00e6rlig kontoorganisation \u2013 kontoring eller lignende \u2013 ved aftale med en r\u00e6kke handlende mv. har forpligtet sig til gennem ydelse af kredit at finansiere de aftaler, som kunder, der er tilsluttet organisationen, og som typisk er udstyret med et s\u00e6rligt kontokort, foretager hos de p\u00e5g\u00e6ldende handlende mv.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
-      },
-      "image": "img/really8.gif",
-      "number": 8,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad menes der med et \u201doprindeligt trepartsforhold\u201d?"
-    },
-    {
-      "answers": [
-        "De tilf\u00e6lde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen ikke kan tiltransporteres til en tredjemand.",
-        "De tilf\u00e6lde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen tiltransporteres til en tredjemand.",
-        "Betyder fordelingen af g\u00e6lden mellem de oprindelige kreditorer og debitorer.",
-        "Omfatter de tilf\u00e6lde, hvor de tre oprindelige aftaleparter skal betale g\u00e6lden."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "Begrebet \u201defterf\u00f8lgende trepartsforhold\u201d omfatter de tilf\u00e6lde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen tiltransporteres en tredjemand. Begrebet er en kreditaftaleretlig term, der d\u00e6kker over begreber som factoring, kontraktbel\u00e5ning, kontraktsdiscontering o.lign. Begrebets materielle indhold er reguleret ved reglerne om personskifte i skyldforhold, herunder navnlig reglerne om kreditorskifte. Mens det oprindelige trepartsforhold er kendetegnet ved, at tredjemanden finansierer forbrugeren, er det efterf\u00f8lgende trepartsforhold kendetegnet ved, at tredjemanden finansierer s\u00e6lgeren."
-      },
-      "image": "img/really9.gif",
-      "number": 9,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er et \u201defterf\u00f8lgende trepartsforhold\u201d?"
-    },
-    {
-      "answers": [
-        "Det betyder, at man som forbruger er fritstillet med hensyn til hvor man kan optage et l\u00e5n.",
-        "Det betyder, at man som forbruger er fritstillet med hensyn til, hvilket l\u00e5n man kan optage i sit pengeinstitut.",
-        "Det er et l\u00e5n som forbrugeren optager hos en anden privat person.",
-        "Det er et l\u00e5n hos kreditgiver, som ikke har nogen forbindelse til s\u00e6lgeren eller tjenesteyderen."
-      ],
-      "correct": {
-        "index": 3,
-        "text": "Det er et l\u00e5n hos kreditgiver, som ikke har nogen forbindelse til s\u00e6lgeren eller tjenesteyderen. S\u00e5fremt et k\u00f8b eller en tjenesteydelse finansieres ved, at forbrugeren opn\u00e5r et l\u00e5n hos kreditgiver, som ikke har nogen forbindelse til s\u00e6lgeren eller tjenesteyderen, foreligger der ikke et oprindeligt trepartsforhold, men derimod et s\u00e5kaldt \u201dfritst\u00e5ende l\u00e5n\u201d. En s\u00e5dan kreditaftale omfattes nok af kreditaftalelovens generelle bestemmelser om oplysningspligt, forbrugerens betalinger, efterf\u00f8lgende trepartsforhold, mv., hvorimod lovens bestemmelser vedr\u00f8rende oprindeligt trepartsforhold og kreditk\u00f8b ikke finder anvendelse. Finansieres et k\u00f8b eller tjenesteydelse ved et fritst\u00e5ende l\u00e5n, har kreditaftaleloven s\u00e5ledes ingen betydning for retsforholdet mellem forbrugeren og s\u00e6lgeren eller tjenesteyderen. N\u00e5r det skal afg\u00f8res, om der foreligger et fritst\u00e5ende l\u00e5n eller et kreditk\u00f8b (oprindeligt trepartsforhold), som er omfattet af KAL \u00a7 4, nr. 15, litra b, er det efter lovforarbejderne afg\u00f8rende, om der foreligger en s\u00e5dan grad af forbindelse \u2013 et s\u00e5dant samvirke mellem k\u00f8b og l\u00e5n \u2013 mellem s\u00e6lger og l\u00e5ngiver, at forholdet med rimelighed b\u00f8r anses for et kreditk\u00f8b med de i loven angivne konsekvenser, mens lovteksten i KAL \u00a7 4, nr. 15, litra b kr\u00e6ver en aftale om finansiering mellem s\u00e6lger og tredjemand. Der skal ikke efter retspraksis meget til f\u00f8r, at en s\u00e5dan aftale foreligger mellem s\u00e6lgeren og tredjemand, jf. U 1995.192/2 H (Vandsengedommen).<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
-      },
-      "image": "img/really10.gif",
-      "number": 10,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad betyder begrebet \u201dfritst\u00e5ende l\u00e5n\u201d?"
-    },
-    {
-      "answers": [
-        "Forbrugerens adgang har adgang til at frems\u00e6tte indsigelser over for anden kreditor.",
-        "Forbrugerens har ikke adgang til at frems\u00e6tte indsigelser over for anden kreditor.",
-        "Det kommer an p\u00e5, hvad der n\u00e6rmere er aftalt mellem s\u00e6lgeren og tredjemand.",
-        "Det kommer an p\u00e5, hvad der n\u00e6rmere er aftalt mellem s\u00e6lgeren og forbrugeren."
-      ],
-      "correct": {
-        "index": 0,
-        "text": "Forbrugerens adgang har adgang til at frems\u00e6tte indsigelser over for anden kreditor. Forbrugerens har s\u00e5ledes adgang til at frems\u00e6tte indsigelser over for anden kreditor, fx en k\u00f8beretlig mangel. I KAL kapitel 9 om kreditorskifte er der fastsat regler til beskyttelse af forbrugeren i trepartsforhold. N\u00e5r en kreditgiver har overdraget sine rettigheder i henhold til en kreditaftale til tredjemand, har forbrugeren if\u00f8lge KAL \u00a7 33, stk. 1, over for erhververen ret til at g\u00f8re enhver indsigelse g\u00e6ldende, som forbrugeren kunne g\u00f8re g\u00e6ldende over for den oprindelige kreditgiver. Erhververen har de samme rettigheder og forpligtelser over for forbrugeren, som den oprindelige kreditgiver. If\u00f8lge KAL \u00a7 33, stk. 2, skal forbrugeren underrettes om en s\u00e5dan overdragelse efter stk. 1. Dette g\u00e6lder ikke, hvis den oprindelige kreditgiver efter aftale med erhververen fortsat st\u00e5r for kreditten i forhold til forbrugeren. I tilf\u00e6lde af kreditorskifte (ved det efterf\u00f8lgende trepartsforhold) er reglen en gentagelse af princippet i g\u00e6ldsbrevslovens \u00a7 27, men reglen i KAL \u00a7 33 kan \u2013 i mods\u00e6tning til g\u00e6ldsbrevslovens \u00a7 27 \u2013 ikke fraviges ved aftale, jf. KAL \u00a7 7.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
-      },
-      "image": "img/really11.gif",
-      "number": 11,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Har forbrugerens adgang til at frems\u00e6tte indsigelser over for anden kreditor i et trepartsforhold?"
-    },
-    {
-      "answers": [
-        "N\u00e5r man k\u00f8ber fast ejendom.",
-        "N\u00e5r man s\u00e6lger sin faste ejendom.",
-        "N\u00e5r der er mangler ved fast ejendom.",
-        "Hvor s\u00e6lger forbeholder sig ejendomsretten indtil varen er betalt."
-      ],
-      "correct": {
-        "index": 3,
-        "text": "Hvor s\u00e6lger forbeholder sig ejendomsretten indtil varen er betalt. Ejendomsforbehold er en aftale mellem k\u00f8ber og s\u00e6lger om, at s\u00e6lger kan tage varen tilbage, hvis k\u00f8ber ikke betaler afdrag efter kreditaftalen, jf. KAL \u00a7 34, stk. 1. Ejendomsforbehold kan v\u00e6re en del af kreditaftalen, men s\u00e6lger kan ogs\u00e5 v\u00e6lge ikke at tage ejendomsforbehold. I aftaler om kreditk\u00f8b er det udelukkende muligt at bruge ejendomsforbehold, der kan ikke tages underpant i varen.<br>                      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <br> <br> <a href=\"https://jura.tepedu.dk/kreditaftaler.html\" target=\"_blank\">Du kan l\u00e6se mere om kreditaftaler, se videoer, podcasts og opgaver i jura onlinebogen<br> https://jura.tepedu.dk/kreditaftaler.html</a><br>"
-      },
-      "image": "img/really12.gif",
-      "number": 12,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 12</h2>Hvad er et k\u00f8b med ejendomsforbehold?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad sker der med arven, hvis der ikke er nogen arvinger?"
     }
   ],
-  "title": "Kreditaftaler",
+  "title": "Arveretten",
   "url": null
 }

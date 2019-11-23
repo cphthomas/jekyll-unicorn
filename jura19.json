@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Rettighedshaveren sikrer de andres rettigheder.",
+        "Staten sikrer dokumenterne ved at lyse p\u00e5 dem s\u00e5 teksten ikke forsvinder p\u00e5 dokumentet.",
+        "Rettighedshaveren sikrer sin rettighed mod andre rettigheder, der stiftes efterf\u00f8lgende.",
+        "Debitor sikrer sin rettighed over for kreditor."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Tinglysning er en sikringsakt, hvor rettighedshaveren sikrer sin rettighed (ejendomsret, pant mv.) mod andre rettigheder, der stiftes efterf\u00f8lgende, og som strider mod ens egen rettighed. Vedr\u00f8rende for eksempel fast ejendom bliver k\u00f8b, pant og andre aftaler, samt kreditorforf\u00f8lgning (fx udl\u00e6g) tinglyst for at sikre aftalen mod andre rettigheder over ejendommen. N\u00e5r en ejendom bliver solgt, bliver sk\u00f8de og k\u00f8bsaftale tinglyst for at sikre, at andre rettighedshavere kan se, at k\u00f8ber nu ejer ejendommen, hvis fx S\u00e6lgeren af ejendommen s\u00e6lger ejendommen til andre og f\u00e5r tinglyst dette sk\u00f8de. S\u00e6lgeren af ejendommen pants\u00e6tter ejendommen og f\u00e5r tinglyst pantebrevet. S\u00e6lgers kreditorer foretager udl\u00e6g i ejendommen og f\u00e5r tinglyst udl\u00e6gget.<<br>S\u00e6lger bliver erkl\u00e6ret konkurs eller S\u00e6lger giver andre en begr\u00e6nset rettighed over ejendommen (fx en brugsret), og denne rettighed bliver tinglyst. Tinglysning kan ogs\u00e5 v\u00e6re relevant for en kreditor, som yder l\u00e5n mod pant i en fast ejendom. Kreditor sikrer sin prioritetsstilling over for andre utinglyste panterettigheder ved at f\u00e5 tinglyst sin rettighed. Tinglysning sker med andre ord for at beskytte sig mod andres eventuelle krav. For \u00e6gtepagter er tinglysning en gyldighedsbetingelse.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap1.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad menes der med, at tinglysning er en sikringsakt?"
+    },
+    {
+      "answers": [
+        "Rettigheder tinglyst som adkomst, pant eller byrde/servitut bliver opstillet i rangorden.",
+        "Det er sp\u00f8rgsm\u00e5l om, hvordan man prioriterer sine rettigheder.",
+        "Det er de rettigheder, man ikke kan f\u00e5 tinglyst.",
+        "Det er de rettigheder, man kan f\u00e5 staten til at tinglyse."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Rettigheder tinglyst som adkomst, pant eller byrde/servitut bliver opstillet i rangorden. Det vil sige i den r\u00e6kkef\u00f8lge, de har sikkerhed i ejendommen, k\u00f8ret\u00f8jet, andelsboligen eller l\u00f8s\u00f8ret. R\u00e6kkef\u00f8lgen bliver afgjort dels af tidspunktet for tinglysning, dels af eventuelle tinglyste erkl\u00e6ringer om at ville respektere senere tinglyste rettigheder (rykningsp\u00e5tegninger). Hvis en ejendom bliver solgt til flere, er det som regel den k\u00f8ber, der f\u00f8rst f\u00e5r tinglyst sit k\u00f8b, der f\u00e5r ret til at beholde ejendommen. Hvis en ejendom bliver solgt, og der efterf\u00f8lgende bliver foretaget udl\u00e6g over for s\u00e6lger, har kreditor sikkerhed i ejendommen uanset det forudg\u00e5ende salg. Sikkerheden g\u00e6lder dog kun, hvis udl\u00e6gget bliver tinglyst f\u00f8r sk\u00f8det. Tingb\u00f8gerne har det, som man kalder \u0094negativ trov\u00e6rdighed\u0094. Det betyder for eksempel, at en k\u00f8ber/panthaver mv. ikke kan blive m\u00f8dt med krav, der ikke er tinglyst. Dette g\u00e6lder, hvis k\u00f8beren/panthaveren mv. ikke ad anden vej havde kendskab til kravets eksistens.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap2.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad der menes med \u0094prioritet\u0094?"
+    },
+    {
+      "answers": [
+        "\u00c6ldre rettigheder g\u00e5r forud for yngre.",
+        "Yngre rettigheder g\u00e5r forud for \u00e6ldre rettigheder.",
+        "Den der betaler den st\u00f8rste tinglysningsafgift f\u00e5r bedst ret.",
+        "Den der betaler den mindste tinglysningsafgift f\u00e5r mindst ret."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "\u0094F\u00f8rst i tid, bedst i ret\". Grunds\u00e6tningen om, at \u00e6ldre rettigheder g\u00e5r forud for yngre. R\u00e6kkef\u00f8lgen bliver afgjort dels af tidspunktet for tinglysning, dels af eventuelle tinglyste erkl\u00e6ringer om at ville respektere senere tinglyste rettigheder (rykningsp\u00e5tegninger). Hvis en ejendom bliver solgt til flere, er det som regel den k\u00f8ber, der f\u00f8rst f\u00e5r tinglyst sit k\u00f8b, der f\u00e5r ret til at beholde ejendommen. Hvis en ejendom bliver solgt, og der efterf\u00f8lgende bliver foretaget udl\u00e6g over for s\u00e6lger, har kreditor sikkerhed i ejendommen uanset det forudg\u00e5ende salg. Sikkerheden g\u00e6lder dog kun, hvis udl\u00e6gget bliver tinglyst f\u00f8r sk\u00f8det.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap3.gif",
+      "number": 3,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad menes der med grunds\u00e6tningen \u0094\u0094f\u00f8rst i tid bedst i ret\u0094?"
+    },
+    {
+      "answers": [
+        "- K\u00f8ber/panthaver mv. ikke kan blive m\u00f8dt med krav, der ikke er tinglyst, hvis K\u00f8ber/panthaver er i ond tro p\u00e5 tinglysningstidspunktet.",
+        "K\u00f8ber/panthaver mv. ikke kan blive m\u00f8dt med krav, der ikke er tinglyst, hvis K\u00f8ber/panthaver er i god tro p\u00e5 tinglysningstidspunktet.",
+        "K\u00f8ber/panthaver ikke har tillid til tingb\u00f8gerne."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "K\u00f8ber/panthaver mv. ikke kan blive m\u00f8dt med krav, der ikke er tinglyst, hvis de er i god tro. Tingb\u00f8gerne har det, som man kalder \u0094negativ trov\u00e6rdighed\u0094. Det betyder for eksempel, at en k\u00f8ber/panthaver mv. ikke kan blive m\u00f8dt med krav, der ikke er tinglyst, hvis de er i god tro p\u00e5 tinglysningstidspunktet, jf. TL \u00a7 5. Dette g\u00e6lder, hvis k\u00f8beren/panthaveren mv. ikke ad anden vej havde kendskab til kravets eksistens.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap4.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad menes der med at tingb\u00f8gerne har \u0094negativ trov\u00e6rdighed\u0094?"
+    },
+    {
+      "answers": [
+        "En forening, som ejer en eller flere faste ejendomme, hvor foreningens medlemmer har \"brugsret\" til de enkelte lejligheder.",
+        "En forening, som ejer en eller flere faste ejendomme, hvor foreningens medlemmer har \"ejendomsretten\" til de enkelte lejligheder.",
+        "En forening, som lejer en eller flere faste ejendomme, hvor foreningens medlemmer har \"brugsret\" til de enkelte lejligheder.",
+        "En forening, som ejer en eller flere faste ejendomme, hvor foreningens medlemmer udlejer en andel til Airbnb."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "En \"andelsboligforening\" er En \"andelsboligforening\" er en forening, som ejer en eller flere faste ejendomme, hvor foreningens medlemmer har \"brugsret\" til de enkelte lejligheder.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er en \u0094andelsboligforening\u0094?"
+    },
+    {
+      "answers": [
+        "En benyttelse af et beboelseslokalitet som sker kun sker lejlighedsvis.",
+        "Er en transportkontrakt i sommerperioden.",
+        "En beboelseslokalitet med dertil h\u00f8rende selvst\u00e6ndigt k\u00f8kken.",
+        "Et rejsedokument p\u00e5 en rejseforsikring."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "En \"lejlighed\" betegner En *\"lejlighed\"* betegner en beboelseslokalitet med dertil h\u00f8rende selvst\u00e6ndigt k\u00f8kken, normalt med indlagt vand og afl\u00f8b. Er modstykket til enkeltv\u00e6relser. \"Leje\" er en brugsret mod vederlag i mods\u00e6tning til l\u00e5n til brug.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad karakteriserer en \u0094lejlighed\u0094?"
+    },
+    {
+      "answers": [
+        "Notering p\u00e5, hvem der har v\u00e6ret tilstede p\u00e5 andelsboligforeningens generalforsamling.",
+        "I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udl\u00e6g mv.) over andele i andelsboligforeninger.",
+        "Notering p\u00e5, hvem der er medlemmer af andelsboligforeningens bestyrelse."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udl\u00e6g mv.) over andele i andelsboligforeninger.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er \u0094Andelsboligbogen\u0094?"
+    },
+    {
+      "answers": [
+        "Personbogen.",
+        "Tingbogen",
+        "Andelsboligbogen.",
+        "Ingen steder."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "\u00c6gtepagter bliver registreret i Personbogen. I Personbogen bliver det ogs\u00e5 registreret, hvis en person kun kan r\u00e5de over sin formue i begr\u00e6nset omfang. I Personbogen kan kreditorer ogs\u00e5 registrere rettigheder over andet l\u00f8s\u00f8re end biler. Notartestamenter bliver registreret i Centralregisteret for Testamenter.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap8.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvor skal \u0094\u00e6gtepagter\u0094 registreres?"
+    },
+    {
+      "answers": [
+        "Begr\u00e6nsede rettigheder over l\u00f8s\u00f8re.",
+        "Begr\u00e6nsede rettigheder over dyr.",
+        "Begr\u00e6nsede rettigheder over tjenestefolk.",
+        "Begr\u00e6nsede rettigheder over fast ejendom."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Servitutter er forskellige begr\u00e6nsede rettigheder over fast ejendom, for eksempel f\u00e6rdselsret, jagtret, aft\u00e6gtsret og fork\u00f8bsret tinglyses som servitut. Servitutter kan opdeles i privatretlige rettigheder og offentligretlige rettigheder. Privatretlige rettigheder er, n\u00e5r privatpersoner har tinglyst en ret over ejendommen. Offentligretlige rettigheder er, n\u00e5r det er en myndighed, der har f\u00e5et tinglyst en ret over ejendommen. Det kan for eksempel v\u00e6re i form af en fredning af bygninger p\u00e5 ejendommen. Disse rettigheder kan v\u00e6re g\u00e6ldende uden tinglysning.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er en \u0094servitut\u0094?"
+    },
+    {
+      "answers": [
+        "Der er ikke lovkrav om tinglysning af en ejendomsret.",
+        "Der er lovkrav om tinglysning af en ejendomsret.",
+        "Kun hvis det er aftalt",
+        "Kun hvis den der har ejendomsretten er myndig."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Det bliver registreret i Tingbogen, hvem der ejer en fast ejendom.Der er ikke lovkrav om tinglysning af en ejendomsret. Men det er en god id\u00e9 at f\u00e5 ejendomsretten tinglyst. Da man ellers kan f\u00e5 sin ret fortr\u00e6ngt af andre rettigheder, da dokumentet kan blive v\u00e6k. Da salg, pants\u00e6tning og anden disposition over ejendommen som udgangspunkt kun kan ske, n\u00e5r man har tinglyst ejendomsretten. Tinglysningsloven og tinglysningsbekendtg\u00f8relsen indeholder regler om, hvilke oplysninger dokumentet skal indeholde. Man skal anmelde dokumentet p\u00e5 www.tinglysning.dk.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html\" target=\"_blank\">Du kan l\u00e6se mere om tinglysning af rettigheder, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/tinglysning-af-rettigheder-premium.html</a><br>"
+      },
+      "image": "img/chap10.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Er det et lovkrav at ejendomsretten til fast ejendom skal tinglyses?"
+    }
+  ],
+  "title": "Tinglysning af rettigheder",
+  "url": null
+}

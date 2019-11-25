@@ -2,154 +2,123 @@
   "questions": [
     {
       "answers": [
-        "Det er en tingsforsikring p\u00e5 en bil.",
-        "Det er et pantebrev i en bil.",
-        "Det er en sikkerhedsstillelse for en andens g\u00e6ldsforhold.",
-        "Der er et pantebrev i et l\u00f8s\u00f8re."
+        "En bekendtg\u00f8relse er en administrativ forskrift som ikke har st\u00f8tte i en lov.",
+        "En bekendtg\u00f8relse er en s\u00e6rlov som er vedlaget i Folketinget.",
+        "En bekendtg\u00f8relse er en lov der bliver bekendtgjort.",
+        "En bekendtg\u00f8relse er en administrativ forskrift med st\u00f8tte i en lov."
       ],
       "correct": {
-        "index": 2,
-        "text": "Kaution er en sikkerhedsstillelse for en andens g\u00e6ldsforhold. *Kaution*, betyder overtagelse af en \u00f8konomisk risiko, som b\u00e6res af en kreditor i et skyldforhold, med den virkning, at kautionisten sammen med debitor h\u00e6fter for opfyldelsen af debitors betalingspligt. Ordet *kaution* kommer af latin cautio 'forsigtighed, sikkerhed', af cavere 'passe p\u00e5, sikre'.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+        "index": 3,
+        "text": "En bekendtg\u00f8relse er en administrativ forskrift udstedt af en forvaltningsmyndighed med hjemmel (st\u00f8tte) i lov. Bekendtg\u00f8relser er bindende for borgere, virksomheder og myndigheder, medmindre andet f\u00f8lger af bekendtg\u00f8relsen. \u0094Anordning\" er et gammelt ord for bekendtg\u00f8relse.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
       },
-      "image": "img/pink1.gif",
+      "image": "img/pres1.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er \u0094kaution\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er en \u0094bekendtg\u00f8relse\u0094?"
     },
     {
       "answers": [
-        "At kautionen for l\u00e5net kun udl\u00f8ses ved skyld hos debitor.",
-        "At kautionisten har kautioneret for hele l\u00e5net.",
-        "At kautionen for l\u00e5net kun udl\u00f8ses ved skyld hos kautionisten.",
-        "At kautionen for l\u00e5net kun udl\u00f8ses ved skyld hos kreditor."
+        "Cirkul\u00e6rer udstedes af centrale administrative myndigheder med underordnede myndigheder som adressater.",
+        "Cirkul\u00e6rer udstedes af kommunerne.",
+        "Cirkul\u00e6rer udstedes af dronningen.",
+        "Cirkul\u00e6rer udstedes af Regionerne."
       ],
       "correct": {
-        "index": 1,
-        "text": "At kautionisten har kautioneret for hele l\u00e5net.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+        "index": 0,
+        "text": "Cirkul\u00e6rer udstedes af centrale administrative myndigheder med underordnede myndigheder som adressater. Cirkul\u00e6rer er kun bindende for myndighederne og kan ikke p\u00e5ber\u00e5bes af borgerne. Et cirkul\u00e6re kan ikke forpligte borgerne, og disse kan normalt heller ikke retligt st\u00f8tte sig p\u00e5 et cirkul\u00e6re alene.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
       },
-      "image": "img/pink2.gif",
+      "image": "img/pres2.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad menes der med en \u0094alskyld-kautiuon\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er \u0094cirkul\u00e6re\u0094?"
     },
     {
       "answers": [
-        "En begr\u00e6nset kaution er kaution for et maksimalt bel\u00f8b.",
-        "En ubegr\u00e6nset kaution er kaution for et maksimalt bel\u00f8b.",
-        "En delvis begr\u00e6nset kaution er kaution for et maksimalt bel\u00f8b.",
-        "En begr\u00e6nset kaution er kaution for et minimum bel\u00f8b."
+        "Afg\u00f8relsen ikke har betydning for, hvordan fremtidige afg\u00f8relser inden for det p\u00e5g\u00e6ldende omr\u00e5de skal bed\u00f8mmes.",
+        "At dommen er ugyldig.",
+        "Afg\u00f8relsen kan have betydning for, hvordan fremtidige afg\u00f8relser inden for det p\u00e5g\u00e6ldende omr\u00e5de skal bed\u00f8mmes.",
+        "At dommen er en overtr\u00e6delse af Den Europ\u00e6iske Menneskerettighedskonvention (EMRK)."
       ],
       "correct": {
-        "index": 0,
-        "text": "\u0094Begr\u00e6nset kaution\u0094 betyder, at der kautioners for et maksimalt bel\u00f8b.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+        "index": 2,
+        "text": "Domstolsafg\u00f8relser og domstolskendelser kan have \u0094pr\u00e6judikatsv\u00e6rdi\u0094.<<br>Det betyder, at afg\u00f8relsen kan have betydning for, hvordan fremtidige afg\u00f8relser inden for det p\u00e5g\u00e6ldende omr\u00e5de skal bed\u00f8mmes. Pr\u00e6judikatsv\u00e6rdien kan v\u00e6re underlagt en r\u00e6kke indskr\u00e6nkninger, hvilket betyder, at pr\u00e6judikatsv\u00e6rdiens r\u00e6kkevidde kan v\u00e6re begr\u00e6nset. Der findes ikke i dansk ret et klart princip, der angiver, hvorn\u00e5r og i hvilket omfang domme har pr\u00e6judikatsv\u00e6rdi; det afh\u00e6nger af den konkrete problemstilling. F\u00f8lgende momenter kan indg\u00e5 i vurderingen af, hvilken pr\u00e6judikatsv\u00e6rdi en afg\u00f8relse kan till\u00e6gges: Hvor konkret er afg\u00f8relsen, og kan den v\u00e6re anvendelig p\u00e5 lignende afg\u00f8relser. H\u00f8jesteretsdomme har generelt st\u00f8rre pr\u00e6judikatsv\u00e6rdi end landsretsdomme, der igen har st\u00f8rre pr\u00e6judikatsv\u00e6rdi end byretsdomme. Endvidere har nye domme st\u00f8rre pr\u00e6judikatsv\u00e6rdi end \u00e6ldre domme. Dommes pr\u00e6judikatsv\u00e6rdi begr\u00e6nses, n\u00e5r deres begrundelser g\u00f8res meget konkrete.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
       },
-      "image": "img/pink3.gif",
+      "image": "img/pres3.gif",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad betyder en \u0094begr\u00e6nset kaution\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad betyder det, at domstolsafg\u00f8relser og domstolskendelser kan have \u0094pr\u00e6judikatsv\u00e6rdi\u0094?"
     },
     {
       "answers": [
-        "Delkaution betyder, at der kautioners for et ubestemt bel\u00f8b af l\u00e5net.",
-        "Delkaution betyder, at der kautioners for et lovbestemt bel\u00f8b af l\u00e5net.",
-        "Delkaution betyder, at der kautioners for et ulovbestemt bel\u00f8b af l\u00e5net",
-        "Delkaution betyder, at der kautioners for en bestemt del af l\u00e5net."
-      ],
-      "correct": {
-        "index": 3,
-        "text": "Delkaution betyder, at der kautioners for en bestemt del af l\u00e5net.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
-      },
-      "image": "img/pink4.gif",
-      "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betyder \u0094delkaution\u0094?"
-    },
-    {
-      "answers": [
-        "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at personen h\u00e6fter for den samlede g\u00e6ld.",
-        "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at en umyndig person alene h\u00e6fter for en bestemt andel af den samlede g\u00e6ld.",
-        "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at hver person alene h\u00e6fter for en br\u00f8kdel af den samlede g\u00e6ld.",
-        "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at hver person alene h\u00e6fter for en bestemt andel af den samlede g\u00e6ld."
-      ],
-      "correct": {
-        "index": 3,
-        "text": "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at hver person alene h\u00e6fter for en bestemt andel af den samlede g\u00e6ld. Det kan eksempelvis v\u00e6re aftalt, at to kautionister hver is\u00e6r alene h\u00e6fter for 50.000 kr. af en samlet g\u00e6ld p\u00e5 100.000 kr. L\u00e5ngiver kan i dette tilf\u00e6lde alene kr\u00e6ve 50.000 kr. fra hver af de to kautionister. Ved ren pro rata h\u00e6ftelse har det ingen betydning for den ene kautionist, om den anden kautionist betaler sin del af g\u00e6lden, da hver kautionist h\u00e6fter for en begr\u00e6nset del af den samlede g\u00e6ld. Det kan dog v\u00e6re aftalt, at kautionisterne har regres over for hinanden, selv om de h\u00e6fter pro rata over for l\u00e5ngiver. En s\u00e5dan aftale minder om solidarisk h\u00e6ftelse.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
-      },
-      "image": "img/pink5.gif",
-      "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad forst\u00e5s der ved \u0094prorata h\u00e6ftelse\u0094?"
-    },
-    {
-      "answers": [
-        "Solidarisk h\u00e6ftelse betyder, at kautionisterne ikke h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab.",
-        "Solidarisk h\u00e6ftelse betyder, at kautionisterne h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab.",
-        "Solidarisk h\u00e6ftelse betyder, at debitorerne h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab.",
-        "Solidarisk h\u00e6ftelse betyder, at to af fire kautionister h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab."
+        "Det er regler for et godt \u00e6gteskab og en god skilsmisse.",
+        "En \u00f8nsket adf\u00e6rdsnorm.",
+        "En \u00f8nsket m\u00e5de p\u00e5, hvordan folketingsmedlemmerne skal opf\u00f8re sig.",
+        "Regler for, hvordan en dommer kan tiltale den anklagede."
       ],
       "correct": {
         "index": 1,
-        "text": "Solidarisk h\u00e6ftelse betyder, at kautionisterne h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab ud fra devisen \"\u00e9n for alle, alle for \u00e9n\". Der vil v\u00e6re solidarisk h\u00e6ftelse mellem to kautionister, hvis ikke andet er aftalt eller f\u00f8lger af lovgivningen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+        "text": "Undertiden st\u00f8der man i lovgivningen p\u00e5, at en handlem\u00e5de skal v\u00e6re overensstemmelse med en branchebestemt *\u0094god skik\u0094*, en s\u00e5kaldt \u0094adf\u00e6rdsnorm\u0094. Eksempler herp\u00e5 er god advokatskik, god ejendomsm\u00e6glerskik, god skik for de finansielle virksomheder, god markedsf\u00f8ringsskik, god revisionsskik, god inkassoskik og god forvaltningsskik m.v. God skik regler findes i begr\u00e6nset omfang p\u00e5 lov- eller bekendtg\u00f8relsesniveau (eksempel herp\u00e5 er bekendtg\u00f8relse om god skik for finansielle virksomheder), mens normerne for god skik i andre tilf\u00e6lde er fastsat af domstolene mv. God skik er som udgangspunkt branchebestemt, og de vage rammer sikrer en tidsvarende standardnorm, der udvikles i takt med samfundsudviklingen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
       },
-      "image": "img/pink6.gif",
-      "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder \u0094solidarisk h\u00e6ftelse\u0094 for kautionisterne?"
+      "image": "img/pres4.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad er god skik regler?"
     },
     {
       "answers": [
-        "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter debitorerne for hele g\u00e6lden i f\u00e6llesskab.",
-        "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter kautionisterne ikke for hele g\u00e6lden i f\u00e6llesskab.",
-        "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter umyndige kautionister for hele g\u00e6lden i f\u00e6llesskab.",
-        "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter kautionisterne for hele g\u00e6lden i f\u00e6llesskab."
+        "Pr\u00e6ceptive regler er kendetegnet ved, at de kan fraviges ved aftale.",
+        "Pr\u00e6ceptive regler er kendetegnet ved, at de ikke kan fraviges ved aftale.",
+        "Pr\u00e6ceptive regler er kendetegnet ved, at det er meget gamle regler."
       ],
       "correct": {
-        "index": 3,
-        "text": "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter kautionisterne for hele g\u00e6lden i f\u00e6llesskab. L\u00e5ngiver kan kr\u00e6ve hele g\u00e6lden betalt af enhver af kautionisterne, men l\u00e5ngiver kan naturligvis ikke samlet kr\u00e6ve mere end det samlede skyldige bel\u00f8b.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+        "index": 1,
+        "text": "Pr\u00e6ceptive regler er kendetegnet ved, at de ikke kan fraviges ved aftale. Aftaler i strid mod lov og \u00e6rbarhed er kendetegnet ved, at aftalen er i strid med ufravigelige regler.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
       },
-      "image": "img/pink7.gif",
-      "number": 7,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad menes der med \u0094fuldst\u00e6ndig solidarisk h\u00e6ftelse\u0094?"
+      "image": "img/pres5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er \u0094pr\u00e6ceptive regler\u0094?"
     },
     {
       "answers": [
-        "Selvskyldnerkaution indeb\u00e6rer, at kautionisten h\u00e6fter allerede fra den dag, hvor l\u00e5ntageren misligholder sin betalingsforpligtelse.",
-        "Selvskyldnerkaution indeb\u00e6rer, at kautionisten h\u00e6fter allerede fra den dag, hvor l\u00e5ntageren opfylder sin betalingsforpligtelse.",
-        "Selvskyldnerkaution indeb\u00e6rer, at debitor h\u00e6fter allerede fra den dag, hvor kreditor misligholder sin betalingsforpligtelse.",
-        "Selvskyldnerkaution indeb\u00e6rer, at kautionisten h\u00e6fter allerede fra den dag i m\u00e5neden, hvor l\u00e5ntageren misligholder sin udbetalingsforpligtelse."
+        "En forordning er en bindende retsakt, som er direkte g\u00e6ldende i EU-medlemsstaterne.",
+        "En forordning er en bindende retsakt, som er indirekte g\u00e6ldende i EU-medlemsstaterne.",
+        "En forordning er en ikke bindende retsakt, som er direkte g\u00e6ldende i EU-medlemsstaterne."
       ],
       "correct": {
         "index": 0,
-        "text": "Selvskyldnerkaution indeb\u00e6rer, at kautionisten h\u00e6fter allerede fra den dag, hvor l\u00e5ntageren misligholder sin betalingsforpligtelse. \u0094Selvskyldnerkaution\u0094 er den strengeste form for kaution set fra kautionistens synspunkt og anvendes af pengeinstitutterne. Hvis kravet ikke er betalt, kan l\u00e5ngiver allerede fra forfaldsdagen kr\u00e6ve betaling fra kautionisterne uden at dokumentere, at l\u00e5ntager er insolvent og derfor ikke kan betale g\u00e6lden.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+        "text": "En \"forordning\" er en bindende retsakt, som er direkte g\u00e6ldende i EU-medlemsstaterne - parallelt til en national lov, se fx forordning 241/2004 om flypassagers rettigheder. Derfor skal de enkelte EU-medlemsstater f\u00f8lge forordningen i alle dens enkeltheder. Da EU fx \u00f8nskede at garantere f\u00e6lles sikkerhedsforanstaltninger for varer importeret fra lande uden for EU, vedtog R\u00e5det en forordning.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
       },
-      "image": "img/pink8.gif",
+      "image": "img/pres6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad er en \u0094forordning\u0094?"
+    },
+    {
+      "answers": [
+        "En fysisk m\u00e5de, hvor p\u00e5 jurister kan slappe af efter arbejde.",
+        "Juridisk metode er fremgangsm\u00e5den ved stillingtagen til juridiske problemer.",
+        "En fremgangsm\u00e5de hvor p\u00e5 man kan sende folk ud af landet.",
+        "En metode til psykisk at kn\u00e6kke en mordsigtet p\u00e5."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Juridisk metode, fremgangsm\u00e5de ved stillingtagen til juridiske problemer. Metoden best\u00e5r for det f\u00f8rste af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af l\u00e6ren om, hvordan retskilderne fortolkes. Juridisk metode best\u00e5r af 3 hovedelementer: Et faktum (H\u00e6ndelsesforl\u00f8bet fx der er sket \u00f8konomisk misbrug af en kortholderens mistede Dankort). +  Et retsfaktum (Hvilken retsregel i betalingsloven skal anvendes i forhold til tredjemandsmisbruget af Dankortet) = En retsf\u00f8lge (Afg\u00f8relsen, hvem der kommer til at betale for misbruget af Dankortet banken eller kortholderen).  Den metode, der skal anvendes for at afg\u00f8re, hvilken regel der er g\u00e6ldende for et bestemt retsomr\u00e5de. Dette foruds\u00e6tter kendskab til l\u00e6ren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt p\u00e5 det givne forhold.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
+      },
+      "image": "img/pres8.gif",
       "number": 8,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad indeb\u00e6rer en \u0094selvskyldnerkaution\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad er den \u0094juridiske metode\u0094?"
     },
     {
       "answers": [
-        "Ved \u0094simpel kaution\u0094 skal l\u00e5ngiver ikke dokumentere, at l\u00e5ntager ikke kan betale g\u00e6lden, f\u00f8r der kan kr\u00e6ves betaling fra kautionisterne.",
-        "Ved \u0094simpel kaution\u0094 skal kautionisten dokumentere, at l\u00e5ntager ikke kan betale g\u00e6lden, f\u00f8r der kan kr\u00e6ves betaling fra kautionisterne.",
-        "Ved \u0094simpel kaution\u0094 skal l\u00e5ngiver dokumentere, at l\u00e5ntager ikke kan betale g\u00e6lden, f\u00f8r der kan kr\u00e6ves betaling fra kautionisterne."
+        "Retss\u00e6dvane er lovreguleret og har samme retskildev\u00e6rdi som love.",
+        "Retss\u00e6dvane er ulovreguleret og har ikke samme retskildev\u00e6rdi som love.",
+        "Retss\u00e6dvane er ulovreguleret og har samme retskildev\u00e6rdi som love.",
+        "Er en samlet betegnelse for lovforslagsbehandlingen i Folketinget."
       ],
       "correct": {
         "index": 2,
-        "text": "Ved \u0094simpel kaution\u0094 skal l\u00e5ngiver dokumentere, at l\u00e5ntager ikke kan betale g\u00e6lden, f\u00f8r der kan kr\u00e6ves betaling fra kautionisterne. Simpel kaution finder anvendelse, medmindre andet er aftalt fx en selvskyldnerkaution eller f\u00f8lger af lov. Simpel kaution adskiller sig fra selvskyldnerkautionen med hensyn til tidspunktet for kautionsforpligtelsens indtr\u00e6den. Ud over misligholdelsen kr\u00e6ves det ved simpel kaution ogs\u00e5, at betaling ikke kan opn\u00e5s hos hovedmanden. Alts\u00e5 at han er insolvent, jf. her definitionen i konkurslovens \u00a7 17.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+        "text": "Retss\u00e6dvaner er ulovreguleret, men selv om retss\u00e6dvanerne er ulovreguleret har de som retskilde samme betydning, som de var p\u00e5 lovniveau. Nogle retss\u00e6dvaner er udviklet af domstolene. Domsl\u00e6sning, l\u00e6sning af anerkendte juridiske grunds\u00e6tninger og s\u00f8gning i retslitteraturen er nogle af svarene p\u00e5, hvor retss\u00e6dvaner kan findes.<<br>Imidlertid er retss\u00e6dvaner ikke vilk\u00e5rlige, hvorfor der er flere elementer, der skal v\u00e6re opfyldt, f\u00f8r retss\u00e6dvanen overhovedet kan till\u00e6gges betydning. Et klassisk eksempel p\u00e5 retss\u00e6dvane er \u0094culpareglen\u0094 (erstatningsreglen). I den juridiske litteratur er der opstillet rammer for, hvorn\u00e5r der er tale om en retss\u00e6dvane. Den traditionelle opfattelse er, at det v\u00e6re en handlem\u00e5de, der er 1) fulgt almindeligt, 2) stadigt og 3) l\u00e6nge ud fra 4) den overbevisning, at man er retligt forpligtet til det.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
       },
-      "image": "img/pink9.gif",
-      "number": 9,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad betyder en \u0094simpel kaution\u0094?"
-    },
-    {
-      "answers": [
-        "Kautionen oph\u00f8rer aldrig.",
-        "Kautionen oph\u00f8rer ved aftale mellem l\u00e5ngiver og l\u00e5ntager.",
-        "Kautionen oph\u00f8rer, n\u00e5r g\u00e6lden bliver betalt eller eftergivet.",
-        "Kautionen oph\u00f8rer ved aftale mellem l\u00e5ntager og kautionisten."
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Kautionen oph\u00f8rer, n\u00e5r g\u00e6lden bliver betalt eller eftergivet. Privat kaution bortfalder efter 5 \u00e5r eller 10 \u00e5r, hvis kautionen ikke forl\u00e6nges.<<br>Kautionen kan bortfalde ved kreditors henstand. Kautionen for\u00e6ldes sammen med hovedfordring, hvis ikke andet er aftalt.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
-      },
-      "image": "img/pink10.gif",
+      "image": "img/pres10.gif",
       "number": 10,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvorn\u00e5r oph\u00f8rer kautionen?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er en \u0094retss\u00e6dvane\u0094?"
     }
   ],
-  "title": "Kautionsforhold",
+  "title": "Retskilderne",
   "url": null
 }

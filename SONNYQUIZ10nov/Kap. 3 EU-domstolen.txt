@@ -1,0 +1,34 @@
+1) Hvilken funktion har ”EU-Domstolen”?
+- EU-Domstolen afgiver kun udtagelser i konkrete tvister.
+- EU-Domstolen træffer ikke bindende domstolsafgørelser.
+* EU-Domstolen træffer afgørelser i de sager, der indbringes for den.
+EU-Domstolen træffer afgørelser i de sager, der indbringes for den. 
+De mest almindelige typer sager er: 1. Fortolkning af love (præjudicielle afgørelser) - de nationale domstole i EU-landene skal sikre, at EU-lovene anvendes korrekt, men domstolene i de forskellige lande kan fortolke reglerne forskellige. Hvis en national domstol er i tvivl om fortolkningen eller gyldigheden af en EU-retsakt, kan den spørge Domstolen til råds. Den samme mekanisme kan anvendes til at afgøre, om national ret eller praksis er forenelig med EU-retten. 2. Håndhævelse af loven (overtrædelsesprocedurer) - denne form for sag føres mod et medlemsland, hvis det ikke overholder EU-reglerne. 
+
+2) Hvilke juridiske retsområder beskæftiger EU-Domstolens sig primært med?
+- Retten beskæftiger primært sig med alle retsområder.
+- Retten beskæftiger primært sig med udlændingeret.
+* Retten beskæftiger primært sig med konkurrenceret, statsstøtte, handel, landbrug og varemærker.
+- Retten beskæftiger primært sig med erhvervs- og finansjura.
+Retten beskæftiger primært sig med konkurrenceret, statsstøtte, handel, landbrug og varemærker.
+
+3) Hvem består EU-Domstolen af?
+- Domstolen består af 38 dommere og 11 generaladvokater.
+- Domstolen består af 18 dommere og 10 generaladvokater.
+* Domstolen består af 28 dommere og 11 generaladvokater.
+- Der findes ikke nogen sikre tal over hvor mange dommere der er tilknyttet EU-Domstolen.
+Domstolen består af 28 dommere og 11 generaladvokater.
+
+4) Hvor offentliggøres dommene fra EU-Domstolen?
+- På Retsinformation.
+- På Folketingets hjemmeside.
+* På Domstolens websted CURIA offentliggøres dommene.
+På Domstolens websted CURIA offentliggøres dommene og generaladvokaternes forslag til afgørelse på afsigelsesdagen, henholdsvis fremsættelsesdagen.
+
+5) Hvad menes der med at de nationale retter kan forelægge ”præjudicielle spørgsmål” til EU-Domstolen?
+- Det vil sige spørgsmål om fortolkning af tidligere EU-retlige regler.
+- Det vil sige spørgsmål om fortolkning af udenlandsk ret.
+* Det vil sige spørgsmål om fortolkning af unionsretten.
+Domstolen samarbejder med samtlige retsinstanser i medlemsstaterne, som er de ordinære retter, på unionsrettens område. For at sikre en effektiv og ensartet anvendelse af unionsretten og for at undgå forskelle i fortolkningen heraf kan - og i visse tilfælde skal - de nationale retter forelægge Domstolen ”præjudicielle spørgsmål vedrørende fortolkningen af unionsretten”, fx med henblik på, at den nationale ret kan efterprøve de nationale bestemmelsers overensstemmelse med unionsretten. Den præjudicielle forelæggelse kan også vedrøre spørgsmål om en unionsretsakts lovlighed. Domstolens dom binder på samme måde de øvrige nationale domstole, som måtte skulle træffe afgørelse vedrørende et identisk spørgsmål. Det er ligeledes gennem præjudicielle forelæggelser, at enhver europæisk borger kan få afklaring på spørgsmål om de bestemmelser i unionsretten, der vedrører ham eller hende. Selv om et præjudicielt spørgsmål kun kan forelægges af en national domstol, har parterne i den sag, der verserer for den nationale domstol, medlemsstaterne og EU-institutionerne adgang til at deltage i proceduren for Domstolen. En række af unionsrettens hovedprincipper er blevet defineret på baggrund af præjudicielle spørgsmål, der også er blevet forelagt af nationale domstole, som træffer afgørelse i første instans.
+Domstolen besvarer ikke sådanne spørgsmål ved blot at afgive en udtalelse, men i en dom eller en begrundet kendelse. Den forelæggende ret er bundet af Domstolens fortolkning.
+

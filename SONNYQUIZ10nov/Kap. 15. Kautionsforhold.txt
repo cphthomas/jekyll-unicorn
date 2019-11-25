@@ -53,8 +53,7 @@ Ved fuldstændig solidarisk hæftelse hæfter kautionisterne for hele gælden i fæll
 - Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag, hvor låntageren opfylder sin betalingsforpligtelse.
 - Selvskyldnerkaution indebærer, at debitor hæfter allerede fra den dag, hvor kreditor misligholder sin betalingsforpligtelse.
 - Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag i måneden, hvor låntageren misligholder sin udbetalingsforpligtelse.
-Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag, hvor låntageren misligholder sin betalingsforpligtelse. ”Selvskyldnerkaution” er den strengeste form for kaution set fra kautionistens synspunkt og anvendes af pengeinstitutterne. 
-Hvis kravet ikke er betalt, kan långiver allerede fra forfaldsdagen kræve betaling fra kautionisterne uden at dokumentere, at låntager er insolvent og derfor ikke kan betale gælden.
+Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag, hvor låntageren misligholder sin betalingsforpligtelse. ”Selvskyldnerkaution” er den strengeste form for kaution set fra kautionistens synspunkt og anvendes af pengeinstitutterne. Hvis kravet ikke er betalt, kan långiver allerede fra forfaldsdagen kræve betaling fra kautionisterne uden at dokumentere, at låntager er insolvent og derfor ikke kan betale gælden.
 
 9) Hvad betyder en ”simpel kaution”?
 - Ved ”simpel kaution” skal långiver ikke dokumentere, at låntager ikke kan betale gælden, før der kan kræves betaling fra kautionisterne.

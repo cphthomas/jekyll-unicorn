@@ -1,0 +1,71 @@
+1) Hvad er en ”bekendtgørelse”?
+- En bekendtgørelse er en administrativ forskrift som ikke har støtte i en lov.
+- En bekendtgørelse er en særlov som er vedlaget i Folketinget.
+- En bekendtgørelse er en lov der bliver bekendtgjort.
+* En bekendtgørelse er en administrativ forskrift med støtte i en lov.
+En bekendtgørelse er en administrativ forskrift udstedt af en forvaltningsmyndighed med hjemmel (støtte) i lov. Bekendtgørelser er bindende for borgere, virksomheder og myndigheder, medmindre andet følger af bekendtgørelsen. ”Anordning" er et gammelt ord for bekendtgørelse.
+
+2) Hvad er ”cirkulære”?
+* Cirkulærer udstedes af centrale administrative myndigheder med underordnede myndigheder som adressater.
+- Cirkulærer udstedes af kommunerne.
+- Cirkulærer udstedes af dronningen.
+- Cirkulærer udstedes af Regionerne.
+Cirkulærer udstedes af centrale administrative myndigheder med underordnede myndigheder som adressater. Cirkulærer er kun bindende for myndighederne og kan ikke påberåbes af borgerne. Et cirkulære kan ikke forpligte borgerne, og disse kan normalt heller ikke retligt støtte sig på et cirkulære alene.
+
+3) Hvad betyder det, at domstolsafgørelser og domstolskendelser kan have ”præjudikatsværdi”?
+- Afgørelsen ikke har betydning for, hvordan fremtidige afgørelser inden for det pågældende område skal bedømmes.
+- At dommen er ugyldig.
+* Afgørelsen kan have betydning for, hvordan fremtidige afgørelser inden for det pågældende område skal bedømmes.
+- At dommen er en overtrædelse af Den Europæiske Menneskerettighedskonvention (EMRK).
+Domstolsafgørelser og domstolskendelser kan have ”præjudikatsværdi”.
+Det betyder, at afgørelsen kan have betydning for, hvordan fremtidige afgørelser inden for det pågældende område skal bedømmes. Præjudikatsværdien kan være underlagt en række indskrænkninger, hvilket betyder, at præjudikatsværdiens rækkevidde kan være begrænset. Der findes ikke i dansk ret et klart princip, der angiver, hvornår og i hvilket omfang domme har præjudikatsværdi; det afhænger af den konkrete problemstilling. Følgende momenter kan indgå i vurderingen af, hvilken præjudikatsværdi en afgørelse kan tillægges: Hvor konkret er afgørelsen, og kan den være anvendelig på lignende afgørelser. Højesteretsdomme har generelt større præjudikatsværdi end landsretsdomme, der igen har større præjudikatsværdi end byretsdomme. Endvidere har nye domme større præjudikatsværdi end ældre domme. Dommes præjudikatsværdi begrænses, når deres begrundelser gøres meget konkrete.
+
+4) Hvad er god skik regler?
+-  Det er regler for et godt ægteskab og en god skilsmisse.
+* En ønsket adfærdsnorm.
+- En ønsket måde på, hvordan folketingsmedlemmerne skal opføre sig.
+- Regler for, hvordan en dommer kan tiltale den anklagede.
+Undertiden støder man i lovgivningen på, at en handlemåde skal være overensstemmelse med en branchebestemt *”god skik”*, en såkaldt ”adfærdsnorm”. Eksempler herpå er god advokatskik, god ejendomsmæglerskik, god skik for de finansielle virksomheder, god markedsføringsskik, god revisionsskik, god inkassoskik og god forvaltningsskik m.v. God skik regler findes i begrænset omfang på lov- eller bekendtgørelsesniveau (eksempel herpå er bekendtgørelse om god skik for finansielle virksomheder), mens normerne for god skik i andre tilfælde er fastsat af domstolene mv. God skik er som udgangspunkt branchebestemt, og de vage rammer sikrer en tidsvarende standardnorm, der udvikles i takt med samfundsudviklingen.
+
+5) Hvad er ”præceptive regler”?
+- Præceptive regler er kendetegnet ved, at de kan fraviges ved aftale.
+* Præceptive regler er kendetegnet ved, at de ikke kan fraviges ved aftale.
+- Præceptive regler er kendetegnet ved, at det er meget gamle regler.
+Præceptive regler er kendetegnet ved, at de ikke kan fraviges ved aftale. Aftaler i strid mod lov og ærbarhed er kendetegnet ved, at aftalen er i strid med ufravigelige regler.
+
+6) Hvad er en ”forordning”?
+* En forordning er en bindende retsakt, som er direkte gældende i EU-medlemsstaterne.
+- En forordning er en bindende retsakt, som er indirekte gældende i EU-medlemsstaterne.
+- En forordning er en ikke bindende retsakt, som er direkte gældende i EU-medlemsstaterne.
+En "forordning" er en bindende retsakt, som er direkte gældende i EU-medlemsstaterne - parallelt til en national lov, se fx forordning 241/2004 om flypassagers rettigheder. Derfor skal de enkelte EU-medlemsstater følge forordningen i alle dens enkeltheder. Da EU fx ønskede at garantere fælles sikkerhedsforanstaltninger for varer importeret fra lande uden for EU, vedtog Rådet en forordning.
+
+7) Hvad er et ”direktiv”?
+’ Et direktiv er en retsakt, der fastsætter et mål, som EU-landene skal opnå.
+- Et direktiv er en retsakt, der fastsætter et mål for politiet i EU-landene.
+- Et direktiv er en retsakt, der fastsætter et mål for militæret i EU-landene.
+- Et direktiv er en retsakt, der fastsætter et mål for landbruget i EU-landene.
+Et "direktiv" er en retsakt, der fastsætter et mål, som EU-landene skal opnå. Det er dog op til de enkelte lande at lave deres egne love for, hvordan disse mål skal opnås. Et eksempel er EU's direktiv om forbrugerrettigheder, som styrker forbrugernes rettigheder i EU, fx ved at fjerne skjulte afgifter og omkostninger på internettet og forlænge den periode, som forbrugere kan fortryde en købsaftale i.
+
+8) Hvad er den ”juridiske metode”?
+- En fysisk måde, hvor på jurister kan slappe af efter arbejde.
+* Juridisk metode er fremgangsmåden ved stillingtagen til juridiske problemer.
+- En fremgangsmåde hvor på man kan sende folk ud af landet.
+- En metode til psykisk at knække en mordsigtet på.
+Juridisk metode, fremgangsmåde ved stillingtagen til juridiske problemer. Metoden består for det første af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af læren om, hvordan retskilderne fortolkes. Juridisk metode består af 3 hovedelementer: Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede Dankort). +  Et retsfaktum (Hvilken retsregel i betalingsloven skal anvendes i forhold til tredjemandsmisbruget af Dankortet) = En retsfølge (Afgørelsen, hvem der kommer til at betale for misbruget af Dankortet banken eller kortholderen).  Den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold
+
+9) Hvad er en ”kutyme”?
+’ Kutyme er defineret ved at være en sædvane.
+- Det er den kappe dommeren bære ved en domsforhandling.
+- Det er en samlet betegnelse for Folketingets 179 medlemmer.
+- Det er en juridisk fest.
+Kutyme er defineret ved at være en sædvane. Den har ikke samme retskildeværdi som retssædvane, da retssædvane svarer til lovniveau. Kutyme må derfor betragtes som trin-lavere. Kutyme er en alment kendt handlemåde i en bestemt branche, hvilket aktørerne i den pågældende branche har eller bør have viden om. I juridisk litteratur er sædvane undertiden beskrevet som en handelssædvane, og der kan derfor være forskel på kutymerne i de forskellige brancher. Kutyme er tæt beslægtet med god-skik regler. Hvad der er kutymer, kan indhentes informationer om fra brancheforeninger såsom Dansk Erhverv og Dansk Industri.
+
+10) Hvad er en ”retssædvane”?
+- Retssædvane er lovreguleret og har samme retskildeværdi som love.
+- Retssædvane er ulovreguleret og har ikke samme retskildeværdi som love.
+* Retssædvane er ulovreguleret og har samme retskildeværdi som love.
+- Er en samlet betegnelse for lovforslagsbehandlingen i Folketinget.
+Retssædvaner er ulovreguleret, men selv om retssædvanerne er ulovreguleret har de som retskilde samme betydning, som de var på lovniveau. Nogle retssædvaner er udviklet af domstolene. Domslæsning, læsning af anerkendte juridiske grundsætninger og søgning i retslitteraturen er nogle af svarene på, hvor retssædvaner kan findes.
+Imidlertid er retssædvaner ikke vilkårlige, hvorfor der er flere elementer, der skal være opfyldt, før retssædvanen overhovedet kan tillægges betydning. Et klassisk eksempel på retssædvane er ”culpareglen” (erstatningsreglen). I den juridiske litteratur er der opstillet rammer for, hvornår der er tale om en retssædvane. Den traditionelle opfattelse er, at det være en handlemåde, der er 1) fulgt almindeligt, 2) stadigt og 
+3) længe ud fra 4) den overbevisning, at man er retligt forpligtet til det.
+

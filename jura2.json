@@ -90,6 +90,21 @@
     },
     {
       "answers": [
+        "Et direktiv er en retsakt, der fasts\u00e6tter et m\u00e5l, som EU-landene skal opn\u00e5.",
+        "Et direktiv er en retsakt, der fasts\u00e6tter et m\u00e5l for politiet i EU-landene.",
+        "Et direktiv er en retsakt, der fasts\u00e6tter et m\u00e5l for milit\u00e6ret i EU-landene.",
+        "Et direktiv er en retsakt, der fasts\u00e6tter et m\u00e5l for landbruget i EU-landene."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Et \"direktiv\" er en retsakt, der fasts\u00e6tter et m\u00e5l, som EU-landene skal opn\u00e5. Det er dog op til de enkelte lande at lave deres egne love for, hvordan disse m\u00e5l skal opn\u00e5s. Et eksempel er EU's direktiv om forbrugerrettigheder, som styrker forbrugernes rettigheder i EU, fx ved at fjerne skjulte afgifter og omkostninger p\u00e5 internettet og forl\u00e6nge den periode, som forbrugere kan fortryde en k\u00f8bsaftale i.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
+      },
+      "image": "img/pres7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er et \u0094direktiv\u0094?"
+    },
+    {
+      "answers": [
         "En fysisk m\u00e5de, hvor p\u00e5 jurister kan slappe af efter arbejde.",
         "Juridisk metode er fremgangsm\u00e5den ved stillingtagen til juridiske problemer.",
         "En fremgangsm\u00e5de hvor p\u00e5 man kan sende folk ud af landet.",
@@ -102,6 +117,21 @@
       "image": "img/pres8.gif",
       "number": 8,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad er den \u0094juridiske metode\u0094?"
+    },
+    {
+      "answers": [
+        "Kutyme er defineret ved at v\u00e6re en s\u00e6dvane.",
+        "Det er den kappe dommeren b\u00e6re ved en domsforhandling.",
+        "Det er en samlet betegnelse for Folketingets 179 medlemmer.",
+        "Det er en juridisk fest."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Kutyme er defineret ved at v\u00e6re en s\u00e6dvane. Den har ikke samme retskildev\u00e6rdi som retss\u00e6dvane, da retss\u00e6dvane svarer til lovniveau. Kutyme m\u00e5 derfor betragtes som trin-lavere. Kutyme er en alment kendt handlem\u00e5de i en bestemt branche, hvilket akt\u00f8rerne i den p\u00e5g\u00e6ldende branche har eller b\u00f8r have viden om. I juridisk litteratur er s\u00e6dvane undertiden beskrevet som en handelss\u00e6dvane, og der kan derfor v\u00e6re forskel p\u00e5 kutymerne i de forskellige brancher. Kutyme er t\u00e6t besl\u00e6gtet med god-skik regler. Hvad der er kutymer, kan indhentes informationer om fra brancheforeninger s\u00e5som Dansk Erhverv og Dansk Industri.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retskilderne.html\" target=\"_blank\">Du kan l\u00e6se mere om retskilderne, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retskilderne.html</a><br>"
+      },
+      "image": "img/pres9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er en \u0094kutyme\u0094?"
     },
     {
       "answers": [

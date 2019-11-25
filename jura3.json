@@ -1,0 +1,155 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Det er en tingsforsikring p\u00e5 en bil.",
+        "Det er et pantebrev i en bil.",
+        "Det er en sikkerhedsstillelse for en andens g\u00e6ldsforhold.",
+        "Der er et pantebrev i et l\u00f8s\u00f8re."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Kaution er en sikkerhedsstillelse for en andens g\u00e6ldsforhold. *Kaution*, betyder overtagelse af en \u00f8konomisk risiko, som b\u00e6res af en kreditor i et skyldforhold, med den virkning, at kautionisten sammen med debitor h\u00e6fter for opfyldelsen af debitors betalingspligt. Ordet *kaution* kommer af latin cautio 'forsigtighed, sikkerhed', af cavere 'passe p\u00e5, sikre'.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink1.gif",
+      "number": 1,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er \u0094kaution\u0094?"
+    },
+    {
+      "answers": [
+        "At kautionen for l\u00e5net kun udl\u00f8ses ved skyld hos debitor.",
+        "At kautionisten har kautioneret for hele l\u00e5net.",
+        "At kautionen for l\u00e5net kun udl\u00f8ses ved skyld hos kautionisten.",
+        "At kautionen for l\u00e5net kun udl\u00f8ses ved skyld hos kreditor."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "At kautionisten har kautioneret for hele l\u00e5net.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink2.gif",
+      "number": 2,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad menes der med en \u0094alskyld-kautiuon\u0094?"
+    },
+    {
+      "answers": [
+        "En begr\u00e6nset kaution er kaution for et maksimalt bel\u00f8b.",
+        "En ubegr\u00e6nset kaution er kaution for et maksimalt bel\u00f8b.",
+        "En delvis begr\u00e6nset kaution er kaution for et maksimalt bel\u00f8b.",
+        "En begr\u00e6nset kaution er kaution for et minimum bel\u00f8b."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "\u0094Begr\u00e6nset kaution\u0094 betyder, at der kautioners for et maksimalt bel\u00f8b.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink3.gif",
+      "number": 3,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad betyder en \u0094begr\u00e6nset kaution\u0094?"
+    },
+    {
+      "answers": [
+        "Delkaution betyder, at der kautioners for et ubestemt bel\u00f8b af l\u00e5net.",
+        "Delkaution betyder, at der kautioners for et lovbestemt bel\u00f8b af l\u00e5net.",
+        "Delkaution betyder, at der kautioners for et ulovbestemt bel\u00f8b af l\u00e5net",
+        "Delkaution betyder, at der kautioners for en bestemt del af l\u00e5net."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Delkaution betyder, at der kautioners for en bestemt del af l\u00e5net.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink4.gif",
+      "number": 4,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betyder \u0094delkaution\u0094?"
+    },
+    {
+      "answers": [
+        "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at personen h\u00e6fter for den samlede g\u00e6ld.",
+        "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at en umyndig person alene h\u00e6fter for en bestemt andel af den samlede g\u00e6ld.",
+        "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at hver person alene h\u00e6fter for en br\u00f8kdel af den samlede g\u00e6ld.",
+        "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at hver person alene h\u00e6fter for en bestemt andel af den samlede g\u00e6ld."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "\u0094Pro rata h\u00e6ftelse\u0094 indeb\u00e6rer, at hver person alene h\u00e6fter for en bestemt andel af den samlede g\u00e6ld. Det kan eksempelvis v\u00e6re aftalt, at to kautionister hver is\u00e6r alene h\u00e6fter for 50.000 kr. af en samlet g\u00e6ld p\u00e5 100.000 kr. L\u00e5ngiver kan i dette tilf\u00e6lde alene kr\u00e6ve 50.000 kr. fra hver af de to kautionister. Ved ren pro rata h\u00e6ftelse har det ingen betydning for den ene kautionist, om den anden kautionist betaler sin del af g\u00e6lden, da hver kautionist h\u00e6fter for en begr\u00e6nset del af den samlede g\u00e6ld. Det kan dog v\u00e6re aftalt, at kautionisterne har regres over for hinanden, selv om de h\u00e6fter pro rata over for l\u00e5ngiver. En s\u00e5dan aftale minder om solidarisk h\u00e6ftelse.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink5.gif",
+      "number": 5,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad forst\u00e5s der ved \u0094prorata h\u00e6ftelse\u0094?"
+    },
+    {
+      "answers": [
+        "Solidarisk h\u00e6ftelse betyder, at kautionisterne ikke h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab.",
+        "Solidarisk h\u00e6ftelse betyder, at kautionisterne h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab.",
+        "Solidarisk h\u00e6ftelse betyder, at debitorerne h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab.",
+        "Solidarisk h\u00e6ftelse betyder, at to af fire kautionister h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Solidarisk h\u00e6ftelse betyder, at kautionisterne h\u00e6fter for hele eller en del af g\u00e6lden i f\u00e6llesskab ud fra devisen \"\u00e9n for alle, alle for \u00e9n\". Der vil v\u00e6re solidarisk h\u00e6ftelse mellem to kautionister, hvis ikke andet er aftalt eller f\u00f8lger af lovgivningen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink6.gif",
+      "number": 6,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder \u0094solidarisk h\u00e6ftelse\u0094 for kautionisterne?"
+    },
+    {
+      "answers": [
+        "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter debitorerne for hele g\u00e6lden i f\u00e6llesskab.",
+        "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter kautionisterne ikke for hele g\u00e6lden i f\u00e6llesskab.",
+        "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter umyndige kautionister for hele g\u00e6lden i f\u00e6llesskab.",
+        "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter kautionisterne for hele g\u00e6lden i f\u00e6llesskab."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Ved fuldst\u00e6ndig solidarisk h\u00e6ftelse h\u00e6fter kautionisterne for hele g\u00e6lden i f\u00e6llesskab. L\u00e5ngiver kan kr\u00e6ve hele g\u00e6lden betalt af enhver af kautionisterne, men l\u00e5ngiver kan naturligvis ikke samlet kr\u00e6ve mere end det samlede skyldige bel\u00f8b.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink7.gif",
+      "number": 7,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad menes der med \u0094fuldst\u00e6ndig solidarisk h\u00e6ftelse\u0094?"
+    },
+    {
+      "answers": [
+        "Selvskyldnerkaution indeb\u00e6rer, at kautionisten h\u00e6fter allerede fra den dag, hvor l\u00e5ntageren misligholder sin betalingsforpligtelse.",
+        "Selvskyldnerkaution indeb\u00e6rer, at kautionisten h\u00e6fter allerede fra den dag, hvor l\u00e5ntageren opfylder sin betalingsforpligtelse.",
+        "Selvskyldnerkaution indeb\u00e6rer, at debitor h\u00e6fter allerede fra den dag, hvor kreditor misligholder sin betalingsforpligtelse.",
+        "Selvskyldnerkaution indeb\u00e6rer, at kautionisten h\u00e6fter allerede fra den dag i m\u00e5neden, hvor l\u00e5ntageren misligholder sin udbetalingsforpligtelse."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Selvskyldnerkaution indeb\u00e6rer, at kautionisten h\u00e6fter allerede fra den dag, hvor l\u00e5ntageren misligholder sin betalingsforpligtelse. \u0094Selvskyldnerkaution\u0094 er den strengeste form for kaution set fra kautionistens synspunkt og anvendes af pengeinstitutterne. Hvis kravet ikke er betalt, kan l\u00e5ngiver allerede fra forfaldsdagen kr\u00e6ve betaling fra kautionisterne uden at dokumentere, at l\u00e5ntager er insolvent og derfor ikke kan betale g\u00e6lden.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink8.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad indeb\u00e6rer en \u0094selvskyldnerkaution\u0094?"
+    },
+    {
+      "answers": [
+        "Ved \u0094simpel kaution\u0094 skal l\u00e5ngiver ikke dokumentere, at l\u00e5ntager ikke kan betale g\u00e6lden, f\u00f8r der kan kr\u00e6ves betaling fra kautionisterne.",
+        "Ved \u0094simpel kaution\u0094 skal kautionisten dokumentere, at l\u00e5ntager ikke kan betale g\u00e6lden, f\u00f8r der kan kr\u00e6ves betaling fra kautionisterne.",
+        "Ved \u0094simpel kaution\u0094 skal l\u00e5ngiver dokumentere, at l\u00e5ntager ikke kan betale g\u00e6lden, f\u00f8r der kan kr\u00e6ves betaling fra kautionisterne."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Ved \u0094simpel kaution\u0094 skal l\u00e5ngiver dokumentere, at l\u00e5ntager ikke kan betale g\u00e6lden, f\u00f8r der kan kr\u00e6ves betaling fra kautionisterne. Simpel kaution finder anvendelse, medmindre andet er aftalt fx en selvskyldnerkaution eller f\u00f8lger af lov. Simpel kaution adskiller sig fra selvskyldnerkautionen med hensyn til tidspunktet for kautionsforpligtelsens indtr\u00e6den. Ud over misligholdelsen kr\u00e6ves det ved simpel kaution ogs\u00e5, at betaling ikke kan opn\u00e5s hos hovedmanden. Alts\u00e5 at han er insolvent, jf. her definitionen i konkurslovens \u00a7 17.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink9.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad betyder en \u0094simpel kaution\u0094?"
+    },
+    {
+      "answers": [
+        "Kautionen oph\u00f8rer aldrig.",
+        "Kautionen oph\u00f8rer ved aftale mellem l\u00e5ngiver og l\u00e5ntager.",
+        "Kautionen oph\u00f8rer, n\u00e5r g\u00e6lden bliver betalt eller eftergivet.",
+        "Kautionen oph\u00f8rer ved aftale mellem l\u00e5ntager og kautionisten."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Kautionen oph\u00f8rer, n\u00e5r g\u00e6lden bliver betalt eller eftergivet. Privat kaution bortfalder efter 5 \u00e5r eller 10 \u00e5r, hvis kautionen ikke forl\u00e6nges.<<br>Kautionen kan bortfalde ved kreditors henstand. Kautionen for\u00e6ldes sammen med hovedfordring, hvis ikke andet er aftalt.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/kautionsforhold.html\" target=\"_blank\">Du kan l\u00e6se mere om kautionsforhold, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/kautionsforhold.html</a><br>"
+      },
+      "image": "img/pink10.gif",
+      "number": 10,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvorn\u00e5r oph\u00f8rer kautionen?"
+    }
+  ],
+  "title": "Kautionsforhold",
+  "url": null
+}

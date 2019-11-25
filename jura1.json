@@ -1,0 +1,150 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Nej EU-retten st\u00e5r ikke h\u00e6vet over en dansk lov.",
+        "EU-retten st\u00e5r over dansk ret",
+        "Det kommer an p\u00e5 hvad der n\u00e6rmere er aftalt med EU-Kommissionen."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "EU-retten st\u00e5r over dansk ret, s\u00e5dan at en dansk lov kan v\u00e6re ulovlig, nemlig, hvis den enten strider mod EU-retten eller mod grundloven.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink20.gif",
+      "number": 1,
+      "prompt": "St\u00e5r EU-retten over dansk ret?"
+    },
+    {
+      "answers": [
+        "At den \u00f8verste magt i Danmark er den lovgivende, som har underlagt den ud\u00f8vende og den d\u00f8mmende magt.",
+        "At den \u00f8verste magt i Danmark er den ud\u00f8vende som har underlagt den d\u00f8mmende magt og den lovgivende mag.",
+        "At den \u00f8verste magt i Danmark skal deles mellem den lovgivende, den ud\u00f8vende og den d\u00f8mmende magt."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "I grundloven st\u00e5r der ogs\u00e5, at den \u00f8verste magt i Danmark skal deles mellem den lovgivende, den ud\u00f8vende og den d\u00f8mmende magt. I grundloven kan du l\u00e6se om magtens fordeling i samfundet. Om Folketinget som den demokratisk valgte forsamling, der vedtager love, der g\u00e6lder for os alle.<<br>Om regeringen, der skal sikre, at lovene bliver overholdt af os borgere og af de myndigheder, der skal s\u00f8rge for, at vi for eksempel har gode skoler, sygehuse og biblioteker. Om domstolene, der er uafh\u00e6ngige af regering og Folketing, fordi de skal d\u00f8mme i konflikter mellem borgerne indbyrdes og mellem myndigheder og borgere.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink19.gif",
+      "number": 2,
+      "prompt": "Hvad menes der med \u0094tremagtsdelingen\u0094 i grundloven?"
+    },
+    {
+      "answers": [
+        "Lovforslag kan kun frems\u00e6ttes af regeringen.",
+        "Lovforslag kan kun frems\u00e6ttes af Folketinget.",
+        "Lovforslag kan kun frems\u00e6ttes af dronningen.",
+        "Lovforslag kan frems\u00e6ttes af regeringen og folketingsmedlemmerne."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Nye lovforslag kan frems\u00e6ttes af regeringen og folketingsmedlemmerne.<<br>Folketinget kan frems\u00e6tte folketingsbeslutninger. Regeringen frems\u00e6tter de fleste lovforslag, da regeringen har statsadministrationen (ministerierne og styrelser) til at hj\u00e6lpe sig med udformning af lovforslag mv. Lovforslag tager lang tid at skrive, og det kr\u00e6ver stor juridisk indsigt. Derfor er det regeringen, der frems\u00e6tter de fleste lovforslag. For regeringen har mange embedsm\u00e6nd i ministerierne til at hj\u00e6lpe sig, mens partierne uden for regeringen, oppositionen, har f\u00e6rre til at hj\u00e6lpe sig \u0096 de har kun medarbejdere i deres gruppesekretariater og i Folketingets Administration.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink18.gif",
+      "number": 3,
+      "prompt": "Hvem kan frems\u00e6tte \u0094lovforslag\u0094 i Folketinget?"
+    },
+    {
+      "answers": [
+        "Hvis 50.000 personer med stemmeret til folketingsvalg st\u00f8tter et borgerforslag, kan det blive fremsat i Folketinget.",
+        "Hvis 100.000 personer med stemmeret til folketingsvalg st\u00f8tter et borgerforslag, kan det blive fremsat i Folketinget.",
+        "Hvis 25.000 personer med stemmeret til folketingsvalg st\u00f8tter et borgerforslag, kan det blive fremsat i Folketinget.",
+        "Hvis 150.000 personer med stemmeret til folketingsvalg st\u00f8tter et borgerforslag, kan det blive fremsat i Folketinget."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Borgerforslag. Hvis 50.000 personer med stemmeret til folketingsvalg st\u00f8tter et borgerforslag, kan det blive fremsat i Folketinget.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink17.gif",
+      "number": 4,
+      "prompt": "Hvad er et \u0094borgerforslag\u0094?"
+    },
+    {
+      "answers": [
+        "Det er flertallet i regeringen, der bestemmer.",
+        "Det er dronningen, der bestemmer.",
+        "Det er Folketingets formand, der bestemmer.",
+        "Det er flertallet i Folketinget, der bestemmer."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "I praksis er det et flertal i Folketinget, der er afg\u00f8rende for, hvem der skal v\u00e6re statsminister. Statsministeren s\u00e6tter s\u00e5 sit ministerhold og danner sin regering.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink16.gif",
+      "number": 5,
+      "prompt": "Hvem bestemmer, hvem der bliver statsminister?"
+    },
+    {
+      "answers": [
+        "Folketingsvalg skal afholdes mindst \u00e9n gang hvert 3. \u00e5r.",
+        "Folketingsvalg skal afholdes mindst \u00e9n gang hvert 4. \u00e5r.",
+        "Folketingsvalg skal afholdes mindst \u00e9n gang hvert 5. \u00e5r."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Folketingsvalg skal afholdes mindst \u00e9n gang hvert 4. \u00e5r. Det st\u00e5r i grundloven. Statsministeren kan dog til enhver tid udskrive folketingsvalg, s\u00e5 der kan sagtens g\u00e5 mindre end 4 \u00e5r mellem hvert valg.<<br>N\u00e5r valget er slut og mandaterne fordelt, er det nye Folketing fundet.<<br>S\u00e5 skal man i gang med at finde ud af, hvem der skal v\u00e6re statsminister og danne regering.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink15.gif",
+      "number": 6,
+      "prompt": "Hvor tit skal der mindst afholdes folketingsvalg?"
+    },
+    {
+      "answers": [
+        "Den siddende statsminister kan ikke forts\u00e6tte, hvis der ikke er et flertal imod ham eller hende.",
+        "N\u00e5r Folketinget er negativ over for den siddende regering.",
+        "N\u00e5 et land ikke har et parlament.",
+        "Den siddende statsminister forts\u00e6tter, hvis der ikke er et flertal imod ham eller hende."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Negativ parlamentarisme: Den siddende statsminister forts\u00e6tter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. Det kaldes negativ parlamentarisme. Taber regeringen valget, skal der findes en ny statsminister og en ny regering.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink14.gif",
+      "number": 7,
+      "prompt": "Hvad er \u0094negativ parlamentarisme\u0094?"
+    },
+    {
+      "answers": [
+        "N\u00e5r statsministeren danser med dronningen til Nyt\u00e5rstaffel.",
+        "Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer.",
+        "Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den ringeste opbakning hos det nye folketingsmedlemmer."
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde. Der kan ogs\u00e5 udn\u00e6vnes af dronningen en \"kongelig unders\u00f8ger\", som ikke n\u00f8dvendigvis er den siddeende statsminister, se fx udn\u00e6vnelsen af Mette Frederiksen som kongelig unders\u00f8ger efter folketingsvalget i 2019. N\u00e5r statsministeren har fundet sine ministre, udn\u00e6vner dronningen formelt regeringen p\u00e5 Amalienborg. Regeringen kommer bagefter ud p\u00e5 slotspladsen. Her pr\u00e6senterer statsministeren sin nye regering for danskerne.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink13.gif",
+      "number": 8,
+      "prompt": "Hvad er en \u0094dronningerunde\u0094?"
+    },
+    {
+      "answers": [
+        "En retssag skal afg\u00f8res inden for en urimelig tidsperiode og ved en domstol, der er afh\u00e6ngig og partisk.",
+        "En retssag skal afg\u00f8res inden for en rimelig tidsperiode og ved et n\u00e6vn, der er uafh\u00e6ngig og upartisk.",
+        "En retssag skal afg\u00f8res inden for en rimelig tidsperiode og ved en domstol, der er uafh\u00e6ngig og upartisk."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Alle har ret til en retf\u00e6rdig rettergang. Det st\u00e5r i den europ\u00e6iske menneskerettighedskonvention. Det betyder bl.a., at en retssag skal afg\u00f8res inden for en rimelig tidsperiode og ved en domstol, der er uafh\u00e6ngig og upartisk.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink12.gif",
+      "number": 9,
+      "prompt": "Hvad menes der med at alle har ret til en \u0094retf\u00e6rdig rettergang\u0094?"
+    },
+    {
+      "answers": [
+        "Det er domstolene der vedtager landets love.",
+        "Det er domstolene, at lovene bliver f\u00f8rt ud i livet.",
+        "Kun domstolene kan afg\u00f8re, hvordan lovene skal fortolkes, og d\u00f8mme ud fra dem."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Det er Folketinget, der vedtager Danmarks love. Regeringen regerer ud fra lovene. Men hverken Folketinget eller regeringen kan d\u00f8mme p\u00e5 baggrund af de vedtagne love. Kun domstolene kan afg\u00f8re, hvordan lovene skal fortolkes, og d\u00f8mme ud fra dem. Dommerne m\u00e5 kun rette sig efter, hvad der st\u00e5r i loven og det forarbejde, der ligger til grund for den. De m\u00e5 ikke lade sig p\u00e5virke af Folketinget, regeringen, pressen eller andre, n\u00e5r de d\u00f8mmer i en sag.<br> <br><br> <br> <a href=\"https://jura.tepedu.dk/retsstaten.html\" target=\"_blank\">Du kan l\u00e6se mere om retsstaten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/retsstaten.html</a><br>"
+      },
+      "image": "img/pink11.gif",
+      "number": 10,
+      "prompt": "Hvad er domstolenes rolle i forhold til lovene?"
+    }
+  ],
+  "title": "Retsstaten",
+  "url": null
+}

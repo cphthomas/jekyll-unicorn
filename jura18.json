@@ -13,7 +13,7 @@
       },
       "image": "img/chap20.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er form\u00e5let med \u0094pant\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er form\u00e5let med \"pant\"?"
     },
     {
       "answers": [
@@ -28,7 +28,7 @@
       },
       "image": "img/chap19.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Skal pants\u00e6tter passe p\u00e5 det \u0094pantsatte aktiv\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Skal pants\u00e6tter passe p\u00e5 det \"pantsatte aktiv\"?"
     },
     {
       "answers": [
@@ -43,7 +43,7 @@
       },
       "image": "img/chap18.gif",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad er \u0094h\u00e5ndpant\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad er \"h\u00e5ndpant\"?"
     },
     {
       "answers": [
@@ -73,7 +73,7 @@
       },
       "image": "img/chap16.gif",
       "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er et \u0094realkreditpantebrev\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad er et \"realkreditpantebrev\"?"
     },
     {
       "answers": [
@@ -88,7 +88,7 @@
       },
       "image": "img/chap15.gif",
       "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad menes der med et \u0094ejerpantebrev\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad menes der med et \"ejerpantebrev\"?"
     },
     {
       "answers": [
@@ -103,7 +103,7 @@
       },
       "image": "img/chap14.gif",
       "number": 7,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er et \u0094skadesl\u00f8sbrev\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er et \"skadesl\u00f8sbrev\"?"
     },
     {
       "answers": [
@@ -114,11 +114,11 @@
       ],
       "correct": {
         "index": 3,
-        "text": "\u0094S\u00e6lgerpantebreve\u0094, der b\u00e5de giver pant i en ejendom og er et g\u00e6ldsbrev, hvor k\u00f8ber erkender at skylde et bel\u00f8b til kreditor (s\u00e6lger).<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+        "text": "\"S\u00e6lgerpantebreve\", der b\u00e5de giver pant i en ejendom og er et g\u00e6ldsbrev, hvor k\u00f8ber erkender at skylde et bel\u00f8b til kreditor (s\u00e6lger).<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
       },
       "image": "img/chap13.gif",
       "number": 8,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad er et \u0094s\u00e6lgerpantebrev\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad er et \"s\u00e6lgerpantebrev\"?"
     },
     {
       "answers": [
@@ -133,7 +133,7 @@
       },
       "image": "img/chap12.gif",
       "number": 9,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er form\u00e5let med \u0094sikringsakten\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er form\u00e5let med \"sikringsakten\"?"
     },
     {
       "answers": [
@@ -144,11 +144,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "N\u00e5r et l\u00f8s\u00f8regenstanden \u0094vokser ind\u0094 i ejendommens pant. N\u00e5r en genstand anbringes i en ejendom p\u00e5 en s\u00e5dan m\u00e5de, at det beskadiger ejendommen at fjerne genstanden, kan genstanden blive omfattet af ejendommens pant. Tilv\u00e6kstl\u00e6ren omfatter s\u00e5ledes l\u00f8s\u00f8reaktiver, som ikke kan fjernes fra ejendommen uden at g\u00f8re skade p\u00e5 den. Det omfatter fx nedgravede kabler, kloaknet, vinduer, tag \u0096 alt der er \u0094vokser\u0094 ind i bygningen/ejendommen.<<br>L\u00f8s\u00f8re omfattet af tilv\u00e6kstl\u00e6ren er en del af ejendommen og ingen kan have en s\u00e6rskilt ret over det. Det vokser s\u00e5 og sige ind i ejendommens pant. Dette g\u00e6lder ogs\u00e5, selvom ejeren ikke selv har betalt for l\u00f8s\u00f8ret.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+        "text": "N\u00e5r et l\u00f8s\u00f8regenstanden \"vokser ind\" i ejendommens pant. N\u00e5r en genstand anbringes i en ejendom p\u00e5 en s\u00e5dan m\u00e5de, at det beskadiger ejendommen at fjerne genstanden, kan genstanden blive omfattet af ejendommens pant. Tilv\u00e6kstl\u00e6ren omfatter s\u00e5ledes l\u00f8s\u00f8reaktiver, som ikke kan fjernes fra ejendommen uden at g\u00f8re skade p\u00e5 den. Det omfatter fx nedgravede kabler, kloaknet, vinduer, tag \u0096 alt der er \"vokser\" ind i bygningen/ejendommen.<<br>L\u00f8s\u00f8re omfattet af tilv\u00e6kstl\u00e6ren er en del af ejendommen og ingen kan have en s\u00e6rskilt ret over det. Det vokser s\u00e5 og sige ind i ejendommens pant. Dette g\u00e6lder ogs\u00e5, selvom ejeren ikke selv har betalt for l\u00f8s\u00f8ret.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
       },
       "image": "img/chap11.gif",
       "number": 10,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad betyder \"tilv\u00e6kstl\u00e6ren\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad betyder \"tilv\u00e6kstl\u00e6ren\"?"
     },
     {
       "answers": [
@@ -159,15 +159,15 @@
       ],
       "correct": {
         "index": 3,
-        "text": "\"H\u00f8stpant\u0094 er pant i alle afgr\u00f8der, der h\u00f8stes p\u00e5 ejendommen det p\u00e5g\u00e6ldende \u00e5r, hvis det vedr\u00f8rer leverancer af r\u00e5- og hj\u00e6lpestoffer, i tiden 01.01-31.07, og ellers afgr\u00f8derne, der h\u00f8stes det f\u00f8lgende \u00e5r.<<br>Ejeren eller brugeren af en landbrugsejendom kan stifte pant i ejendommens afgr\u00f8der til sikkerhed for betalingen af g\u00e6ld opst\u00e5et i forbindelse med k\u00f8b af de r\u00e5- og hj\u00e6lpestoffer, jf. h\u00f8stpantebrevslovens \u00a7 1, stk. 1, H\u00f8stpanterbrevsloven indeb\u00e6rer bl.a., at en ejer eller en bruger af en landbrugsejendom kan stifte panteret i ejendommens kommende h\u00f8st til sikkerhed for betalingen af g\u00e6ld i forbindelse med opk\u00f8b af visse r\u00e5- og hj\u00e6lpestoffer. H\u00f8stpantebrevsordningen blev i sin tid indf\u00f8rt som en hj\u00e6lpeforanstaltning over for landbruget i en helt speciel n\u00f8dsituation, og landbrugets \u00f8konomiske situation og landm\u00e6ndenes faktiske udnyttelse af ordningen begrundede senere, at ordningen blev gjort permanent.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
+        "text": "\"H\u00f8stpant\" er pant i alle afgr\u00f8der, der h\u00f8stes p\u00e5 ejendommen det p\u00e5g\u00e6ldende \u00e5r, hvis det vedr\u00f8rer leverancer af r\u00e5- og hj\u00e6lpestoffer, i tiden 01.01-31.07, og ellers afgr\u00f8derne, der h\u00f8stes det f\u00f8lgende \u00e5r.<<br>Ejeren eller brugeren af en landbrugsejendom kan stifte pant i ejendommens afgr\u00f8der til sikkerhed for betalingen af g\u00e6ld opst\u00e5et i forbindelse med k\u00f8b af de r\u00e5- og hj\u00e6lpestoffer, jf. h\u00f8stpantebrevslovens \u00a7 1, stk. 1, H\u00f8stpanterbrevsloven indeb\u00e6rer bl.a., at en ejer eller en bruger af en landbrugsejendom kan stifte panteret i ejendommens kommende h\u00f8st til sikkerhed for betalingen af g\u00e6ld i forbindelse med opk\u00f8b af visse r\u00e5- og hj\u00e6lpestoffer. H\u00f8stpantebrevsordningen blev i sin tid indf\u00f8rt som en hj\u00e6lpeforanstaltning over for landbruget i en helt speciel n\u00f8dsituation, og landbrugets \u00f8konomiske situation og landm\u00e6ndenes faktiske udnyttelse af ordningen begrundede senere, at ordningen blev gjort permanent.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html\" target=\"_blank\">Du kan l\u00e6se mere om pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/pant-i-fast-ejendom-lsre-og-virksomhedspant.html</a><br>"
       },
       "image": "img/chap10.gif",
       "number": 11,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er \u0094h\u00f8stpant\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er \"h\u00f8stpant\"?"
     },
     {
       "answers": [
-        "H\u00e6vd er en strafferetlig handling eller undladelse, det kaldes ogs\u00e5 for \u0094selvt\u00e6gt\u0094.",
+        "H\u00e6vd er en strafferetlig handling eller undladelse, det kaldes ogs\u00e5 for \"selvt\u00e6gt\".",
         "H\u00e6vd eller blod h\u00e6vd, er vold i familien.",
         "H\u00e6vd er er n\u00e5r en person h\u00e6vder sig p\u00e5 andres bekostning.",
         "H\u00e6vd er en s\u00e6rlig erhvervelsesm\u00e5de, hvor retten stiftes ved en uhjemlet (ikke lovm\u00e6ssig) r\u00e5den i 20 \u00e5r eller i alderstid."
@@ -178,7 +178,7 @@
       },
       "image": "img/chap9.gif",
       "number": 12,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 12</h2>Hvad menes der med \u0094h\u00e6vd\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 12</h2>Hvad menes der med \"h\u00e6vd\"?"
     },
     {
       "answers": [
@@ -193,7 +193,7 @@
       },
       "image": "img/chap8.gif",
       "number": 13,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 13</h2>Hvad er et \u0094endeligt sk\u00f8de\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 13</h2>Hvad er et \"endeligt sk\u00f8de\"?"
     },
     {
       "answers": [
@@ -208,7 +208,7 @@
       },
       "image": "img/chap7.gif",
       "number": 14,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 14</h2>Hvad menes der med \u0094betinget sk\u00f8de\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 14</h2>Hvad menes der med \"betinget sk\u00f8de\"?"
     }
   ],
   "title": "Pant i fast ejendom, l\u00f8s\u00f8re og virksomhedspant",

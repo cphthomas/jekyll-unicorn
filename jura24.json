@@ -72,7 +72,7 @@
       },
       "image": "img/elvis5.gif",
       "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvem best\u00e5r \u0094arveklasse 1\u0094 af?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvem best\u00e5r \"arveklasse 1\" af?"
     },
     {
       "answers": [
@@ -87,7 +87,7 @@
       },
       "image": "img/elvis6.gif",
       "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder \u0094Stirpalgrunds\u00e6tningen\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad betyder \"Stirpalgrunds\u00e6tningen\"?"
     },
     {
       "answers": [
@@ -102,7 +102,7 @@
       },
       "image": "img/elvis7.gif",
       "number": 7,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvem best\u00e5r \u0094arveklasse 2\u0094 af?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvem best\u00e5r \"arveklasse 2\" af?"
     },
     {
       "answers": [
@@ -113,11 +113,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Arveklasse 3 er arveladers bedstefor\u00e6ldre, jf. AL \u00a7 3. Arven fordeles med halvdelen til moderens for\u00e6ldre og halvdelen til faderens for\u00e6ldre. Er en af bedstefor\u00e6ldrene d\u00f8de, tr\u00e6der dennes b\u00f8rn (arveladers faster, moster osv.) i stedet og arver lige. Bedstefor\u00e6ldre b\u00f8rneb\u00f8rn (f\u00e6tre og kusiner) arver ikke. Arveklasse 3 er ikke tvangsarvinger. Lever alle 4 bedstefor\u00e6ldre deles arven i 4 portioner. Er en af bedstefor\u00e6ldrene d\u00f8d, tr\u00e6der dennes b\u00f8rn i stedet efter \u0094repr\u00e6sentationsprincippet\u0094. Arveladers farbr\u00f8dre, fastre, mostre og morbr\u00f8dre kan s\u00e5ledes v\u00e6re legale arvinger.<<br>Er farfaren d\u00f8d og efterlader sig to b\u00f8rn, arver disse s\u00e5ledes 1/8. Derimod falder arven ikke videre til fjernere livsarvinger. Arveladerens kusiner og f\u00e6tre samt deres b\u00f8rn er s\u00e5ledes ikke legale arvinger. Arven mellem bedstefor\u00e6ldrelinien p\u00e5 f\u00e6drene side og bedstefor\u00e6ldrene p\u00e5 m\u00f8drene side sker efter stirpal-grunds\u00e6tningen i \u00a7 2, og fordeles s\u00e5ledes ud i 1/4 til hhv. farfaren eller dennes b\u00f8rn, farmoren eller dennes b\u00f8rn, mormoren eller dennes b\u00f8rn samt morfaren eller dennes b\u00f8rn. Er der kun arvinger p\u00e5 f\u00e6drene eller m\u00f8drene side, deles arven ud med \u00bd til hver af disse eller deres b\u00f8rn. Efterlades en mormor og to fastre, arver mormoren s\u00e5ledes \u00bd og fastrene 1/4, mens f\u00e6tre og kusiner ikke arver.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+        "text": "Arveklasse 3 er arveladers bedstefor\u00e6ldre, jf. AL \u00a7 3. Arven fordeles med halvdelen til moderens for\u00e6ldre og halvdelen til faderens for\u00e6ldre. Er en af bedstefor\u00e6ldrene d\u00f8de, tr\u00e6der dennes b\u00f8rn (arveladers faster, moster osv.) i stedet og arver lige. Bedstefor\u00e6ldre b\u00f8rneb\u00f8rn (f\u00e6tre og kusiner) arver ikke. Arveklasse 3 er ikke tvangsarvinger. Lever alle 4 bedstefor\u00e6ldre deles arven i 4 portioner. Er en af bedstefor\u00e6ldrene d\u00f8d, tr\u00e6der dennes b\u00f8rn i stedet efter \"repr\u00e6sentationsprincippet\". Arveladers farbr\u00f8dre, fastre, mostre og morbr\u00f8dre kan s\u00e5ledes v\u00e6re legale arvinger.<<br>Er farfaren d\u00f8d og efterlader sig to b\u00f8rn, arver disse s\u00e5ledes 1/8. Derimod falder arven ikke videre til fjernere livsarvinger. Arveladerens kusiner og f\u00e6tre samt deres b\u00f8rn er s\u00e5ledes ikke legale arvinger. Arven mellem bedstefor\u00e6ldrelinien p\u00e5 f\u00e6drene side og bedstefor\u00e6ldrene p\u00e5 m\u00f8drene side sker efter stirpal-grunds\u00e6tningen i \u00a7 2, og fordeles s\u00e5ledes ud i 1/4 til hhv. farfaren eller dennes b\u00f8rn, farmoren eller dennes b\u00f8rn, mormoren eller dennes b\u00f8rn samt morfaren eller dennes b\u00f8rn. Er der kun arvinger p\u00e5 f\u00e6drene eller m\u00f8drene side, deles arven ud med \u00bd til hver af disse eller deres b\u00f8rn. Efterlades en mormor og to fastre, arver mormoren s\u00e5ledes \u00bd og fastrene 1/4, mens f\u00e6tre og kusiner ikke arver.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
       },
       "image": "img/elvis8.gif",
       "number": 8,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvem best\u00e5r \u0094arveklasse 3\u0094 af?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvem best\u00e5r \"arveklasse 3\" af?"
     },
     {
       "answers": [
@@ -132,7 +132,7 @@
       },
       "image": "img/elvis9.gif",
       "number": 9,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er et \u0094notartestamente\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er et \"notartestamente\"?"
     },
     {
       "answers": [
@@ -145,7 +145,7 @@
       },
       "image": "img/elvis10.gif",
       "number": 10,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er et \u0094vidnetestamente\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er et \"vidnetestamente\"?"
     },
     {
       "answers": [
@@ -155,11 +155,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "\u0094Holografisk testamente\u0094, i dansk ret et n\u00f8dtestamente oprettet uden vidner, men skrevet og underskrevet egenh\u00e6ndigt af testator. Betingelser ved oprettelsen af et n\u00f8dtestamente: Kr\u00e6ver en n\u00f8dsituation. Ingen formkrav. Bortfalder efter tre m\u00e5neder. En n\u00f8dsituation kunne f.eks. blodprop eller umiddelbart f\u00f8r en stor operation. Andre n\u00f8dstilf\u00e6lde kan v\u00e6re et synkende skib, en naturkatastrofe, samt beslutning om selvmord.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
+        "text": "\"Holografisk testamente\", i dansk ret et n\u00f8dtestamente oprettet uden vidner, men skrevet og underskrevet egenh\u00e6ndigt af testator. Betingelser ved oprettelsen af et n\u00f8dtestamente: Kr\u00e6ver en n\u00f8dsituation. Ingen formkrav. Bortfalder efter tre m\u00e5neder. En n\u00f8dsituation kunne f.eks. blodprop eller umiddelbart f\u00f8r en stor operation. Andre n\u00f8dstilf\u00e6lde kan v\u00e6re et synkende skib, en naturkatastrofe, samt beslutning om selvmord.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/arveretten.html\" target=\"_blank\">Du kan l\u00e6se mere om Arveretten, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/arveretten.html</a><br>"
       },
       "image": "img/elvis11.gif",
       "number": 11,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er et \u0094n\u00f8dtestamente\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er et \"n\u00f8dtestamente\"?"
     }
   ],
   "title": "Arveretten",

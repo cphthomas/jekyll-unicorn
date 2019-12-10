@@ -5,7 +5,7 @@
         "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos et pengeinstitut.",
         "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos en anden kreditor.",
         "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos en skyldner.",
-        "kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos Forbrugerombudsmanden."
+        "Kreditor fors\u00f8ger at fremkalde betaling af sit tilgodehavende hos Forbrugerombudsmanden."
       ],
       "correct": {
         "index": 2,
@@ -28,7 +28,7 @@
       },
       "image": "img/read2.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>HHvad er universalforf\u00f8lgning?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er universalforf\u00f8lgning?"
     },
     {
       "answers": [

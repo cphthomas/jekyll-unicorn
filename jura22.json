@@ -27,7 +27,7 @@
       },
       "image": "img/dans19.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad betyder det, at en finansiel virksomhed skal \u0094handle redeligt og loyalt\u0094 over for sine kunder?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad betyder det, at en finansiel virksomhed skal \"handle redeligt og loyalt\" over for sine kunder?"
     },
     {
       "answers": [
@@ -57,7 +57,7 @@
       },
       "image": "img/dans17.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad skal en \u0094basal indl\u00e5nskonto\u0094 bl.a. indeholde?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad skal en \"basal indl\u00e5nskonto\" bl.a. indeholde?"
     },
     {
       "answers": [
@@ -101,7 +101,7 @@
       },
       "image": "img/dans13.gif",
       "number": 7,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad forst\u00e5s der med \u0094finansiel r\u00e5dgivning\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad forst\u00e5s der med \"finansiel r\u00e5dgivning\"?"
     },
     {
       "answers": [
@@ -127,11 +127,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Fintech er teknologi, der anvendes til at levere finansielle services (fintech er en sammenl\u00e6gning af de engelske ord \u0093financial\u0094 og \u0093techonology\u0094). Fintech-virksomheder er finansielle virksomheder, der leverer alternative l\u00f8sninger til den etablerede finansielle industri."
+        "text": "Fintech er teknologi, der anvendes til at levere finansielle services (fintech er en sammenl\u00e6gning af de engelske ord \u0093financial\" og \u0093techonology\"). Fintech-virksomheder er finansielle virksomheder, der leverer alternative l\u00f8sninger til den etablerede finansielle industri."
       },
       "image": "img/dans11.gif",
       "number": 9,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er \u0094Fintech\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Hvad er \"Fintech\"?"
     },
     {
       "answers": [
@@ -146,7 +146,7 @@
       },
       "image": "img/dans10.gif",
       "number": 10,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad menes der med \u0094Blockchain\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad menes der med \"Blockchain\"?"
     },
     {
       "answers": [
@@ -161,7 +161,7 @@
       },
       "image": "img/dans9.gif",
       "number": 11,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er \u0094Bitcoin\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er \"Bitcoin\"?"
     }
   ],
   "title": "God skik for finansielle virksomheder",

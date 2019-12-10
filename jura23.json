@@ -13,7 +13,7 @@
       },
       "image": "img/elvis1.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad menes der med at \u00e6gtef\u00e6llerne har \u0094s\u00e6rr\u00e5den\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad menes der med at \u00e6gtef\u00e6llerne har \"s\u00e6rr\u00e5den\"?"
     },
     {
       "answers": [
@@ -28,7 +28,7 @@
       },
       "image": "img/elvis2.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad betyder det at \u00e6gtef\u00e6llerne har \u0094s\u00e6rh\u00e6ften\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad betyder det at \u00e6gtef\u00e6llerne har \"s\u00e6rh\u00e6ften\"?"
     },
     {
       "answers": [
@@ -67,7 +67,7 @@
       ],
       "correct": {
         "index": 3,
-        "text": "H\u00e6ftelse for den anden \u0094\u00e6gtef\u00e6lles g\u00e6ld\u0094 kan ogs\u00e5 f\u00f8lge af lovgivningen, bl.a. \u00a7 12 i lov om inddrivelse af g\u00e6ld til det offentlige, hvorefter en \u00e6gtef\u00e6lle under visse betingelser h\u00e6fter for den anden \u00e6gtef\u00e6lles skatteg\u00e6ld, og \u00a7 92, stk. 2, i aktivloven, hvorefter \u00e6gtef\u00e6ller h\u00e6fter solidarisk for krav p\u00e5 tilbagebetaling af hj\u00e6lp til betaling af renter og afdrag p\u00e5 l\u00e5n i fast ejendom, selv om kun den ene \u00e6gtef\u00e6lle er ejer af ejendommen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "text": "H\u00e6ftelse for den anden \"\u00e6gtef\u00e6lles g\u00e6ld\" kan ogs\u00e5 f\u00f8lge af lovgivningen, bl.a. \u00a7 12 i lov om inddrivelse af g\u00e6ld til det offentlige, hvorefter en \u00e6gtef\u00e6lle under visse betingelser h\u00e6fter for den anden \u00e6gtef\u00e6lles skatteg\u00e6ld, og \u00a7 92, stk. 2, i aktivloven, hvorefter \u00e6gtef\u00e6ller h\u00e6fter solidarisk for krav p\u00e5 tilbagebetaling af hj\u00e6lp til betaling af renter og afdrag p\u00e5 l\u00e5n i fast ejendom, selv om kun den ene \u00e6gtef\u00e6lle er ejer af ejendommen.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
       },
       "image": "img/elvis5.gif",
       "number": 5,
@@ -81,11 +81,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Der er tale om en egentlig \u0094retlig forpligtelse\u0094. Det er imidlertid i h\u00f8j grad overladt til \u00e6gtef\u00e6llerne selv at indrette deres indbyrdes fors\u00f8rgelse efter \u00f8nsker, behov og evner. \u00c6gtef\u00e6llerne aftaler s\u00e5ledes selv den indbyrdes fordeling af familiens udgifter og af fors\u00f8rgelsens form. En \u00e6gtef\u00e6lle kan s\u00e5ledes opfylde sin fors\u00f8rgelsespligt ved pengeydelser, ved arbejde i hjemmet, pasning af b\u00f8rnene eller arbejde i en virksomhed, som den anden \u00e6gtef\u00e6lle ejer, ligesom der kan v\u00e6re tale om forbrug af formue. Fors\u00f8rgelsespligten omfatter i almindelighed navnlig mad, bolig, transport, forsikringer, almindelige forbrugsgoder m.v."
+        "text": "Der er tale om en egentlig \"retlig forpligtelse\". Det er imidlertid i h\u00f8j grad overladt til \u00e6gtef\u00e6llerne selv at indrette deres indbyrdes fors\u00f8rgelse efter \u00f8nsker, behov og evner. \u00c6gtef\u00e6llerne aftaler s\u00e5ledes selv den indbyrdes fordeling af familiens udgifter og af fors\u00f8rgelsens form. En \u00e6gtef\u00e6lle kan s\u00e5ledes opfylde sin fors\u00f8rgelsespligt ved pengeydelser, ved arbejde i hjemmet, pasning af b\u00f8rnene eller arbejde i en virksomhed, som den anden \u00e6gtef\u00e6lle ejer, ligesom der kan v\u00e6re tale om forbrug af formue. Fors\u00f8rgelsespligten omfatter i almindelighed navnlig mad, bolig, transport, forsikringer, almindelige forbrugsgoder m.v."
       },
       "image": "img/elvis6.gif",
       "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>G\u00e6lder der en egentlig \u0094gensidig fors\u00f8rgelsespligt\u0094 mellem \u00e6gtef\u00e6ller?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>G\u00e6lder der en egentlig \"gensidig fors\u00f8rgelsespligt\" mellem \u00e6gtef\u00e6ller?"
     },
     {
       "answers": [
@@ -110,7 +110,7 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Lejebolig er ogs\u00e5 beskyttet, jf. lejelovens \u00a7 81, stk. 2*: \u0094Lejeren m\u00e5 dog ikke uden sin \u00e6gtef\u00e6lles samtykke opsige lejem\u00e5l om familiens bolig eller om lokaler, hvortil \u00e6gtef\u00e6llernes eller den anden \u00e6gtef\u00e6lles virksomhed er knyttet\u0094. Denne bestemmelse er ufravigelig, jf. lejelovens \u00a7 92, stk. 2.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
+        "text": "Lejebolig er ogs\u00e5 beskyttet, jf. lejelovens \u00a7 81, stk. 2*: \"Lejeren m\u00e5 dog ikke uden sin \u00e6gtef\u00e6lles samtykke opsige lejem\u00e5l om familiens bolig eller om lokaler, hvortil \u00e6gtef\u00e6llernes eller den anden \u00e6gtef\u00e6lles virksomhed er knyttet\". Denne bestemmelse er ufravigelig, jf. lejelovens \u00a7 92, stk. 2.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/familieret.html\" target=\"_blank\">Du kan l\u00e6se mere om familieret, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/familieret.html</a><br>"
       },
       "image": "img/elvis8.gif",
       "number": 8,
@@ -144,7 +144,7 @@
       },
       "image": "img/elvis10.gif",
       "number": 10,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er \u0094fuldst\u00e6ndig s\u00e6reje\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvad er \"fuldst\u00e6ndig s\u00e6reje\"?"
     },
     {
       "answers": [
@@ -158,7 +158,7 @@
       },
       "image": "img/elvis11.gif",
       "number": 11,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad menes der med \u0094skilsmisses\u00e6reje\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad menes der med \"skilsmisses\u00e6reje\"?"
     },
     {
       "answers": [
@@ -187,7 +187,7 @@
       },
       "image": "img/elvis13.gif",
       "number": 13,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 13</h2>Hvad menes der med \u0094\u00e6gtef\u00e6llebegunstigende kombinationss\u00e6reje\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 13</h2>Hvad menes der med \"\u00e6gtef\u00e6llebegunstigende kombinationss\u00e6reje\"?"
     },
     {
       "answers": [
@@ -202,7 +202,7 @@
       },
       "image": "img/elvis14.gif",
       "number": 14,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 14</h2>Hvordan etableres der et \u0094s\u00e6reje\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 14</h2>Hvordan etableres der et \"s\u00e6reje\"?"
     },
     {
       "answers": [

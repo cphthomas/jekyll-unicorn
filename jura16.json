@@ -12,7 +12,7 @@
       },
       "image": "img/west20.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er en \u0094fordring\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Hvad er en \"fordring\"?"
     },
     {
       "answers": [
@@ -23,11 +23,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "En skriftlig erkl\u00e6ring, hvorved der skyldes penge. Et g\u00e6ldsbrev er en skriftlig skylderkl\u00e6ring, hvor udstederen erkender, at der p\u00e5hviler ham eller hende en ensidig ubetinget forpligtelse til at betale et bestemt pengebel\u00f8b. \u0094En skriftlig erkl\u00e6ring, der hjemler en i Hovedsagen, ubetinget, ensidig fordring p\u00e5 et bestemt pengebel\u00f8b\u0094.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+        "text": "En skriftlig erkl\u00e6ring, hvorved der skyldes penge. Et g\u00e6ldsbrev er en skriftlig skylderkl\u00e6ring, hvor udstederen erkender, at der p\u00e5hviler ham eller hende en ensidig ubetinget forpligtelse til at betale et bestemt pengebel\u00f8b. \"En skriftlig erkl\u00e6ring, der hjemler en i Hovedsagen, ubetinget, ensidig fordring p\u00e5 et bestemt pengebel\u00f8b\".<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
       },
       "image": "img/west19.gif",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er et \u0094g\u00e6ldsbrev\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er et \"g\u00e6ldsbrev\"?"
     },
     {
       "answers": [
@@ -41,7 +41,7 @@
       },
       "image": "img/west18.gif",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad er en \u0094sikringsakt\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Hvad er en \"sikringsakt\"?"
     },
     {
       "answers": [
@@ -55,21 +55,21 @@
       },
       "image": "img/west17.gif",
       "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betyder \u0094denunciation\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Hvad betyder \"denunciation\"?"
     },
     {
       "answers": [
-        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for et \u0094 simpelt g\u00e6ldsbrev\u0094.",
-        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for et \u0094g\u00e6ttebrev g\u00e6ldsbrev\u0094.",
-        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \u0094g\u00e6kkebrev\u0094.",
-        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \u0094negotiable g\u00e6ldsbreve\u0094. Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \u0094negotiable g\u00e6ldsbreve\u0094. Hvis et g\u00e6ldsbrev ikke er et oms\u00e6tningsg\u00e6ldsbrev, er det et simpelt g\u00e6ldsbrev. I forbindelse med indf\u00f8relsen af reglerne om digital tinglysning blev der i tinglysningsloven indsat regler om oms\u00e6tningsg\u00e6ldsbreve."
+        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for et \" simpelt g\u00e6ldsbrev\".",
+        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for et \"g\u00e6ttebrev g\u00e6ldsbrev\".",
+        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \"g\u00e6kkebrev\".",
+        "Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \"negotiable g\u00e6ldsbreve\". Oms\u00e6tningsg\u00e6ldsbreve kaldes ogs\u00e5 for \"negotiable g\u00e6ldsbreve\". Hvis et g\u00e6ldsbrev ikke er et oms\u00e6tningsg\u00e6ldsbrev, er det et simpelt g\u00e6ldsbrev. I forbindelse med indf\u00f8relsen af reglerne om digital tinglysning blev der i tinglysningsloven indsat regler om oms\u00e6tningsg\u00e6ldsbreve."
       ],
       "correct": {
         "index": 3
       },
       "image": "img/west16.gif",
       "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad kalder man ogs\u00e5 \u0094oms\u00e6tningsg\u00e6ldsbreve\u0094 for?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Hvad kalder man ogs\u00e5 \"oms\u00e6tningsg\u00e6ldsbreve\" for?"
     },
     {
       "answers": [
@@ -80,11 +80,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Debitor kan med frig\u00f8rende virkning betale til den person som har betalingslegitimation.\u0094 Betalingslegitimation\u0094 er ogs\u00e5 kaldet legitimationsvirkningen. Den korte forklaring: Hvem kan skyldner betale til med frig\u00f8rende virkning, n\u00e5r fordringen er overdraget \u0096 eller udtrykt p\u00e5 en anden m\u00e5de: Debitor kan med frig\u00f8rende virkning betale til den person som har betalingslegitimation. Som udgangspunkt frig\u00f8res debitor ved betaling i god tro, til den der er berettiget efter GBL \u00a7 13, jf. GBL \u00a7 19.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
+        "text": "Debitor kan med frig\u00f8rende virkning betale til den person som har betalingslegitimation.\" Betalingslegitimation\" er ogs\u00e5 kaldet legitimationsvirkningen. Den korte forklaring: Hvem kan skyldner betale til med frig\u00f8rende virkning, n\u00e5r fordringen er overdraget \u0096 eller udtrykt p\u00e5 en anden m\u00e5de: Debitor kan med frig\u00f8rende virkning betale til den person som har betalingslegitimation. Som udgangspunkt frig\u00f8res debitor ved betaling i god tro, til den der er berettiget efter GBL \u00a7 13, jf. GBL \u00a7 19.<br><br><br> <br> <a href=\"https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html\" target=\"_blank\">Du kan l\u00e6se mere om fordringer, g\u00e6ldsbreve og pantebreve, se videoer, podcasts og opgaver i jura onlinebogen<br>https://jura.tepedu.dk/fordringer-gldsbreve-og-pantebreve.html</a><br>"
       },
       "image": "img/west15.gif",
       "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad menes der med \u0094betalingslegitimation\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Hvad menes der med \"betalingslegitimation\"?"
     },
     {
       "answers": [
@@ -98,7 +98,7 @@
       },
       "image": "img/west14.gif",
       "number": 7,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er en \u0094dobbeltoverdragelse\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Hvad er en \"dobbeltoverdragelse\"?"
     },
     {
       "answers": [
@@ -113,7 +113,7 @@
       },
       "image": "img/west13.gif",
       "number": 8,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad menes der med \u0094factoring\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Hvad menes der med \"factoring\"?"
     },
     {
       "answers": [
@@ -142,7 +142,7 @@
       },
       "image": "img/west11.gif",
       "number": 10,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvilken betydning har det at et g\u00e6ldsbrev indeholder ordene \u0094ikke til ordre\u0094?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 10</h2>Hvilken betydning har det at et g\u00e6ldsbrev indeholder ordene \"ikke til ordre\"?"
     },
     {
       "answers": [
@@ -157,7 +157,7 @@
       },
       "image": "img/west10.gif",
       "number": 11,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er et \u0094simpelt pantebrev\u0094 med en klausul med ordene \"ikke til ordre\"?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 11</h2>Hvad er et \"simpelt pantebrev\" med en klausul med ordene \"ikke til ordre\"?"
     }
   ],
   "title": "Fordringer, g\u00e6ldsbreve og pantebreve",

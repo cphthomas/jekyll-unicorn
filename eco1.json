@@ -2,13 +2,12 @@
   "questions": [
     {
       "answers": [
-        "43",
-        "59",
-        "63",
-        "91",
-        "234",
-        "419",
-        "787"
+        "-0,01",
+        "40",
+        "50",
+        "80",
+        "100",
+        "- 787"
       ],
       "correct": {
         "index": 3,
@@ -16,7 +15,7 @@
       },
       "image": "img/read1.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-2Q+200   <br> Data findes i Excel-arket udl\u00e5n.xlsx. Datas\u00e6ttet best\u00e5r af f\u00f8lgende 7 variable:<br> <br>      <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                                                                                                                                                                                                              <br><a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <br>Hvor mange af kunderne i stikpr\u00f8ven er tilknyttet ervhervscenter 1?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>         <br>                                                                                                                                                                                                                                                                                                                                                                              <br><a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor g\u00e5r gr\u00e6nsen for betalingsvilligheden?"
     },
     {
       "answers": [

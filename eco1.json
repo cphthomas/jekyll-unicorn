@@ -16,7 +16,7 @@
       },
       "image": "img/read1.gif",
       "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Du s\u00e6lger is p\u00e5 Sct Hans Torv i K\u00f8benhavn og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br><br>      <IMG SRC=\"img/reg1variable.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor g\u00e5r gr\u00e6nsen for betalingsvilligheden?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Du s\u00e6lger is p\u00e5 Sct Hans Torv i K\u00f8benhavn og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br><br>      <IMG SRC=\"img/price.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor g\u00e5r gr\u00e6nsen for betalingsvilligheden?"
     },
     {
       "answers": [
@@ -102,7 +102,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar:Ja man vil aldrig g\u00e5 under prisen P = 40 kr. der maksimerer oms\u00e6tningen, for s\u00e5 afs\u00e6tter man flere is til en lavere oms\u00e6tning end ved 40 kr.<br>"
+        "text": "Svar:Ja man vil aldrig g\u00e5 under prisen P = 40 kr. der maksimerer oms\u00e6tningen, for s\u00e5 afs\u00e6tter man flere is til en lavere oms\u00e6tning end ved 40 kr. <br>      <IMG SRC=\"img/price.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                     <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om pris- afs\u00e6tningsfunktionen, se videoer, podcasts og opgaver etc. p\u00e5<br> https://www.tepedu.dk</a><br>"
       },
       "image": "img/read6.gif",
       "number": 6,
@@ -116,7 +116,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: Gr\u00e6nsen for betalingsvilligheden vil alt andet lige v\u00e6re lavere i provinsen end i hovedstaden.<br>"
+        "text": "Svar: Gr\u00e6nsen for betalingsvilligheden vil alt andet lige v\u00e6re lavere i provinsen end i hovedstaden.<br>      <IMG SRC=\"img/price.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                        <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om pris- afs\u00e6tningsfunktionen, se videoer, podcasts og opgaver etc. p\u00e5<br> https://www.tepedu.dk</a><br>"
       },
       "image": "img/read7.gif",
       "number": 7,
@@ -144,7 +144,7 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar: Gr\u00e6nsen for den maksimale afs\u00e6tning vil alt andet lige v\u00e6re h\u00f8jere i New York end i hovedstaden.<br>"
+        "text": "Svar: Gr\u00e6nsen for den maksimale afs\u00e6tning vil alt andet lige v\u00e6re h\u00f8jere i New York end i hovedstaden.<br>      <IMG SRC=\"img/price.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>"
       },
       "image": "img/read8.gif",
       "number": 9,

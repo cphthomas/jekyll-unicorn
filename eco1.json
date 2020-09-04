@@ -2,96 +2,6 @@
   "questions": [
     {
       "answers": [
-        "-0,01",
-        "40",
-        "50",
-        "80",
-        "100",
-        "120",
-        "800"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "Svar: Gr\u00e6nsen for betalingsvilligheden er 80 kr. Hvis man tager 80 kr. for isen s\u00e6lger man pr\u00e6cis 0 is.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om pris- afs\u00e6tningsfunktionen, se videoer, podcasts og opgaver etc. p\u00e5<br> https://www.tepedu.dk</a><br>"
-      },
-      "image": "img/read1.gif",
-      "number": 1,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 1</h2>Du s\u00e6lger is p\u00e5 Sct Hans Torv i K\u00f8benhavn og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br><br>      <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor g\u00e5r gr\u00e6nsen for betalingsvilligheden?"
-    },
-    {
-      "answers": [
-        "-0,01",
-        "40",
-        "50",
-        "80",
-        "100",
-        "120",
-        "800"
-      ],
-      "correct": {
-        "index": 6,
-        "text": "Svar: Markedet er m\u00e6ttet, n\u00e5r man afs\u00e6tter 800 is.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om pris- afs\u00e6tningsfunktionen, se videoer, podcasts og opgaver etc. p\u00e5<br> https://www.tepedu.dk</a><br>"
-      },
-      "image": "img/read2.gif",
-      "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Du s\u00e6lger is p\u00e5 Sct Hans Torv i K\u00f8benhavn og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor mange is kan man maksimalt afs\u00e6tte?"
-    },
-    {
-      "answers": [
-        "-0,01",
-        "40",
-        "50",
-        "80",
-        "300",
-        "320",
-        "800"
-      ],
-      "correct": {
-        "index": 4,
-        "text": "Svar: Vi kan finde afs\u00e6tningen af is ved en pris 50 kr. ved at l\u00f8se ligningen <br>"
-      },
-      "image": "img/read4.gif",
-      "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Du s\u00e6lger is p\u00e5 Sct Hans Torv i K\u00f8benhavn og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvad bliver afs\u00e6tningen ved prisen p\u00e5 50 kr.?"
-    },
-    {
-      "answers": [
-        "10.000",
-        "12.000",
-        "14.000",
-        "15.000",
-        "16.000",
-        "18.000",
-        "20.000"
-      ],
-      "correct": {
-        "index": 3,
-        "text": "Svar: Oms\u00e6tningen findes som P*Q = 50*300 =     15.000.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om pris- afs\u00e6tningsfunktionen, se videoer, podcasts og opgaver etc. p\u00e5<br> https://www.tepedu.dk</a><br>"
-      },
-      "image": "img/read4.gif",
-      "number": 4,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 4</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor meget oms\u00e6tter man ved en pris p\u00e5 50 kr.?"
-    },
-    {
-      "answers": [
-        "10.000",
-        "12.000",
-        "14.000",
-        "15.000",
-        "16.000",
-        "18.000",
-        "20.000"
-      ],
-      "correct": {
-        "index": 4,
-        "text": "Svar: Den maksimale oms\u00e6tning for en line\u00e6r pris- afs\u00e6tningsfunktion er altid ved det halve af den maksimale pris P = b/2 = 80/2 = 40 og det halve af den maksimale afs\u00e6tning Q = 800/2 = 400. Dvs. den maksimale afs\u00e6tning bliver 40*400 = 16.000 kr.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om pris- afs\u00e6tningsfunktionen, se videoer, podcasts og opgaver etc. p\u00e5<br> https://www.tepedu.dk</a><br>"
-      },
-      "image": "img/read5.gif",
-      "number": 5,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 5</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvad bliver den maksimale oms\u00e6tning?"
-    },
-    {
-      "answers": [
         "30",
         "40",
         "50",
@@ -106,7 +16,7 @@
       },
       "image": "img/read6.gif",
       "number": 6,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvis dit m\u00e5l er profitmaksimering, er der s\u00e5 en pris du aldrig vil g\u00e5 under?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 6</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <br>Hvis dit m\u00e5l er profitmaksimering, er der s\u00e5 en pris du aldrig vil g\u00e5 under?"
     },
     {
       "answers": [
@@ -116,11 +26,11 @@
       ],
       "correct": {
         "index": 0,
-        "text": "Svar: Gr\u00e6nsen for betalingsvilligheden vil alt andet lige v\u00e6re lavere i provinsen end i hovedstaden.<br>      <IMG SRC=\"img/price.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                                                                                        <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Du kan l\u00e6se mere om pris- afs\u00e6tningsfunktionen, se videoer, podcasts og opgaver etc. p\u00e5<br> https://www.tepedu.dk</a><br>"
+        "text": "Svar: Gr\u00e6nsen for betalingsvilligheden vil alt andet lige v\u00e6re lavere i provinsen end i hovedstaden.<br>      <IMG SRC=\"img/price.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>"
       },
       "image": "img/read7.gif",
       "number": 7,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor tror du gr\u00e6nsen for betalingsvilligheden p\u00e5 Ballum Torv i S\u00f8nderjylland er?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <br>Hvor tror du gr\u00e6nsen for betalingsvilligheden p\u00e5 Ballum Torv i S\u00f8nderjylland er?"
     },
     {
       "answers": [
@@ -134,7 +44,7 @@
       },
       "image": "img/read8.gif",
       "number": 8,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Du s\u00e6lger is p\u00e5 Sct Hans Torv i K\u00f8benhavn og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor tror du gr\u00e6nsen for betalingsvilligheden p\u00e5 Times Square i New York er?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Du s\u00e6lger is p\u00e5 Sct Hans Torv i K\u00f8benhavn og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <br>Hvor tror du gr\u00e6nsen for betalingsvilligheden p\u00e5 Times Square i New York er?"
     },
     {
       "answers": [
@@ -148,7 +58,7 @@
       },
       "image": "img/read8.gif",
       "number": 9,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                          <a href=\"files/PSkabelon.xlsx\" download=\"PSkabelon.xlsx\"> Download skabelonen med pris- afs\u00e6tningsfunktionen her, du kan bruge denne gennem hele quizzen</a><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br>Hvor tror du gr\u00e6nsen for den maksimale afs\u00e6tning p\u00e5 Times Square i New York er?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Du s\u00e6lger is og har en pris- afs\u00e6tningsfunktion.<br>P=-0,1Q+80   <br> Du s\u00e6lger en is for 50 kr.<br> <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <br>Hvor tror du gr\u00e6nsen for den maksimale afs\u00e6tning p\u00e5 Times Square i New York er?"
     }
   ],
   "title": "Pris- afs\u00e6tningsfunktion",

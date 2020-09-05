@@ -39,11 +39,11 @@
       ],
       "correct": {
         "index": 1,
-        "text": "Svar:         <br>                                                                                                                     <a href=\"https://www.tepedu.dk\" target=\"_blank\">Se mere p\u00e5 www.tepedu.dk</a><br>"
+        "text": "<a href=\"https://www.tepedu.dk\" target=\"_blank\">Se mere p\u00e5 www.tepedu.dk</a><br>"
       },
       "image": "img/tolinjer.svg",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Er der sk\u00e6ring p\u00e5 den lodret adderede funktion?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Er der kn\u00e6k p\u00e5 den lodret adderede funktion?"
     },
     {
       "answers": [
@@ -73,7 +73,7 @@
       ],
       "correct": {
         "index": 4,
-        "text": "Svar: <IMG SRC=\"img/tolinjer2.svg\" width=\"80%\" height=\"80%\" align=\"center\"> <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Se mere p\u00e5 www.tepedu.dk</a><br>"
+        "text": "Svar: <IMG SRC=\"img/tolinjer2.svg\" width=\"80%\" height=\"80%\" align=\"center\"> <br><IMG SRC=\"img/tolinjer3.svg\" width=\"80%\" height=\"80%\" align=\"center\"><br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Se mere p\u00e5 www.tepedu.dk</a><br>"
       },
       "image": "img/tolinjer.svg",
       "number": 5,

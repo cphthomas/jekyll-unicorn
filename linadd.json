@@ -34,21 +34,16 @@
     },
     {
       "answers": [
-        "-0,01",
-        "40",
-        "50",
-        "80",
-        "300",
-        "320",
-        "800"
+        "Ja",
+        "Nej"
       ],
       "correct": {
-        "index": 4,
-        "text": "Svar: Vi kan finde afs\u00e6tningen af is ved en pris 50 kr. ved at l\u00f8se ligningen <br>"
+        "index": 1,
+        "text": "Svar: <IMG SRC=\"img/price.png\" width=\"80%\" height=\"80%\" align=\"center\">        <br>                                                                                                                     <a href=\"https://www.tepedu.dk\" target=\"_blank\">Se mere p\u00e5 www.tepedu.dk<br> https://www.tepedu.dk</a><br>"
       },
       "image": "img/tolinjer.svg",
       "number": 3,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Du?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 3</h2>Er der sk\u00e6ring p\u00e5 den lodret adderede funktion?"
     },
     {
       "answers": [

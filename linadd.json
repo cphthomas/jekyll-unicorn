@@ -110,6 +110,38 @@
       "image": "img/marx7.gif",
       "number": 7,
       "prompt": "<h2>Sp\u00f8rgsm\u00e5l 7</h2>Du?"
+    },
+    {
+      "answers": [
+        "30",
+        "40 bla bla",
+        "50",
+        "60",
+        "70",
+        "80",
+        "100"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Svar: <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Se mere p\u00e5 www.tepedu.dk</a><br>"
+      },
+      "image": "img/marx6.gif",
+      "number": 8,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 8</h2>Du?"
+    },
+    {
+      "answers": [
+        "Lavere end i K\u00f8benhavn bla bla",
+        "H\u00f8jere end i K\u00f8benhavn",
+        "Det kan man ikke sige noget om"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Svar: <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Se mere p\u00e5 www.tepedu.dk</a><br>"
+      },
+      "image": "img/marx7.gif",
+      "number": 9,
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 9</h2>Du?"
     }
   ],
   "title": "Addition af line\u00e6re funktioner",

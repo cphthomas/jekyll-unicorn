@@ -20,21 +20,17 @@
     },
     {
       "answers": [
-        "-0,01",
-        "40",
-        "50",
-        "80",
-        "100",
-        "120",
-        "800"
+        "-1 og -0,5",
+        "1 og 0,5",
+        "-1 og -2",
+        "1 og 2"
       ],
       "correct": {
-        "index": 6,
-        "text": "Svar: Markedet er m\u00e6ttet, n\u00e5r man afs\u00e6tter 800 is.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br> <a href=\"https://www.tepedu.dk\" target=\"_blank\">Se mere p\u00e5 www.tepedu.dk<br> https://www.tepedu.dk</a><br>"
+        "index": 0
       },
       "image": "img/tolinjer.svg",
       "number": 2,
-      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Du?"
+      "prompt": "<h2>Sp\u00f8rgsm\u00e5l 2</h2>Hvad er h\u00e6ldningen for den r\u00f8de og den bl\u00e5 funktion?"
     },
     {
       "answers": [

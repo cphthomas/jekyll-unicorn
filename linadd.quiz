@@ -1,6 +1,8 @@
 # Addition af lineære funktioner
 
- 1)  <h2>Spørgsmål 1</h2>Du sælger is på Sct Hans Torv i København og har en pris- afsætningsfunktion.<br>P=-0,1Q+80   <br> Du sælger en is for 50 kr.<br><br>      <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <br>Hvor går grænsen for betalingsvilligheden?
+ 1)  <h2>Spørgsmål 1</h2>Hvad bliver skæringen med y-aksen for den lodret adderede funktion?
+
+
    - -0,01
    - 40
    - 50
@@ -26,7 +28,7 @@
   - 100
   - 120
   * 800
-(image) img/tolinjer.png
+(image) img/tolinjer.svg
 
     Svar: Markedet er mættet, når man afsætter 800 is.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om pris- afsætningsfunktionen, se videoer, podcasts og opgaver etc. på<br> https://www.tepedu.dk</a><br>
 
@@ -42,7 +44,7 @@
   - 320
   - 800
 
-(image) img/marx4.gif
+(image) img/tolinjer.svg
 
     Svar: Vi kan finde afsætningen af is ved en pris 50 kr. ved at løse ligningen <br>
     <br>P=-0,1Q+80   <br>50=-0,1Q+80  <br>0,1Q=80-50  <br>0,1Q/0,1=30/0,1<br>Q=300   <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                          <br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om pris- afsætningsfunktionen, se videoer, podcasts og opgaver etc. på<br> https://www.tepedu.dk</a><br>
@@ -56,7 +58,7 @@
   - 18.000
   - 20.000
 
-(image) img/marx10.gif
+(image) img/tolinjer.svg
 
     Svar: Omsætningen findes som P*Q = 50*300 =     15.000.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om pris- afsætningsfunktionen, se videoer, podcasts og opgaver etc. på<br> https://www.tepedu.dk</a><br>
 
@@ -70,7 +72,7 @@
 * 16.000
 - 18.000
 - 20.000
-(image) img/marx5.gif
+(image) img/tolinjer.svg
 
    Svar: Den maksimale omsætning for en lineær pris- afsætningsfunktion er altid ved det halve af den maksimale pris P = b/2 = 80/2 = 40 og det halve af den maksimale afsætning Q = 800/2 = 400. Dvs. den maksimale afsætning bliver 40*400 = 16.000 kr.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                           <br> <a href="https://www.tepedu.dk" target="_blank">Du kan læse mere om pris- afsætningsfunktionen, se videoer, podcasts og opgaver etc. på<br> https://www.tepedu.dk</a><br>
 

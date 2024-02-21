@@ -46,7 +46,7 @@
       },
       "image": "img/stat17.jpg",
       "number": 3,
-      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>                                   <br><b>Sp\u00f8rgsm\u00e5l 3</b><br>Hvad er punktestimatet for parameteren &mu;?"
+      "prompt": "<a href=\"files/udl\u00e5n.xlsx\" download=\"udl\u00e5n.xlsx\"> Download datas\u00e6ttet udl\u00e5n.xlsx her, du skal bruge dette datas\u00e6t gennem hele quizzen</a><br><br>                                   <br><b>Sp\u00f8rgsm\u00e5l 3</b><br>Vi ser p\u00e5 renten<br>Hvad er punktestimatet for parameteren &mu;?"
     },
     {
       "answers": [
@@ -80,7 +80,7 @@
       },
       "image": "img/stat1.jpg",
       "number": 5,
-      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 5</b><br>Hvad bliver punktestimatet for parameteren &sigma; (alts\u00e5 &sigma;&#770;)?"
+      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 5</b><br>Vi ser fortsat p\u00e5 renten<br>Hvad bliver punktestimatet for parameteren &sigma; (alts\u00e5 &sigma;&#770;)?"
     },
     {
       "answers": [
@@ -100,7 +100,7 @@
       },
       "image": "img/stat3.jpg",
       "number": 6,
-      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 6</b><br>Hvor er 95% konfidensintervallet for middelv\u00e6rdien?"
+      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 6</b><br>Vi ser fortsat p\u00e5 renten<br>Hvor er 95% konfidensintervallet for middelv\u00e6rdien?"
     },
     {
       "answers": [
@@ -119,7 +119,7 @@
       },
       "image": "img/stat4.jpg",
       "number": 7,
-      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 7</b><br>Hvor vil den gennemsnitlige rente i populationen, vil ligge med 90% sandsynlighed?"
+      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 7</b><br>Vi ser fortsat p\u00e5 renten<br>Hvor vil den gennemsnitlige rente i populationen, vil ligge med 90% sandsynlighed?"
     },
     {
       "answers": [
@@ -139,7 +139,7 @@
       },
       "image": "img/stat5.jpg",
       "number": 8,
-      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 8</b><br>Hvor vil standardafvigelsen for renten i populationen, med 90% sandsynlighed ligge?"
+      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 8</b><br>Vi ser fortsat p\u00e5 renten<br>Hvor vil standardafvigelsen for renten i populationen, med 90% sandsynlighed ligge?"
     },
     {
       "answers": [
@@ -206,7 +206,7 @@
       },
       "image": "img/stat7.jpg",
       "number": 12,
-      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 12</b><br>Hvad er fejlmarginen for 95% konfidensintervallet for middelv\u00e6rdien?"
+      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 12</b><br>Vi ser fortsat p\u00e5 renten<br>Hvad er fejlmarginen for 95% konfidensintervallet for middelv\u00e6rdien?"
     },
     {
       "answers": [
@@ -225,7 +225,7 @@
       },
       "image": "img/stat8.jpg",
       "number": 13,
-      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 13</b><br>Hvad er fejlmarginen for et 90% konfidensinterval for middelv\u00e6rdien?"
+      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 13</b><br>Vi ser fortsat p\u00e5 renten<br>Hvad er fejlmarginen for et 90% konfidensinterval for middelv\u00e6rdien?"
     },
     {
       "answers": [
@@ -256,7 +256,7 @@
       },
       "image": "img/stat10.jpg",
       "number": 15,
-      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 15</b><br>Hvor stor skal stikpr\u00f8ven ved 5% signifikansniveau v\u00e6re, hvis man \u00f8nsker en fejlmargin p\u00e5 0.01?"
+      "prompt": "<br><b>Sp\u00f8rgsm\u00e5l 15</b><br>Vi ser fortsat p\u00e5 renten<br>Hvor stor skal stikpr\u00f8ven ved 5% signifikansniveau v\u00e6re, hvis man \u00f8nsker en fejlmargin p\u00e5 0.01?"
     }
   ],
   "title": "Konfidensintervaller for en kvantitativ variabel.",

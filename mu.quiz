@@ -23,7 +23,7 @@
 
    Svar: Symbolet for den sande ukendte middelværdi er det græske bogstav &mu;. Vi kender ikke den sande gennemsnitlige rente i hele populationen vores bedste gæt på &mu; kaldes et estimat eller mere præcist et punktestimat for &mu;. Vi kan skrive dette som symbolet &mu;&#770; vi siger mu hat fordi vi har sat en slags hat ovenpå &mu;<br><br>Estimat betyder gæt, så punktestimatet for &mu; er altså vores bedste gæt. Da vi ikke kender alle renter i populationen, er vores bedste gæt middelværdien i stikprøven.                    <br>                                                                                                                                                                                                                                                                                                                                                                      <br> <a href="https://s.tepedu.dk/konfidensintervaller.html" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>
 
-3) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>                                   <br><b>Spørgsmål 3</b><br>Hvad er punktestimatet for parameteren &mu;?
+3) <a href="files/udlån.xlsx" download="udlån.xlsx"> Download datasættet udlån.xlsx her, du skal bruge dette datasæt gennem hele quizzen</a><br><br>                                   <br><b>Spørgsmål 3</b><br>Vi ser på renten<br>Hvad er punktestimatet for parameteren &mu;?
    - 5.24
    - 5.81
    - 5.97
@@ -45,7 +45,7 @@
    Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores gæt standardafvigelsen i stikprøven.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   <br> <a href="https://s.tepedu.dk/konfidensintervaller.html" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>
 
 
-5) <br><b>Spørgsmål 5</b><br>Hvad bliver punktestimatet for parameteren &sigma; (altså &sigma;&#770;)?
+5) <br><b>Spørgsmål 5</b><br>Vi ser fortsat på renten<br>Hvad bliver punktestimatet for parameteren &sigma; (altså &sigma;&#770;)?
    * 0.67
    - 0.71
    - 0.78
@@ -56,7 +56,7 @@
    
    Svar: &sigma; betyder standardafvigelsen, da vi ikke kender den sande standardafvigelse i populationen er vores gæt standardafvigelsen i stikprøven.<br>Du kan se stikprøve standardafvigelsen i nedenstående output fra Freestat<br>                                                                                                                                                                                                                                          <br><IMG SRC="img/middel1.png" width="100%" height="100%" align="center"><br>                                                                                                                                                                                                                                                                                                          <br> <a href="https://s.tepedu.dk/konfidensintervaller.html" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>
 
-6) <br><b>Spørgsmål 6</b><br>Hvor er 95% konfidensintervallet for middelværdien?
+6) <br><b>Spørgsmål 6</b><br>Vi ser fortsat på renten<br>Hvor er 95% konfidensintervallet for middelværdien?
    - 0.6681
    - 6.3014
    - Mellem 0.6401 og 0.6987
@@ -70,7 +70,7 @@
 
 Svar:  Vi kan med 95% sikkerhed sige at den sande middelværdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2600 og 6.3429. <br><br><IMG SRC="img/95KImu.png" width="100%" height="100%" align="center">                                                                                           <br><br>                                                                                                                                                      <br> <a href="https://s.tepedu.dk/konfidensintervaller.html" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>
 
-7) <br><b>Spørgsmål 7</b><br>Hvor vil den gennemsnitlige rente i populationen, vil ligge med 90% sandsynlighed?
+7) <br><b>Spørgsmål 7</b><br>Vi ser fortsat på renten<br>Hvor vil den gennemsnitlige rente i populationen, vil ligge med 90% sandsynlighed?
    - 0.6681
    - 6.3014
    - Mellem 0.6401 og 0.6987
@@ -83,7 +83,7 @@ Svar:  Vi kan med 95% sikkerhed sige at den sande middelværdi i populationen (d
 
    Svar: Vi kan med 90% sikkerhed sige at den sande middelværdi i populationen (den gennemsnitlige rente i populationen) ligger mellem 6.2666 og 6.3362. <br><IMG SRC="img/90KI.png" width="100%" height="100%" align="center"><br><br> <br>                                                                                                                                                <br> <a href="https://s.tepedu.dk/konfidensintervaller.html" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>
 
-8) <br><b>Spørgsmål 8</b><br>Hvor vil standardafvigelsen for renten i populationen, med 90% sandsynlighed ligge?
+8) <br><b>Spørgsmål 8</b><br>Vi ser fortsat på renten<br>Hvor vil standardafvigelsen for renten i populationen, med 90% sandsynlighed ligge?
    - 0.6681
    - 6.3014
    - Mellem 0.6401 og 0.6987
@@ -128,7 +128,7 @@ Svar: Man kan få et smallere konfidensinterval (større præcision), ved at udv
 
    Svar: Fejlmarginen fortæller hvor meget populationsparamereten fx. &mu; afviger op og ned fra parameterestimatet punktestimatet med en vis grad af sikkerhed. Vi finder dette som (Øvre grænse KI-nedre grænse KI)/2, altså halvdelen af konfidensintervallets længde.<br><br>                                                                                                                                                                                                                                                                                                                                                                      <br> <a href="https://s.tepedu.dk/konfidensintervaller.html" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>
 
-12) <br><b>Spørgsmål 12</b><br>Hvad er fejlmarginen for 95% konfidensintervallet for middelværdien?
+12) <br><b>Spørgsmål 12</b><br>Vi ser fortsat på renten<br>Hvad er fejlmarginen for 95% konfidensintervallet for middelværdien?
    - 0.0241
    - 0.0348
    * 0.0415
@@ -142,7 +142,7 @@ Svar: Man kan få et smallere konfidensinterval (større præcision), ved at udv
    Svar: <br><br><IMG SRC="img/fm95.png" width="100%" height="100%" align="center"> <br>                                                                                                                                                <br> <a href="https://s.tepedu.dk/konfidensintervaller.html" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>
 
 
-13) <br><b>Spørgsmål 13</b><br>Hvad er fejlmarginen for et 90% konfidensinterval for middelværdien?
+13) <br><b>Spørgsmål 13</b><br>Vi ser fortsat på renten<br>Hvad er fejlmarginen for et 90% konfidensinterval for middelværdien?
    - 0.0241
    * 0.0348
    - 0.0415
@@ -166,7 +166,7 @@ Svar: Man kan få et smallere konfidensinterval (større præcision), ved at udv
 Svar: 10% signifikansniveauet, giver det smalleste konfidensinterval, og dermed den mindste fejlmargin.                                                                                                                                                              <br><br><IMG SRC="img/fm90.png" width="100%" height="100%" align="center"><br><br>                                                                                                                                                                                                                                                                                                                                                              <br> <a href="https://s.tepedu.dk/konfidensintervaller.html" target="_blank">Du kan læse mere om konfidensintervaller, se videoer, podcasts og opgaver i onlinebogen<br> https://s.tepedu.dk/konfidensintervaller.html</a><br>
 
 
-15) <br><b>Spørgsmål 15</b><br>Hvor stor skal stikprøven ved 5% signifikansniveau være, hvis man ønsker en fejlmargin på 0.01? 
+15) <br><b>Spørgsmål 15</b><br>Vi ser fortsat på renten<br>Hvor stor skal stikprøven ved 5% signifikansniveau være, hvis man ønsker en fejlmargin på 0.01? 
    - 865
    - 1000
    - 2354
